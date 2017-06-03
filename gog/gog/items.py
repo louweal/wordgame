@@ -8,7 +8,7 @@
 import scrapy
 
 
-class WagprojectItem(scrapy.Item):
+class GogItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
