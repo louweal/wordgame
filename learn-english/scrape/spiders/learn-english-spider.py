@@ -18,7 +18,6 @@ class WordsSpider(scrapy.Spider):
          for item in response.css('div.Comment'):
             word = item.css('div.Message::text').extract_first()
             word = word.replace("\n","")
-            #do reg.ex replace trailing spaces 
             author = item.css('a.Username::text').extract_first() 
             yield {
             'word': word,
