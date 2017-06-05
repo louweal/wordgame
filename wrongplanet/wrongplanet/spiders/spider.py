@@ -7,7 +7,7 @@ class WordsSpider(scrapy.Spider):
 
 	def start_requests(self):
 		urls = []
-		for i in range(0, 1001): #3825
+		for i in range(1001, 3826): #3825
 			urls.append('http://wrongplanet.net/forums/viewtopic.php?f=30&t=9093&start='+str(15*i))
 
 		for url in urls:
