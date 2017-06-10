@@ -23,3 +23,15 @@ class WordsSpider(scrapy.Spider):
             'word': word,
             'author': author 
             }
+
+	def parse(self, response):
+		for item in response.xpath('//li[contains(@id,"Comment_")]'):
+			word = item.xpath('normalize-space(div/div/div/div[@class="Message"]/text())').extract() 
+			author = item.xpath('normalize-space(div/div/div/span/a[@class="Username")]/text())').extract_first()
+
+			yield {
+			'word': word,
+			'author': author 
+			}
+
+
