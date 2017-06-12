@@ -5,6 +5,11 @@ from scrapy.http import HtmlResponse
 class WordsSpider(scrapy.Spider):
 	name = "wrongplanet" 
 
+	custom_settings = { #scrape pages sequentially
+		'DOWNLOAD_DELAY': 2, 
+		'CONCURRENT_REQUESTS_PER_DOMAIN': 1, 
+	}
+
 	def start_requests(self):
 		urls = []
 		for i in range(1001, 3826): #3825

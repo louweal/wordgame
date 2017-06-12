@@ -87,27 +87,31 @@ def parse(name, scraped_data):
 	return temp
 
 
-
+ppa = []
+maxdup = []
+freqwords = []
 
 for key, value in sources.items():
-	if(key == "sas1"):
+	if(key == key):
 		out = parse(key, value)
-
+		data = out['data']
+		
 		#posts
-		posts = len(out['data'])
-		print(posts)		
+		#posts = len(out['data'])
+		#print(posts)		
 		
 		#print first 10 rows
 		#print(out['data'].head(10))
-		
-		
+		ppa.append(round(data.groupby(['word2'])['author'].transform('count').mean(),2))
+		maxdup.append((data['word2'].value_counts()).max())
+		freqwords.append(data['word2'].value_counts().head(15))
 		#most common words
-		print(out['words'].head(200))
+		#print(out['words'].head(200))
 		
 		
 		#unique words
-		words = len(out['words'])
-		print(words)
+		#words = len(out['words'])
+		#print(words)
 	
 	
 	
