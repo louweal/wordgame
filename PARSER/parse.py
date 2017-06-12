@@ -15,6 +15,7 @@ import matplotlib as plt
 
 sources = {
 	"gog":"../gog/data/data_p1-p5054.jl",
+	"sas1":"../sas/data/data_p1-p2402.jl",
 	"pinkbike":"../pinkbike/data/data_p1-p2747.jl",
 	"wrongplanet":"../wrongplanet/data/data_p1-p3825.jl", 
 	"aspiecentral":"../aspiecentral/data/data_p1-p1152.jl",
@@ -62,6 +63,7 @@ def parse(name, scraped_data):
 	datadf['word'] = datadf['word'].apply(lambda x: x.lower())
 	datadf['word'] = datadf['word'].apply(lambda x: preprocess(x))	
 
+	#create pair with current word and previous word
 	datadf['word1'] = datadf['word'].shift(1)	
 	datadf['word2'] = datadf['word']
 	datadf = datadf.drop('word', 1)
@@ -85,13 +87,10 @@ def parse(name, scraped_data):
 	return temp
 
 
-#struct to contain all features from dataset
-#earn_english = parse('../learn-english/data/data_p1-p220.jl')
-#aspiecentral = parse('../aspiecentral/data/data_p1-p1152.jl')
-wrongplanet = parse('wrongplanet', '../wrongplanet/data/data_p1-p3825.jl')
+
 
 for key, value in sources.items():
-	if(key == "pinkbike"):
+	if(key == "sas1"):
 		out = parse(key, value)
 
 		#posts
@@ -99,11 +98,11 @@ for key, value in sources.items():
 		print(posts)		
 		
 		#print first 10 rows
-		print(out['data'].head(10))
+		#print(out['data'].head(10))
 		
 		
 		#most common words
-		print(out['words'].head(25))
+		print(out['words'].head(200))
 		
 		
 		#unique words
