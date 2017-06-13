@@ -1,498 +1,3 @@
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": null}
-{"word": [""], "author": "Boom Cha!"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "bombergirl"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "P-FLO"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "P-FLO"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Boom Cha!"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Edges Les Paul"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "whitewave"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Ultraviolet [ACAAs Polisher of Shiny PopMart Basses]"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": null}
-{"word": [""], "author": "Boom Cha!"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "bombergirl"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "P-FLO"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "P-FLO"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Boom Cha!"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Edges Les Paul"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "whitewave"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Ultraviolet [ACAAs Polisher of Shiny PopMart Basses]"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": null}
-{"word": [""], "author": "Boom Cha!"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "bombergirl"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "P-FLO"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "P-FLO"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Boom Cha!"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Edges Les Paul"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "whitewave"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "i_heartU2"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Joe90usa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "TraKianLite/Zooropa"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Ultraviolet [ACAAs Polisher of Shiny PopMart Basses]"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "StrongGirl"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Starfish"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "u2yooper"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "JohnnyVOXX"}
-{"word": [""], "author": "Dark Angel"}
-{"word": [""], "author": "JohnnyVOXX"}
 {"word": ["I don't know if you are getting sick of games, but we play this one on Gavin's forum and have a lot of fun with it.\u00a0 You all know it.\u00a0 Just take the word or phrase above you and post whatever comes into your head without giving it too much thought.\u00a0 It is so funny to see where it takes you over time!"], "author": "StrongGirl"}
 {"word": ["Green, the color"], "author": null}
 {"word": ["Lucky Charms"], "author": "Boom Cha!"}
@@ -19558,3 +19063,12723 @@
 {"word": ["hot dog\u00a0"], "author": "trlica"}
 {"word": ["Mustard"], "author": "EnduringChill"}
 {"word": ["Colonel\u00a0"], "author": "GardenTart"}
+{"word": [""], "author": "Joe90usa"}
+{"word": ["Ah....my humble little thread has come a long way. Since I started the thread and first word, I'll start this one...."], "author": "StrongGirl"}
+{"word": ["My sister"], "author": "EnduringChill"}
+{"word": ["Zero"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["number of U2 songs that i absolutely hate"], "author": "horizon"}
+{"word": ["dancing cows visitors can't see pics , please You are not allowed to view links."], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Igar"], "author": "horizon"}
+{"word": ["Awesome"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["face cream\u00a0"], "author": "trlica"}
+{"word": ["Ice Cream"], "author": null}
+{"word": ["Ben and Jerry's"], "author": "StrongGirl"}
+{"word": ["Half baked\u00a0"], "author": "singnomore"}
+{"word": ["bread"], "author": "trlica"}
+{"word": ["Wine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mulled"], "author": "Nielsen"}
+{"word": ["warm"], "author": "My smile is relief"}
+{"word": ["sun"], "author": "trlica"}
+{"word": ["shine"], "author": "My smile is relief"}
+{"word": ["stars"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["stardust"], "author": "My smile is relief"}
+{"word": ["ziggy"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["comic strip"], "author": "My smile is relief"}
+{"word": ["Spidey"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["super hero"], "author": "My smile is relief"}
+{"word": ["awesome"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["U2"], "author": "My smile is relief"}
+{"word": ["love"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Blood"], "author": "EnduringChill"}
+{"word": ["blue"], "author": "sherri"}
+{"word": ["sky"], "author": "My smile is relief"}
+{"word": ["Moon"], "author": "theocean"}
+{"word": ["eclipse"], "author": "StrongGirl"}
+{"word": ["New Moon (book)"], "author": "EnduringChill"}
+{"word": ["Feeling sick"], "author": "Starman"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["Coughing"], "author": "EnduringChill"}
+{"word": ["medicine"], "author": "trlica"}
+{"word": ["pharmacy"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["medications"], "author": "trlica"}
+{"word": ["people"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["crowd"], "author": "trlica"}
+{"word": ["too many people"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["World population"], "author": "EnduringChill"}
+{"word": ["explosion"], "author": "singnomore"}
+{"word": ["Kablooie"], "author": "EnduringChill"}
+{"word": ["2012"], "author": "Starman"}
+{"word": ["Mayan"], "author": "GardenTart"}
+{"word": ["die"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["end"], "author": "My smile is relief"}
+{"word": ["Until the End of the World."], "author": "Starman"}
+{"word": ["Achtung Baby\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["kindergarten"], "author": "trlica"}
+{"word": ["painting"], "author": "My smile is relief"}
+{"word": ["Artist"], "author": "EnduringChill"}
+{"word": ["love"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Life"], "author": "EnduringChill"}
+{"word": ["Alive"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Born"], "author": "EnduringChill"}
+{"word": ["Magnificent"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Marvelous"], "author": "Thehorsefly [whinny!]"}
+{"word": ["Marvel Comics ( home of Spider-Man\u00a0"], "author": "StrongGirl"}
+{"word": ["Geeks FTW!"], "author": "Starman"}
+{"word": ["math"], "author": "My smile is relief"}
+{"word": ["numbers"], "author": "trlica"}
+{"word": ["numerology"], "author": "Thehorsefly [whinny!]"}
+{"word": ["numerator"], "author": "horizon"}
+{"word": ["denominator (of course\u00a0"], "author": "StrongGirl"}
+{"word": ["long division"], "author": "GardenTart"}
+{"word": ["multiplication tables\u00a0"], "author": "StrongGirl"}
+{"word": ["Brainfreeze\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["numb"], "author": "trlica"}
+{"word": ["Zooropa"], "author": "A_Fly_On_The_Wall"}
+{"word": ["LEMON!"], "author": "EnduringChill"}
+{"word": ["GIANT SHINY LEMON!!"], "author": "Starman"}
+{"word": ["Popmart!!"], "author": "EnduringChill"}
+{"word": ["Pop Muzik"], "author": "horizon"}
+{"word": ["Pop Heart"], "author": "GardenTart"}
+{"word": ["Pop Tart\u00a0 ( this sounds like the Rhyme Game\u00a0"], "author": "StrongGirl"}
+{"word": ["icing"], "author": "Thehorsefly [whinny!]"}
+{"word": ["cake!\u00a0"], "author": "StrongGirl"}
+{"word": ["The cake is a lie."], "author": "Starman"}
+{"word": ["zootv"], "author": "singnomore"}
+{"word": ["MINE"], "author": "EnduringChill"}
+{"word": ["chocolate\u00a0"], "author": "trlica"}
+{"word": ["favorite"], "author": "My smile is relief"}
+{"word": ["Bono"], "author": "A_Fly_On_The_Wall"}
+{"word": ["My dreamlover\u00a0 \u00a0"], "author": "theocean"}
+{"word": ["puke\u00a0"], "author": "singnomore"}
+{"word": ["ewww"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["repulsion"], "author": "singnomore"}
+{"word": ["gross"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["untidiness"], "author": "trlica"}
+{"word": ["dirt"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Smell"], "author": "EnduringChill"}
+{"word": ["Sight"], "author": "horizon"}
+{"word": ["Eyes"], "author": "EnduringChill"}
+{"word": ["Eyes Wide Shut"], "author": "Starman"}
+{"word": ["cows"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["How do you get cows from that?!\u00a0"], "author": "Starman"}
+{"word": ["Cutie pie!"], "author": "EnduringChill"}
+{"word": ["Starman EVERYTHING reminds me of cows"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["newborn baby"], "author": "StrongGirl"}
+{"word": ["freedom"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["\u00a0"], "author": "Starman"}
+{"word": ["smile?"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["\u00a0me?"], "author": "My smile is relief"}
+{"word": ["Girl"], "author": "EnduringChill"}
+{"word": ["Boy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["U2"], "author": "theocean"}
+{"word": ["Ireland"], "author": "StrongGirl"}
+{"word": ["Bar"], "author": "EnduringChill"}
+{"word": ["Beer"], "author": "GardenTart"}
+{"word": ["Drunk"], "author": "Starman"}
+{"word": ["Homer"], "author": "My smile is relief"}
+{"word": ["LISA\u00a0 \u00a0"], "author": "StrongGirl"}
+{"word": ["really strong girl"], "author": "My smile is relief"}
+{"word": ["Bart"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Simpson"], "author": "EnduringChill"}
+{"word": ["Grampa"], "author": "GardenTart"}
+{"word": ["Gramma"], "author": "theocean"}
+{"word": ["\"Get off my lawn!\""], "author": "Starman"}
+{"word": ["Housewife"], "author": "JSab"}
+{"word": ["Desperate\u00a0 \u00a0"], "author": "Thehorsefly [whinny!]"}
+{"word": ["Housewives\u00a0"], "author": "My smile is relief"}
+{"word": ["home"], "author": "trlica"}
+{"word": ["family"], "author": "My smile is relief"}
+{"word": ["living room"], "author": "trlica"}
+{"word": ["Kitchen"], "author": "theocean"}
+{"word": ["Table"], "author": "EnduringChill"}
+{"word": ["Crumbs\u00a0"], "author": "StrongGirl"}
+{"word": ["fairytales"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["tinker bell"], "author": "My smile is relief"}
+{"word": ["Disney"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pirates"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Parrot"], "author": "A_Fly_On_The_Wall"}
+{"word": ["colors"], "author": "trlica"}
+{"word": ["Blend"], "author": "EnduringChill"}
+{"word": ["Paints"], "author": "theocean"}
+{"word": ["Watercolor"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Water COOLER"], "author": "EnduringChill"}
+{"word": ["water fountain"], "author": "StrongGirl"}
+{"word": ["water"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["sea"], "author": "trlica"}
+{"word": ["Mediterranean"], "author": "Midnight is Where the Day Begins"}
+{"word": ["warm"], "author": "horizon"}
+{"word": ["Cold"], "author": "EnduringChill"}
+{"word": ["Coldplay"], "author": "Starman"}
+{"word": ["Chris Martin"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Gwyneth Paltrow"], "author": "GardenTart"}
+{"word": ["Apple\u00a0"], "author": "StrongGirl"}
+{"word": ["fail"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["tests"], "author": "trlica"}
+{"word": ["Doom"], "author": null}
+{"word": ["Defeat"], "author": "EnduringChill"}
+{"word": ["Steelers>Jets\u00a0"], "author": "Starman"}
+{"word": ["Heartache\u00a0"], "author": "StrongGirl"}
+{"word": ["Steelers vs Seahawks a few years ago."], "author": "horizon"}
+{"word": ["Pain\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["back"], "author": "My smile is relief"}
+{"word": ["Front"], "author": "A_Fly_On_The_Wall"}
+{"word": ["House"], "author": "My smile is relief"}
+{"word": ["Mother"], "author": null}
+{"word": ["Mofo"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Song"], "author": "My smile is relief"}
+{"word": ["Dance"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Disco"], "author": "My smile is relief"}
+{"word": ["Discoth\u00e9que"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sailor suit......"], "author": null}
+{"word": ["Popeye"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cartoons"], "author": null}
+{"word": ["Toma and Jerry"], "author": "My smile is relief"}
+{"word": ["Ichy and scratchy"], "author": null}
+{"word": ["I love them...."], "author": "theocean"}
+{"word": ["yellow"], "author": "trlica"}
+{"word": ["Lemon"], "author": null}
+{"word": ["Tree"], "author": "My smile is relief"}
+{"word": ["The Giving Tree - great children's book"], "author": "StrongGirl"}
+{"word": ["Memory (of that book, it was great)"], "author": "EnduringChill"}
+{"word": ["RAM"], "author": "My smile is relief"}
+{"word": ["Chip"], "author": "theocean"}
+{"word": ["computer"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Robot"], "author": "Starman"}
+{"word": ["Data (star trek)"], "author": "theocean"}
+{"word": ["Laptop"], "author": null}
+{"word": ["Internet"], "author": "My smile is relief"}
+{"word": ["U2 FORUM"], "author": null}
+{"word": ["@U2"], "author": "EnduringChill"}
+{"word": ["The happiest place on earth"], "author": null}
+{"word": ["Nashville July 2nd 2011 at 9 PM\u00a0"], "author": null}
+{"word": ["New Meadowlands Stadium , July 20, 2011\u00a0"], "author": "StrongGirl"}
+{"word": ["Parties!!!"], "author": "trlica"}
+{"word": ["Dancing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Boom Cha"], "author": null}
+{"word": ["Discotheque"], "author": "EnduringChill"}
+{"word": ["Awesomness\u00a0"], "author": null}
+{"word": ["... Discotheque?\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["MOFO"], "author": null}
+{"word": ["Mexicofo"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Taco"], "author": null}
+{"word": ["LOL\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Burro (donkey)"], "author": null}
+{"word": ["Donkey Kong\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Gorilla"], "author": "trlica"}
+{"word": ["Gurilla"], "author": "EnduringChill"}
+{"word": ["monkey"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Bonobo"], "author": "JSab"}
+{"word": ["Bono"], "author": "EnduringChill"}
+{"word": ["leather"], "author": "trlica"}
+{"word": ["Pants"], "author": null}
+{"word": ["Bubble pants"], "author": "Starman"}
+{"word": ["Bono"], "author": "Midnight is Where the Day Begins"}
+{"word": [""], "author": "EnduringChill"}
+{"word": ["Shades"], "author": null}
+{"word": ["Chanel ( those are my shades\u00a0"], "author": "StrongGirl"}
+{"word": ["Coco"], "author": "EnduringChill"}
+{"word": ["Chocolate"], "author": "JSab"}
+{"word": ["Valentine"], "author": "theocean"}
+{"word": ["My Bloddy Valentine (the film that turns a romantic holiday into terror)\u00a0"], "author": "Starman"}
+{"word": ["I get nightmares by you just saying that!\u00a0"], "author": "theocean"}
+{"word": ["Carry(each other)"], "author": null}
+{"word": ["Five"], "author": "JSab"}
+{"word": ["Friends"], "author": "My smile is relief"}
+{"word": ["Laugh"], "author": "EnduringChill"}
+{"word": ["Joy:)"], "author": null}
+{"word": ["...To The World"], "author": "EnduringChill"}
+{"word": ["free health care\u00a0"], "author": "trlica"}
+{"word": ["No referrals for a specialist needed!! \u00a0"], "author": "StrongGirl"}
+{"word": ["internists"], "author": "trlica"}
+{"word": ["Orthopedics\u00a0"], "author": "StrongGirl"}
+{"word": ["\u00a0"], "author": "trlica"}
+{"word": ["Psyco....."], "author": null}
+{"word": ["Shower scene"], "author": "EnduringChill"}
+{"word": ["hot shower"], "author": "trlica"}
+{"word": ["cold shower\u00a0"], "author": "StrongGirl"}
+{"word": ["madness"], "author": null}
+{"word": ["we are back on doctors..."], "author": "trlica"}
+{"word": ["my friend (she wants to be one...)"], "author": null}
+{"word": ["SE"], "author": "EnduringChill"}
+{"word": ["SG !!"], "author": "StrongGirl"}
+{"word": ["You!"], "author": "EnduringChill"}
+{"word": ["Youtube"], "author": "linasd"}
+{"word": ["Video"], "author": "theocean"}
+{"word": ["Radio\u00a0 ( hi, ocean!)"], "author": "StrongGirl"}
+{"word": ["Short Wave (Hi SG)"], "author": "theocean"}
+{"word": ["Short Circuit (the movie with the annoying robot)"], "author": "Starman"}
+{"word": ["Good one! Agree!! Even in SA"], "author": "pilgrimtogo"}
+{"word": ["Short and Sweet"], "author": "pilgrimtogo"}
+{"word": ["Sweet and Sour sauce"], "author": "StrongGirl"}
+{"word": ["Chinese food <3"], "author": null}
+{"word": ["Shrimp *gag*"], "author": "EnduringChill"}
+{"word": ["Clams (yum)"], "author": "theocean"}
+{"word": ["\u00a0"], "author": "trlica"}
+{"word": ["Yuck"], "author": "EnduringChill"}
+{"word": ["cold slaw (yuck)"], "author": "theocean"}
+{"word": ["Yum"], "author": "EnduringChill"}
+{"word": ["KFC YUM! Center (best name for an arena ever\u00a0"], "author": "Starman"}
+{"word": ["Chicken?\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["The Egg."], "author": "Starman"}
+{"word": ["Tofu"], "author": "theocean"}
+{"word": ["vegan"], "author": "EnduringChill"}
+{"word": ["vegetarian"], "author": "P-FLO"}
+{"word": ["food"], "author": "My smile is relief"}
+{"word": ["soy milk"], "author": "trlica"}
+{"word": ["Chocolate"], "author": "EnduringChill"}
+{"word": ["Fudge\u00a0 ( just ask Briscoe\u00a0"], "author": "StrongGirl"}
+{"word": ["Garlic"], "author": "EnduringChill"}
+{"word": ["Vampires\u00a0"], "author": "StrongGirl"}
+{"word": ["Steak (or stake)"], "author": "GardenTart"}
+{"word": ["Blood (vampire stake)"], "author": "theocean"}
+{"word": ["uh fear (don't ask)"], "author": "My smile is relief"}
+{"word": ["Shark"], "author": null}
+{"word": ["Jaws"], "author": "EnduringChill"}
+{"word": ["Alligators"], "author": "theocean"}
+{"word": ["wetlands"], "author": "My smile is relief"}
+{"word": ["Rivers"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Drowning"], "author": null}
+{"word": ["Death"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Life"], "author": null}
+{"word": ["Breathing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Air"], "author": null}
+{"word": ["Flying"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wings"], "author": null}
+{"word": ["Airplane"], "author": "trlica"}
+{"word": ["Night sky"], "author": "EnduringChill"}
+{"word": ["Moon"], "author": null}
+{"word": ["Lunar eclipse"], "author": "StrongGirl"}
+{"word": ["Solar Eclipse\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Total Eclipse of the Heart ("], "author": "Starman"}
+{"word": ["In this heartland"], "author": "pilgrimtogo"}
+{"word": ["Rattle And Hum"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bullet the blue sky"], "author": null}
+{"word": ["The Joshua Tree"], "author": "A_Fly_On_The_Wall"}
+{"word": ["My mother...(she told me a long story bout when she bought that album when she was young)"], "author": null}
+{"word": ["I don't really know what I could associate with your mother, as I don't know her personally\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["No, I am Larry *takes on larry mask*"], "author": null}
+{"word": ["That's good then\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sunday bloody sunday"], "author": null}
+{"word": ["War"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Peter Rowan(boy)"], "author": null}
+{"word": ["Photographer\u00a0 ^( He is now!)"], "author": "StrongGirl"}
+{"word": ["Pictures"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Memento cover\u00a0"], "author": "Starman"}
+{"word": ["Best Director for Inception!!!\u00a0 (LOVE\u00a0 Christopher Nolan - a genius!)"], "author": "StrongGirl"}
+{"word": ["Um... Inception"], "author": "EnduringChill"}
+{"word": ["Movie!"], "author": null}
+{"word": ["Touchscreen"], "author": "EnduringChill"}
+{"word": ["ipod"], "author": "GardenTart"}
+{"word": ["TECHNOLOGY!"], "author": "JSab"}
+{"word": ["Apple"], "author": "Midnight is Where the Day Begins"}
+{"word": ["tree"], "author": "pilgrimtogo"}
+{"word": ["The Giving Tree - great children's book!"], "author": "StrongGirl"}
+{"word": ["Five Friends"], "author": "My smile is relief"}
+{"word": ["party\u00a0"], "author": "trlica"}
+{"word": ["Party Girl"], "author": null}
+{"word": ["drinks\u00a0"], "author": "trlica"}
+{"word": ["Beer"], "author": null}
+{"word": ["Drinking..."], "author": "EnduringChill"}
+{"word": ["Drunk"], "author": null}
+{"word": ["Sick"], "author": "EnduringChill"}
+{"word": ["Cold"], "author": null}
+{"word": ["Coldplay\u00a0"], "author": "Starman"}
+{"word": ["U2"], "author": null}
+{"word": ["Band"], "author": "EnduringChill"}
+{"word": ["Music"], "author": "Midnight is Where the Day Begins"}
+{"word": [""], "author": "Starman"}
+{"word": ["Popmart!!"], "author": "Midnight is Where the Day Begins"}
+{"word": ["K Mart\u00a0"], "author": "StrongGirl"}
+{"word": ["Um..."], "author": "Midnight is Where the Day Begins"}
+{"word": ["Coles ?\u00a0"], "author": "JSab"}
+{"word": ["Supermarkets ?"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Shopping"], "author": null}
+{"word": ["Food"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hungry"], "author": "My smile is relief"}
+{"word": ["Starvation"], "author": "EnduringChill"}
+{"word": ["Dehydration"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Dislocation"], "author": "EnduringChill"}
+{"word": ["Revelation (this is sounding familiar)\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["In temptation?"], "author": "EnduringChill"}
+{"word": ["ISOLATION!!"], "author": "Midnight is Where the Day Begins"}
+{"word": ["DESOLATION!!"], "author": "EnduringChill"}
+{"word": ["Relocation!!"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Moving out..."], "author": "EnduringChill"}
+{"word": ["Billy Joel\u00a0 ( Movin Out - good song\u00a0"], "author": "StrongGirl"}
+{"word": ["I love that song SG...."], "author": "theocean"}
+{"word": ["Far away"], "author": "EnduringChill"}
+{"word": ["ahmm America"], "author": "My smile is relief"}
+{"word": ["U2 concert in new jersy:)"], "author": null}
+{"word": ["U2 In Albany NY"], "author": "theocean"}
+{"word": ["Boy Tour"], "author": "StrongGirl"}
+{"word": ["wild boys"], "author": "trlica"}
+{"word": ["U2"], "author": null}
+{"word": ["our life"], "author": "trlica"}
+{"word": ["U2"], "author": null}
+{"word": ["My band!"], "author": "EnduringChill"}
+{"word": ["Our band"], "author": null}
+{"word": ["Marching band!"], "author": "StrongGirl"}
+{"word": ["Nerds"], "author": "GardenTart"}
+{"word": ["Insult in a good way"], "author": "EnduringChill"}
+{"word": ["\u00a0"], "author": "Starman"}
+{"word": ["Meanie Pies"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Porky Pies\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Porky the Pig"], "author": "EnduringChill"}
+{"word": ["cartoons"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Rugrats!"], "author": "Starman"}
+{"word": ["Babies"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hockey!\u00a0 (One of my son's coaches is expecting.\u00a0 Well, his wife is, anyway!)"], "author": "ElJayVee"}
+{"word": ["Pittsburgh Penguins!"], "author": "Starman"}
+{"word": ["Arctic conditions??\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["North Pole"], "author": "StrongGirl"}
+{"word": ["Polar bears"], "author": null}
+{"word": ["White"], "author": "EnduringChill"}
+{"word": ["White as snow"], "author": null}
+{"word": ["New York"], "author": "theocean"}
+{"word": ["Concert:)"], "author": null}
+{"word": ["tickets!"], "author": "StrongGirl"}
+{"word": ["Lines"], "author": null}
+{"word": ["being nervous\u00a0"], "author": "trlica"}
+{"word": ["Math test...."], "author": null}
+{"word": ["Okay"], "author": "EnduringChill"}
+{"word": ["Evil"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Villain"], "author": "EnduringChill"}
+{"word": ["evil laugh"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Ho Ho Ho\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Santa!"], "author": "EnduringChill"}
+{"word": ["Christmas"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Stockings!"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Cookies and milk for Santa!\u00a0"], "author": "StrongGirl"}
+{"word": ["Christmas"], "author": null}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["clean"], "author": "trlica"}
+{"word": ["messy"], "author": null}
+{"word": ["Dirty"], "author": "EnduringChill"}
+{"word": ["mind\u00a0"], "author": "My smile is relief"}
+{"word": ["Brain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cell"], "author": "My smile is relief"}
+{"word": ["Living"], "author": "EnduringChill"}
+{"word": ["U2"], "author": null}
+{"word": ["One track mind"], "author": "EnduringChill"}
+{"word": ["obsession\u00a0"], "author": "trlica"}
+{"word": ["MADNESS (in a good way)"], "author": null}
+{"word": ["Grand"], "author": "EnduringChill"}
+{"word": ["Magnificient"], "author": "theocean"}
+{"word": ["Story"], "author": "My smile is relief"}
+{"word": ["Morning Glory"], "author": "EnduringChill"}
+{"word": ["Oasis"], "author": "My smile is relief"}
+{"word": ["desert"], "author": "StrongGirl"}
+{"word": ["Hot"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Fudge Sundae"], "author": "theocean"}
+{"word": ["Clarinet"], "author": "EnduringChill"}
+{"word": ["Notes"], "author": "theocean"}
+{"word": ["Noise"], "author": "EnduringChill"}
+{"word": ["Death Metal (sounds like mindless noise to me)"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Scared"], "author": "EnduringChill"}
+{"word": ["Cat\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Dog"], "author": "EnduringChill"}
+{"word": ["Winslow."], "author": "Midnight is Where the Day Begins"}
+{"word": ["Winston Churchill"], "author": "EnduringChill"}
+{"word": ["^ LOL"], "author": "Midnight is Where the Day Begins"}
+{"word": ["England"], "author": "EnduringChill"}
+{"word": ["Britian"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Doctor Who (another sister thing"], "author": "EnduringChill"}
+{"word": ["Uprising (Muse)\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Newborn (Muse)\u00a0"], "author": "theocean"}
+{"word": ["Undisclosed Desires (Muse)"], "author": "My smile is relief"}
+{"word": ["Desire - U2\u00a0"], "author": "StrongGirl"}
+{"word": ["Love"], "author": "EnduringChill"}
+{"word": ["Oh boy..."], "author": "Starman"}
+{"word": ["What?"], "author": "EnduringChill"}
+{"word": ["Doctor Who, that's what. (That was pretty much me just saying I know what Doctor Who is)"], "author": "Starman"}
+{"word": ["Valentines Day"], "author": "linasd"}
+{"word": ["Hearts"], "author": "EnduringChill"}
+{"word": ["Elevation Tour Stage"], "author": "Starman"}
+{"word": ["Milano"], "author": "linasd"}
+{"word": ["Vertigo DVD"], "author": "EnduringChill"}
+{"word": ["Bono - sexy person"], "author": "linasd"}
+{"word": ["Elevation!"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Rejuvenation"], "author": "EnduringChill"}
+{"word": ["Aging"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Botox\u00a0"], "author": "StrongGirl"}
+{"word": ["Liposuction"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pain"], "author": "theocean"}
+{"word": ["OUCH!"], "author": "EnduringChill"}
+{"word": ["guilty"], "author": "My smile is relief"}
+{"word": ["Gone"], "author": "EnduringChill"}
+{"word": ["Pop"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Snap"], "author": "theocean"}
+{"word": ["Rice Krispies\u00a0 \u00a0(snap, crackle and pop!)"], "author": "StrongGirl"}
+{"word": ["blue box"], "author": "trlica"}
+{"word": ["TARDIS"], "author": "EnduringChill"}
+{"word": ["Dr. Who!"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Coolness"], "author": "theocean"}
+{"word": ["Awesomeness"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Ken\u00a0"], "author": "My smile is relief"}
+{"word": ["awesomeness"], "author": null}
+{"word": ["Inception\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Christopher Nolan\u00a0 \u00a0!!!!\u00a0"], "author": "StrongGirl"}
+{"word": ["Movie person"], "author": "EnduringChill"}
+{"word": ["Leonardo Decaprio\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Titanic"], "author": null}
+{"word": ["Ship"], "author": "EnduringChill"}
+{"word": ["Boat"], "author": null}
+{"word": ["Oar!"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Sink"], "author": "StrongGirl"}
+{"word": ["Water"], "author": null}
+{"word": ["Drowning Man"], "author": "StrongGirl"}
+{"word": ["Take my hand"], "author": null}
+{"word": ["Take my whole life too..."], "author": "EnduringChill"}
+{"word": ["Suicide"], "author": "Midnight is Where the Day Begins"}
+{"word": ["Killing Bono"], "author": null}
+{"word": ["story"], "author": "trlica"}
+{"word": ["Book"], "author": null}
+{"word": ["pictures"], "author": "trlica"}
+{"word": ["Photo"], "author": null}
+{"word": ["Drawing"], "author": "theocean"}
+{"word": ["Art"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pictures"], "author": "My smile is relief"}
+{"word": ["Landscape"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Monet's Water Lilies"], "author": "StrongGirl"}
+{"word": ["Artist"], "author": "A_Fly_On_The_Wall"}
+{"word": ["da vinci"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Italy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["The edges boots at hard rock cafe-paris...:-D"], "author": null}
+{"word": ["Bono Boots"], "author": "theocean"}
+{"word": ["Get On Your Boots !!"], "author": "StrongGirl"}
+{"word": ["Awesomeness"], "author": null}
+{"word": ["This Forum\u00a0"], "author": "trlica"}
+{"word": ["This thread"], "author": "theocean"}
+{"word": ["Word Association Game!"], "author": "EnduringChill"}
+{"word": ["Hi EnduringChill"], "author": "theocean"}
+{"word": ["Members only"], "author": "EnduringChill"}
+{"word": ["Club Med"], "author": "theocean"}
+{"word": ["addiction"], "author": "trlica"}
+{"word": ["Charlie Sheen\u00a0 ( I had to say it!)"], "author": "StrongGirl"}
+{"word": ["\u00a0"], "author": "trlica"}
+{"word": ["David Archuleta"], "author": "EnduringChill"}
+{"word": ["LAME!!! (hides from EC)"], "author": "Starman"}
+{"word": ["Christiano Ronaldo"], "author": "My smile is relief"}
+{"word": ["Portugal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Brazil\u00a0"], "author": "My smile is relief"}
+{"word": ["Rain Forest"], "author": "theocean"}
+{"word": ["Amazon"], "author": "My smile is relief"}
+{"word": ["River"], "author": "trlica"}
+{"word": ["A song about a river from my city, that I can play on my harmonica(actually only song I can play)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Ill say harmonica then:)"], "author": null}
+{"word": ["(Bono)"], "author": "Stella"}
+{"word": ["Violin"], "author": null}
+{"word": ["My best friend... she can play violin..."], "author": "EnduringChill"}
+{"word": ["Teenager\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Senior Citizen"], "author": "StrongGirl"}
+{"word": ["Old"], "author": "EnduringChill"}
+{"word": ["antique"], "author": "StrongGirl"}
+{"word": ["Store"], "author": "EnduringChill"}
+{"word": ["Supermarket"], "author": "A_Fly_On_The_Wall"}
+{"word": ["POPMART!"], "author": "EnduringChill"}
+{"word": ["Bubble Pants\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bono"], "author": "EnduringChill"}
+{"word": ["The Edge"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Unknown Caller (the edge of the known universe where I wnated to be)"], "author": "EnduringChill"}
+{"word": ["Golf( I used to listen to UC when I played golf last summer)"], "author": null}
+{"word": ["Hawkmoon (I just saw my name and thought of it"], "author": "EnduringChill"}
+{"word": ["Rattle And Hum"], "author": "A_Fly_On_The_Wall"}
+{"word": ["My love!!!!!"], "author": "EnduringChill"}
+{"word": ["Mr MacPhisto\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["My man!!!!"], "author": "EnduringChill"}
+{"word": ["Gavin Friday\u00a0"], "author": "StrongGirl"}
+{"word": ["Cool..."], "author": "EnduringChill"}
+{"word": ["The Fly\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Macphisto"], "author": "Midnight is Where the Day Begins"}
+{"word": ["The Devil Wears Prada\u00a0"], "author": "StrongGirl"}
+{"word": ["Emo bands that my girlfriend likes\u00a0"], "author": "Starman"}
+{"word": ["Not very good music\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Metal"], "author": null}
+{"word": ["Metal Jewerly"], "author": "trlica"}
+{"word": ["art"], "author": null}
+{"word": ["paintings"], "author": "trlica"}
+{"word": ["drawings"], "author": null}
+{"word": ["I knew that you will say that"], "author": "trlica"}
+{"word": ["Rainbow"], "author": "StrongGirl"}
+{"word": ["Sun"], "author": null}
+{"word": ["Staring At The Sun"], "author": "EnduringChill"}
+{"word": ["Ouch (that would hurt\u00a0"], "author": "Midnight is Where the Day Begins"}
+{"word": ["\u00a0"], "author": "Starman"}
+{"word": ["painkillers"], "author": "My smile is relief"}
+{"word": ["hospital"], "author": "theocean"}
+{"word": ["My grandfather(he is at the hospital right now)"], "author": null}
+{"word": ["getting well\u00a0"], "author": "trlica"}
+{"word": ["Grapes (everyone brings grapes for the ill\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["France"], "author": null}
+{"word": ["Wine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Red wine"], "author": "EnduringChill"}
+{"word": ["TUF"], "author": null}
+{"word": ["Obvious choice"], "author": "EnduringChill"}
+{"word": ["Why do I always get the hard ones EC?\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mr Macphisto"], "author": "Voxare"}
+{"word": ["Television, the drug of the nation"], "author": "Starman"}
+{"word": ["Reception"], "author": "Voxare"}
+{"word": ["Interception"], "author": "EnduringChill"}
+{"word": ["Basketball"], "author": "Voxare"}
+{"word": ["Typewriter"], "author": "EnduringChill"}
+{"word": ["Vinyl (I love old school stuff"], "author": "Voxare"}
+{"word": ["Record Store\u00a0 ( the way they used to be!)"], "author": "StrongGirl"}
+{"word": ["Drum Kit (there is one in my local record store that you can play for free)"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beat"], "author": "EnduringChill"}
+{"word": ["Music"], "author": null}
+{"word": ["Soul"], "author": "Voxare"}
+{"word": ["Heart"], "author": "EnduringChill"}
+{"word": ["Love"], "author": "Voxare"}
+{"word": ["U2"], "author": null}
+{"word": ["Bono\u00a0"], "author": "Voxare"}
+{"word": ["Awesomeness XD"], "author": null}
+{"word": ["Now I just wanna go full circle back to U2\u00a0"], "author": "Voxare"}
+{"word": ["People who likes real music"], "author": null}
+{"word": ["Everyone on this forum\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cool people"], "author": null}
+{"word": ["Eskimos"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cold"], "author": "EnduringChill"}
+{"word": ["My House\u00a0"], "author": "theocean"}
+{"word": ["Cool place\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ireland"], "author": "DecemberStar (The Mysterious Girl)"}
+{"word": ["Chilly"], "author": "EnduringChill"}
+{"word": ["You"], "author": null}
+{"word": ["...Three"], "author": "EnduringChill"}
+{"word": ["Se7en"], "author": "Starman"}
+{"word": ["Eleven"], "author": "theocean"}
+{"word": ["Ten"], "author": "EnduringChill"}
+{"word": ["Commandments\u00a0"], "author": "StrongGirl"}
+{"word": ["army"], "author": "trlica"}
+{"word": ["War"], "author": null}
+{"word": ["Call of Duty\u00a0"], "author": "Starman"}
+{"word": ["Boys in my class"], "author": null}
+{"word": ["card players"], "author": "My smile is relief"}
+{"word": ["Gambling"], "author": "A_Fly_On_The_Wall"}
+{"word": ["addiction"], "author": "trlica"}
+{"word": ["Therapy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rehabilitation"], "author": "DecemberStar (The Mysterious Girl)"}
+{"word": ["Charlie Sheen\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Crazy"], "author": "DecemberStar (The Mysterious Girl)"}
+{"word": ["I'll Go Crazy If I Don't Go Crazy Tonight"], "author": "A_Fly_On_The_Wall"}
+{"word": ["truth"], "author": "Edge O'Reason"}
+{"word": ["Honesty"], "author": "theocean"}
+{"word": ["Lies"], "author": "singnomore"}
+{"word": ["Deception"], "author": "Midnight is Where the Day Begins"}
+{"word": ["I'm not saying it Middy!!! So instead I'll say...."], "author": "Starman"}
+{"word": ["Fake"], "author": "EnduringChill"}
+{"word": ["Real"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Non Fiction"], "author": "theocean"}
+{"word": ["Our reality"], "author": "trlica"}
+{"word": ["life"], "author": null}
+{"word": ["Life Is Beautiful\u00a0 (great movie!)"], "author": "StrongGirl"}
+{"word": ["Life in a Day (great song XD)"], "author": "JSab"}
+{"word": ["What is Life (George Harrison) song"], "author": "theocean"}
+{"word": ["The Beatles"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Across the universe"], "author": null}
+{"word": ["Solar System"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Black Hole"], "author": "StrongGirl"}
+{"word": ["Star Trek"], "author": "theocean"}
+{"word": ["Future"], "author": "trlica"}
+{"word": ["Now"], "author": "EnduringChill"}
+{"word": ["Then"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Once"], "author": "EnduringChill"}
+{"word": ["Upon"], "author": "P-FLO"}
+{"word": ["Looked"], "author": "EnduringChill"}
+{"word": ["Over"], "author": "A_Fly_On_The_Wall"}
+{"word": ["under the boardwalk"], "author": "StrongGirl"}
+{"word": ["The Drifters"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Adrift"], "author": "EnduringChill"}
+{"word": ["Sea"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ocean"], "author": "My smile is relief"}
+{"word": ["Oh great ocean, oh great sea..."], "author": "EnduringChill"}
+{"word": ["Our favorite forum member - Ocean\u00a0"], "author": "StrongGirl"}
+{"word": ["The Ocean"], "author": "EnduringChill"}
+{"word": ["Aw...you guys!"], "author": "theocean"}
+{"word": ["Sea glass"], "author": "EnduringChill"}
+{"word": ["blue"], "author": "trlica"}
+{"word": ["Colour"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rainbow"], "author": "trlica"}
+{"word": ["Bungle\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bungalow"], "author": "EnduringChill"}
+{"word": ["California"], "author": "theocean"}
+{"word": ["Red Hot Chili Peppers"], "author": "My smile is relief"}
+{"word": ["Rock And Roll"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Music"], "author": "EnduringChill"}
+{"word": ["enjoying"], "author": "trlica"}
+{"word": ["relaxing"], "author": "StrongGirl"}
+{"word": ["Calming"], "author": "EnduringChill"}
+{"word": ["bubble bath"], "author": "trlica"}
+{"word": ["Warm"], "author": "EnduringChill"}
+{"word": ["the tropics"], "author": "StrongGirl"}
+{"word": ["SUNNY!"], "author": "EnduringChill"}
+{"word": ["England (At the moment anyway\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lucky"], "author": "EnduringChill"}
+{"word": ["Irish"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bono"], "author": "theocean"}
+{"word": ["Sunglasses"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sandals"], "author": "theocean"}
+{"word": ["sandy beach"], "author": "trlica"}
+{"word": ["Heaven"], "author": "EnduringChill"}
+{"word": ["Happiness"], "author": "Voxare"}
+{"word": ["smile"], "author": "My smile is relief"}
+{"word": ["you"], "author": "trlica"}
+{"word": ["Me"], "author": "EnduringChill"}
+{"word": ["We\u00a0 \u00a0"], "author": "trlica"}
+{"word": ["U2 fans"], "author": null}
+{"word": ["@U2 forum\u00a0"], "author": "StrongGirl"}
+{"word": ["The happiest place on earth"], "author": null}
+{"word": ["Zips Pub\u00a0"], "author": "theocean"}
+{"word": ["Enjoyment"], "author": "A_Fly_On_The_Wall"}
+{"word": ["parties"], "author": "trlica"}
+{"word": ["Hotel room"], "author": "EnduringChill"}
+{"word": ["So many things that could be said but I guess I should stay out of the gutter\u00a0"], "author": "Voxare"}
+{"word": ["audience"], "author": "My smile is relief"}
+{"word": ["Singing (especially at a U2 concert\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["playing guitar"], "author": "StrongGirl"}
+{"word": ["The Edge"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hat"], "author": "trlica"}
+{"word": ["Head"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hair"], "author": "trlica"}
+{"word": ["wig"], "author": null}
+{"word": ["I am scared of wigs\u00a0"], "author": "trlica"}
+{"word": ["Tan"], "author": "A_Fly_On_The_Wall"}
+{"word": ["brown"], "author": "trlica"}
+{"word": ["eyes"], "author": "My smile is relief"}
+{"word": ["glasses"], "author": "trlica"}
+{"word": ["Sun"], "author": "A_Fly_On_The_Wall"}
+{"word": ["green"], "author": "My smile is relief"}
+{"word": ["^ the sun is yellow Smile\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["omg...haha i thought eyes was last !\u00a0"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["batman"], "author": null}
+{"word": ["Joker"], "author": "A_Fly_On_The_Wall"}
+{"word": ["scary"], "author": null}
+{"word": ["dreams"], "author": "My smile is relief"}
+{"word": ["Nightmares"], "author": "A_Fly_On_The_Wall"}
+{"word": ["snakes"], "author": "My smile is relief"}
+{"word": ["Spiders"], "author": "A_Fly_On_The_Wall"}
+{"word": ["web"], "author": "My smile is relief"}
+{"word": ["Internet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Connection"], "author": "My smile is relief"}
+{"word": ["People"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Facebook"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["group (boy band)"], "author": "My smile is relief"}
+{"word": ["^ It seems ages since they split up"], "author": "A_Fly_On_The_Wall"}
+{"word": ["places"], "author": null}
+{"word": ["Cities"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Trondheim"], "author": null}
+{"word": ["Norway"], "author": "My smile is relief"}
+{"word": ["Scandanavia"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Europe"], "author": "My smile is relief"}
+{"word": ["Did you know what Trondheim was, smile???"], "author": null}
+{"word": ["A quick Google search would cure her lack of knowledge of cities across the globe \u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["first i thought i was city where you live, then i google it!"], "author": "My smile is relief"}
+{"word": ["^ I knew it!"], "author": "A_Fly_On_The_Wall"}
+{"word": ["South America"], "author": "My smile is relief"}
+{"word": ["Mexico"], "author": null}
+{"word": ["Guadalajara"], "author": "A_Fly_On_The_Wall"}
+{"word": ["i have no idea what is that...so i'll say"], "author": "My smile is relief"}
+{"word": ["Being alone (long story)"], "author": null}
+{"word": ["It is a city in Mexico\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sad"], "author": "My smile is relief"}
+{"word": ["My life"], "author": null}
+{"word": ["Hope"], "author": "My smile is relief"}
+{"word": ["Glory"], "author": "A_Fly_On_The_Wall"}
+{"word": ["God"], "author": "GardenTart"}
+{"word": ["Life"], "author": null}
+{"word": ["Our"], "author": "My smile is relief"}
+{"word": ["People"], "author": null}
+{"word": ["Strange"], "author": "My smile is relief"}
+{"word": ["Mystery"], "author": null}
+{"word": ["Mysterious Ways!"], "author": "EnduringChill"}
+{"word": ["Alice in Wonderland"], "author": "My smile is relief"}
+{"word": ["Tim Burton\u00a0"], "author": "StrongGirl"}
+{"word": ["Edward scissorhands (my favorite movie)"], "author": null}
+{"word": ["Johnny Depp <3"], "author": "My smile is relief"}
+{"word": ["Crush"], "author": "EnduringChill"}
+{"word": ["movie"], "author": "My smile is relief"}
+{"word": ["Cinema"], "author": null}
+{"word": ["popcorn"], "author": "My smile is relief"}
+{"word": ["Cilla"], "author": null}
+{"word": ["teen"], "author": "My smile is relief"}
+{"word": ["Sillyness"], "author": null}
+{"word": ["Dancing"], "author": "EnduringChill"}
+{"word": ["Shoes"], "author": "YellowLedbetter"}
+{"word": ["Sexy Boots"], "author": "theocean"}
+{"word": ["No Line On The Horizon"], "author": "A_Fly_On_The_Wall"}
+{"word": ["magnificent"], "author": "YellowLedbetter"}
+{"word": ["great thing"], "author": "trlica"}
+{"word": ["U2"], "author": null}
+{"word": ["obsession"], "author": "trlica"}
+{"word": ["Crazyness"], "author": null}
+{"word": ["I'll go crazy if I..."], "author": "EnduringChill"}
+{"word": ["if I don't go crazy tonight.\u00a0 ( Did you really expect any other response on this forum\u00a0"], "author": "StrongGirl"}
+{"word": ["tonight's concert\u00a0"], "author": "trlica"}
+{"word": ["Rehearsals"], "author": "theocean"}
+{"word": ["Show"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Live music!!!"], "author": "StrongGirl"}
+{"word": ["concert"], "author": null}
+{"word": ["U2"], "author": "A_Fly_On_The_Wall"}
+{"word": [""], "author": null}
+{"word": ["Bono"], "author": "A_Fly_On_The_Wall"}
+{"word": ["handsome"], "author": null}
+{"word": ["devil"], "author": "YellowLedbetter"}
+{"word": ["MacPhisto!"], "author": "EnduringChill"}
+{"word": ["Lemon"], "author": "YellowLedbetter"}
+{"word": ["Dress"], "author": "EnduringChill"}
+{"word": ["Velvet\u00a0"], "author": "StrongGirl"}
+{"word": ["Teddy bear"], "author": "YellowLedbetter"}
+{"word": ["Winnie the Pooh"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Little Bear"], "author": "theocean"}
+{"word": ["Computer game"], "author": "EnduringChill"}
+{"word": ["green\u00a0 \u00a0(I don't\u00a0 know why\u00a0"], "author": "trlica"}
+{"word": ["IT'S GREEN!"], "author": "EnduringChill"}
+{"word": ["apple"], "author": "trlica"}
+{"word": ["Applesauce"], "author": "EnduringChill"}
+{"word": ["Ketchup\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mustard!!"], "author": "EnduringChill"}
+{"word": ["Yellow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Favorite color"], "author": "EnduringChill"}
+{"word": ["Silver"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beautiful"], "author": "EnduringChill"}
+{"word": ["Day"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Summer"], "author": "YellowLedbetter"}
+{"word": ["Spring"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Autumn ( my favorite season)"], "author": "StrongGirl"}
+{"word": ["500 Days of Summer (film)"], "author": "My smile is relief"}
+{"word": ["The Smiths XD"], "author": null}
+{"word": ["Davey Jones of the Monkees\u00a0"], "author": "StrongGirl"}
+{"word": ["Locker"], "author": "YellowLedbetter"}
+{"word": ["Room"], "author": "EnduringChill"}
+{"word": ["Scary"], "author": null}
+{"word": ["Ghosts"], "author": "theocean"}
+{"word": ["Ghost (the movie)"], "author": null}
+{"word": ["Ghostbusters!!!!"], "author": "My smile is relief"}
+{"word": ["black sun glasses"], "author": "trlica"}
+{"word": ["the fly"], "author": null}
+{"word": ["Leather!"], "author": "EnduringChill"}
+{"word": ["Lace\u00a0"], "author": "StrongGirl"}
+{"word": ["Ireland (they made lace there...)"], "author": "EnduringChill"}
+{"word": ["Guiness"], "author": "A_Fly_On_The_Wall"}
+{"word": ["beer"], "author": "My smile is relief"}
+{"word": ["Fosters"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Game"], "author": "My smile is relief"}
+{"word": ["Snake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bronx Zoo - a cobra is missing from the Zoo\u00a0"], "author": "StrongGirl"}
+{"word": ["Zoo station"], "author": null}
+{"word": ["Achtung Baby"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Germany"], "author": null}
+{"word": ["Berlin Wall"], "author": "A_Fly_On_The_Wall"}
+{"word": ["War"], "author": null}
+{"word": ["Sunday Bloody Sunday"], "author": "A_Fly_On_The_Wall"}
+{"word": ["My teacher (he let us listen to that song during english class because he know that I love U2)"], "author": null}
+{"word": ["Male"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Man"], "author": null}
+{"word": ["Boy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Back to war"], "author": null}
+{"word": ["New Year's Day"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Italy (i heard it on the radio in italy when I was almost dying of the heat, and I got happy when I heard it:))"], "author": null}
+{"word": ["Pisa"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(Been there)"], "author": null}
+{"word": ["Paris"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Edges boots at hard rock cafe! I posted a picture of them in the \"u2 items at hard rock cafe tread\"."], "author": null}
+{"word": ["Edge's hat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Zooropa"], "author": null}
+{"word": ["Numb"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Linkin Park"], "author": "My smile is relief"}
+{"word": ["Group"], "author": "A_Fly_On_The_Wall"}
+{"word": ["U2"], "author": "My smile is relief"}
+{"word": ["Adam Clayton"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Trlica"], "author": "My smile is relief"}
+{"word": ["Adam"], "author": null}
+{"word": ["Bass"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Instrument"], "author": null}
+{"word": ["Piano"], "author": "My smile is relief"}
+{"word": ["Organ"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Oregon"], "author": "EnduringChill"}
+{"word": ["State"], "author": "A_Fly_On_The_Wall"}
+{"word": ["California"], "author": "My smile is relief"}
+{"word": ["US of A"], "author": "A_Fly_On_The_Wall"}
+{"word": ["New York"], "author": "My smile is relief"}
+{"word": ["Big Apple"], "author": "A_Fly_On_The_Wall"}
+{"word": ["New York again"], "author": "My smile is relief"}
+{"word": ["All That You Can't Leave Behind"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Heart Suitcase"], "author": null}
+{"word": ["Elevation Tour"], "author": "EnduringChill"}
+{"word": ["stripped-down"], "author": "YellowLedbetter"}
+{"word": ["stripper pole\u00a0"], "author": "StrongGirl"}
+{"word": ["Striptease"], "author": "EnduringChill"}
+{"word": ["Burlesque\u00a0"], "author": "StrongGirl"}
+{"word": ["Movie"], "author": "EnduringChill"}
+{"word": ["Movie Stars"], "author": "theocean"}
+{"word": ["Johnny Depp"], "author": "My smile is relief"}
+{"word": ["Edward scissorhands"], "author": null}
+{"word": ["Tim Burton\u00a0"], "author": "My smile is relief"}
+{"word": ["Awesome movies"], "author": null}
+{"word": ["Lord of the Rings"], "author": "My smile is relief"}
+{"word": ["Yay:) youre the first one here who like this movie too:-*"], "author": null}
+{"word": ["Castles"], "author": "theocean"}
+{"word": ["Slane Castle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["The Emerald Isle\u00a0"], "author": "StrongGirl"}
+{"word": ["North Pole"], "author": "trlica"}
+{"word": ["Ice"], "author": "My smile is relief"}
+{"word": ["Drinks\u00a0"], "author": "trlica"}
+{"word": ["Sodas\u00a0"], "author": "My smile is relief"}
+{"word": ["Sugary"], "author": "EnduringChill"}
+{"word": ["HYPER!!!"], "author": "Starman"}
+{"word": ["Caffeine!!!\u00a0"], "author": "StrongGirl"}
+{"word": ["Coffee Cake"], "author": "theocean"}
+{"word": ["cake"], "author": null}
+{"word": ["chocolate"], "author": "My smile is relief"}
+{"word": ["charlie and the chocolate factory XD"], "author": null}
+{"word": ["Johnny Depp (again"], "author": "My smile is relief"}
+{"word": ["Scissors (Edward scissorhands)"], "author": "theocean"}
+{"word": ["Best movie ever"], "author": null}
+{"word": ["I agree!!"], "author": "trlica"}
+{"word": ["Robin"], "author": "EnduringChill"}
+{"word": ["robin hood"], "author": null}
+{"word": ["green hat"], "author": "trlica"}
+{"word": ["irish"], "author": null}
+{"word": ["Gaelic"], "author": "StrongGirl"}
+{"word": ["Scotland"], "author": "EnduringChill"}
+{"word": ["single-malt"], "author": null}
+{"word": ["Whiskey"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Song"], "author": "EnduringChill"}
+{"word": ["Sing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dance"], "author": "EnduringChill"}
+{"word": ["Tap"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Exercise"], "author": "theocean"}
+{"word": ["Fitness"], "author": "EnduringChill"}
+{"word": ["Gym"], "author": "StrongGirl"}
+{"word": ["sweating"], "author": "trlica"}
+{"word": ["Bono"], "author": "EnduringChill"}
+{"word": ["Glasses"], "author": "theocean"}
+{"word": ["Sun"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Vacation"], "author": null}
+{"word": ["Summer!!!"], "author": "StrongGirl"}
+{"word": ["Beach"], "author": null}
+{"word": ["Copacabana"], "author": "My smile is relief"}
+{"word": ["Peanuts"], "author": "EnduringChill"}
+{"word": ["Chillinuts"], "author": null}
+{"word": ["Chilli (that's me, BTW...)"], "author": "EnduringChill"}
+{"word": ["Mr.macphisto"], "author": null}
+{"word": ["Devil"], "author": "EnduringChill"}
+{"word": ["Gold"], "author": null}
+{"word": ["Red"], "author": "EnduringChill"}
+{"word": ["Christmas"], "author": null}
+{"word": ["Lights"], "author": "EnduringChill"}
+{"word": ["City"], "author": null}
+{"word": ["of blinding lights"], "author": "EnduringChill"}
+{"word": ["Running (when that song started on my ipod, I started to run around the school...people stared!)"], "author": null}
+{"word": ["David Archuleta (he has a song called Running)"], "author": "EnduringChill"}
+{"word": ["Guy"], "author": null}
+{"word": ["Doll"], "author": "EnduringChill"}
+{"word": ["Creepy"], "author": null}
+{"word": ["SE"], "author": "EnduringChill"}
+{"word": ["The person that you think is awesome and groovy and cool XD"], "author": null}
+{"word": ["Um... you?"], "author": "EnduringChill"}
+{"word": ["Me"], "author": null}
+{"word": ["We\u00a0"], "author": "StrongGirl"}
+{"word": ["Cool people"], "author": null}
+{"word": ["U2 fans"], "author": "EnduringChill"}
+{"word": ["People who have understanded what the meaning of life is"], "author": null}
+{"word": ["maybe they're just people that want to talk about music."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Appreciators of REAL music."], "author": "DecemberStar (The Mysterious Girl)"}
+{"word": ["Us"], "author": null}
+{"word": ["family"], "author": "trlica"}
+{"word": ["Crazy\u00a0"], "author": "My smile is relief"}
+{"word": ["Wild !!"], "author": "StrongGirl"}
+{"word": ["Animals"], "author": null}
+{"word": ["ZOO"], "author": "trlica"}
+{"word": ["zooropa"], "author": null}
+{"word": ["colorful"], "author": "trlica"}
+{"word": ["rainbow"], "author": null}
+{"word": ["rain"], "author": "trlica"}
+{"word": ["my town right now"], "author": "My smile is relief"}
+{"word": ["Bosnia\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Europe"], "author": null}
+{"word": ["Carrie"], "author": "My smile is relief"}
+{"word": ["Carry"], "author": null}
+{"word": ["Suitcase"], "author": "Acrobatic.Kiwi"}
+{"word": ["All that you cant leave behind:)"], "author": null}
+{"word": ["All Because Of You\u00a0"], "author": "JSab"}
+{"word": ["airport\u00a0 ( the cover shot, right?)"], "author": "StrongGirl"}
+{"word": ["Plane"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Travel"], "author": null}
+{"word": ["Dream"], "author": "My smile is relief"}
+{"word": ["Sky"], "author": null}
+{"word": ["Cloud"], "author": "My smile is relief"}
+{"word": ["Gray"], "author": null}
+{"word": ["Mouse"], "author": "My smile is relief"}
+{"word": ["Cheese"], "author": null}
+{"word": ["White"], "author": "My smile is relief"}
+{"word": ["Clean"], "author": null}
+{"word": ["House"], "author": "My smile is relief"}
+{"word": ["Home"], "author": null}
+{"word": ["Family"], "author": "My smile is relief"}
+{"word": ["Us"], "author": null}
+{"word": ["Magazine\u00a0 ( Us Magazine\u00a0"], "author": "StrongGirl"}
+{"word": ["Celebrities"], "author": "Acrobatic.Kiwi"}
+{"word": ["Scandals"], "author": "My smile is relief"}
+{"word": ["Sandals\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Shoes"], "author": null}
+{"word": ["Socks"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Christmas"], "author": null}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Paper"], "author": null}
+{"word": ["Tree"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Forest"], "author": null}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Grass"], "author": null}
+{"word": ["Green (I cheated as well)\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Green day"], "author": null}
+{"word": ["American Idiot"], "author": "My smile is relief"}
+{"word": ["Kennedy space center..."], "author": null}
+{"word": ["Florida"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sunny"], "author": "singnomore"}
+{"word": ["Sky"], "author": null}
+{"word": ["Blue"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Blues"], "author": null}
+{"word": ["Jazz"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Music"], "author": null}
+{"word": ["Dance"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ballet"], "author": "singnomore"}
+{"word": ["Tutu\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bishop\u00a0"], "author": "singnomore"}
+{"word": ["Chess\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Check!"], "author": "singnomore"}
+{"word": ["Mate\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pal\u00a0"], "author": "singnomore"}
+{"word": ["Friend"], "author": "A_Fly_On_The_Wall"}
+{"word": ["doesn't exist"], "author": "trlica"}
+{"word": ["*HUGS* im your friend!"], "author": null}
+{"word": ["We are all of your friends Trlica\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["yeah true!"], "author": "My smile is relief"}
+{"word": ["Space... (Now im starting to think of that david bowie song)"], "author": null}
+{"word": ["Star Wars"], "author": "My smile is relief"}
+{"word": ["Spaceballs"], "author": null}
+{"word": ["meteorites"], "author": "trlica"}
+{"word": ["rain"], "author": "My smile is relief"}
+{"word": ["umbrella"], "author": "trlica"}
+{"word": ["Today"], "author": null}
+{"word": ["waiting"], "author": "trlica"}
+{"word": ["Summer"], "author": null}
+{"word": ["Winter"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Snow"], "author": null}
+{"word": ["Melt !!!!"], "author": "StrongGirl"}
+{"word": ["Ice"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ice cream...... I WANT SOME NOOOW"], "author": null}
+{"word": ["Vanilla"], "author": "A_Fly_On_The_Wall"}
+{"word": ["black"], "author": null}
+{"word": ["grape"], "author": "singnomore"}
+{"word": ["mhmm!!!\u00a0"], "author": "My smile is relief"}
+{"word": ["Orange"], "author": null}
+{"word": ["Jumpsuit ( the color that prisoners wear here)"], "author": "StrongGirl"}
+{"word": ["The 80's\u00a0"], "author": "singnomore"}
+{"word": ["candies\u00a0"], "author": "trlica"}
+{"word": ["sweets"], "author": "My smile is relief"}
+{"word": ["Love hearts"], "author": null}
+{"word": ["Valentines day"], "author": "My smile is relief"}
+{"word": ["My birthday\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flys birthday"], "author": null}
+{"word": ["February"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Winter"], "author": null}
+{"word": ["Summer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sun"], "author": "My smile is relief"}
+{"word": ["Sea"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Surf !\u00a0"], "author": "StrongGirl"}
+{"word": ["Board"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Board of directors"], "author": "My smile is relief"}
+{"word": ["torture\u00a0"], "author": "trlica"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["lovely\u00a0"], "author": "trlica"}
+{"word": ["coughBonocough"], "author": null}
+{"word": ["Dad"], "author": "My smile is relief"}
+{"word": ["now it is.....pain\u00a0"], "author": "trlica"}
+{"word": ["war"], "author": null}
+{"word": ["hard times"], "author": "My smile is relief"}
+{"word": ["school"], "author": null}
+{"word": ["pain\u00a0 \u00a0(again)\u00a0 \u00a0"], "author": "trlica"}
+{"word": ["vaccine"], "author": "My smile is relief"}
+{"word": ["health"], "author": "trlica"}
+{"word": ["doctor"], "author": "My smile is relief"}
+{"word": ["sexy\u00a0"], "author": "trlica"}
+{"word": ["haha you and your dirty mind!\u00a0"], "author": "My smile is relief"}
+{"word": ["salsa"], "author": null}
+{"word": ["samba"], "author": "My smile is relief"}
+{"word": ["dancing"], "author": null}
+{"word": ["nice clothes"], "author": "trlica"}
+{"word": ["fashion\u00a0"], "author": "StrongGirl"}
+{"word": ["cash"], "author": null}
+{"word": ["Spend"], "author": "A_Fly_On_The_Wall"}
+{"word": ["buy"], "author": null}
+{"word": ["Sell"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sale"], "author": "My smile is relief"}
+{"word": ["Price"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Expensive"], "author": "My smile is relief"}
+{"word": ["Cheap"], "author": "A_Fly_On_The_Wall"}
+{"word": ["second hand shop"], "author": "My smile is relief"}
+{"word": ["Used"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hand"], "author": "My smile is relief"}
+{"word": ["Arm"], "author": "A_Fly_On_The_Wall"}
+{"word": ["body"], "author": "My smile is relief"}
+{"word": ["Skeleton"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Biology class"], "author": "My smile is relief"}
+{"word": ["Science"], "author": "A_Fly_On_The_Wall"}
+{"word": ["scientist"], "author": "My smile is relief"}
+{"word": ["Back To The Future"], "author": "A_Fly_On_The_Wall"}
+{"word": ["DeLorean"], "author": "YellowLedbetter"}
+{"word": ["Car"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Drive\u00a0 \u00a0( great song by a great band the Cars)"], "author": "StrongGirl"}
+{"word": ["Drive My Car (The Beatles song!)"], "author": "EnduringChill"}
+{"word": ["John Lennon"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Leonard Cohen"], "author": "My smile is relief"}
+{"word": ["Bad"], "author": "EnduringChill"}
+{"word": ["The Room\u00a0"], "author": "Starman"}
+{"word": ["Movie"], "author": "My smile is relief"}
+{"word": ["Film"], "author": "EnduringChill"}
+{"word": ["Photos"], "author": "Starman"}
+{"word": ["Black and White"], "author": "StrongGirl"}
+{"word": ["Root beer"], "author": "EnduringChill"}
+{"word": ["Ginger ale?"], "author": null}
+{"word": ["Beverage"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Water"], "author": null}
+{"word": ["Tap"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Water"], "author": null}
+{"word": ["Steams"], "author": "theocean"}
+{"word": ["Condensation"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Drippy"], "author": "singnomore"}
+{"word": ["pipe"], "author": "trlica"}
+{"word": ["Smoke"], "author": "EnduringChill"}
+{"word": ["Candles"], "author": "theocean"}
+{"word": ["16 (never seen that movie, though...)"], "author": "EnduringChill"}
+{"word": ["Driving car"], "author": null}
+{"word": ["18 years!"], "author": "My smile is relief"}
+{"word": ["Birthday"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cake\u00a0"], "author": "StrongGirl"}
+{"word": ["Chocolate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Charlie and the chocolate factory"], "author": null}
+{"word": ["Movie"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Game"], "author": null}
+{"word": ["Twister"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Breaking bones"], "author": null}
+{"word": ["Skeleton"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bones (tv show)"], "author": "My smile is relief"}
+{"word": ["graveyard"], "author": "trlica"}
+{"word": ["horror movies"], "author": "My smile is relief"}
+{"word": ["good movies"], "author": "trlica"}
+{"word": ["Bad movies"], "author": "EnduringChill"}
+{"word": ["The new narnia movies! (The old ones were sooooo much better)"], "author": null}
+{"word": ["Allegory"], "author": "EnduringChill"}
+{"word": ["Metaphor"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Poems"], "author": "StrongGirl"}
+{"word": ["Edgar Allan Poe"], "author": "My smile is relief"}
+{"word": ["Poet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Thief"], "author": null}
+{"word": ["Lyric"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Song"], "author": null}
+{"word": ["Dance"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Samba"], "author": "My smile is relief"}
+{"word": ["Salsa"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cuba"], "author": "My smile is relief"}
+{"word": ["South America"], "author": "A_Fly_On_The_Wall"}
+{"word": ["North America"], "author": "My smile is relief"}
+{"word": ["Las Vegas"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Casino"], "author": "My smile is relief"}
+{"word": ["Games"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gambling"], "author": "My smile is relief"}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Overrated"], "author": "My smile is relief"}
+{"word": ["U2\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["*steps on fly*"], "author": null}
+{"word": ["Fly has been killed by SE\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Okay U2- Love"], "author": null}
+{"word": ["Heart"], "author": "My smile is relief"}
+{"word": ["Sweet (as in sweetheart)"], "author": "A_Fly_On_The_Wall"}
+{"word": ["love"], "author": "My smile is relief"}
+{"word": ["Fly\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Brother\u00a0"], "author": "My smile is relief"}
+{"word": ["Sister\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Brother"], "author": "EnduringChill"}
+{"word": ["FAMILY"], "author": null}
+{"word": ["Us"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Happy"], "author": "My smile is relief"}
+{"word": ["birthday!"], "author": "StrongGirl"}
+{"word": ["Candles"], "author": "theocean"}
+{"word": ["Christmas"], "author": null}
+{"word": ["Tree!"], "author": "StrongGirl"}
+{"word": ["Joshua tree"], "author": null}
+{"word": ["With or Without You"], "author": "My smile is relief"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": null}
+{"word": ["Sheet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["violin"], "author": null}
+{"word": ["Instrument"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Piano"], "author": "My smile is relief"}
+{"word": ["Beautiful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Music"], "author": "My smile is relief"}
+{"word": ["Lyrics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Words"], "author": "My smile is relief"}
+{"word": ["Speak"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Language"], "author": "My smile is relief"}
+{"word": ["English"], "author": "A_Fly_On_The_Wall"}
+{"word": ["England"], "author": "My smile is relief"}
+{"word": ["London"], "author": "A_Fly_On_The_Wall"}
+{"word": ["London Eye"], "author": "My smile is relief"}
+{"word": ["Wheel"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beatles"], "author": "My smile is relief"}
+{"word": ["Band"], "author": "A_Fly_On_The_Wall"}
+{"word": ["U2"], "author": "EnduringChill"}
+{"word": ["True love"], "author": null}
+{"word": ["Romance"], "author": "EnduringChill"}
+{"word": ["Movies"], "author": null}
+{"word": ["Horror"], "author": "EnduringChill"}
+{"word": ["Scary"], "author": null}
+{"word": ["Frightened"], "author": "EnduringChill"}
+{"word": ["Shark"], "author": null}
+{"word": ["Teeth"], "author": "EnduringChill"}
+{"word": ["Dentist"], "author": null}
+{"word": ["Drilling"], "author": "EnduringChill"}
+{"word": ["tool"], "author": "trlica"}
+{"word": ["Spanner"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Scanner"], "author": "EnduringChill"}
+{"word": ["Computer"], "author": "My smile is relief"}
+{"word": ["L'ordinateur (French for computer)"], "author": "EnduringChill"}
+{"word": ["bonjour!"], "author": "My smile is relief"}
+{"word": ["Hola!"], "author": "EnduringChill"}
+{"word": ["Ciao!"], "author": "My smile is relief"}
+{"word": ["Italy"], "author": "EnduringChill"}
+{"word": ["pasta"], "author": "trlica"}
+{"word": ["Pesto"], "author": "EnduringChill"}
+{"word": ["Addiction"], "author": null}
+{"word": ["Drug"], "author": "EnduringChill"}
+{"word": ["Ecstasy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Morphine"], "author": "EnduringChill"}
+{"word": ["Medicine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Painkiller"], "author": "EnduringChill"}
+{"word": ["Fly spray\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Death"], "author": "EnduringChill"}
+{"word": ["Life"], "author": "A_Fly_On_The_Wall"}
+{"word": ["appreciation"], "author": "trlica"}
+{"word": ["Praise"], "author": "theocean"}
+{"word": ["Joy"], "author": "EnduringChill"}
+{"word": ["Alleluia !!"], "author": "StrongGirl"}
+{"word": ["Amen!"], "author": null}
+{"word": ["religion"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Catholic"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Vatican"], "author": "My smile is relief"}
+{"word": ["Pope"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Church"], "author": "My smile is relief"}
+{"word": ["Holy"], "author": null}
+{"word": ["Spirit"], "author": "My smile is relief"}
+{"word": ["Ghost"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Haunted"], "author": null}
+{"word": ["House"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Old"], "author": "My smile is relief"}
+{"word": ["Veteran"], "author": "A_Fly_On_The_Wall"}
+{"word": ["War"], "author": null}
+{"word": ["Album"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Boy"], "author": null}
+{"word": ["Man"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Car"], "author": "My smile is relief"}
+{"word": ["Bentley"], "author": null}
+{"word": ["British"], "author": "A_Fly_On_The_Wall"}
+{"word": ["People"], "author": "My smile is relief"}
+{"word": ["Animals"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Zoo"], "author": null}
+{"word": ["Animals\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": [""], "author": null}
+{"word": ["Huh"], "author": "My smile is relief"}
+{"word": ["Confusion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["question mark"], "author": "My smile is relief"}
+{"word": ["Punctuation"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dictionary"], "author": null}
+{"word": ["Words"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lyrics"], "author": null}
+{"word": ["Songs"], "author": "My smile is relief"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Life"], "author": "My smile is relief"}
+{"word": ["Monopoly"], "author": null}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Broke (thought you were leaving?)"], "author": null}
+{"word": ["penniless"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["I am soon\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Casino"], "author": null}
+{"word": ["Lights"], "author": "A_Fly_On_The_Wall"}
+{"word": ["bright"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Light"], "author": "EnduringChill"}
+{"word": ["heaven"], "author": null}
+{"word": ["Hell"], "author": "EnduringChill"}
+{"word": ["demon"], "author": null}
+{"word": ["Devil!"], "author": "EnduringChill"}
+{"word": ["Mestipho"], "author": null}
+{"word": ["Mephistopheles"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Cain"], "author": null}
+{"word": ["Abel"], "author": "EnduringChill"}
+{"word": ["yeah yeah, I knew I spelled it wrong!"], "author": null}
+{"word": ["Visibility"], "author": "EnduringChill"}
+{"word": ["eyes"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Blue"], "author": "EnduringChill"}
+{"word": ["song"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["singing"], "author": "EnduringChill"}
+{"word": ["rain"], "author": null}
+{"word": ["Mist"], "author": "EnduringChill"}
+{"word": ["fog"], "author": null}
+{"word": ["morning"], "author": "My smile is relief"}
+{"word": ["after"], "author": "EnduringChill"}
+{"word": ["midnight"], "author": "My smile is relief"}
+{"word": ["is where the day begins"], "author": "EnduringChill"}
+{"word": ["lemon"], "author": "My smile is relief"}
+{"word": ["see through in the sunlight"], "author": "EnduringChill"}
+{"word": ["she wore lemon"], "author": "My smile is relief"}
+{"word": ["but never in the daylight"], "author": "EnduringChill"}
+{"word": ["she's gonna make you cry"], "author": "My smile is relief"}
+{"word": ["she's gonna make you whisper and moan"], "author": "EnduringChill"}
+{"word": ["and when you're dry"], "author": "My smile is relief"}
+{"word": ["she draws the water from the stone"], "author": "EnduringChill"}
+{"word": ["Edge singing!"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["-_______-"], "author": "EnduringChill"}
+{"word": ["Pop Edge"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["HOT"], "author": "EnduringChill"}
+{"word": ["sun"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["bright"], "author": "EnduringChill"}
+{"word": ["Light"], "author": "My smile is relief"}
+{"word": ["sun glasses"], "author": "trlica"}
+{"word": ["summer"], "author": "My smile is relief"}
+{"word": ["hat"], "author": "trlica"}
+{"word": ["mad hatter"], "author": "My smile is relief"}
+{"word": ["troubles"], "author": "trlica"}
+{"word": ["school"], "author": "My smile is relief"}
+{"word": ["No!"], "author": "trlica"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["Nurse"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Female"], "author": "EnduringChill"}
+{"word": ["gender"], "author": "StrongGirl"}
+{"word": ["Age"], "author": "A_Fly_On_The_Wall"}
+{"word": ["old"], "author": "EnduringChill"}
+{"word": ["Young"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Silly"], "author": "EnduringChill"}
+{"word": ["Billy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bob"], "author": "EnduringChill"}
+{"word": ["Builder"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Can we fix it?"], "author": "EnduringChill"}
+{"word": ["Catchphrase"], "author": "A_Fly_On_The_Wall"}
+{"word": ["please god...never make me have to see that show again in my lifetime"], "author": null}
+{"word": ["Alliteration"], "author": "EnduringChill"}
+{"word": ["Onomatopoeia\u00a0"], "author": null}
+{"word": ["grammar\u00a0"], "author": "My smile is relief"}
+{"word": ["slang"], "author": null}
+{"word": ["Colloquialism"], "author": "EnduringChill"}
+{"word": ["(holy CRAP - really??)"], "author": null}
+{"word": ["(Really what? I LOVE that word.)"], "author": "EnduringChill"}
+{"word": ["(no, no its a great word...just wow)"], "author": null}
+{"word": ["Tongue"], "author": "EnduringChill"}
+{"word": ["in my ear...does that count?"], "author": null}
+{"word": ["No Line On The Horizon"], "author": "EnduringChill"}
+{"word": ["Magnificent"], "author": null}
+{"word": ["Awesome"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Fawesome"], "author": "EnduringChill"}
+{"word": ["Fawn"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Gooey (like, to fawn over something"], "author": "EnduringChill"}
+{"word": ["sticky"], "author": null}
+{"word": ["Insect"], "author": "EnduringChill"}
+{"word": ["fly"], "author": null}
+{"word": ["The Fly"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["The first time"], "author": null}
+{"word": ["The Million Dollar Hotel"], "author": "EnduringChill"}
+{"word": ["Rattle and Hum"], "author": null}
+{"word": ["Desire"], "author": "EnduringChill"}
+{"word": ["Bono\u00a0"], "author": "theocean"}
+{"word": ["Perfect!"], "author": null}
+{"word": ["100%"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Percentage"], "author": "EnduringChill"}
+{"word": ["Decimal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fraction"], "author": "EnduringChill"}
+{"word": ["Half"], "author": "A_Fly_On_The_Wall"}
+{"word": ["One tenth"], "author": "EnduringChill"}
+{"word": ["Second"], "author": "A_Fly_On_The_Wall"}
+{"word": ["time"], "author": "My smile is relief"}
+{"word": ["Seconds (like the song)"], "author": "EnduringChill"}
+{"word": ["Watch"], "author": "My smile is relief"}
+{"word": ["Ticktock"], "author": "EnduringChill"}
+{"word": ["Kesha (she has some song called Ticktock or something)\u00a0"], "author": "My smile is relief"}
+{"word": ["Monster"], "author": "EnduringChill"}
+{"word": ["horror film\u00a0"], "author": "StrongGirl"}
+{"word": ["Scary"], "author": "EnduringChill"}
+{"word": ["Saw (the movie)"], "author": null}
+{"word": ["Blood"], "author": "EnduringChill"}
+{"word": ["Some armless guy"], "author": "Starman"}
+{"word": ["World War II"], "author": "EnduringChill"}
+{"word": ["Heroes"], "author": null}
+{"word": ["The Script (I forget why but somehow the words make me think of them)"], "author": "EnduringChill"}
+{"word": ["Eve Hewson"], "author": null}
+{"word": ["Beautiful"], "author": "EnduringChill"}
+{"word": ["Day"], "author": null}
+{"word": ["night"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Black"], "author": "EnduringChill"}
+{"word": ["rolling stones song"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["red"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Rose"], "author": null}
+{"word": ["flower"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Calla"], "author": "My smile is relief"}
+{"word": ["Lily"], "author": "EnduringChill"}
+{"word": ["Potter (the books)"], "author": null}
+{"word": ["Harry Potter World in Orlando!!"], "author": "EnduringChill"}
+{"word": ["E.T. the extraterrestrial"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["You"], "author": "EnduringChill"}
+{"word": ["Me"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["totally awesome"], "author": null}
+{"word": ["U2"], "author": "My smile is relief"}
+{"word": [""], "author": null}
+{"word": ["Dad\u00a0"], "author": "My smile is relief"}
+{"word": ["Family"], "author": "A_Fly_On_The_Wall"}
+{"word": ["You\u00a0"], "author": "My smile is relief"}
+{"word": ["(You guys are weird)"], "author": null}
+{"word": ["yeah! we're!"], "author": "My smile is relief"}
+{"word": ["crowd"], "author": null}
+{"word": ["^ We're just family Jo and it would take way too long to explain\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(yeah, I know MG and EC and Smile tried to explain.\u00a0 My response :\u00a0 OH MY GOD, YOU ARE STRANGE people)"], "author": null}
+{"word": ["It's nice to have a family on a forum, but the way in which we were \"concieved\" was weird\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mob"], "author": null}
+{"word": ["Mafia"], "author": "A_Fly_On_The_Wall"}
+{"word": ["enforcer"], "author": null}
+{"word": ["Physical"], "author": "A_Fly_On_The_Wall"}
+{"word": ["fitness"], "author": null}
+{"word": ["Gym"], "author": "A_Fly_On_The_Wall"}
+{"word": ["suffering"], "author": null}
+{"word": ["Death"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spirits"], "author": null}
+{"word": ["Alcohol"], "author": "A_Fly_On_The_Wall"}
+{"word": ["beer"], "author": null}
+{"word": ["Drink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["bottle"], "author": "trlica"}
+{"word": ["Glass"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wine"], "author": "StrongGirl"}
+{"word": ["Champagne"], "author": null}
+{"word": ["Bubbly"], "author": "EnduringChill"}
+{"word": ["Stuff XD"], "author": null}
+{"word": ["items"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["possesions"], "author": null}
+{"word": ["stars ("], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["north star\u00a0"], "author": null}
+{"word": ["flying"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["eagle"], "author": "u2yooper"}
+{"word": ["wings"], "author": null}
+{"word": ["Drowning Man"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Adam"], "author": null}
+{"word": ["Clayton"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["bass"], "author": null}
+{"word": ["guitar"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Edge"], "author": null}
+{"word": ["LOVE"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Bono"], "author": null}
+{"word": ["Blue"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["eyes"], "author": null}
+{"word": ["green"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["guitar (Bono's)"], "author": null}
+{"word": ["Irish"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["accent - hubba hubba"], "author": null}
+{"word": ["Yummy"], "author": "EnduringChill"}
+{"word": ["cake"], "author": null}
+{"word": ["Chocolate"], "author": "EnduringChill"}
+{"word": ["vanilla"], "author": null}
+{"word": ["ICE\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rapper"], "author": null}
+{"word": ["Musician"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Edge"], "author": null}
+{"word": ["Cliff"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Diving"], "author": null}
+{"word": ["Water"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(the) Ocean"], "author": null}
+{"word": ["song"], "author": null}
+{"word": ["classic rock"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["rock"], "author": null}
+{"word": ["rock ('n roll)"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["drugs"], "author": null}
+{"word": ["1960s"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Hippie"], "author": null}
+{"word": ["some great music: (the beatles, (some of the stones stuff) stand out)"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["My teacher (he loves the beatles)"], "author": null}
+{"word": ["not all of the beatle songs are lennon or macca songs. george did write you know. um yeah ringo has 2 songs that he wrote but george has more than ringo but a diff style than lennon or macca."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["I know very little about the beatles, so that didnt make much sense to me XD"], "author": null}
+{"word": ["ok try my youtube page on my profile for some stuff aka there are beatle playlists aka: paul's songs, john's george's and the beatles"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["My English teacher"], "author": "EnduringChill"}
+{"word": ["English"], "author": null}
+{"word": ["Norwegian"], "author": "EnduringChill"}
+{"word": ["Trolls"], "author": null}
+{"word": ["Dolls"], "author": "EnduringChill"}
+{"word": ["Creepy"], "author": null}
+{"word": ["spiders\u00a0"], "author": "StrongGirl"}
+{"word": ["legs"], "author": null}
+{"word": ["Shaving"], "author": "EnduringChill"}
+{"word": ["cream"], "author": null}
+{"word": ["Milk"], "author": "EnduringChill"}
+{"word": ["chocolate"], "author": null}
+{"word": ["Raisens"], "author": "EnduringChill"}
+{"word": ["bunnies"], "author": null}
+{"word": ["Baby"], "author": "EnduringChill"}
+{"word": ["face"], "author": null}
+{"word": ["Depressed"], "author": "EnduringChill"}
+{"word": ["Life"], "author": null}
+{"word": ["Sucks"], "author": "EnduringChill"}
+{"word": ["School"], "author": null}
+{"word": ["DEPRESSED!"], "author": "EnduringChill"}
+{"word": ["People"], "author": null}
+{"word": ["Women"], "author": "A_Fly_On_The_Wall"}
+{"word": ["see people also w/ the combo of that oh well i can't think much w/ this one since i'm best online w/ intereaction on a social manner."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["whaaaaaaaaaatt??"], "author": null}
+{"word": ["confused"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["crazy"], "author": null}
+{"word": ["insane"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Bieber fans XD"], "author": null}
+{"word": ["ick"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Justin bieber"], "author": null}
+{"word": ["horrifying"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Scary"], "author": null}
+{"word": ["Spiders"], "author": "singnomore"}
+{"word": ["Harry potter 2"], "author": null}
+{"word": ["Chamber"], "author": null}
+{"word": ["Quittich"], "author": "theocean"}
+{"word": ["Game"], "author": "EnduringChill"}
+{"word": ["Dice"], "author": null}
+{"word": ["Tumbling"], "author": "EnduringChill"}
+{"word": ["Love comes tumbling"], "author": null}
+{"word": ["song"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Like a song"], "author": null}
+{"word": ["80s"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Best music"], "author": null}
+{"word": ["classic rock"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Genre"], "author": "EnduringChill"}
+{"word": ["category"], "author": null}
+{"word": ["orginization"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["club"], "author": null}
+{"word": ["deck of cards"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["poker"], "author": "trlica"}
+{"word": ["Money"], "author": null}
+{"word": ["This is what I was just thinking about\u00a0"], "author": "trlica"}
+{"word": ["Rich"], "author": null}
+{"word": ["oh i was thinking of a pink floyd song for money. ok. um... ok:"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["unfortunate"], "author": null}
+{"word": ["a series of unfortunate events"], "author": null}
+{"word": ["lemony snicket"], "author": null}
+{"word": ["An awesome author"], "author": null}
+{"word": ["J K Rowling"], "author": null}
+{"word": ["England"], "author": null}
+{"word": ["London"], "author": "My smile is relief"}
+{"word": ["me\u00a0"], "author": "trlica"}
+{"word": ["great person"], "author": "My smile is relief"}
+{"word": ["Kind"], "author": "EnduringChill"}
+{"word": ["Person"], "author": "My smile is relief"}
+{"word": ["Human"], "author": "EnduringChill"}
+{"word": ["The Killers"], "author": "My smile is relief"}
+{"word": ["Music"], "author": "EnduringChill"}
+{"word": ["Art"], "author": "Dorians"}
+{"word": ["Pictures"], "author": "My smile is relief"}
+{"word": ["Camera"], "author": "Dorians"}
+{"word": ["phone"], "author": "My smile is relief"}
+{"word": ["Smart"], "author": "Dorians"}
+{"word": ["You\u00a0"], "author": "My smile is relief"}
+{"word": ["Two\u00a0"], "author": "Dorians"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["Mathematics"], "author": "Dorians"}
+{"word": ["School"], "author": "My smile is relief"}
+{"word": ["Teacher"], "author": "Dorians"}
+{"word": ["Army"], "author": "My smile is relief"}
+{"word": ["War"], "author": "Dorians"}
+{"word": ["1983\u00a0"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "Dorians"}
+{"word": ["USA"], "author": "My smile is relief"}
+{"word": ["Obama"], "author": "Dorians"}
+{"word": ["President"], "author": "My smile is relief"}
+{"word": ["Elections"], "author": "Dorians"}
+{"word": ["polictical ads"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Money"], "author": "Dorians"}
+{"word": ["Troubles"], "author": "My smile is relief"}
+{"word": ["Solution"], "author": "Dorians"}
+{"word": ["Choices"], "author": "My smile is relief"}
+{"word": ["Freedom"], "author": "Dorians"}
+{"word": ["Liberty"], "author": "EnduringChill"}
+{"word": ["statue"], "author": null}
+{"word": ["Figure"], "author": "EnduringChill"}
+{"word": ["skate"], "author": null}
+{"word": ["eight"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["mile (movie)"], "author": null}
+{"word": ["green"], "author": "My smile is relief"}
+{"word": ["Earth Day"], "author": "StrongGirl"}
+{"word": ["Event"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Number"], "author": "Dorians"}
+{"word": ["Word"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Microsoft"], "author": "Dorians"}
+{"word": ["System"], "author": "My smile is relief"}
+{"word": ["Science"], "author": null}
+{"word": ["Scientist"], "author": "Dorians"}
+{"word": ["Coldplay"], "author": "singnomore"}
+{"word": ["Yellow"], "author": "My smile is relief"}
+{"word": ["LEMON!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"], "author": null}
+{"word": ["Macphisto"], "author": null}
+{"word": ["Faust"], "author": "My smile is relief"}
+{"word": ["Devil"], "author": null}
+{"word": ["part of the lyrics to wrapped around your finger"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["The Police\u00a0"], "author": "singnomore"}
+{"word": ["prison"], "author": null}
+{"word": ["Hamburglar"], "author": "Acrobatic.Kiwi"}
+{"word": ["McDonaldland"], "author": "My smile is relief"}
+{"word": ["The USA"], "author": "Dorians"}
+{"word": ["New York"], "author": "My smile is relief"}
+{"word": ["Broadway"], "author": "Dorians"}
+{"word": ["Street"], "author": "My smile is relief"}
+{"word": ["Cars"], "author": "Dorians"}
+{"word": ["Noise"], "author": "My smile is relief"}
+{"word": ["Ears"], "author": "Dorians"}
+{"word": ["Quiet"], "author": "theocean"}
+{"word": ["Sea"], "author": "Dorians"}
+{"word": ["boat"], "author": "FiOz"}
+{"word": ["Sailor"], "author": "Acrobatic.Kiwi"}
+{"word": ["Song"], "author": "Dorians"}
+{"word": ["Singer"], "author": "My smile is relief"}
+{"word": ["Actor"], "author": "Dorians"}
+{"word": ["Oscar"], "author": "My smile is relief"}
+{"word": ["Award"], "author": "Dorians"}
+{"word": ["Grammy"], "author": "My smile is relief"}
+{"word": ["Michael Jackson (most Grammy awarded artist)"], "author": "Dorians"}
+{"word": ["Thriller"], "author": "My smile is relief"}
+{"word": ["Movie"], "author": "Dorians"}
+{"word": ["Cinema"], "author": "My smile is relief"}
+{"word": ["Hollywood"], "author": "Dorians"}
+{"word": ["California"], "author": "My smile is relief"}
+{"word": ["Sun"], "author": "Dorians"}
+{"word": ["Sun lotion"], "author": "trlica"}
+{"word": ["Skin"], "author": "Dorians"}
+{"word": ["organ"], "author": "trlica"}
+{"word": ["Heart"], "author": "Dorians"}
+{"word": ["Soul"], "author": "EnduringChill"}
+{"word": ["Music"], "author": "Dorians"}
+{"word": ["Ears"], "author": "EnduringChill"}
+{"word": ["Earrings"], "author": "StrongGirl"}
+{"word": ["Hair"], "author": "EnduringChill"}
+{"word": ["Spray"], "author": "Dorians"}
+{"word": ["White"], "author": "EnduringChill"}
+{"word": ["Color"], "author": "Dorians"}
+{"word": ["Silver"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gold"], "author": "EnduringChill"}
+{"word": ["chain"], "author": null}
+{"word": ["Clank"], "author": "EnduringChill"}
+{"word": ["Ratchet (Ratchet & Clank the video game!)"], "author": null}
+{"word": ["Robot"], "author": "EnduringChill"}
+{"word": ["koala"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Bear"], "author": "EnduringChill"}
+{"word": ["nom"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Food"], "author": "EnduringChill"}
+{"word": ["Fast"], "author": "Dorians"}
+{"word": ["Cars"], "author": null}
+{"word": ["Wheels"], "author": "Dorians"}
+{"word": ["Good to see\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Boxing"], "author": "Dorians"}
+{"word": ["Sport"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sneakers"], "author": "Dorians"}
+{"word": ["Feet"], "author": "FiOz"}
+{"word": ["Leg"], "author": "My smile is relief"}
+{"word": ["Arm"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Body"], "author": "My smile is relief"}
+{"word": ["Person"], "author": "FiOz"}
+{"word": ["Man"], "author": "My smile is relief"}
+{"word": ["Woman"], "author": "A_Fly_On_The_Wall"}
+{"word": ["beautiful"], "author": "My smile is relief"}
+{"word": ["Awful"], "author": "Dorians"}
+{"word": ["Sad"], "author": "EnduringChill"}
+{"word": ["My PE grade XD"], "author": null}
+{"word": ["Bad"], "author": "EnduringChill"}
+{"word": ["nice"], "author": "trlica"}
+{"word": ["Weather"], "author": "A_Fly_On_The_Wall"}
+{"word": ["climate"], "author": null}
+{"word": ["Hot"], "author": "A_Fly_On_The_Wall"}
+{"word": ["oh, you won't like this one..."], "author": null}
+{"word": ["Rock Star\u00a0"], "author": "StrongGirl"}
+{"word": ["visitors can't see pics , please You are not allowed to view links."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Album"], "author": "EnduringChill"}
+{"word": ["photos"], "author": null}
+{"word": ["Camera"], "author": "FiOz"}
+{"word": ["lens"], "author": null}
+{"word": ["Eyes"], "author": "EnduringChill"}
+{"word": ["Blue"], "author": null}
+{"word": ["^"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Love"], "author": "EnduringChill"}
+{"word": ["lust"], "author": null}
+{"word": ["want"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Need"], "author": "A_Fly_On_The_Wall"}
+{"word": ["desire\u00a0"], "author": null}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music store"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["videos"], "author": null}
+{"word": ["Zoo TV"], "author": "EnduringChill"}
+{"word": ["Concert"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Lyrics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["songs"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Rock"], "author": "A_Fly_On_The_Wall"}
+{"word": ["classic rock"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Genre"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sort (of)"], "author": "Dorians"}
+{"word": ["Code (as in sort code)"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bank"], "author": "Dorians"}
+{"word": ["money"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Currency"], "author": "A_Fly_On_The_Wall"}
+{"word": ["i think a bit more for me w/ the week bit um due to the anxiety for at least hightened for the past 2 weeks but we'll see about next week um next word:"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Continent"], "author": "A_Fly_On_The_Wall"}
+{"word": ["land"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Dry"], "author": "A_Fly_On_The_Wall"}
+{"word": ["humor"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Funny"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["fun"], "author": "trlica"}
+{"word": ["Play"], "author": "EnduringChill"}
+{"word": ["stage"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Set"], "author": "A_Fly_On_The_Wall"}
+{"word": ["concert (ie setlist)"], "author": null}
+{"word": ["Crowd"], "author": "A_Fly_On_The_Wall"}
+{"word": ["bathroom"], "author": "trlica"}
+{"word": ["Toilet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["loo"], "author": null}
+{"word": ["Waste"], "author": "A_Fly_On_The_Wall"}
+{"word": ["loss"], "author": null}
+{"word": ["Weight"], "author": "A_Fly_On_The_Wall"}
+{"word": ["carat"], "author": null}
+{"word": ["Bugs Bunny\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(wrong carat"], "author": null}
+{"word": ["Animal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vegetable"], "author": null}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cash"], "author": null}
+{"word": ["Flash"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mob"], "author": null}
+{"word": ["Mafia"], "author": "A_Fly_On_The_Wall"}
+{"word": ["extortion"], "author": null}
+{"word": ["Crime"], "author": "A_Fly_On_The_Wall"}
+{"word": ["punishment"], "author": null}
+{"word": ["Jail"], "author": "A_Fly_On_The_Wall"}
+{"word": ["criminal"], "author": "FiOz"}
+{"word": ["lawyer"], "author": null}
+{"word": ["judge"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["grade"], "author": null}
+{"word": ["teacher"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["classroom"], "author": null}
+{"word": ["blackboard"], "author": "FiOz"}
+{"word": ["chalk"], "author": null}
+{"word": ["cheese"], "author": "FiOz"}
+{"word": ["crackers\u00a0"], "author": "StrongGirl"}
+{"word": ["crazy"], "author": null}
+{"word": ["Insane"], "author": null}
+{"word": ["mad"], "author": null}
+{"word": ["Angry"], "author": null}
+{"word": ["grouchy"], "author": null}
+{"word": ["A word I dont understand XD"], "author": null}
+{"word": ["in a bad mood...unhappy"], "author": null}
+{"word": ["oh..."], "author": null}
+{"word": ["cry"], "author": null}
+{"word": ["tear"], "author": null}
+{"word": ["eyes"], "author": "trlica"}
+{"word": ["spanish eyes"], "author": null}
+{"word": ["funny"], "author": null}
+{"word": ["Jim carrey"], "author": null}
+{"word": ["stupid faces"], "author": "trlica"}
+{"word": ["smilies"], "author": null}
+{"word": ["\u00a0"], "author": null}
+{"word": ["\u00a0"], "author": null}
+{"word": ["Eye roll"], "author": "EnduringChill"}
+{"word": ["egg roll"], "author": null}
+{"word": ["OMNOMNOMNOM!!!!"], "author": "Starman"}
+{"word": ["hungry"], "author": "FiOz"}
+{"word": ["Starvation"], "author": "EnduringChill"}
+{"word": ["food"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["munchies"], "author": null}
+{"word": ["Doritos\u00a0"], "author": "StrongGirl"}
+{"word": ["poison"], "author": null}
+{"word": ["death"], "author": null}
+{"word": ["life"], "author": null}
+{"word": ["Love"], "author": null}
+{"word": ["heart"], "author": null}
+{"word": ["Soul"], "author": null}
+{"word": ["spirit"], "author": null}
+{"word": ["horse\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0"], "author": "Stella"}
+{"word": ["ride"], "author": null}
+{"word": ["Bike"], "author": null}
+{"word": ["wheels"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Foo Fighters"], "author": "My smile is relief"}
+{"word": ["nirvana"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Kurt Cobain"], "author": "My smile is relief"}
+{"word": ["dead"], "author": null}
+{"word": ["funeral"], "author": "My smile is relief"}
+{"word": ["a girl in my class\u00a0"], "author": null}
+{"word": ["sadness\u00a0"], "author": "trlica"}
+{"word": ["Hope"], "author": null}
+{"word": ["Faith"], "author": "My smile is relief"}
+{"word": ["Trust"], "author": null}
+{"word": ["Honesty"], "author": "FiOz"}
+{"word": ["Love"], "author": "My smile is relief"}
+{"word": ["Heart"], "author": null}
+{"word": ["valentine"], "author": null}
+{"word": ["February"], "author": "My smile is relief"}
+{"word": ["Cold"], "author": null}
+{"word": ["Ice"], "author": "My smile is relief"}
+{"word": ["Ice cream"], "author": null}
+{"word": ["yum"], "author": null}
+{"word": ["Tempura..."], "author": null}
+{"word": ["Japanese"], "author": null}
+{"word": ["Sushi"], "author": null}
+{"word": ["food"], "author": "My smile is relief"}
+{"word": ["hungry"], "author": null}
+{"word": ["breakfast ( in NY )\u00a0"], "author": "StrongGirl"}
+{"word": ["(at) Tiffany's"], "author": "My smile is relief"}
+{"word": ["sweet"], "author": "trlica"}
+{"word": ["candy"], "author": "My smile is relief"}
+{"word": ["Addiction"], "author": null}
+{"word": ["Heroin"], "author": "My smile is relief"}
+{"word": ["Drugs"], "author": null}
+{"word": ["Addicted"], "author": "EnduringChill"}
+{"word": ["Dangerous"], "author": null}
+{"word": ["Ruthless"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dictator"], "author": "StrongGirl"}
+{"word": ["government"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Land"], "author": null}
+{"word": ["Fields"], "author": "My smile is relief"}
+{"word": ["gold"], "author": "EnduringChill"}
+{"word": ["sting"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Russians (another Sting song)"], "author": "EnduringChill"}
+{"word": ["Vodka!"], "author": "theocean"}
+{"word": ["Potion"], "author": "EnduringChill"}
+{"word": ["Magic"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Harry Potter"], "author": null}
+{"word": ["Character"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cartoons"], "author": null}
+{"word": ["Family Guy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Stupid"], "author": "EnduringChill"}
+{"word": ["EC\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Liar"], "author": "EnduringChill"}
+{"word": ["You mean that"], "author": "A_Fly_On_The_Wall"}
+{"word": ["No."], "author": "EnduringChill"}
+{"word": ["^ No, because we are finding words to associate with the above post... hence you called yourself a liar\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["D'oh!"], "author": "EnduringChill"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Singing"], "author": "EnduringChill"}
+{"word": ["Dancing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Footsteps"], "author": "EnduringChill"}
+{"word": ["Sand"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rough"], "author": "EnduringChill"}
+{"word": ["Stuff"], "author": null}
+{"word": ["things"], "author": "EnduringChill"}
+{"word": ["Objects"], "author": null}
+{"word": ["Shiny"], "author": "EnduringChill"}
+{"word": ["Eyes"], "author": null}
+{"word": ["Blue"], "author": "EnduringChill"}
+{"word": ["That made me thing about Bonos eyes XD"], "author": null}
+{"word": ["Me too *drools*"], "author": "EnduringChill"}
+{"word": ["rainbow"], "author": null}
+{"word": ["Fluffy"], "author": "EnduringChill"}
+{"word": ["just HOW do you get fluffy from rainbow....are you on cough syrup"], "author": null}
+{"word": ["I got a lot of other things I didn't want to post before I came up with \"Rainbows and fluffy bunnies and all CUTE things!\" Y'know?"], "author": "EnduringChill"}
+{"word": ["Rabbit"], "author": "FiOz"}
+{"word": ["carrots"], "author": null}
+{"word": ["Vegetable"], "author": "EnduringChill"}
+{"word": ["healthy"], "author": null}
+{"word": ["Salubrious"], "author": "EnduringChill"}
+{"word": ["WOW"], "author": null}
+{"word": ["fancy (as in it's a fancy word)"], "author": null}
+{"word": ["Face (as in Fancy Face\u00a0 - Bo's nickname for Hope on Days of our Lives)\u00a0"], "author": "FiOz"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["casino"], "author": "FiOz"}
+{"word": ["don't know...but remember her wedding dress? As a \"younger\" person, I thought it was amazing!"], "author": null}
+{"word": ["Smoke (from casino)"], "author": "EnduringChill"}
+{"word": ["Bono B-)"], "author": null}
+{"word": ["Peace"], "author": "My smile is relief"}
+{"word": ["Something that will never happen"], "author": null}
+{"word": ["Unfortunately"], "author": "My smile is relief"}
+{"word": ["War"], "author": null}
+{"word": ["Soldiers"], "author": "My smile is relief"}
+{"word": ["Men"], "author": null}
+{"word": ["handsome"], "author": "theocean"}
+{"word": ["Adorable"], "author": "EnduringChill"}
+{"word": ["Cute"], "author": null}
+{"word": ["me!"], "author": null}
+{"word": ["Kind"], "author": null}
+{"word": ["fun"], "author": null}
+{"word": ["Amusing"], "author": "EnduringChill"}
+{"word": ["jokes"], "author": null}
+{"word": ["fooling"], "author": null}
+{"word": ["teasing"], "author": null}
+{"word": ["Ribbing"], "author": "EnduringChill"}
+{"word": ["mmmm...ribs"], "author": null}
+{"word": ["Australia"], "author": "A_Fly_On_The_Wall"}
+{"word": ["how exactly are they connected...."], "author": null}
+{"word": ["New Zealand"], "author": "EnduringChill"}
+{"word": ["Loads of people have BBQs in Australia and I should know you know..."], "author": "A_Fly_On_The_Wall"}
+{"word": ["South America"], "author": "EnduringChill"}
+{"word": ["South Beach"], "author": null}
+{"word": ["Sunny"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Yellow"], "author": null}
+{"word": ["Colour"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Shade"], "author": null}
+{"word": ["Grey"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dorian"], "author": null}
+{"word": ["Name"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Greg (random name)"], "author": "EnduringChill"}
+{"word": ["Focker\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["movie"], "author": "My smile is relief"}
+{"word": ["Horror"], "author": "A_Fly_On_The_Wall"}
+{"word": ["scared"], "author": "My smile is relief"}
+{"word": ["Frightened"], "author": "EnduringChill"}
+{"word": ["homework"], "author": "My smile is relief"}
+{"word": ["Annoying"], "author": "A_Fly_On_The_Wall"}
+{"word": ["reality shows"], "author": "My smile is relief"}
+{"word": ["American Idol"], "author": "EnduringChill"}
+{"word": ["Kurt Nilsen (norwegian guy who won World Idol...he is a U2-thief.....)"], "author": null}
+{"word": ["Lee Dewyze (another U2-thief)"], "author": "EnduringChill"}
+{"word": ["U2 thief"], "author": null}
+{"word": ["The Book Thief"], "author": "EnduringChill"}
+{"word": ["a book that i got for christmas and havent read yet....is it good?"], "author": null}
+{"word": ["I've never read it."], "author": "EnduringChill"}
+{"word": ["Old"], "author": null}
+{"word": ["Decrepit"], "author": "EnduringChill"}
+{"word": ["A word"], "author": null}
+{"word": ["upwords"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Hill"], "author": "EnduringChill"}
+{"word": ["land"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Water"], "author": "EnduringChill"}
+{"word": ["river"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Sea"], "author": "EnduringChill"}
+{"word": ["ocean"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["The Ocean"], "author": "EnduringChill"}
+{"word": ["username"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Password"], "author": "A_Fly_On_The_Wall"}
+{"word": ["security"], "author": null}
+{"word": ["Doorman"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bodyguard"], "author": null}
+{"word": ["Film"], "author": "A_Fly_On_The_Wall"}
+{"word": ["8mm"], "author": null}
+{"word": ["Action"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Thriller"], "author": null}
+{"word": ["Michael Jackson"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Strange"], "author": null}
+{"word": ["odd"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["even (like numbers)"], "author": null}
+{"word": ["get even (meaning revenge)"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["forgiveness"], "author": "StrongGirl"}
+{"word": ["Agree"], "author": null}
+{"word": ["Yes"], "author": null}
+{"word": ["Yes man"], "author": null}
+{"word": ["Man Overboard"], "author": null}
+{"word": ["Ship"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sea"], "author": null}
+{"word": ["Blue"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sad"], "author": null}
+{"word": ["Empty"], "author": null}
+{"word": ["Glass"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(I want to post \"the lady sings....but)"], "author": null}
+{"word": ["Man"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ball"], "author": null}
+{"word": ["Golden"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ring"], "author": null}
+{"word": ["Finger"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tips"], "author": "My smile is relief"}
+{"word": ["Hints"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Traces"], "author": "My smile is relief"}
+{"word": ["Clues"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sherlock Holmes"], "author": "My smile is relief"}
+{"word": ["Detective"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sleuth"], "author": null}
+{"word": ["Tracker"], "author": "EnduringChill"}
+{"word": ["tracks"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Railroad"], "author": "EnduringChill"}
+{"word": ["The road"], "author": null}
+{"word": ["Tarmac"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Material"], "author": "My smile is relief"}
+{"word": ["Stuff"], "author": null}
+{"word": ["Things"], "author": "My smile is relief"}
+{"word": ["Buy"], "author": null}
+{"word": ["Market"], "author": "My smile is relief"}
+{"word": ["Flea market"], "author": null}
+{"word": ["Red Hot Chili Peppers"], "author": "My smile is relief"}
+{"word": ["Under the bridge"], "author": null}
+{"word": ["my fav song"], "author": "My smile is relief"}
+{"word": ["if by the police then:"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["bandage"], "author": "trlica"}
+{"word": ["Blood"], "author": "EnduringChill"}
+{"word": ["War"], "author": "StrongGirl"}
+{"word": ["Boy"], "author": "EnduringChill"}
+{"word": ["Girl"], "author": "A_Fly_On_The_Wall"}
+{"word": ["woman"], "author": "FiOz"}
+{"word": ["No Woman, No Cry\u00a0 ( great documentary by Christy Turlington)"], "author": "StrongGirl"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["he don't live here no more"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Song lyric?"], "author": "EnduringChill"}
+{"word": ["^^not exactly pg no cussing but what it is about aka typical rockstar stuff well this one looking back on it."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Invisible Sun!"], "author": "EnduringChill"}
+{"word": ["sting"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Bee"], "author": "EnduringChill"}
+{"word": ["honey"], "author": "Mystways"}
+{"word": ["Wild"], "author": "EnduringChill"}
+{"word": ["child"], "author": "Mystways"}
+{"word": ["kid"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["goat"], "author": "Mystways"}
+{"word": ["horns"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["devil"], "author": null}
+{"word": ["fun"], "author": "FiOz"}
+{"word": ["games"], "author": "My smile is relief"}
+{"word": ["Sherlock"], "author": "Mystways"}
+{"word": ["investigate"], "author": "StrongGirl"}
+{"word": ["mystery"], "author": "Mystways"}
+{"word": ["CSI"], "author": "My smile is relief"}
+{"word": ["CBS"], "author": null}
+{"word": ["TV"], "author": "My smile is relief"}
+{"word": ["Zoo"], "author": "singnomore"}
+{"word": ["Station"], "author": "My smile is relief"}
+{"word": ["Zoo Station"], "author": null}
+{"word": ["Berlin"], "author": "singnomore"}
+{"word": ["Wall"], "author": "My smile is relief"}
+{"word": ["China"], "author": "singnomore"}
+{"word": ["Flood"], "author": "EnduringChill"}
+{"word": ["Water"], "author": "singnomore"}
+{"word": ["River"], "author": "Mystways"}
+{"word": ["stream"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Lake"], "author": "StrongGirl"}
+{"word": ["Estuary"], "author": "EnduringChill"}
+{"word": ["fjord"], "author": null}
+{"word": ["river"], "author": "My smile is relief"}
+{"word": ["water"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["fire"], "author": "StrongGirl"}
+{"word": ["flames"], "author": "FiOz"}
+{"word": ["Burn"], "author": null}
+{"word": ["Pain"], "author": "FiOz"}
+{"word": ["pills"], "author": "trlica"}
+{"word": ["drugs"], "author": null}
+{"word": ["sleep"], "author": "FiOz"}
+{"word": ["dreams"], "author": "trlica"}
+{"word": ["the only place where ive talked to Bono"], "author": null}
+{"word": ["Raleigh, NC."], "author": "Mystways"}
+{"word": ["\"City of Oaks\""], "author": "My smile is relief"}
+{"word": ["Trees"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Forest"], "author": "My smile is relief"}
+{"word": ["Rain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wet"], "author": "My smile is relief"}
+{"word": ["Dry"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sun"], "author": null}
+{"word": ["Heat"], "author": "My smile is relief"}
+{"word": ["desert"], "author": null}
+{"word": ["Rose"], "author": "My smile is relief"}
+{"word": ["Flower"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Garden"], "author": "My smile is relief"}
+{"word": ["Eden"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bible"], "author": "My smile is relief"}
+{"word": ["Big"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Elephant"], "author": "My smile is relief"}
+{"word": ["Animal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bird"], "author": "My smile is relief"}
+{"word": ["fly"], "author": null}
+{"word": ["away"], "author": "Mystways"}
+{"word": ["far"], "author": "My smile is relief"}
+{"word": ["Near"], "author": "A_Fly_On_The_Wall"}
+{"word": ["here"], "author": null}
+{"word": ["there"], "author": "My smile is relief"}
+{"word": ["everywhere"], "author": null}
+{"word": ["somewhere"], "author": "My smile is relief"}
+{"word": ["rainbow"], "author": null}
+{"word": ["colors"], "author": "My smile is relief"}
+{"word": ["draw"], "author": null}
+{"word": ["you"], "author": "My smile is relief"}
+{"word": ["Me"], "author": "A_Fly_On_The_Wall"}
+{"word": ["fly"], "author": null}
+{"word": ["Bono"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dad"], "author": "My smile is relief"}
+{"word": ["Our crazy little family"], "author": null}
+{"word": ["Cool\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hair"], "author": "trlica"}
+{"word": ["Bono"], "author": null}
+{"word": ["Vocalist"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Voice"], "author": "My smile is relief"}
+{"word": ["Sing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Song"], "author": "My smile is relief"}
+{"word": ["Lyrics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["words"], "author": "My smile is relief"}
+{"word": ["Meaning"], "author": "A_Fly_On_The_Wall"}
+{"word": ["definition"], "author": "My smile is relief"}
+{"word": ["Explanation"], "author": "A_Fly_On_The_Wall"}
+{"word": ["instruction"], "author": "Mystways"}
+{"word": ["teacher"], "author": "My smile is relief"}
+{"word": ["Student"], "author": "A_Fly_On_The_Wall"}
+{"word": ["college"], "author": "My smile is relief"}
+{"word": ["School"], "author": "A_Fly_On_The_Wall"}
+{"word": ["studying"], "author": "My smile is relief"}
+{"word": ["Exams"], "author": "A_Fly_On_The_Wall"}
+{"word": ["stress"], "author": "My smile is relief"}
+{"word": ["Ball"], "author": "A_Fly_On_The_Wall"}
+{"word": ["play"], "author": "My smile is relief"}
+{"word": ["Toys"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Kids"], "author": "My smile is relief"}
+{"word": ["Children"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cute"], "author": "My smile is relief"}
+{"word": ["Dogs"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Samoyed"], "author": "My smile is relief"}
+{"word": ["Puppy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fluffy"], "author": "My smile is relief"}
+{"word": ["Pillow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Soft"], "author": "My smile is relief"}
+{"word": ["Hard"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Painful"], "author": "My smile is relief"}
+{"word": ["Cramp"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Leg"], "author": "My smile is relief"}
+{"word": ["Arm"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hand"], "author": "My smile is relief"}
+{"word": ["Foot"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Toe"], "author": "My smile is relief"}
+{"word": ["Big"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ben"], "author": "My smile is relief"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Show"], "author": "My smile is relief"}
+{"word": ["TV"], "author": "A_Fly_On_The_Wall"}
+{"word": ["news"], "author": "My smile is relief"}
+{"word": ["BBC"], "author": "Mystways"}
+{"word": ["studio"], "author": "trlica"}
+{"word": ["dance"], "author": "Mystways"}
+{"word": ["waltzing"], "author": "singnomore"}
+{"word": ["Mr. Darcy =D"], "author": "Mystways"}
+{"word": ["Sexy?"], "author": "EnduringChill"}
+{"word": ["Hot"], "author": null}
+{"word": ["sun"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Flame"], "author": "EnduringChill"}
+{"word": ["torch"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["ceremony"], "author": "Mystways"}
+{"word": ["rites"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Ritual"], "author": "EnduringChill"}
+{"word": ["tradition"], "author": "Mystways"}
+{"word": ["weddings"], "author": null}
+{"word": ["flowers"], "author": "trlica"}
+{"word": ["song"], "author": "EnduringChill"}
+{"word": ["music"], "author": "trlica"}
+{"word": ["Heart"], "author": "EnduringChill"}
+{"word": ["Love"], "author": null}
+{"word": ["Electrical Storm"], "author": "Mystways"}
+{"word": ["Lightening"], "author": null}
+{"word": ["Weather"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rain"], "author": null}
+{"word": ["Wet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["water"], "author": null}
+{"word": ["Puddle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mud"], "author": null}
+{"word": ["dirt"], "author": null}
+{"word": ["stones"], "author": null}
+{"word": ["rocks"], "author": null}
+{"word": ["Red"], "author": "A_Fly_On_The_Wall"}
+{"word": ["BONOS PANTS\u00a0"], "author": null}
+{"word": ["Tight\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Shiny (the pants)"], "author": null}
+{"word": ["Silver"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Shoes"], "author": null}
+{"word": ["Sandals"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sunshine"], "author": null}
+{"word": ["Showers"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hot tub"], "author": null}
+{"word": ["Sexy\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["long legs\u00a0"], "author": "My smile is relief"}
+{"word": ["tall"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Long"], "author": "EnduringChill"}
+{"word": ["\"long,long,long\""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Time ago"], "author": "EnduringChill"}
+{"word": ["Time in a Bottle\u00a0 ( great old song!)"], "author": "StrongGirl"}
+{"word": ["message in a bottle"], "author": "My smile is relief"}
+{"word": ["milk bottle"], "author": "StrongGirl"}
+{"word": ["Indeed\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["young"], "author": "Mystways"}
+{"word": ["haha yes i remembered you!"], "author": "My smile is relief"}
+{"word": ["^ You did indeed Smile\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["Tears"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Water"], "author": "My smile is relief"}
+{"word": ["River"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sea"], "author": "My smile is relief"}
+{"word": ["Seven (as in seven seas)"], "author": "A_Fly_On_The_Wall"}
+{"word": ["number"], "author": "My smile is relief"}
+{"word": ["math"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["English"], "author": "A_Fly_On_The_Wall"}
+{"word": ["language"], "author": "My smile is relief"}
+{"word": ["speak"], "author": null}
+{"word": ["talk"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["conversation"], "author": "My smile is relief"}
+{"word": ["Words"], "author": "A_Fly_On_The_Wall"}
+{"word": ["letters"], "author": "My smile is relief"}
+{"word": ["Numbers"], "author": "A_Fly_On_The_Wall"}
+{"word": ["keyboard"], "author": "My smile is relief"}
+{"word": ["Instrument"], "author": "A_Fly_On_The_Wall"}
+{"word": ["piano"], "author": "My smile is relief"}
+{"word": ["Beautiful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "My smile is relief"}
+{"word": ["Lyrics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["writers"], "author": "My smile is relief"}
+{"word": ["Author"], "author": "A_Fly_On_The_Wall"}
+{"word": ["books"], "author": "My smile is relief"}
+{"word": ["curiosity"], "author": "trlica"}
+{"word": ["interesting"], "author": "My smile is relief"}
+{"word": ["knowledge"], "author": "trlica"}
+{"word": ["education"], "author": "My smile is relief"}
+{"word": ["Elevation..."], "author": "EnduringChill"}
+{"word": ["electrical"], "author": "Mystways"}
+{"word": ["Storm"], "author": "EnduringChill"}
+{"word": ["Rain"], "author": null}
+{"word": ["Outside"], "author": "EnduringChill"}
+{"word": ["Worms :-("], "author": null}
+{"word": ["computer"], "author": "My smile is relief"}
+{"word": ["Technology"], "author": "A_Fly_On_The_Wall"}
+{"word": ["gadgets"], "author": null}
+{"word": ["Inspector"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["Sherlock Holmes"], "author": "StrongGirl"}
+{"word": ["Mystery"], "author": "My smile is relief"}
+{"word": ["Murder"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Kill"], "author": null}
+{"word": ["Bill"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pay"], "author": null}
+{"word": ["Debt"], "author": "StrongGirl"}
+{"word": ["Bad"], "author": "A_Fly_On_The_Wall"}
+{"word": ["song"], "author": null}
+{"word": ["Music"], "author": null}
+{"word": ["Beautiful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Day"], "author": null}
+{"word": ["Night"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dark"], "author": null}
+{"word": ["Bright"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Eyes"], "author": null}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ireland"], "author": null}
+{"word": ["Country"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Canada"], "author": null}
+{"word": ["Royal Winnipeg Ballet"], "author": "Mystways"}
+{"word": ["Event"], "author": "A_Fly_On_The_Wall"}
+{"word": ["WOW"], "author": null}
+{"word": ["Surprise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Party"], "author": null}
+{"word": ["Banner"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flag"], "author": null}
+{"word": ["Colourful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Black and Blue"], "author": null}
+{"word": ["Hurt"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Heartache"], "author": null}
+{"word": ["Pain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Labour"], "author": null}
+{"word": ["Something"], "author": null}
+{"word": ["Nothing\u00a0"], "author": "trlica"}
+{"word": ["Empty"], "author": null}
+{"word": ["Full"], "author": "EnduringChill"}
+{"word": ["empty"], "author": "Mystways"}
+{"word": ["Heart"], "author": null}
+{"word": ["Broken\u00a0"], "author": "StrongGirl"}
+{"word": ["Porcelain"], "author": null}
+{"word": ["Chinese"], "author": "My smile is relief"}
+{"word": ["Women"], "author": "EnduringChill"}
+{"word": ["Dresses"], "author": null}
+{"word": ["Prom"], "author": "My smile is relief"}
+{"word": ["Dancing"], "author": null}
+{"word": ["Singing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["songs"], "author": "Inishfree"}
+{"word": ["Lyrics"], "author": "StrongGirl"}
+{"word": ["Words"], "author": "EnduringChill"}
+{"word": ["encyclopedia"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Andrew"], "author": "Mystways"}
+{"word": ["Man"], "author": "EnduringChill"}
+{"word": ["guy"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Tall"], "author": "EnduringChill"}
+{"word": ["short"], "author": null}
+{"word": ["little"], "author": "Inishfree"}
+{"word": ["small"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["SE..."], "author": "A_Fly_On_The_Wall"}
+{"word": ["Funny"], "author": "EnduringChill"}
+{"word": ["puns/ whit"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Punny"], "author": "EnduringChill"}
+{"word": ["Bunny\u00a0"], "author": "StrongGirl"}
+{"word": ["alice and wonderland"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["strange"], "author": "FiOz"}
+{"word": ["Rocky Horror"], "author": null}
+{"word": ["Picture Show"], "author": "EnduringChill"}
+{"word": ["Time Warp"], "author": null}
+{"word": ["strange movie"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["cult classic"], "author": null}
+{"word": ["The Princess Bride"], "author": "EnduringChill"}
+{"word": ["awesome movie"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Inception (awesome movie..."], "author": "EnduringChill"}
+{"word": ["how did u guess?\u00a0"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Tricky"], "author": "EnduringChill"}
+{"word": ["Upside down"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["confused"], "author": null}
+{"word": ["Thinking"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Brain"], "author": "My smile is relief"}
+{"word": ["Smart"], "author": null}
+{"word": ["Person"], "author": "My smile is relief"}
+{"word": ["confusion"], "author": "trlica"}
+{"word": ["unexpected"], "author": "My smile is relief"}
+{"word": ["new"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["album (how to become clairvoyant)"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["happiness"], "author": "trlica"}
+{"word": ["Shiney"], "author": "singnomore"}
+{"word": ["penny"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Benny"], "author": "EnduringChill"}
+{"word": ["Clams"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Raw"], "author": "EnduringChill"}
+{"word": ["vegetables"], "author": "trlica"}
+{"word": ["carrots"], "author": "Inishfree"}
+{"word": ["rabbit"], "author": "My smile is relief"}
+{"word": ["chomp"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["chew"], "author": "singnomore"}
+{"word": ["spit\u00a0"], "author": "StrongGirl"}
+{"word": ["Swallow\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["choke"], "author": "StrongGirl"}
+{"word": ["Vomit"], "author": "A_Fly_On_The_Wall"}
+{"word": ["beautiful\u00a0"], "author": "trlica"}
+{"word": ["Strange mind\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Morning"], "author": null}
+{"word": ["Sleep"], "author": null}
+{"word": ["Dreams"], "author": null}
+{"word": ["Nightmare"], "author": null}
+{"word": ["Movie"], "author": null}
+{"word": ["Popcorn"], "author": null}
+{"word": ["Yum"], "author": null}
+{"word": ["Candy"], "author": null}
+{"word": ["Sweet"], "author": null}
+{"word": ["Cake"], "author": null}
+{"word": ["CHOCOLATE!"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fountain"], "author": null}
+{"word": ["Splashing"], "author": null}
+{"word": ["Waterfall"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Nature"], "author": "My smile is relief"}
+{"word": ["Forest"], "author": null}
+{"word": ["Trees (although \"Gump\" was the first thing to come to mind)"], "author": "FiOz"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["Branches"], "author": null}
+{"word": ["leaves"], "author": "Mystways"}
+{"word": ["Tea"], "author": "A_Fly_On_The_Wall"}
+{"word": ["coffee , of course\u00a0"], "author": "StrongGirl"}
+{"word": ["mellow"], "author": "singnomore"}
+{"word": ["relax"], "author": "My smile is relief"}
+{"word": ["beach chair"], "author": "trlica"}
+{"word": ["sand"], "author": "singnomore"}
+{"word": ["sand tower"], "author": "trlica"}
+{"word": ["Tower"], "author": null}
+{"word": ["London"], "author": null}
+{"word": ["Thames"], "author": "My smile is relief"}
+{"word": ["Doctor Who :p"], "author": "Mystways"}
+{"word": ["TV Show"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Frasier"], "author": null}
+{"word": ["Radio"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": null}
+{"word": ["Sound"], "author": "A_Fly_On_The_Wall"}
+{"word": ["noise"], "author": null}
+{"word": ["Bang"], "author": "A_Fly_On_The_Wall"}
+{"word": ["explode"], "author": null}
+{"word": ["Disaster"], "author": "A_Fly_On_The_Wall"}
+{"word": ["my grades\u00a0"], "author": null}
+{"word": ["A*\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["i have lots of Bs and Cs"], "author": null}
+{"word": ["^ That's still good"], "author": "A_Fly_On_The_Wall"}
+{"word": ["surprise"], "author": "trlica"}
+{"word": ["Shock"], "author": "EnduringChill"}
+{"word": ["Frighten"], "author": "StrongGirl"}
+{"word": ["BOO!!"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Eep!!!"], "author": null}
+{"word": ["Noise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Justin Bieber"], "author": null}
+{"word": ["Nightmare"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Nightmare before christmas"], "author": null}
+{"word": ["Snow"], "author": "singnomore"}
+{"word": ["white"], "author": null}
+{"word": ["Colour"], "author": "A_Fly_On_The_Wall"}
+{"word": ["paint"], "author": null}
+{"word": ["Art"], "author": "A_Fly_On_The_Wall"}
+{"word": ["drawing"], "author": null}
+{"word": ["board"], "author": "singnomore"}
+{"word": ["Wood"], "author": "A_Fly_On_The_Wall"}
+{"word": ["forest"], "author": null}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["loud"], "author": "singnomore"}
+{"word": ["music"], "author": null}
+{"word": ["Awesome"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ME\u00a0"], "author": null}
+{"word": ["Norway"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Whales"], "author": "EnduringChill"}
+{"word": ["Scotland\u00a0"], "author": "singnomore"}
+{"word": ["Haggis\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Yum"], "author": "EnduringChill"}
+{"word": ["Nice"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Kind"], "author": "EnduringChill"}
+{"word": ["Heart"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Love"], "author": "StrongGirl"}
+{"word": ["Lust"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Desire"], "author": "EnduringChill"}
+{"word": ["Impossible"], "author": "trlica"}
+{"word": ["Fly"], "author": null}
+{"word": ["fruits"], "author": "trlica"}
+{"word": ["Apple"], "author": "EnduringChill"}
+{"word": ["ipod"], "author": "singnomore"}
+{"word": ["Nano"], "author": "EnduringChill"}
+{"word": ["shuffle"], "author": "singnomore"}
+{"word": ["Step"], "author": "EnduringChill"}
+{"word": ["stairs"], "author": "singnomore"}
+{"word": ["Run"], "author": null}
+{"word": ["River"], "author": "EnduringChill"}
+{"word": ["Sea"], "author": null}
+{"word": ["Ocean"], "author": "EnduringChill"}
+{"word": ["Drown"], "author": null}
+{"word": ["Die"], "author": "EnduringChill"}
+{"word": ["Wish"], "author": null}
+{"word": ["well"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Good"], "author": null}
+{"word": ["Great"], "author": "EnduringChill"}
+{"word": ["awesome"], "author": null}
+{"word": ["SE's paintings"], "author": "trlica"}
+{"word": ["Too kind"], "author": null}
+{"word": ["Sweet"], "author": "EnduringChill"}
+{"word": ["Candy"], "author": null}
+{"word": ["Eye"], "author": "EnduringChill"}
+{"word": ["Blue"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Silken sky"], "author": "EnduringChill"}
+{"word": ["Bad (the song)"], "author": "My smile is relief"}
+{"word": ["Drug"], "author": null}
+{"word": ["addiction"], "author": "My smile is relief"}
+{"word": ["The forum\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["family!\u00a0"], "author": "My smile is relief"}
+{"word": ["Friends"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Evil"], "author": null}
+{"word": ["War"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sad"], "author": "My smile is relief"}
+{"word": ["Unhappy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Life"], "author": null}
+{"word": ["Story"], "author": "My smile is relief"}
+{"word": ["Book"], "author": "A_Fly_On_The_Wall"}
+{"word": ["words"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["speak"], "author": "My smile is relief"}
+{"word": ["mouth"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["lips"], "author": "My smile is relief"}
+{"word": ["Hot\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Someone"], "author": null}
+{"word": ["Somewhere"], "author": "My smile is relief"}
+{"word": ["someplace"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["England"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Life"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Suck"], "author": null}
+{"word": ["Lollipop"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Red"], "author": "EnduringChill"}
+{"word": ["checker coard"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Striped"], "author": "EnduringChill"}
+{"word": ["My clothes"], "author": null}
+{"word": ["Red pants"], "author": "EnduringChill"}
+{"word": ["I cant find a good enough word for that"], "author": null}
+{"word": ["Uh... how about BONO?!"], "author": "EnduringChill"}
+{"word": ["Ha ha"], "author": null}
+{"word": ["Cute"], "author": "EnduringChill"}
+{"word": ["(Handsome is a better word)"], "author": null}
+{"word": ["Adorable"], "author": "EnduringChill"}
+{"word": ["Dolphins"], "author": null}
+{"word": ["Spongy"], "author": "EnduringChill"}
+{"word": ["Soft"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ice cream"], "author": null}
+{"word": ["Chocolate"], "author": "EnduringChill"}
+{"word": ["candy"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["bubble gum\u00a0"], "author": "StrongGirl"}
+{"word": ["Blond"], "author": "EnduringChill"}
+{"word": ["Hair"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lady GaGa"], "author": "EnduringChill"}
+{"word": ["Overrated"], "author": "My smile is relief"}
+{"word": ["Thriving Ivory"], "author": "EnduringChill"}
+{"word": ["rock band"], "author": "My smile is relief"}
+{"word": ["U2"], "author": "EnduringChill"}
+{"word": ["\"greatest band ever, in Latin\" =D"], "author": "Mystways"}
+{"word": ["U2"], "author": null}
+{"word": ["@u2 forum"], "author": "My smile is relief"}
+{"word": ["Friends"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Family"], "author": null}
+{"word": ["Guy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Girl"], "author": null}
+{"word": ["Boy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Album"], "author": null}
+{"word": ["Thriller"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Psycho"], "author": null}
+{"word": ["killer"], "author": "FiOz"}
+{"word": ["horror"], "author": "My smile is relief"}
+{"word": ["fear"], "author": null}
+{"word": ["Shark"], "author": null}
+{"word": ["Teeth"], "author": null}
+{"word": ["Mouth"], "author": "EnduringChill"}
+{"word": ["the combo of posts by northstarjo & fioz = a name of a talking heads song (quite a good one at it also) anyway..."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Yep...that was what I was thinking! Bono sang it Karaoke style in South America I think? Not long ago."], "author": "FiOz"}
+{"word": ["ooh pyscho killer ....good one"], "author": null}
+{"word": ["Brain"], "author": "FiOz"}
+{"word": ["Pink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Singer"], "author": null}
+{"word": ["Wedding"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Movie"], "author": null}
+{"word": ["Soundtrack"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Spiderman"], "author": null}
+{"word": ["Cartoon"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Drawing"], "author": null}
+{"word": ["SE!!!"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Smile"], "author": null}
+{"word": ["It's me!"], "author": "My smile is relief"}
+{"word": ["Smiley face\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["haha"], "author": "My smile is relief"}
+{"word": ["Emotion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lust"], "author": null}
+{"word": ["Desire"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Need"], "author": null}
+{"word": ["Want"], "author": "My smile is relief"}
+{"word": ["You"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Them"], "author": null}
+{"word": ["Us"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Family"], "author": null}
+{"word": ["Forum!\u00a0"], "author": "My smile is relief"}
+{"word": ["Moderator\u00a0"], "author": "StrongGirl"}
+{"word": ["Boss\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mafia"], "author": "My smile is relief"}
+{"word": ["Italy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Spaghetti"], "author": "My smile is relief"}
+{"word": ["Of course you do\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Best"], "author": null}
+{"word": ["First"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Winner"], "author": null}
+{"word": ["Loser"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Diet"], "author": null}
+{"word": ["Cola"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pepsi"], "author": null}
+{"word": ["Max"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hey, i was starving and that's trust me serious problem\u00a0"], "author": "My smile is relief"}
+{"word": ["Salsa"], "author": "EnduringChill"}
+{"word": ["Guacamole (sp?)\u00a0"], "author": "StrongGirl"}
+{"word": ["food"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["cook"], "author": "My smile is relief"}
+{"word": ["Fun"], "author": null}
+{"word": ["happy"], "author": "My smile is relief"}
+{"word": ["Feet"], "author": null}
+{"word": ["Penguin"], "author": null}
+{"word": ["Ice"], "author": "My smile is relief"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beer (read last 3 together!)"], "author": null}
+{"word": ["NICEE!!"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tequila"], "author": "My smile is relief"}
+{"word": ["Drink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Party"], "author": null}
+{"word": ["People"], "author": "My smile is relief"}
+{"word": ["Family"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Godmother\u00a0"], "author": "My smile is relief"}
+{"word": ["Fairy"], "author": "EnduringChill"}
+{"word": ["wings"], "author": "My smile is relief"}
+{"word": ["Fly"], "author": "EnduringChill"}
+{"word": ["Brother!\u00a0"], "author": "My smile is relief"}
+{"word": ["Sister"], "author": "StrongGirl"}
+{"word": ["Love"], "author": "EnduringChill"}
+{"word": ["Mercy"], "author": "Thehorsefly [whinny!]"}
+{"word": ["World"], "author": "EnduringChill"}
+{"word": ["peace"], "author": "FiOz"}
+{"word": ["War"], "author": null}
+{"word": ["Blood"], "author": "FiOz"}
+{"word": ["Vampires"], "author": null}
+{"word": ["Werewolves"], "author": "FiOz"}
+{"word": ["Moon"], "author": null}
+{"word": ["Stars"], "author": "FiOz"}
+{"word": ["Night"], "author": null}
+{"word": ["Dark"], "author": "FiOz"}
+{"word": ["Sad"], "author": null}
+{"word": ["Depressed"], "author": "FiOz"}
+{"word": ["Me (im not depressed atm, but Sometimes I am)"], "author": null}
+{"word": ["Norwegian"], "author": "FiOz"}
+{"word": ["Trolls"], "author": null}
+{"word": ["\u00a0"], "author": "FiOz"}
+{"word": ["Yes"], "author": null}
+{"word": ["Goats (as in the 3 billy goats gruff story)\u00a0"], "author": "FiOz"}
+{"word": ["Lost"], "author": "Thehorsefly [whinny!]"}
+{"word": ["stumbling"], "author": "EnduringChill"}
+{"word": ["falling"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Fly"], "author": null}
+{"word": ["Leather.\u00a0"], "author": "Thehorsefly [whinny!]"}
+{"word": ["Bono"], "author": null}
+{"word": ["singer"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Axel"], "author": "trlica"}
+{"word": ["if we're thinking on same singer then..."], "author": "My smile is relief"}
+{"word": ["sweet child of mine"], "author": null}
+{"word": ["great song"], "author": "My smile is relief"}
+{"word": ["There is a light that never goes out"], "author": null}
+{"word": ["the smiths"], "author": "My smile is relief"}
+{"word": ["a band"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["the band"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["visitors can't see pics , please You are not allowed to view links."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["guitarist"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["(also born in the same year as ...)"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Musician"], "author": "A_Fly_On_The_Wall"}
+{"word": ["instrument"], "author": "trlica"}
+{"word": ["violin"], "author": null}
+{"word": ["orchestra"], "author": "singnomore"}
+{"word": ["Strings"], "author": "EnduringChill"}
+{"word": ["Broken"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Heart"], "author": "My smile is relief"}
+{"word": ["Valentine's Day"], "author": "A_Fly_On_The_Wall"}
+{"word": ["February"], "author": "My smile is relief"}
+{"word": ["Month"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Year"], "author": "My smile is relief"}
+{"word": ["Long time"], "author": "A_Fly_On_The_Wall"}
+{"word": ["No see"], "author": "My smile is relief"}
+{"word": ["Saying"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Phrases"], "author": "My smile is relief"}
+{"word": ["witty"], "author": "Thehorsefly [whinny!]"}
+{"word": ["puns / humor"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["riddle"], "author": "StrongGirl"}
+{"word": ["funny"], "author": "My smile is relief"}
+{"word": ["SMILE\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["relief\u00a0"], "author": "My smile is relief"}
+{"word": ["vacation"], "author": "trlica"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["food\u00a0"], "author": "trlica"}
+{"word": ["Italy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pizza"], "author": "trlica"}
+{"word": ["Topping"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ice-cream"], "author": "My smile is relief"}
+{"word": ["summer"], "author": "trlica"}
+{"word": ["Sun"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Staring"], "author": "EnduringChill"}
+{"word": ["surprised"], "author": "My smile is relief"}
+{"word": ["Amazed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["unexpected"], "author": "My smile is relief"}
+{"word": ["Death"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Funeral"], "author": "My smile is relief"}
+{"word": ["Black"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Color"], "author": "My smile is relief"}
+{"word": ["Gold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rich"], "author": "My smile is relief"}
+{"word": ["Nickname"], "author": "A_Fly_On_The_Wall"}
+{"word": ["smile\u00a0"], "author": "My smile is relief"}
+{"word": ["^ NICE!!!\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["heart"], "author": "My smile is relief"}
+{"word": ["Passion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["emotion"], "author": "My smile is relief"}
+{"word": ["Feeling"], "author": "A_Fly_On_The_Wall"}
+{"word": ["strong"], "author": "My smile is relief"}
+{"word": ["Man"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Women"], "author": "My smile is relief"}
+{"word": ["Pretty"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Girl"], "author": "My smile is relief"}
+{"word": ["Pink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Singer"], "author": "My smile is relief"}
+{"word": ["Wedding"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cake"], "author": "My smile is relief"}
+{"word": ["Chocolate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["willy wonka"], "author": null}
+{"word": ["Character"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cartoon"], "author": null}
+{"word": ["animation"], "author": "~Ultra*U2*Love~"}
+{"word": ["fun"], "author": "trlica"}
+{"word": ["dancing"], "author": "~Ultra*U2*Love~"}
+{"word": ["club"], "author": "My smile is relief"}
+{"word": ["Dancing"], "author": "EnduringChill"}
+{"word": ["boots"], "author": "~Ultra*U2*Love~"}
+{"word": ["Cowboy"], "author": null}
+{"word": ["Western"], "author": "A_Fly_On_The_Wall"}
+{"word": ["saloon"], "author": "~Ultra*U2*Love~"}
+{"word": ["Car"], "author": "A_Fly_On_The_Wall"}
+{"word": ["keys"], "author": "~Ultra*U2*Love~"}
+{"word": ["Lock"], "author": "A_Fly_On_The_Wall"}
+{"word": ["problem\u00a0"], "author": "trlica"}
+{"word": ["solution"], "author": "~Ultra*U2*Love~"}
+{"word": ["liquid"], "author": "singnomore"}
+{"word": ["water"], "author": "My smile is relief"}
+{"word": ["drink"], "author": "~Ultra*U2*Love~"}
+{"word": ["thirst"], "author": "StrongGirl"}
+{"word": ["quench"], "author": "~Ultra*U2*Love~"}
+{"word": ["Drink"], "author": "EnduringChill"}
+{"word": ["juice"], "author": "~Ultra*U2*Love~"}
+{"word": ["Tomato"], "author": null}
+{"word": ["garden"], "author": "~Ultra*U2*Love~"}
+{"word": ["flower"], "author": "My smile is relief"}
+{"word": ["Beautiful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["day"], "author": "My smile is relief"}
+{"word": ["Night"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Moon"], "author": "My smile is relief"}
+{"word": ["Light"], "author": "EnduringChill"}
+{"word": ["flashlight"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Compass"], "author": "EnduringChill"}
+{"word": ["north"], "author": "~Ultra*U2*Love~"}
+{"word": ["South"], "author": "EnduringChill"}
+{"word": ["map"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["guide"], "author": "~Ultra*U2*Love~"}
+{"word": ["\"help!\""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["911\u00a0"], "author": "trlica"}
+{"word": ["^^i was using a beatles song there though."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Accident"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mess"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Untidy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["house"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Home"], "author": "A_Fly_On_The_Wall"}
+{"word": ["monopoly"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["childhood"], "author": "My smile is relief"}
+{"word": ["Nostalgia"], "author": "A_Fly_On_The_Wall"}
+{"word": ["memories"], "author": "My smile is relief"}
+{"word": ["pictures"], "author": "~Ultra*U2*Love~"}
+{"word": ["Cinema"], "author": "A_Fly_On_The_Wall"}
+{"word": ["movie"], "author": "My smile is relief"}
+{"word": ["Hangover\u00a0"], "author": "~Ultra*U2*Love~"}
+{"word": ["funny"], "author": "My smile is relief"}
+{"word": ["Comedy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["laugh"], "author": "~Ultra*U2*Love~"}
+{"word": ["SMILE!!"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["you"], "author": "~Ultra*U2*Love~"}
+{"word": ["too\u00a0"], "author": "My smile is relief"}
+{"word": ["band\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["U2\u00a0"], "author": "My smile is relief"}
+{"word": ["Rock"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pop"], "author": "singnomore"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["classic rock"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["punk rock"], "author": "~Ultra*U2*Love~"}
+{"word": ["School of Rock"], "author": "EnduringChill"}
+{"word": ["movie"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["film"], "author": "EnduringChill"}
+{"word": ["camera"], "author": "~Ultra*U2*Love~"}
+{"word": ["cell phone"], "author": "My smile is relief"}
+{"word": ["iPhone"], "author": "A_Fly_On_The_Wall"}
+{"word": ["iPod"], "author": "~Ultra*U2*Love~"}
+{"word": ["ipod touch 32gb"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["earbuds"], "author": "~Ultra*U2*Love~"}
+{"word": [""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Lyrics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Words"], "author": "EnduringChill"}
+{"word": ["paragraphs"], "author": "singnomore"}
+{"word": ["Sentence"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Words"], "author": null}
+{"word": ["Letters"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mail"], "author": null}
+{"word": ["Royal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["King"], "author": null}
+{"word": ["Queen"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Freddy mercury"], "author": null}
+{"word": ["Legend"], "author": "A_Fly_On_The_Wall"}
+{"word": ["John"], "author": "EnduringChill"}
+{"word": ["Name"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Person"], "author": "EnduringChill"}
+{"word": ["Human"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dancer"], "author": "EnduringChill"}
+{"word": ["Talent"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flawless"], "author": "EnduringChill"}
+{"word": ["Perfect"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beautiful"], "author": "EnduringChill"}
+{"word": ["Pretty"], "author": null}
+{"word": ["Flower"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Forest"], "author": null}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Irish"], "author": null}
+{"word": ["Nationality"], "author": "A_Fly_On_The_Wall"}
+{"word": ["America"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["England"], "author": "EnduringChill"}
+{"word": ["double decker bus"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Train"], "author": "EnduringChill"}
+{"word": ["trolley"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Bus"], "author": "EnduringChill"}
+{"word": ["school"], "author": "StrongGirl"}
+{"word": ["Elementary"], "author": "EnduringChill"}
+{"word": ["Young"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Old"], "author": "EnduringChill"}
+{"word": ["Grey"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gray ("], "author": "EnduringChill"}
+{"word": ["Confusing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Befuddled"], "author": "EnduringChill"}
+{"word": ["Thinking"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hard"], "author": "EnduringChill"}
+{"word": ["Concrete"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Blonde"], "author": "EnduringChill"}
+{"word": ["Hair"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Curls"], "author": "EnduringChill"}
+{"word": ["Curly"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Yummy"], "author": "EnduringChill"}
+{"word": ["marshmallows"], "author": "trlica"}
+{"word": ["camp fire"], "author": null}
+{"word": ["Roasting"], "author": "EnduringChill"}
+{"word": ["burning\u00a0"], "author": "trlica"}
+{"word": ["HOT"], "author": null}
+{"word": ["Sexy!"], "author": "EnduringChill"}
+{"word": ["Victoria's Secret\u00a0"], "author": "StrongGirl"}
+{"word": ["mall"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Shopping"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Boutique"], "author": "EnduringChill"}
+{"word": ["fancy clothes"], "author": "trlica"}
+{"word": ["Party"], "author": "A_Fly_On_The_Wall"}
+{"word": ["drinks\u00a0"], "author": "trlica"}
+{"word": ["Stumble \u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Graceful\u00a0"], "author": "StrongGirl"}
+{"word": ["Swan"], "author": "singnomore"}
+{"word": ["Black"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\"paint it black\"\u00a0 You are not allowed to view links."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Song"], "author": "EnduringChill"}
+{"word": ["\"he don't live here no more\" : You are not allowed to view links."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Gone"], "author": "EnduringChill"}
+{"word": ["^left"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Followed"], "author": "EnduringChill"}
+{"word": ["lead"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Dog"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Kitty"], "author": "EnduringChill"}
+{"word": ["Hello"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hola"], "author": "EnduringChill"}
+{"word": ["Spanish"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Moi"], "author": null}
+{"word": ["Vous"], "author": "EnduringChill"}
+{"word": ["Voulez Vous\u00a0 (ABBA song!)"], "author": "StrongGirl"}
+{"word": ["Sweden"], "author": "A_Fly_On_The_Wall"}
+{"word": ["The Girl With The Dragon Tattoo (great book!)"], "author": "StrongGirl"}
+{"word": ["Trilogy"], "author": null}
+{"word": ["Hunger Games\u00a0"], "author": "StrongGirl"}
+{"word": ["Library"], "author": null}
+{"word": ["books"], "author": "trlica"}
+{"word": ["imagination"], "author": "My smile is relief"}
+{"word": ["Build"], "author": "EnduringChill"}
+{"word": ["Break"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["destroy"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["explode"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["mess"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["slime"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Goo"], "author": "EnduringChill"}
+{"word": ["Yummy\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Handsome"], "author": "EnduringChill"}
+{"word": ["Edge"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["\"The\"\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mister"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Male"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mail"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Carrier"], "author": "EnduringChill"}
+{"word": ["Baby"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Achtung"], "author": "A_Fly_On_The_Wall"}
+{"word": ["album"], "author": "EnduringChill"}
+{"word": ["Single"], "author": "A_Fly_On_The_Wall"}
+{"word": ["One"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Number"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Two"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Three"], "author": "EnduringChill"}
+{"word": ["Catorce!"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Vertigo"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fun"], "author": "EnduringChill"}
+{"word": ["Games"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Boom"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Explode"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Burst"], "author": "EnduringChill"}
+{"word": ["Bubble"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pink"], "author": "trlica"}
+{"word": ["Elephant"], "author": "EnduringChill"}
+{"word": ["Africa"], "author": "~Ultra*U2*Love~"}
+{"word": ["continent"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["land"], "author": "~Ultra*U2*Love~"}
+{"word": ["water"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["river"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["raft"], "author": "~Ultra*U2*Love~"}
+{"word": ["Water"], "author": "A_Fly_On_The_Wall"}
+{"word": ["drink"], "author": null}
+{"word": ["Eat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["fat XD"], "author": null}
+{"word": ["Batch"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cookies"], "author": null}
+{"word": ["Chocolate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["CAKE"], "author": "Zooropa Baby Pop"}
+{"word": ["Sponge"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mollusk"], "author": null}
+{"word": ["seafood"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Fish"], "author": "A_Fly_On_The_Wall"}
+{"word": ["swimming"], "author": "EnduringChill"}
+{"word": ["pool"], "author": null}
+{"word": ["Cool"], "author": "EnduringChill"}
+{"word": ["ice"], "author": "~Ultra*U2*Love~"}
+{"word": ["cold"], "author": null}
+{"word": ["weather"], "author": "Zooropa Baby Pop"}
+{"word": ["Brisk"], "author": "EnduringChill"}
+{"word": ["Quick"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rush"], "author": "EnduringChill"}
+{"word": ["hour"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Begun"], "author": "EnduringChill"}
+{"word": ["World"], "author": "A_Fly_On_The_Wall"}
+{"word": ["planet"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Earth"], "author": "EnduringChill"}
+{"word": ["solar system"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Stars"], "author": "EnduringChill"}
+{"word": ["galaxy"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["universe"], "author": "~Ultra*U2*Love~"}
+{"word": ["black holes"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["desolate"], "author": "~Ultra*U2*Love~"}
+{"word": ["loner"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["companion"], "author": "StrongGirl"}
+{"word": ["cube"], "author": "Droo"}
+{"word": ["Shape"], "author": "Zooropa Baby Pop"}
+{"word": ["square"], "author": "~Ultra*U2*Love~"}
+{"word": ["nerd"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["smart"], "author": "~Ultra*U2*Love~"}
+{"word": ["pants"], "author": "Droo"}
+{"word": ["jeans"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["cowboy"], "author": "Droo"}
+{"word": ["Drink"], "author": "FiOz"}
+{"word": ["water"], "author": "Droo"}
+{"word": ["swim"], "author": "FiOz"}
+{"word": ["fish"], "author": "singnomore"}
+{"word": ["scales"], "author": "~Ultra*U2*Love~"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["notes"], "author": null}
+{"word": ["school"], "author": "last night on mars"}
+{"word": ["desk"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["office"], "author": null}
+{"word": ["work"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["play"], "author": null}
+{"word": ["fun"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["laugh"], "author": "FiOz"}
+{"word": ["\u00a0"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["\u00a0"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["\u00a0"], "author": "last night on mars"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["\u00a0"], "author": "~Ultra*U2*Love~"}
+{"word": ["confused"], "author": null}
+{"word": ["Thinking"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wondering"], "author": null}
+{"word": ["Thought"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Idea"], "author": null}
+{"word": ["Bad"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cheque"], "author": null}
+{"word": ["Nationality"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["Smiley faces\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["happiness"], "author": "Zooropa Baby Pop"}
+{"word": ["mood"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Good"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ok"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Feeling"], "author": "A_Fly_On_The_Wall"}
+{"word": ["joy"], "author": "~Ultra*U2*Love~"}
+{"word": ["Division"], "author": "A_Fly_On_The_Wall"}
+{"word": ["math"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Subject"], "author": "A_Fly_On_The_Wall"}
+{"word": ["english"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Language"], "author": "A_Fly_On_The_Wall"}
+{"word": ["book"], "author": "Droo"}
+{"word": ["reading"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["words"], "author": "Zooropa Baby Pop"}
+{"word": ["songs"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["sing"], "author": "~Ultra*U2*Love~"}
+{"word": ["dynasty"], "author": "Droo"}
+{"word": ["control"], "author": "~Ultra*U2*Love~"}
+{"word": ["power"], "author": "Zooropa Baby Pop"}
+{"word": ["dominate"], "author": "~Ultra*U2*Love~"}
+{"word": ["world"], "author": "Starguitar"}
+{"word": ["earth"], "author": "~Ultra*U2*Love~"}
+{"word": ["Planet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["blue ball"], "author": "trlica"}
+{"word": ["Rubber"], "author": "EnduringChill"}
+{"word": ["movie"], "author": "My smile is relief"}
+{"word": ["Film"], "author": "EnduringChill"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Soul"], "author": "EnduringChill"}
+{"word": ["heart"], "author": "~Ultra*U2*Love~"}
+{"word": ["Pump"], "author": "EnduringChill"}
+{"word": ["Petrol"], "author": "singnomore"}
+{"word": ["Wheels"], "author": "EnduringChill"}
+{"word": ["tyres"], "author": "singnomore"}
+{"word": ["car"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["trabant"], "author": "singnomore"}
+{"word": ["rock and roll hall of fame"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Cleveland"], "author": "EnduringChill"}
+{"word": ["Show"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Band"], "author": "A_Fly_On_The_Wall"}
+{"word": ["1st post: the band"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["^ There is his name again\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["george harrison"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["the beatles\u00a0"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Rock"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Lyrics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["songs"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Sound"], "author": "A_Fly_On_The_Wall"}
+{"word": ["volume"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Noise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["instruments"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Piano"], "author": "A_Fly_On_The_Wall"}
+{"word": ["bass"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Player"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Boy"], "author": "EnduringChill"}
+{"word": ["visitors can't see pics , please You are not allowed to view links."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Musician"], "author": "A_Fly_On_The_Wall"}
+{"word": ["guitarist"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Band"], "author": "A_Fly_On_The_Wall"}
+{"word": ["U2"], "author": "EnduringChill"}
+{"word": ["GLASTONBURY\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["venue"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Event"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Beautiful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Day"], "author": "EnduringChill"}
+{"word": ["night"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Black"], "author": "EnduringChill"}
+{"word": ["\"paint it black\""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Song"], "author": "EnduringChill"}
+{"word": ["lyrics"], "author": "StrongGirl"}
+{"word": ["Words"], "author": "EnduringChill"}
+{"word": ["Letters"], "author": "A_Fly_On_The_Wall"}
+{"word": ["paper"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cream"], "author": "EnduringChill"}
+{"word": ["eric clapton"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["How can you associate \"Eric Clapton\" with \"Cream\"?"], "author": "A_Fly_On_The_Wall"}
+{"word": ["eric clapton was in a band called cream."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Bands"], "author": "A_Fly_On_The_Wall"}
+{"word": ["YouTube"], "author": "EnduringChill"}
+{"word": ["Website"], "author": "A_Fly_On_The_Wall"}
+{"word": ["facebook"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Profile"], "author": "EnduringChill"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Rock"], "author": "EnduringChill"}
+{"word": ["guitars:"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Strings"], "author": "EnduringChill"}
+{"word": ["picks"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Word-I-Don't-Know"], "author": "EnduringChill"}
+{"word": ["picks- aka see:"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Guitar"], "author": "A_Fly_On_The_Wall"}
+{"word": ["guitarists:"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["bass guitar"], "author": "trlica"}
+{"word": ["could have 4-6 strings though 4 is the most common"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["popping"], "author": "EnduringChill"}
+{"word": ["sound"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Wall"], "author": "EnduringChill"}
+{"word": ["You are not allowed to view links."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["school"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["teacher"], "author": "Zooropa Baby Pop"}
+{"word": ["grades"], "author": "trlica"}
+{"word": ["A+"], "author": "~Ultra*U2*Love~"}
+{"word": ["never"], "author": null}
+{"word": ["ever"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["And they lived happily ever after!\u00a0"], "author": "StrongGirl"}
+{"word": ["story"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["book"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["knowledge"], "author": "trlica"}
+{"word": ["\"wrapped around your finger\""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["paper"], "author": "trlica"}
+{"word": ["pen"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Blue"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sky"], "author": "EnduringChill"}
+{"word": ["stars"], "author": "trlica"}
+{"word": ["Shine"], "author": "EnduringChill"}
+{"word": ["Glow"], "author": "~Ultra*U2*Love~"}
+{"word": ["Eurovision"], "author": "My smile is relief"}
+{"word": ["Television"], "author": "EnduringChill"}
+{"word": ["Show"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Watching"], "author": "EnduringChill"}
+{"word": ["Observe"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Science"], "author": "EnduringChill"}
+{"word": ["Medicine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Drug"], "author": "EnduringChill"}
+{"word": ["Miracle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Amazing"], "author": "EnduringChill"}
+{"word": ["Grace"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sun"], "author": "EnduringChill"}
+{"word": ["Hot"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Burning"], "author": "EnduringChill"}
+{"word": ["fever"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Temperature"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sick"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Bad"], "author": "A_Fly_On_The_Wall"}
+{"word": ["damage"], "author": "Zooropa Baby Pop"}
+{"word": ["Limitation"], "author": "A_Fly_On_The_Wall"}
+{"word": ["control"], "author": "Zooropa Baby Pop"}
+{"word": ["no"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Denial"], "author": "A_Fly_On_The_Wall"}
+{"word": ["confusion"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Thinking"], "author": "A_Fly_On_The_Wall"}
+{"word": ["brain"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Box"], "author": "A_Fly_On_The_Wall"}
+{"word": ["car"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Speed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["race"], "author": "Zooropa Baby Pop"}
+{"word": ["First"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Winning"], "author": "Zooropa Baby Pop"}
+{"word": ["ahead"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["advantage"], "author": "Zooropa Baby Pop"}
+{"word": ["loss"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["despair"], "author": "Zooropa Baby Pop"}
+{"word": ["sadness"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["alone"], "author": "Zooropa Baby Pop"}
+{"word": ["Home"], "author": "A_Fly_On_The_Wall"}
+{"word": ["heart"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Beat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["one"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tune"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Pitch"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sound"], "author": "Zooropa Baby Pop"}
+{"word": ["Noise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["headache"], "author": "Zooropa Baby Pop"}
+{"word": ["Pain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["seperation"], "author": "Zooropa Baby Pop"}
+{"word": ["union"], "author": "StrongGirl"}
+{"word": ["love"], "author": "Zooropa Baby Pop"}
+{"word": ["grace"], "author": "StrongGirl"}
+{"word": ["Amazing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Emotional"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sad"], "author": "EnduringChill"}
+{"word": ["cry"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Sob"], "author": "EnduringChill"}
+{"word": ["wet"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["dry"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Soft"], "author": "EnduringChill"}
+{"word": ["sponge"], "author": "trlica"}
+{"word": ["cleansing"], "author": "Zooropa Baby Pop"}
+{"word": ["Rinse"], "author": "EnduringChill"}
+{"word": ["drain"], "author": "Zooropa Baby Pop"}
+{"word": ["plumber\u00a0"], "author": "StrongGirl"}
+{"word": ["Job"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pay"], "author": "Zooropa Baby Pop"}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["selfish"], "author": "Zooropa Baby Pop"}
+{"word": ["Greed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["loss"], "author": "Zooropa Baby Pop"}
+{"word": ["Grief"], "author": "A_Fly_On_The_Wall"}
+{"word": ["trouble"], "author": "Zooropa Baby Pop"}
+{"word": ["Naughty"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spank\u00a0"], "author": "Zooropa Baby Pop"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pleasure"], "author": "Zooropa Baby Pop"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lyrics"], "author": "Zooropa Baby Pop"}
+{"word": ["Deep"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spiritual"], "author": "Zooropa Baby Pop"}
+{"word": ["Meaning"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hidden"], "author": "Zooropa Baby Pop"}
+{"word": ["Buried"], "author": "A_Fly_On_The_Wall"}
+{"word": ["disappear"], "author": "Zooropa Baby Pop"}
+{"word": ["Vanish"], "author": "A_Fly_On_The_Wall"}
+{"word": ["distant"], "author": "Zooropa Baby Pop"}
+{"word": ["Memory"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dream"], "author": null}
+{"word": ["imagination"], "author": "Zooropa Baby Pop"}
+{"word": ["Idea"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Thought"], "author": null}
+{"word": ["Opinion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bias"], "author": null}
+{"word": ["Favour"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Obligation"], "author": null}
+{"word": ["Duty"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Service"], "author": null}
+{"word": ["Emergency"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Accident"], "author": null}
+{"word": ["mess"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Untidy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sloppy"], "author": null}
+{"word": ["Joe"], "author": "GardenTart"}
+{"word": ["Me"], "author": null}
+{"word": ["You"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["u"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["v"], "author": null}
+{"word": ["juice"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["taste"], "author": "Zooropa Baby Pop"}
+{"word": ["Touch"], "author": "EnduringChill"}
+{"word": ["Feel"], "author": "A_Fly_On_The_Wall"}
+{"word": ["1st post: emotions or whatever"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["(emotions)......"], "author": "StrongGirl"}
+{"word": ["Warm"], "author": "EnduringChill"}
+{"word": ["care"], "author": "Zooropa Baby Pop"}
+{"word": ["empathy"], "author": "trlica"}
+{"word": ["sympathy"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["blushes\u00a0"], "author": "trlica"}
+{"word": ["October"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["trees"], "author": "Zooropa Baby Pop"}
+{"word": ["bears"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["scary"], "author": "Zooropa Baby Pop"}
+{"word": ["dark"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["humor"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["dark"], "author": "singnomore"}
+{"word": ["mood"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["happy"], "author": "singnomore"}
+{"word": ["sad"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["black"], "author": "singnomore"}
+{"word": ["\"paint it black\""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Vietnam"], "author": "GardenTart"}
+{"word": ["history"], "author": "Zooropa Baby Pop"}
+{"word": ["World"], "author": "EnduringChill"}
+{"word": ["planet"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Earth"], "author": "EnduringChill"}
+{"word": ["aliens"], "author": "trlica"}
+{"word": ["Solar system"], "author": "EnduringChill"}
+{"word": ["Big"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Famous"], "author": "EnduringChill"}
+{"word": ["Singer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Songwriter"], "author": "EnduringChill"}
+{"word": ["Talent"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wasted"], "author": "EnduringChill"}
+{"word": ["Legless\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Crutches"], "author": null}
+{"word": ["Injury"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Scar"], "author": null}
+{"word": ["Permanent"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ink"], "author": null}
+{"word": ["Printer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Laser"], "author": null}
+{"word": ["Surgery"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Liposuction"], "author": null}
+{"word": ["Painful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Headache"], "author": null}
+{"word": ["Noise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["The Cure"], "author": null}
+{"word": ["Great"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["ME"], "author": null}
+{"word": ["\"i me mine\""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["The Cure"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Saying"], "author": "A_Fly_On_The_Wall"}
+{"word": ["song really look it up\u00a0 beatles."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["I'll take your word for it then\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Weird"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fly"], "author": null}
+{"word": ["insect"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["^^ *gasps*\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Branch"], "author": null}
+{"word": ["tree"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spinach\u00a0"], "author": "trlica"}
+{"word": ["disgusting"], "author": "Zooropa Baby Pop"}
+{"word": ["Awful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sad"], "author": null}
+{"word": ["Emotional"], "author": "A_Fly_On_The_Wall"}
+{"word": ["heart"], "author": null}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["One certain band\u00a0"], "author": null}
+{"word": ["Addiction"], "author": "A_Fly_On_The_Wall"}
+{"word": ["( you were just thinking about me, wasnt you?\u00a0"], "author": null}
+{"word": ["(Who said that?)\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["( Youre the one blaming me for being addicted!)"], "author": null}
+{"word": ["(I'm not blaming you, I'm just telling the truth)\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(hmpfffft\u00a0"], "author": null}
+{"word": ["(Sssshhh... you're too loud today)\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hero"], "author": null}
+{"word": ["Superman"], "author": "A_Fly_On_The_Wall"}
+{"word": ["fly"], "author": null}
+{"word": ["bug spray"], "author": "trlica"}
+{"word": ["My worst nightmare\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["( HAHAHA i just LOLed XD)"], "author": null}
+{"word": ["Sorry Fly, that I knew that you will be the next person her I wouldn't post that\u00a0"], "author": "trlica"}
+{"word": ["fruit (better,right\u00a0"], "author": "trlica"}
+{"word": ["It was actually quite ironic that I would be the next person to post\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Salad"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Healthy"], "author": null}
+{"word": ["Fit"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Strong"], "author": null}
+{"word": ["Girl"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["I knew someone would get it\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Grace"], "author": null}
+{"word": ["Amazing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Me"], "author": null}
+{"word": ["Sarcastic\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Completely\u00a0 Sincere\u00a0"], "author": null}
+{"word": ["Gracious"], "author": "A_Fly_On_The_Wall"}
+{"word": ["calm"], "author": "Zooropa Baby Pop"}
+{"word": ["dead\u00a0"], "author": "trlica"}
+{"word": ["\u00a0"], "author": "Zooropa Baby Pop"}
+{"word": ["...by the wind\u00a0"], "author": "trlica"}
+{"word": ["money"], "author": "trlica"}
+{"word": ["The root of all evil\u00a0"], "author": "StrongGirl"}
+{"word": ["well also from money we could have done pink floyd."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["7 deadly sins"], "author": "StrongGirl"}
+{"word": ["temptation"], "author": "Zooropa Baby Pop"}
+{"word": ["Desire"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Greed"], "author": "Zooropa Baby Pop"}
+{"word": ["bad"], "author": "trlica"}
+{"word": ["psychotic"], "author": "Zooropa Baby Pop"}
+{"word": ["\"psycho killer\""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["weird"], "author": "Zooropa Baby Pop"}
+{"word": ["odd"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["even"], "author": "Zooropa Baby Pop"}
+{"word": ["number"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["mathematical"], "author": "Zooropa Baby Pop"}
+{"word": ["equation"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Scientific"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Method"], "author": null}
+{"word": ["Specific"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Exact"], "author": null}
+{"word": ["words"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Letters"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Alphabet"], "author": null}
+{"word": ["Spaghetti\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["food"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Delicious"], "author": "A_Fly_On_The_Wall"}
+{"word": ["where's the connection here??"], "author": null}
+{"word": ["tasty"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["candy"], "author": "StrongGirl"}
+{"word": ["Alphabetti Spaghetti of course\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sweet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sour"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Milk"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cow"], "author": "Zooropa Baby Pop"}
+{"word": ["farm"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["sheep!"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Fluffy"], "author": "Zooropa Baby Pop"}
+{"word": ["pillow"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["comfort"], "author": "Zooropa Baby Pop"}
+{"word": ["safe"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["\"money\""], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["pink floyd"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["concert"], "author": "trlica"}
+{"word": ["Tour"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tiredness"], "author": "trlica"}
+{"word": ["Sleep"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dreams"], "author": "My smile is relief"}
+{"word": ["Discovery"], "author": "EnduringChill"}
+{"word": ["(life on a distant) planet"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Earth"], "author": "EnduringChill"}
+{"word": ["Green"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["R.E.M."], "author": "EnduringChill"}
+{"word": ["sheep ("], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Wales"], "author": "Zooropa Baby Pop"}
+{"word": ["Norway"], "author": "EnduringChill"}
+{"word": ["Country"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Feedback"], "author": "EnduringChill"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Electrical Storm"], "author": "EnduringChill"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Heart"], "author": "EnduringChill"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beautiful"], "author": "EnduringChill"}
+{"word": ["Flowers"], "author": "Zooropa Baby Pop"}
+{"word": ["Garden"], "author": "EnduringChill"}
+{"word": ["Eden"], "author": "A_Fly_On_The_Wall"}
+{"word": ["socially conscious clothing company\u00a0"], "author": "StrongGirl"}
+{"word": ["Shop\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Till you drop !\u00a0"], "author": "StrongGirl"}
+{"word": ["Saying\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["seeing"], "author": "~Ultra*U2*Love~"}
+{"word": ["sight"], "author": "Zooropa Baby Pop"}
+{"word": ["vision"], "author": "~Ultra*U2*Love~"}
+{"word": ["eyes"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["pupil"], "author": "~Ultra*U2*Love~"}
+{"word": ["teacher"], "author": "KezInNZ"}
+{"word": ["Pet"], "author": "EnduringChill"}
+{"word": ["animal"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Inside"], "author": "EnduringChill"}
+{"word": ["building"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Skyscraper"], "author": "EnduringChill"}
+{"word": ["height"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["acrophobia"], "author": "StrongGirl"}
+{"word": ["Acrobat"], "author": "EnduringChill"}
+{"word": ["dream (out loud)"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Zooropa"], "author": "EnduringChill"}
+{"word": ["station"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["satellite"], "author": "EnduringChill"}
+{"word": ["Direct TV\u00a0"], "author": "StrongGirl"}
+{"word": ["On demand"], "author": "EnduringChill"}
+{"word": ["Stars"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Kiss"], "author": "EnduringChill"}
+{"word": ["FUTURE (needs a big\u00a0"], "author": "Zooropa Baby Pop"}
+{"word": ["Scary"], "author": "EnduringChill"}
+{"word": ["Dinosaur"], "author": "Zooropa Baby Pop"}
+{"word": ["huge"], "author": "EnduringChill"}
+{"word": ["Sumo"], "author": "Zooropa Baby Pop"}
+{"word": ["Wrestler"], "author": "EnduringChill"}
+{"word": ["entertainment"], "author": "Zooropa Baby Pop"}
+{"word": ["teenagers"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["pest\u00a0"], "author": "Zooropa Baby Pop"}
+{"word": ["bug"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Fly"], "author": null}
+{"word": ["Leather"], "author": "Zooropa Baby Pop"}
+{"word": ["glasses"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Face"], "author": "EnduringChill"}
+{"word": ["eyes"], "author": "~Ultra*U2*Love~"}
+{"word": ["Blue"], "author": "EnduringChill"}
+{"word": ["Bono"], "author": null}
+{"word": ["Love"], "author": "EnduringChill"}
+{"word": ["Desire"], "author": null}
+{"word": ["Song"], "author": "EnduringChill"}
+{"word": ["Tune"], "author": null}
+{"word": ["lyrics"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Chune"], "author": "EnduringChill"}
+{"word": ["Bono"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["<3"], "author": "EnduringChill"}
+{"word": ["LOVE"], "author": "My smile is relief"}
+{"word": ["lightbulb"], "author": "Zooropa Baby Pop"}
+{"word": ["hanging"], "author": "EnduringChill"}
+{"word": ["over"], "author": "Zooropa Baby Pop"}
+{"word": ["Under"], "author": "EnduringChill"}
+{"word": ["floor"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Hardwood"], "author": "EnduringChill"}
+{"word": ["knock"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["door"], "author": "EnduringChill"}
+{"word": ["bell"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["ring"], "author": "EnduringChill"}
+{"word": ["Marriage"], "author": "A_Fly_On_The_Wall"}
+{"word": ["divorce"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Emotional"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Painful"], "author": "EnduringChill"}
+{"word": ["Scar"], "author": "StrongGirl"}
+{"word": ["wound"], "author": "EnduringChill"}
+{"word": ["healing"], "author": "Zooropa Baby Pop"}
+{"word": ["hands"], "author": "EnduringChill"}
+{"word": ["massage"], "author": null}
+{"word": ["smooth"], "author": "EnduringChill"}
+{"word": ["flat"], "author": null}
+{"word": ["thin"], "author": "EnduringChill"}
+{"word": ["mints"], "author": null}
+{"word": ["candy"], "author": "My smile is relief"}
+{"word": ["cane"], "author": "Zooropa Baby Pop"}
+{"word": ["Sugar"], "author": "EnduringChill"}
+{"word": ["Candy"], "author": null}
+{"word": ["floss"], "author": "EnduringChill"}
+{"word": ["ice"], "author": null}
+{"word": ["cream"], "author": "Zooropa Baby Pop"}
+{"word": ["cat"], "author": "EnduringChill"}
+{"word": ["Animal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["inside"], "author": "EnduringChill"}
+{"word": ["outside"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["breeze"], "author": "Zooropa Baby Pop"}
+{"word": ["woods"], "author": "trlica"}
+{"word": ["snow"], "author": "EnduringChill"}
+{"word": ["white"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["sheep"], "author": "EnduringChill"}
+{"word": ["Wales"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Welsh"], "author": "EnduringChill"}
+{"word": ["Nationality"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Heritage"], "author": "StrongGirl"}
+{"word": ["Famous"], "author": "A_Fly_On_The_Wall"}
+{"word": ["gossip"], "author": "Zooropa Baby Pop"}
+{"word": ["Tabloid"], "author": "StrongGirl"}
+{"word": ["lie"], "author": "Zooropa Baby Pop"}
+{"word": ["wrong"], "author": "My smile is relief"}
+{"word": ["Right"], "author": "A_Fly_On_The_Wall"}
+{"word": ["left"], "author": "My smile is relief"}
+{"word": ["flown"], "author": "EnduringChill"}
+{"word": ["Nest"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Egg"], "author": null}
+{"word": ["Chocolate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Milk"], "author": null}
+{"word": ["Shake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sundae"], "author": null}
+{"word": ["ice cream"], "author": "My smile is relief"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Play"], "author": null}
+{"word": ["Game"], "author": "A_Fly_On_The_Wall"}
+{"word": ["over"], "author": "My smile is relief"}
+{"word": ["End"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(does someone have to log off soon... I sense a theme here)"], "author": null}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["First"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Winner"], "author": "My smile is relief"}
+{"word": ["SMILE\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lol\u00a0"], "author": "My smile is relief"}
+{"word": ["Smiley face\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lol\u00a0"], "author": "My smile is relief"}
+{"word": ["SMILE... again\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["Sister"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Brother"], "author": "My smile is relief"}
+{"word": ["Family"], "author": "A_Fly_On_The_Wall"}
+{"word": ["problems\u00a0"], "author": "trlica"}
+{"word": ["Issues"], "author": "EnduringChill"}
+{"word": ["Bad"], "author": "My smile is relief"}
+{"word": ["Good"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mood"], "author": "trlica"}
+{"word": ["Feeling"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Happy"], "author": "My smile is relief"}
+{"word": ["Adam\u00a0"], "author": "trlica"}
+{"word": ["hot (sorry but i had to\u00a0"], "author": "My smile is relief"}
+{"word": ["it's ok\u00a0"], "author": "trlica"}
+{"word": ["haha okay!"], "author": "My smile is relief"}
+{"word": ["see I could do it again\u00a0"], "author": "trlica"}
+{"word": ["people"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["person"], "author": "My smile is relief"}
+{"word": ["Human"], "author": null}
+{"word": ["Person"], "author": "A_Fly_On_The_Wall"}
+{"word": ["robot"], "author": "StrongGirl"}
+{"word": ["Machine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Technological"], "author": "Zooropa Baby Pop"}
+{"word": ["Help"], "author": "EnduringChill"}
+{"word": ["Beatles"], "author": "Zooropa Baby Pop"}
+{"word": ["band"], "author": "EnduringChill"}
+{"word": ["friends"], "author": "Zooropa Baby Pop"}
+{"word": ["aquaintances"], "author": "EnduringChill"}
+{"word": ["stranger"], "author": "StrongGirl"}
+{"word": ["unknown"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["lost"], "author": "EnduringChill"}
+{"word": ["map"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["confused\u00a0 (I don't know how to read maps\u00a0"], "author": "trlica"}
+{"word": ["puzzled"], "author": null}
+{"word": ["Bemused"], "author": "EnduringChill"}
+{"word": ["Confused"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dazed\u00a0"], "author": "StrongGirl"}
+{"word": ["Stunned"], "author": null}
+{"word": ["Shocked"], "author": "EnduringChill"}
+{"word": ["Tasered"], "author": null}
+{"word": ["Flat"], "author": "EnduringChill"}
+{"word": ["Smooth"], "author": null}
+{"word": ["Sweet"], "author": "EnduringChill"}
+{"word": ["Sugar"], "author": null}
+{"word": ["caffeine"], "author": "EnduringChill"}
+{"word": ["Drug"], "author": null}
+{"word": ["Miracle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Angel"], "author": null}
+{"word": ["Heaven"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Paradise"], "author": null}
+{"word": ["Unreal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["fake"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["True"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Square"], "author": null}
+{"word": ["Shape"], "author": "A_Fly_On_The_Wall"}
+{"word": ["shape"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Deja Vu"], "author": "A_Fly_On_The_Wall"}
+{"word": ["the matrix"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["movie"], "author": "EnduringChill"}
+{"word": ["Harry Potter"], "author": "My smile is relief"}
+{"word": ["over-hyped"], "author": "Zooropa Baby Pop"}
+{"word": ["carbohydrates"], "author": "trlica"}
+{"word": ["raw"], "author": "EnduringChill"}
+{"word": ["vegetables"], "author": "trlica"}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["eyes"], "author": "My smile is relief"}
+{"word": ["vision"], "author": "Zooropa Baby Pop"}
+{"word": ["see"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["eye glasses"], "author": "trlica"}
+{"word": ["face"], "author": "EnduringChill"}
+{"word": ["feature"], "author": "Zooropa Baby Pop"}
+{"word": ["nose"], "author": "StrongGirl"}
+{"word": ["Jaw"], "author": "EnduringChill"}
+{"word": ["teeth"], "author": "Inishfree"}
+{"word": ["mouth"], "author": "EnduringChill"}
+{"word": ["language"], "author": "Zooropa Baby Pop"}
+{"word": ["speaking"], "author": "EnduringChill"}
+{"word": ["words"], "author": "My smile is relief"}
+{"word": ["voices"], "author": "EnduringChill"}
+{"word": ["sound"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["wall"], "author": "EnduringChill"}
+{"word": ["pictures"], "author": "trlica"}
+{"word": ["Photography"], "author": "A_Fly_On_The_Wall"}
+{"word": ["album"], "author": "trlica"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Soul"], "author": "My smile is relief"}
+{"word": ["Passion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lust"], "author": null}
+{"word": ["sex"], "author": "EnduringChill"}
+{"word": ["Gender"], "author": "A_Fly_On_The_Wall"}
+{"word": ["haha i knew that was coming!"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Color"], "author": "My smile is relief"}
+{"word": ["sight"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Eyes"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Blue"], "author": null}
+{"word": ["color"], "author": "EnduringChill"}
+{"word": ["Green"], "author": "My smile is relief"}
+{"word": ["Album"], "author": "EnduringChill"}
+{"word": ["War"], "author": "My smile is relief"}
+{"word": ["Rock"], "author": "EnduringChill"}
+{"word": ["Roll"], "author": "My smile is relief"}
+{"word": ["hill"], "author": "EnduringChill"}
+{"word": ["Hollywood"], "author": "My smile is relief"}
+{"word": ["Films"], "author": "EnduringChill"}
+{"word": ["Bollywood"], "author": "My smile is relief"}
+{"word": ["Asia"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Japan"], "author": "My smile is relief"}
+{"word": ["Mt. Fuji"], "author": "EnduringChill"}
+{"word": ["Landmark"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Theater (don't ask)"], "author": "EnduringChill"}
+{"word": ["actors"], "author": "My smile is relief"}
+{"word": ["men"], "author": "EnduringChill"}
+{"word": ["women"], "author": "My smile is relief"}
+{"word": ["pretty"], "author": "EnduringChill"}
+{"word": ["beauty"], "author": "My smile is relief"}
+{"word": ["True"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Story"], "author": "My smile is relief"}
+{"word": ["boy"], "author": "EnduringChill"}
+{"word": ["Album"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Songs"], "author": "My smile is relief"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Feelings"], "author": "My smile is relief"}
+{"word": ["inspired"], "author": "EnduringChill"}
+{"word": ["inspiration"], "author": "My smile is relief"}
+{"word": ["U2"], "author": "A_Fly_On_The_Wall"}
+{"word": ["band"], "author": "EnduringChill"}
+{"word": ["Girl"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Power"], "author": null}
+{"word": ["Horse"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Polo"], "author": null}
+{"word": ["Water"], "author": "EnduringChill"}
+{"word": ["thirsty"], "author": "trlica"}
+{"word": ["juice"], "author": "My smile is relief"}
+{"word": ["Fruit"], "author": null}
+{"word": ["apple"], "author": "My smile is relief"}
+{"word": ["Cider"], "author": null}
+{"word": ["brandy"], "author": "My smile is relief"}
+{"word": ["Wine"], "author": "EnduringChill"}
+{"word": ["Champagne"], "author": "theocean"}
+{"word": ["Celebration"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Party"], "author": null}
+{"word": ["Strange"], "author": "EnduringChill"}
+{"word": ["Offbeat"], "author": "Silverbulletday"}
+{"word": ["music"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["happiness"], "author": "trlica"}
+{"word": ["Beautiful"], "author": "EnduringChill"}
+{"word": ["day"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["sky"], "author": "EnduringChill"}
+{"word": ["clouds"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["puffy"], "author": "EnduringChill"}
+{"word": ["cotton wool"], "author": "trlica"}
+{"word": ["scratchy"], "author": "EnduringChill"}
+{"word": ["Itchy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["shag carpet"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["fluffy"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["dog"], "author": "My smile is relief"}
+{"word": ["bark"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["tree"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spinach"], "author": "trlica"}
+{"word": ["healthy"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["gone!! (I mean my avi)"], "author": "trlica"}
+{"word": ["\u00a0"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["Vegetable"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tomato"], "author": "My smile is relief"}
+{"word": ["pizza"], "author": "trlica"}
+{"word": ["Italy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rome"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["history"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["old"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["faces"], "author": "EnduringChill"}
+{"word": ["smiles"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["KITTEH!"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["CUTEH"], "author": "EnduringChill"}
+{"word": ["Sweet\u00a0"], "author": "StrongGirl"}
+{"word": ["taste"], "author": "EnduringChill"}
+{"word": ["waste"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["dirt"], "author": "EnduringChill"}
+{"word": ["mud"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["zooropa\u00a0"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["360 tour"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tour"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["bikes"], "author": "trlica"}
+{"word": ["people"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["helmets"], "author": "trlica"}
+{"word": ["Space"], "author": "EnduringChill"}
+{"word": ["Star Trek"], "author": "theocean"}
+{"word": ["Vulcan"], "author": "EnduringChill"}
+{"word": ["Planet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["World"], "author": "My smile is relief"}
+{"word": ["Round"], "author": "EnduringChill"}
+{"word": ["Game"], "author": "My smile is relief"}
+{"word": ["End"], "author": "EnduringChill"}
+{"word": ["Story"], "author": "My smile is relief"}
+{"word": ["Book"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Enjoyment"], "author": "My smile is relief"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Piano"], "author": "My smile is relief"}
+{"word": ["Classic"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beethoven"], "author": "My smile is relief"}
+{"word": ["Film"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cinema"], "author": "My smile is relief"}
+{"word": ["Popcorn"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Salt"], "author": "My smile is relief"}
+{"word": ["Sugar"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tea"], "author": "My smile is relief"}
+{"word": ["Iced"], "author": "StrongGirl"}
+{"word": ["Coffee"], "author": "My smile is relief"}
+{"word": ["Flavor"], "author": "EnduringChill"}
+{"word": ["vanilla"], "author": "My smile is relief"}
+{"word": ["Ice cream"], "author": "EnduringChill"}
+{"word": ["cold"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["weather"], "author": "My smile is relief"}
+{"word": ["sky"], "author": "trlica"}
+{"word": ["blue"], "author": "EnduringChill"}
+{"word": ["sea"], "author": "trlica"}
+{"word": ["Ocean!"], "author": "My smile is relief"}
+{"word": ["One of the nicest members of @U2 forum\u00a0"], "author": "StrongGirl"}
+{"word": ["New York"], "author": "EnduringChill"}
+{"word": ["Apple"], "author": "A_Fly_On_The_Wall"}
+{"word": ["iPod"], "author": "My smile is relief"}
+{"word": ["Technology"], "author": "A_Fly_On_The_Wall"}
+{"word": ["wireless"], "author": "trlica"}
+{"word": ["Network"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Nickelodeon"], "author": "EnduringChill"}
+{"word": ["TV"], "author": "My smile is relief"}
+{"word": ["Zoo"], "author": "EnduringChill"}
+{"word": ["Animal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Farm"], "author": "My smile is relief"}
+{"word": ["cow"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["milk"], "author": "Thehorsefly [whinny!]"}
+{"word": ["White"], "author": "EnduringChill"}
+{"word": ["Snow"], "author": "theocean"}
+{"word": ["Cold"], "author": "EnduringChill"}
+{"word": ["winter"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["Ice"], "author": "EnduringChill"}
+{"word": ["sleet"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["Rain"], "author": "EnduringChill"}
+{"word": ["Wet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tissue"], "author": "trlica"}
+{"word": ["crying"], "author": "My smile is relief"}
+{"word": ["Emotion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Joy"], "author": "My smile is relief"}
+{"word": ["Feeling"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sad"], "author": "My smile is relief"}
+{"word": ["Happy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Person"], "author": "My smile is relief"}
+{"word": ["People"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Group"], "author": "My smile is relief"}
+{"word": ["Company"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Products"], "author": "My smile is relief"}
+{"word": ["paper"], "author": "EnduringChill"}
+{"word": ["mach\u00e9"], "author": "horizon"}
+{"word": ["Cone"], "author": "Thehorsefly [whinny!]"}
+{"word": ["ice cream"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["vanilla"], "author": "EnduringChill"}
+{"word": ["cappuccino"], "author": "My smile is relief"}
+{"word": ["foam"], "author": "trlica"}
+{"word": ["Party"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Student"], "author": "My smile is relief"}
+{"word": ["College"], "author": "A_Fly_On_The_Wall"}
+{"word": ["English"], "author": "My smile is relief"}
+{"word": ["Writing"], "author": "EnduringChill"}
+{"word": ["Essay"], "author": "My smile is relief"}
+{"word": ["Passage"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Way"], "author": "EnduringChill"}
+{"word": ["Method"], "author": "A_Fly_On_The_Wall"}
+{"word": ["science"], "author": "My smile is relief"}
+{"word": ["Medicine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cure"], "author": "My smile is relief"}
+{"word": ["The"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Word"], "author": "EnduringChill"}
+{"word": ["Letter"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Writing"], "author": "My smile is relief"}
+{"word": ["Read"], "author": "EnduringChill"}
+{"word": ["Book"], "author": "My smile is relief"}
+{"word": ["Cover"], "author": "EnduringChill"}
+{"word": ["page"], "author": "trlica"}
+{"word": ["number"], "author": "My smile is relief"}
+{"word": ["Game"], "author": "trlica"}
+{"word": ["Fish"], "author": "EnduringChill"}
+{"word": ["squid"], "author": "trlica"}
+{"word": ["octopus"], "author": "Thehorsefly [whinny!]"}
+{"word": ["Eight\u00a0"], "author": "StrongGirl"}
+{"word": ["miles"], "author": "My smile is relief"}
+{"word": ["A thousand"], "author": "EnduringChill"}
+{"word": ["dollars"], "author": "My smile is relief"}
+{"word": ["Protection"], "author": "EnduringChill"}
+{"word": ["Weapon"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Police"], "author": "My smile is relief"}
+{"word": ["Uniform"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Job\u00a0"], "author": "My smile is relief"}
+{"word": ["work"], "author": "EnduringChill"}
+{"word": ["Experience"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Practice"], "author": "My smile is relief"}
+{"word": ["try"], "author": "EnduringChill"}
+{"word": ["Fail"], "author": "My smile is relief"}
+{"word": ["class"], "author": "EnduringChill"}
+{"word": ["school"], "author": "My smile is relief"}
+{"word": ["teacher"], "author": "EnduringChill"}
+{"word": ["Student"], "author": "A_Fly_On_The_Wall"}
+{"word": ["books"], "author": "My smile is relief"}
+{"word": ["reading"], "author": "EnduringChill"}
+{"word": ["learning"], "author": "My smile is relief"}
+{"word": ["fire ("], "author": "EnduringChill"}
+{"word": ["water"], "author": "My smile is relief"}
+{"word": ["Ice"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mountain"], "author": "My smile is relief"}
+{"word": ["Steep"], "author": "A_Fly_On_The_Wall"}
+{"word": ["skiing"], "author": "My smile is relief"}
+{"word": ["Snow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["winter"], "author": "My smile is relief"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hands"], "author": "My smile is relief"}
+{"word": ["Gloves"], "author": "A_Fly_On_The_Wall"}
+{"word": ["velvet"], "author": "My smile is relief"}
+{"word": ["Material"], "author": "A_Fly_On_The_Wall"}
+{"word": ["designer"], "author": "My smile is relief"}
+{"word": ["Expensive"], "author": "A_Fly_On_The_Wall"}
+{"word": ["shoes"], "author": "My smile is relief"}
+{"word": ["Heel"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tall"], "author": "My smile is relief"}
+{"word": ["Building"], "author": "A_Fly_On_The_Wall"}
+{"word": ["floors"], "author": "My smile is relief"}
+{"word": ["Ground"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Grass"], "author": "My smile is relief"}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tree"], "author": "My smile is relief"}
+{"word": ["Tall"], "author": "A_Fly_On_The_Wall"}
+{"word": ["You"], "author": "My smile is relief"}
+{"word": ["FLY\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wall!"], "author": "My smile is relief"}
+{"word": ["Home\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sweet"], "author": "EnduringChill"}
+{"word": ["Sugar!"], "author": "StrongGirl"}
+{"word": ["rice"], "author": "EnduringChill"}
+{"word": ["Soy Sauce!"], "author": "theocean"}
+{"word": ["salty"], "author": "EnduringChill"}
+{"word": ["fries"], "author": "My smile is relief"}
+{"word": ["ketchup"], "author": "trlica"}
+{"word": ["Mustard"], "author": "EnduringChill"}
+{"word": ["seeds"], "author": "My smile is relief"}
+{"word": ["Life"], "author": "A_Fly_On_The_Wall"}
+{"word": ["growth"], "author": "EnduringChill"}
+{"word": ["Tall"], "author": "A_Fly_On_The_Wall"}
+{"word": ["short"], "author": "EnduringChill"}
+{"word": ["Stop"], "author": "A_Fly_On_The_Wall"}
+{"word": ["slow"], "author": "EnduringChill"}
+{"word": ["Turtle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["crawl"], "author": "EnduringChill"}
+{"word": ["baby"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["cute"], "author": "My smile is relief"}
+{"word": ["dolphin"], "author": "trlica"}
+{"word": ["cute"], "author": "EnduringChill"}
+{"word": ["Puppy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sad"], "author": "EnduringChill"}
+{"word": ["Tears"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Joy"], "author": null}
+{"word": ["Division"], "author": "A_Fly_On_The_Wall"}
+{"word": ["united"], "author": "EnduringChill"}
+{"word": ["\u00a0"], "author": null}
+{"word": ["For you that was Jo\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Be"], "author": "EnduringChill"}
+{"word": ["Exist"], "author": null}
+{"word": ["Alive"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Breathing"], "author": "EnduringChill"}
+{"word": ["Heavy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rhythm"], "author": "EnduringChill"}
+{"word": ["Beat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tap"], "author": "EnduringChill"}
+{"word": ["Water"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tears"], "author": "My smile is relief"}
+{"word": ["Upset"], "author": "A_Fly_On_The_Wall"}
+{"word": ["haha!"], "author": "My smile is relief"}
+{"word": ["SMILE\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["big!!"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fly!"], "author": "My smile is relief"}
+{"word": ["British"], "author": null}
+{"word": ["Accent"], "author": "My smile is relief"}
+{"word": ["strong"], "author": "trlica"}
+{"word": ["weak"], "author": "EnduringChill"}
+{"word": ["Physically"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mentally"], "author": "EnduringChill"}
+{"word": ["ill"], "author": "My smile is relief"}
+{"word": ["Diseased"], "author": null}
+{"word": ["Deceased"], "author": "EnduringChill"}
+{"word": ["Mourn"], "author": "StrongGirl"}
+{"word": ["Doves"], "author": null}
+{"word": ["White"], "author": "EnduringChill"}
+{"word": ["Snow"], "author": null}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Play"], "author": null}
+{"word": ["Fun"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Party"], "author": null}
+{"word": ["Wild"], "author": "EnduringChill"}
+{"word": ["Untamed"], "author": null}
+{"word": ["Crazy"], "author": "EnduringChill"}
+{"word": ["Tonight"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Remix"], "author": null}
+{"word": ["DJ"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Madonna"], "author": null}
+{"word": ["Icon"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bono"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["glasses"], "author": "trlica"}
+{"word": ["Wine"], "author": null}
+{"word": ["red"], "author": "My smile is relief"}
+{"word": ["blood"], "author": "trlica"}
+{"word": ["Vampire"], "author": "A_Fly_On_The_Wall"}
+{"word": ["teeth"], "author": "trlica"}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pale"], "author": "EnduringChill"}
+{"word": ["fair"], "author": "StrongGirl"}
+{"word": ["trade"], "author": "My smile is relief"}
+{"word": ["Business"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Office"], "author": "My smile is relief"}
+{"word": ["Desk"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Chair"], "author": "My smile is relief"}
+{"word": ["Numb\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cold"], "author": "EnduringChill"}
+{"word": ["Beer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Alcohol"], "author": "My smile is relief"}
+{"word": ["Liquid"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Water"], "author": "My smile is relief"}
+{"word": ["Tap"], "author": "A_Fly_On_The_Wall"}
+{"word": ["kitchen"], "author": "My smile is relief"}
+{"word": ["Cook"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tempt"], "author": "EnduringChill"}
+{"word": ["murder"], "author": "My smile is relief"}
+{"word": ["number"], "author": "EnduringChill"}
+{"word": ["lucky"], "author": "My smile is relief"}
+{"word": ["Winner"], "author": "theocean"}
+{"word": ["Score"], "author": "EnduringChill"}
+{"word": ["High"], "author": "A_Fly_On_The_Wall"}
+{"word": ["drugs"], "author": "EnduringChill"}
+{"word": ["Mmmmmm\u00a0 \u00a0"], "author": "trlica"}
+{"word": ["dollars"], "author": "EnduringChill"}
+{"word": ["bills"], "author": "My smile is relief"}
+{"word": ["folded"], "author": "EnduringChill"}
+{"word": ["cards"], "author": null}
+{"word": ["Joker"], "author": "A_Fly_On_The_Wall"}
+{"word": ["you"], "author": null}
+{"word": ["FLY\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Leather"], "author": null}
+{"word": ["Pants"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Red"], "author": null}
+{"word": ["Heat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sun"], "author": null}
+{"word": ["Bright"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Idea"], "author": null}
+{"word": ["Thought"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Memory"], "author": null}
+{"word": ["Chip"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Potato"], "author": null}
+{"word": ["Skin"], "author": "A_Fly_On_The_Wall"}
+{"word": ["face"], "author": "My smile is relief"}
+{"word": ["Mirror"], "author": null}
+{"word": ["ball"], "author": "EnduringChill"}
+{"word": ["foot"], "author": null}
+{"word": ["toe"], "author": "EnduringChill"}
+{"word": ["Little"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Small"], "author": null}
+{"word": ["tall"], "author": "EnduringChill"}
+{"word": ["High"], "author": "A_Fly_On_The_Wall"}
+{"word": ["life"], "author": "EnduringChill"}
+{"word": ["Living"], "author": "A_Fly_On_The_Wall"}
+{"word": ["problems"], "author": "trlica"}
+{"word": ["dealing"], "author": "My smile is relief"}
+{"word": ["success"], "author": "trlica"}
+{"word": ["relief"], "author": "My smile is relief"}
+{"word": ["famine"], "author": "EnduringChill"}
+{"word": ["Bad"], "author": "A_Fly_On_The_Wall"}
+{"word": ["behavior"], "author": "trlica"}
+{"word": ["troubles"], "author": "My smile is relief"}
+{"word": ["problem"], "author": "Starguitar"}
+{"word": ["solution"], "author": "My smile is relief"}
+{"word": ["creative"], "author": "Starguitar"}
+{"word": ["visitors can't see pics , please You are not allowed to view links."], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["collage"], "author": "My smile is relief"}
+{"word": ["colors"], "author": "trlica"}
+{"word": ["green"], "author": "EnduringChill"}
+{"word": ["Eyes"], "author": "My smile is relief"}
+{"word": ["burning"], "author": "EnduringChill"}
+{"word": ["fire"], "author": "My smile is relief"}
+{"word": ["out of control!"], "author": "EnduringChill"}
+{"word": ["wild"], "author": "trlica"}
+{"word": ["drunk"], "author": "My smile is relief"}
+{"word": ["blinded"], "author": "EnduringChill"}
+{"word": ["glasses"], "author": "trlica"}
+{"word": ["wizards\u00a0"], "author": "Starguitar"}
+{"word": ["Harry Potter"], "author": "horizon"}
+{"word": ["Blockbuster"], "author": "Starguitar"}
+{"word": ["video rental"], "author": "horizon"}
+{"word": ["dvd"], "author": "Starguitar"}
+{"word": ["Disc"], "author": "A_Fly_On_The_Wall"}
+{"word": ["disk"], "author": "EnduringChill"}
+{"word": ["frisbee"], "author": "Starguitar"}
+{"word": ["beach"], "author": "My smile is relief"}
+{"word": ["sand"], "author": "EnduringChill"}
+{"word": ["Castle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["building"], "author": "EnduringChill"}
+{"word": ["skyscraper"], "author": "Starguitar"}
+{"word": ["smog"], "author": "EnduringChill"}
+{"word": ["pollution"], "author": "My smile is relief"}
+{"word": ["trash"], "author": "bonobuzz"}
+{"word": ["fake"], "author": "EnduringChill"}
+{"word": ["big brother"], "author": "My smile is relief"}
+{"word": ["watching"], "author": "EnduringChill"}
+{"word": ["TV"], "author": "My smile is relief"}
+{"word": ["internet"], "author": "Starguitar"}
+{"word": ["web"], "author": "bonobuzz"}
+{"word": ["address"], "author": "My smile is relief"}
+{"word": ["label"], "author": "EnduringChill"}
+{"word": ["mark"], "author": "My smile is relief"}
+{"word": ["burn"], "author": "EnduringChill"}
+{"word": ["matches"], "author": "My smile is relief"}
+{"word": ["fire"], "author": "bonobuzz"}
+{"word": ["Hot"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Weather"], "author": "My smile is relief"}
+{"word": ["Storm"], "author": "bonobuzz"}
+{"word": ["Rain"], "author": "My smile is relief"}
+{"word": ["spring"], "author": "Starguitar"}
+{"word": ["Bugs"], "author": "theocean"}
+{"word": ["insects"], "author": "My smile is relief"}
+{"word": ["Infect"], "author": "EnduringChill"}
+{"word": ["pain"], "author": "trlica"}
+{"word": ["crying"], "author": "My smile is relief"}
+{"word": ["sadness"], "author": "Starguitar"}
+{"word": ["Disappointment"], "author": "EnduringChill"}
+{"word": ["people"], "author": "My smile is relief"}
+{"word": ["population"], "author": "Starguitar"}
+{"word": ["Country"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Farms"], "author": "bonobuzz"}
+{"word": ["Fields"], "author": "A_Fly_On_The_Wall"}
+{"word": ["wildflowers"], "author": "bonobuzz"}
+{"word": ["Beautiful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sunset"], "author": "bonobuzz"}
+{"word": ["Picturesque"], "author": "A_Fly_On_The_Wall"}
+{"word": ["area"], "author": "My smile is relief"}
+{"word": ["Place"], "author": "A_Fly_On_The_Wall"}
+{"word": ["country"], "author": "My smile is relief"}
+{"word": ["Big"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Apple"], "author": "My smile is relief"}
+{"word": ["Fruit"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pineapple"], "author": "bonobuzz"}
+{"word": ["Juice"], "author": "A_Fly_On_The_Wall"}
+{"word": ["strawberries"], "author": "My smile is relief"}
+{"word": ["Cream"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ice"], "author": "My smile is relief"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["winter"], "author": "bonobuzz"}
+{"word": ["Christmas"], "author": "WeruniaB"}
+{"word": ["January"], "author": "My smile is relief"}
+{"word": ["Month"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Year"], "author": "My smile is relief"}
+{"word": ["calendar"], "author": "bonobuzz"}
+{"word": ["Pages"], "author": "My smile is relief"}
+{"word": ["book"], "author": "bonobuzz"}
+{"word": ["Characters"], "author": "WeruniaB"}
+{"word": ["personalities"], "author": "My smile is relief"}
+{"word": ["Split"], "author": "A_Fly_On_The_Wall"}
+{"word": ["City"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["I was there last year"], "author": "WeruniaB"}
+{"word": ["Show"], "author": "A_Fly_On_The_Wall"}
+{"word": ["really!"], "author": "My smile is relief"}
+{"word": ["Set"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Name"], "author": "My smile is relief"}
+{"word": ["First"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Race"], "author": "My smile is relief"}
+{"word": ["Horse"], "author": "A_Fly_On_The_Wall"}
+{"word": ["White"], "author": "My smile is relief"}
+{"word": ["Ghost"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Scary"], "author": "My smile is relief"}
+{"word": ["Yep! Maybe I'll go there next year"], "author": "WeruniaB"}
+{"word": ["that's nice!"], "author": "My smile is relief"}
+{"word": ["Comedy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Stand Up"], "author": "My smile is relief"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Singer"], "author": "My smile is relief"}
+{"word": ["music"], "author": "bonobuzz"}
+{"word": ["singing"], "author": "Starguitar"}
+{"word": ["melody"], "author": "bonobuzz"}
+{"word": ["guitar"], "author": "Starguitar"}
+{"word": ["bass"], "author": "bonobuzz"}
+{"word": ["drum"], "author": "Starguitar"}
+{"word": ["beat"], "author": "EnduringChill"}
+{"word": ["note"], "author": "Starguitar"}
+{"word": ["conductor"], "author": "trlica"}
+{"word": ["choir"], "author": "My smile is relief"}
+{"word": ["Glee"], "author": "WeruniaB"}
+{"word": ["Reality show"], "author": "My smile is relief"}
+{"word": ["Big Brother"], "author": "WeruniaB"}
+{"word": ["1984"], "author": "Starguitar"}
+{"word": ["Year"], "author": "WeruniaB"}
+{"word": ["Month"], "author": "bonobuzz"}
+{"word": ["Day"], "author": "WeruniaB"}
+{"word": ["Hours"], "author": "trlica"}
+{"word": ["Clock"], "author": "Starguitar"}
+{"word": ["Time"], "author": "WeruniaB"}
+{"word": ["Schedule"], "author": "Starguitar"}
+{"word": ["work"], "author": "bonobuzz"}
+{"word": ["money"], "author": "trlica"}
+{"word": ["sale"], "author": "My smile is relief"}
+{"word": ["shop"], "author": "Starguitar"}
+{"word": ["mall"], "author": "My smile is relief"}
+{"word": ["weekend"], "author": "Starguitar"}
+{"word": ["days off"], "author": "My smile is relief"}
+{"word": ["vacation"], "author": "Starguitar"}
+{"word": ["travels"], "author": "My smile is relief"}
+{"word": ["sand"], "author": "EnduringChill"}
+{"word": ["castle"], "author": "Starguitar"}
+{"word": ["prince"], "author": "My smile is relief"}
+{"word": ["horse"], "author": "trlica"}
+{"word": ["Unicorn"], "author": "WeruniaB"}
+{"word": ["Horn"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Instrument"], "author": "My smile is relief"}
+{"word": ["Violin"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "My smile is relief"}
+{"word": ["Lyrics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["paper"], "author": "trlica"}
+{"word": ["pencil"], "author": "bonobuzz"}
+{"word": ["Drawing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["coloring"], "author": null}
+{"word": ["Picture"], "author": "A_Fly_On_The_Wall"}
+{"word": ["wall"], "author": "My smile is relief"}
+{"word": ["art"], "author": "bonobuzz"}
+{"word": ["exhibition"], "author": "My smile is relief"}
+{"word": ["museum"], "author": "Starguitar"}
+{"word": ["sculpture"], "author": "bonobuzz"}
+{"word": ["hero"], "author": "My smile is relief"}
+{"word": ["Superman"], "author": "bonobuzz"}
+{"word": ["Batman"], "author": "My smile is relief"}
+{"word": ["Spiderman"], "author": "bonobuzz"}
+{"word": ["musical"], "author": "Starguitar"}
+{"word": ["singing"], "author": "bonobuzz"}
+{"word": ["singer"], "author": "My smile is relief"}
+{"word": ["concert"], "author": "bonobuzz"}
+{"word": ["crowd"], "author": "My smile is relief"}
+{"word": ["fans"], "author": "bonobuzz"}
+{"word": ["crazy"], "author": "My smile is relief"}
+{"word": ["obsessed\u00a0"], "author": "Starguitar"}
+{"word": ["groupie"], "author": null}
+{"word": ["yuck"], "author": "EnduringChill"}
+{"word": ["gross"], "author": "Starguitar"}
+{"word": ["disgusting"], "author": "EnduringChill"}
+{"word": ["stuffing (the food\u00a0 \u00a0"], "author": "Starguitar"}
+{"word": ["turkey"], "author": "bonobuzz"}
+{"word": ["gobble"], "author": "EnduringChill"}
+{"word": ["feathers"], "author": "bonobuzz"}
+{"word": ["horse"], "author": "EnduringChill"}
+{"word": ["saddle"], "author": "bonobuzz"}
+{"word": ["riding"], "author": "My smile is relief"}
+{"word": ["trails"], "author": "Starguitar"}
+{"word": ["paths"], "author": "EnduringChill"}
+{"word": ["hikes"], "author": "Starguitar"}
+{"word": ["mountains"], "author": "bonobuzz"}
+{"word": ["scenery"], "author": "Starguitar"}
+{"word": ["ocean"], "author": "bonobuzz"}
+{"word": ["waves"], "author": "Starguitar"}
+{"word": ["splashing"], "author": null}
+{"word": ["waves"], "author": "bonobuzz"}
+{"word": ["surfing"], "author": "Starguitar"}
+{"word": ["sailing"], "author": "bonobuzz"}
+{"word": ["anchor"], "author": null}
+{"word": ["sea"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Ocean"], "author": "My smile is relief"}
+{"word": ["cruise"], "author": "bonobuzz"}
+{"word": ["boat"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["fish"], "author": "bonobuzz"}
+{"word": ["bear"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["zoo"], "author": "bonobuzz"}
+{"word": ["TV"], "author": "A_Fly_On_The_Wall"}
+{"word": ["video"], "author": "Starguitar"}
+{"word": ["Film"], "author": "A_Fly_On_The_Wall"}
+{"word": ["digital"], "author": "Starguitar"}
+{"word": ["watch"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["time"], "author": "bonobuzz"}
+{"word": ["schedule"], "author": "Starguitar"}
+{"word": ["Deadline"], "author": "A_Fly_On_The_Wall"}
+{"word": ["expectation"], "author": "Starguitar"}
+{"word": ["false"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["lies"], "author": "Starguitar"}
+{"word": ["Fake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Unreal"], "author": null}
+{"word": ["The Edge\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["guitar"], "author": "bonobuzz"}
+{"word": ["play"], "author": "Starguitar"}
+{"word": ["music"], "author": "bonobuzz"}
+{"word": ["life"], "author": "trlica"}
+{"word": ["future"], "author": "Starguitar"}
+{"word": ["Past"], "author": "A_Fly_On_The_Wall"}
+{"word": ["DeLorean\u00a0"], "author": "Starguitar"}
+{"word": ["Sports Car"], "author": "theocean"}
+{"word": ["mustang"], "author": "bonobuzz"}
+{"word": ["Car"], "author": "My smile is relief"}
+{"word": ["Truck"], "author": "bonobuzz"}
+{"word": ["American"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dream"], "author": "My smile is relief"}
+{"word": ["Reality"], "author": "StrongGirl"}
+{"word": ["escape"], "author": "My smile is relief"}
+{"word": ["Leave"], "author": "EnduringChill"}
+{"word": ["Abandon"], "author": "StrongGirl"}
+{"word": ["Children"], "author": "My smile is relief"}
+{"word": ["Babies"], "author": "bonobuzz"}
+{"word": ["Cute"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Puppy"], "author": "bonobuzz"}
+{"word": ["Small"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tiny"], "author": "bonobuzz"}
+{"word": ["Smurf"], "author": "A_Fly_On_The_Wall"}
+{"word": ["fairy"], "author": "bonobuzz"}
+{"word": ["Godmother"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Horse heads\u00a0"], "author": "singnomore"}
+{"word": ["ahmm..."], "author": "My smile is relief"}
+{"word": ["Art"], "author": "A_Fly_On_The_Wall"}
+{"word": ["talent"], "author": "My smile is relief"}
+{"word": ["Singing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["show"], "author": "My smile is relief"}
+{"word": ["performance"], "author": "bonobuzz"}
+{"word": ["stage"], "author": "trlica"}
+{"word": ["opera"], "author": "bonobuzz"}
+{"word": ["Pavarotti"], "author": "theocean"}
+{"word": ["Miss Sarajevo of course!!!"], "author": "StrongGirl"}
+{"word": ["Bosnia"], "author": "My smile is relief"}
+{"word": ["Country"], "author": "bonobuzz"}
+{"word": ["Land"], "author": "A_Fly_On_The_Wall"}
+{"word": ["property"], "author": "bonobuzz"}
+{"word": ["Own"], "author": "A_Fly_On_The_Wall"}
+{"word": ["RENT"], "author": "bonobuzz"}
+{"word": ["Pay"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Money"], "author": "bonobuzz"}
+{"word": ["Rich"], "author": "A_Fly_On_The_Wall"}
+{"word": ["famous"], "author": "bonobuzz"}
+{"word": ["Celebrity"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Idol"], "author": "bonobuzz"}
+{"word": ["American"], "author": "A_Fly_On_The_Wall"}
+{"word": ["FLAG"], "author": "bonobuzz"}
+{"word": ["Day"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Friday"], "author": "bonobuzz"}
+{"word": ["Relaxing"], "author": "trlica"}
+{"word": ["Massage"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Therapy"], "author": null}
+{"word": ["Medicines"], "author": "My smile is relief"}
+{"word": ["Doctor"], "author": "bonobuzz"}
+{"word": ["Hospital"], "author": "My smile is relief"}
+{"word": ["surgery"], "author": "bonobuzz"}
+{"word": ["Plastic"], "author": "My smile is relief"}
+{"word": ["jacket"], "author": null}
+{"word": ["winter"], "author": "My smile is relief"}
+{"word": ["Sexy Boots"], "author": "theocean"}
+{"word": ["Get on your boots!"], "author": "EnduringChill"}
+{"word": ["song"], "author": "My smile is relief"}
+{"word": ["singalong"], "author": "EnduringChill"}
+{"word": ["karaoke"], "author": "My smile is relief"}
+{"word": ["machine"], "author": "EnduringChill"}
+{"word": ["robot"], "author": "My smile is relief"}
+{"word": ["whining"], "author": "EnduringChill"}
+{"word": ["Moan"], "author": "A_Fly_On_The_Wall"}
+{"word": ["whisper"], "author": "EnduringChill"}
+{"word": ["Quiet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Shy"], "author": null}
+{"word": ["Guy"], "author": "My smile is relief"}
+{"word": ["Crush"], "author": "EnduringChill"}
+{"word": ["fantasy"], "author": "bonobuzz"}
+{"word": ["world"], "author": "My smile is relief"}
+{"word": ["Earth"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Day"], "author": "My smile is relief"}
+{"word": ["Night"], "author": "bonobuzz"}
+{"word": ["Dark"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Creepy"], "author": "bonobuzz"}
+{"word": ["Village"], "author": "A_Fly_On_The_Wall"}
+{"word": ["People"], "author": "bonobuzz"}
+{"word": ["Human"], "author": "A_Fly_On_The_Wall"}
+{"word": ["person"], "author": "bonobuzz"}
+{"word": ["Gender"], "author": "StrongGirl"}
+{"word": ["male"], "author": "EnduringChill"}
+{"word": ["Boy"], "author": "bonobuzz"}
+{"word": ["Band"], "author": "My smile is relief"}
+{"word": ["Group"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mob"], "author": null}
+{"word": ["Crowd"], "author": "My smile is relief"}
+{"word": ["People"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Humans"], "author": "theocean"}
+{"word": ["Aliens"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Space"], "author": "bonobuzz"}
+{"word": ["black hole"], "author": "StrongGirl"}
+{"word": ["vortex"], "author": "bonobuzz"}
+{"word": ["Amazing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["U2 LIVE"], "author": "bonobuzz"}
+{"word": ["Concert"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Stadium"], "author": "bonobuzz"}
+{"word": ["rock"], "author": "EnduringChill"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Love"], "author": "EnduringChill"}
+{"word": ["Life"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Awesome"], "author": "bonobuzz"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Strong"], "author": "EnduringChill"}
+{"word": ["Muscles"], "author": "GardenTart"}
+{"word": ["Tough"], "author": "A_Fly_On_The_Wall"}
+{"word": ["boxer"], "author": "bonobuzz"}
+{"word": ["fight"], "author": "My smile is relief"}
+{"word": ["argue"], "author": "theocean"}
+{"word": ["anger"], "author": "My smile is relief"}
+{"word": ["frustration"], "author": "StrongGirl"}
+{"word": ["exasperation"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["Feeling"], "author": "A_Fly_On_The_Wall"}
+{"word": ["joy"], "author": "My smile is relief"}
+{"word": ["smile"], "author": "bonobuzz"}
+{"word": ["SISTER!!!!"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Love!"], "author": "My smile is relief"}
+{"word": ["& Peace\u00a0"], "author": "theocean"}
+{"word": ["or else\u00a0"], "author": "My smile is relief"}
+{"word": ["movie"], "author": "trlica"}
+{"word": ["TV"], "author": "My smile is relief"}
+{"word": ["Broadway stage"], "author": "StrongGirl"}
+{"word": ["New York"], "author": "My smile is relief"}
+{"word": ["Big Apple"], "author": "EnduringChill"}
+{"word": ["city of blinding lights"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["Las Vegas"], "author": "bonobuzz"}
+{"word": ["Trashy"], "author": "EnduringChill"}
+{"word": ["^ haha i had to google it! xD"], "author": "My smile is relief"}
+{"word": ["Rich"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Money"], "author": "trlica"}
+{"word": ["Tree"], "author": "A_Fly_On_The_Wall"}
+{"word": ["branches"], "author": "bonobuzz"}
+{"word": ["Leaves"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Green"], "author": "bonobuzz"}
+{"word": ["Eyes"], "author": "A_Fly_On_The_Wall"}
+{"word": ["river"], "author": "EnduringChill"}
+{"word": ["Dry"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Harsh"], "author": "EnduringChill"}
+{"word": ["cruel"], "author": "StrongGirl"}
+{"word": ["heartless"], "author": "My smile is relief"}
+{"word": ["Kanye West"], "author": "EnduringChill"}
+{"word": ["overrated"], "author": "My smile is relief"}
+{"word": ["Underrated"], "author": "A_Fly_On_The_Wall"}
+{"word": ["criminally"], "author": "EnduringChill"}
+{"word": ["Insane"], "author": "A_Fly_On_The_Wall"}
+{"word": ["loopy"], "author": "EnduringChill"}
+{"word": ["party"], "author": "My smile is relief"}
+{"word": ["Sleepover"], "author": "EnduringChill"}
+{"word": ["hangover"], "author": "My smile is relief"}
+{"word": ["Sleepy"], "author": "EnduringChill"}
+{"word": ["tired"], "author": "My smile is relief"}
+{"word": ["Exhausted"], "author": "EnduringChill"}
+{"word": ["workout"], "author": "My smile is relief"}
+{"word": ["Routine"], "author": "EnduringChill"}
+{"word": ["Daily"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Nightly"], "author": "EnduringChill"}
+{"word": ["Darkness"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Surrounded"], "author": "EnduringChill"}
+{"word": ["Cornered"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Worried"], "author": "My smile is relief"}
+{"word": ["Frightened"], "author": "EnduringChill"}
+{"word": ["Scared"], "author": "My smile is relief"}
+{"word": ["Terrified"], "author": "EnduringChill"}
+{"word": ["Murder"], "author": "My smile is relief"}
+{"word": ["Killing"], "author": "EnduringChill"}
+{"word": ["Investigation"], "author": "My smile is relief"}
+{"word": ["Crime"], "author": "EnduringChill"}
+{"word": ["CSI"], "author": "My smile is relief"}
+{"word": ["Show"], "author": "EnduringChill"}
+{"word": ["Broadway"], "author": "A_Fly_On_The_Wall"}
+{"word": ["New York"], "author": "My smile is relief"}
+{"word": ["Landmark"], "author": "A_Fly_On_The_Wall"}
+{"word": ["London Eye"], "author": "My smile is relief"}
+{"word": ["Map"], "author": "EnduringChill"}
+{"word": ["Directions"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lost"], "author": "EnduringChill"}
+{"word": ["Found"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Luggage"], "author": "bonobuzz"}
+{"word": ["Aeroplane"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Traveling"], "author": "My smile is relief"}
+{"word": ["vacation"], "author": "bonobuzz"}
+{"word": ["Sunshine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sun"], "author": "My smile is relief"}
+{"word": ["Hot"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Summer"], "author": "My smile is relief"}
+{"word": ["Margarita!!!"], "author": "bonobuzz"}
+{"word": ["Alcohol\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Vodka"], "author": "My smile is relief"}
+{"word": ["RUM"], "author": "bonobuzz"}
+{"word": ["Red"], "author": "A_Fly_On_The_Wall"}
+{"word": ["WINE"], "author": "bonobuzz"}
+{"word": ["White"], "author": "My smile is relief"}
+{"word": ["Blue"], "author": "EnduringChill"}
+{"word": ["Room"], "author": "My smile is relief"}
+{"word": ["Heartbreak Hotel"], "author": "singnomore"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Melody"], "author": null}
+{"word": ["Unchained"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Righteous"], "author": null}
+{"word": ["self\u00a0"], "author": "StrongGirl"}
+{"word": ["Person"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Being"], "author": null}
+{"word": ["John Malkovich (and yes, i know that's technically"], "author": "jabw10"}
+{"word": ["Celebrity"], "author": "A_Fly_On_The_Wall"}
+{"word": ["*cheater*"], "author": null}
+{"word": ["Next word Jo..."], "author": "A_Fly_On_The_Wall"}
+{"word": ["geez, slave driver - Apprentice"], "author": null}
+{"word": ["Ok take a chill pill I"], "author": "A_Fly_On_The_Wall"}
+{"word": ["*ahem - next word*"], "author": null}
+{"word": ["(Well it is 1:20 in the \"morning\" over here and there has been alcohol consumed)\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(alcohol eh?\u00a0 why am I NOT surprised?"], "author": null}
+{"word": ["(Hey don't judge me it's the weekend)\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Water"], "author": null}
+{"word": ["Clean"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Jokes"], "author": null}
+{"word": ["Joker"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wild"], "author": null}
+{"word": ["Hair"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Salon"], "author": null}
+{"word": ["Barber"], "author": "A_Fly_On_The_Wall"}
+{"word": ["of seville (oops! cheated again...\u00a0"], "author": "jabw10"}
+{"word": ["City"], "author": "A_Fly_On_The_Wall"}
+{"word": ["of"], "author": "jabw10"}
+{"word": ["blinding"], "author": "My smile is relief"}
+{"word": ["lights"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["street"], "author": "My smile is relief"}
+{"word": ["name"], "author": "EnduringChill"}
+{"word": ["ID"], "author": "My smile is relief"}
+{"word": ["License"], "author": "A_Fly_On_The_Wall"}
+{"word": ["car"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["Engine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["speed"], "author": "EnduringChill"}
+{"word": ["Formula 1"], "author": "My smile is relief"}
+{"word": ["Chemiical X"], "author": "EnduringChill"}
+{"word": ["Generation X\u00a0"], "author": "StrongGirl"}
+{"word": ["People"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Communities"], "author": "My smile is relief"}
+{"word": ["Friends"], "author": "A_Fly_On_The_Wall"}
+{"word": ["School"], "author": "My smile is relief"}
+{"word": ["Young"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Naive"], "author": "My smile is relief"}
+{"word": ["innocent"], "author": "bonobuzz"}
+{"word": ["guilty beyond a reasonable doubt"], "author": "StrongGirl"}
+{"word": ["Law and order"], "author": "EnduringChill"}
+{"word": ["TV show"], "author": "My smile is relief"}
+{"word": ["CSI"], "author": "EnduringChill"}
+{"word": ["NCIS\u00a0"], "author": "StrongGirl"}
+{"word": ["Blankety Blank\u00a0"], "author": "singnomore"}
+{"word": ["blank stare\u00a0"], "author": "StrongGirl"}
+{"word": ["Hazy"], "author": "EnduringChill"}
+{"word": ["army\u00a0 \u00a0"], "author": "trlica"}
+{"word": ["Boots"], "author": "theocean"}
+{"word": ["-sy Collins?"], "author": "jabw10"}
+{"word": ["Sexy\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["BONO"], "author": null}
+{"word": ["God\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Powerful"], "author": "bonobuzz"}
+{"word": ["Dictator"], "author": "StrongGirl"}
+{"word": ["Decision"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Choice"], "author": "My smile is relief"}
+{"word": ["words"], "author": "jabw10"}
+{"word": ["writing"], "author": "My smile is relief"}
+{"word": ["reading"], "author": "bonobuzz"}
+{"word": ["books"], "author": "My smile is relief"}
+{"word": ["library"], "author": "bonobuzz"}
+{"word": ["reading"], "author": "EnduringChill"}
+{"word": ["Listening"], "author": "A_Fly_On_The_Wall"}
+{"word": ["whispering"], "author": "EnduringChill"}
+{"word": ["Quiet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Silence"], "author": "My smile is relief"}
+{"word": ["Dead"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gone"], "author": "My smile is relief"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sing"], "author": "My smile is relief"}
+{"word": ["Voice"], "author": "EnduringChill"}
+{"word": ["Beautiful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Statue of Liberty"], "author": "StrongGirl"}
+{"word": ["arm"], "author": "trlica"}
+{"word": ["Peace Sign"], "author": "theocean"}
+{"word": ["V sing"], "author": "My smile is relief"}
+{"word": ["Letter"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Post office"], "author": "My smile is relief"}
+{"word": ["Mail"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Address"], "author": "EnduringChill"}
+{"word": ["confidential"], "author": "trlica"}
+{"word": ["files"], "author": "My smile is relief"}
+{"word": ["CIA"], "author": "StrongGirl"}
+{"word": ["Intelligence"], "author": "A_Fly_On_The_Wall"}
+{"word": ["agency"], "author": "EnduringChill"}
+{"word": ["Agent"], "author": "My smile is relief"}
+{"word": ["FBI"], "author": "bonobuzz"}
+{"word": ["Criminal Minds"], "author": "My smile is relief"}
+{"word": ["TV"], "author": "A_Fly_On_The_Wall"}
+{"word": ["LCD"], "author": "My smile is relief"}
+{"word": ["Plasma"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cookies\u00a0"], "author": "My smile is relief"}
+{"word": ["Chocolate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Vanilla"], "author": "StrongGirl"}
+{"word": ["*drool*"], "author": "My smile is relief"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sick"], "author": "EnduringChill"}
+{"word": ["weak"], "author": "My smile is relief"}
+{"word": ["Strong"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Girl\u00a0"], "author": "StrongGirl"}
+{"word": ["^ Nice\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["soccer"], "author": "trlica"}
+{"word": ["Sport"], "author": "A_Fly_On_The_Wall"}
+{"word": ["playing"], "author": "EnduringChill"}
+{"word": ["instrument"], "author": "My smile is relief"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sound"], "author": "My smile is relief"}
+{"word": ["Silence"], "author": "singnomore"}
+{"word": ["Peace"], "author": "My smile is relief"}
+{"word": ["war"], "author": "EnduringChill"}
+{"word": ["album"], "author": "My smile is relief"}
+{"word": ["song"], "author": "EnduringChill"}
+{"word": ["With or Without You"], "author": "My smile is relief"}
+{"word": ["leather waistcoats"], "author": "singnomore"}
+{"word": ["fancy"], "author": "EnduringChill"}
+{"word": ["cakes"], "author": "singnomore"}
+{"word": ["chocolate"], "author": "My smile is relief"}
+{"word": ["Valentine's Day"], "author": "StrongGirl"}
+{"word": ["Hearts"], "author": "EnduringChill"}
+{"word": ["Blood"], "author": "My smile is relief"}
+{"word": ["Diamond"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Emerald"], "author": "StrongGirl"}
+{"word": ["Green"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hulk"], "author": "My smile is relief"}
+{"word": ["giant"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["the CLAW"], "author": "bonobuzz"}
+{"word": ["crab"], "author": "trlica"}
+{"word": ["spanch bob"], "author": "My smile is relief"}
+{"word": ["^ I think you mean Sponge Bob??"], "author": "bonobuzz"}
+{"word": ["excotic"], "author": "trlica"}
+{"word": ["Fruit"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Strawberries"], "author": "My smile is relief"}
+{"word": ["Sweet"], "author": "bonobuzz"}
+{"word": ["Lemon"], "author": "StrongGirl"}
+{"word": ["Tree"], "author": "My smile is relief"}
+{"word": ["Joshua"], "author": "EnduringChill"}
+{"word": ["My eldest son\u00a0"], "author": "StrongGirl"}
+{"word": ["David (mine)"], "author": "theocean"}
+{"word": ["Michelangelo (no, not my son's name"], "author": "jabw10"}
+{"word": ["Ninja Turtles"], "author": "My smile is relief"}
+{"word": ["Pizza"], "author": "bonobuzz"}
+{"word": ["Hungry\u00a0"], "author": null}
+{"word": ["starving"], "author": "My smile is relief"}
+{"word": ["Eating"], "author": "bonobuzz"}
+{"word": ["Food"], "author": "My smile is relief"}
+{"word": ["Tasty"], "author": "A_Fly_On_The_Wall"}
+{"word": ["nom"], "author": "EnduringChill"}
+{"word": ["sound"], "author": "My smile is relief"}
+{"word": ["wall"], "author": "EnduringChill"}
+{"word": ["Berlin"], "author": "theocean"}
+{"word": ["Germany"], "author": "EnduringChill"}
+{"word": ["Sausages"], "author": "A_Fly_On_The_Wall"}
+{"word": ["eggs"], "author": "StrongGirl"}
+{"word": ["Easter"], "author": null}
+{"word": ["Rabbit"], "author": "My smile is relief"}
+{"word": ["Bugs Bunny (cheating I know)\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cartoon character"], "author": "EnduringChill"}
+{"word": ["cartoons"], "author": "My smile is relief"}
+{"word": ["Drawing"], "author": null}
+{"word": ["board"], "author": "singnomore"}
+{"word": ["Surfing"], "author": "My smile is relief"}
+{"word": ["Skateboarding\u00a0"], "author": "StrongGirl"}
+{"word": ["Waves"], "author": "My smile is relief"}
+{"word": ["Ocean"], "author": "A_Fly_On_The_Wall"}
+{"word": ["SEA"], "author": "bonobuzz"}
+{"word": ["Blue"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Eyes"], "author": "bonobuzz"}
+{"word": ["Sight"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vision"], "author": "bonobuzz"}
+{"word": ["witch"], "author": "My smile is relief"}
+{"word": ["Wicked"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Game"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": [""], "author": "My smile is relief"}
+{"word": ["Home"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Page"], "author": "My smile is relief"}
+{"word": ["Diary"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Princess"], "author": "My smile is relief"}
+{"word": ["castle"], "author": "EnduringChill"}
+{"word": ["England"], "author": "My smile is relief"}
+{"word": ["Queen"], "author": "maymay"}
+{"word": ["Bohemian Rhapsody"], "author": "theocean"}
+{"word": ["song"], "author": "My smile is relief"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Happy Page 300!!!\u00a0 My little game lives on!!!! This is part 2 thread\u00a0"], "author": "StrongGirl"}
+{"word": ["tissues"], "author": "My smile is relief"}
+{"word": ["tears"], "author": "bonobuzz"}
+{"word": ["sadness"], "author": "My smile is relief"}
+{"word": ["Hurt"], "author": null}
+{"word": ["Healed"], "author": "theocean"}
+{"word": ["Wound"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gun"], "author": "My smile is relief"}
+{"word": ["Knife"], "author": "theocean"}
+{"word": ["Blood"], "author": "My smile is relief"}
+{"word": ["Red"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dress"], "author": "My smile is relief"}
+{"word": ["Black"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hair"], "author": "My smile is relief"}
+{"word": ["Long"], "author": "A_Fly_On_The_Wall"}
+{"word": ["legs\u00a0"], "author": "My smile is relief"}
+{"word": ["Hairy\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["Painful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["uh yes!"], "author": "My smile is relief"}
+{"word": ["Ink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Art"], "author": "My smile is relief"}
+{"word": ["Paint"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Picture\u00a0"], "author": "My smile is relief"}
+{"word": ["Camera"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Phone"], "author": "My smile is relief"}
+{"word": ["Talking"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mouth"], "author": "My smile is relief"}
+{"word": ["Lips"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Kiss"], "author": "My smile is relief"}
+{"word": ["Passion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Desire"], "author": "My smile is relief"}
+{"word": ["wanting"], "author": "EnduringChill"}
+{"word": ["a wish"], "author": "trlica"}
+{"word": ["star"], "author": "EnduringChill"}
+{"word": ["sky"], "author": "My smile is relief"}
+{"word": ["high"], "author": "EnduringChill"}
+{"word": ["school"], "author": "My smile is relief"}
+{"word": ["Teacher"], "author": "bonobuzz"}
+{"word": ["Students"], "author": "My smile is relief"}
+{"word": ["school"], "author": "EnduringChill"}
+{"word": ["studying"], "author": "My smile is relief"}
+{"word": ["Work"], "author": "EnduringChill"}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dollars"], "author": "EnduringChill"}
+{"word": ["bills"], "author": "My smile is relief"}
+{"word": ["checkbook"], "author": "bonobuzz"}
+{"word": ["Paper"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Notebook"], "author": "My smile is relief"}
+{"word": ["Diary"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Journal"], "author": "bonobuzz"}
+{"word": ["Writing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Novel"], "author": "My smile is relief"}
+{"word": ["Idea"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Innovative"], "author": "My smile is relief"}
+{"word": ["Different"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Opinion"], "author": "My smile is relief"}
+{"word": ["Thought"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Smart"], "author": "My smile is relief"}
+{"word": ["Clever"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wise"], "author": "My smile is relief"}
+{"word": ["Men"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Women"], "author": "My smile is relief"}
+{"word": ["Actress"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Movie"], "author": "My smile is relief"}
+{"word": ["Cinema"], "author": "A_Fly_On_The_Wall"}
+{"word": ["drama"], "author": "bonobuzz"}
+{"word": ["theater"], "author": "trlica"}
+{"word": ["Opera"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Browser"], "author": "My smile is relief"}
+{"word": ["web"], "author": "bonobuzz"}
+{"word": ["Internet"], "author": "EnduringChill"}
+{"word": ["Site"], "author": "My smile is relief"}
+{"word": ["Yahoo"], "author": "bonobuzz"}
+{"word": ["Mail"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Address"], "author": "My smile is relief"}
+{"word": ["Home"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ruby slippers"], "author": "StrongGirl"}
+{"word": ["\u00a0Dorothy"], "author": "My smile is relief"}
+{"word": ["Toto"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dog"], "author": "EnduringChill"}
+{"word": ["Lassie\u00a0"], "author": "StrongGirl"}
+{"word": ["come home"], "author": "EnduringChill"}
+{"word": ["traveling"], "author": "My smile is relief"}
+{"word": ["Transport"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Public"], "author": "My smile is relief"}
+{"word": ["Private"], "author": "StrongGirl"}
+{"word": ["Show"], "author": "My smile is relief"}
+{"word": ["play"], "author": "EnduringChill"}
+{"word": ["competition\u00a0"], "author": "theocean"}
+{"word": ["tournament"], "author": "My smile is relief"}
+{"word": ["Sport"], "author": "A_Fly_On_The_Wall"}
+{"word": ["athlete"], "author": "My smile is relief"}
+{"word": ["good shape"], "author": "trlica"}
+{"word": ["gym"], "author": "My smile is relief"}
+{"word": ["working out"], "author": "EnduringChill"}
+{"word": ["problem"], "author": "My smile is relief"}
+{"word": ["Maths"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sick"], "author": "EnduringChill"}
+{"word": ["twisted"], "author": "bonobuzz"}
+{"word": ["Different"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Opinion"], "author": "My smile is relief"}
+{"word": ["attitude"], "author": "bonobuzz"}
+{"word": ["bad"], "author": "My smile is relief"}
+{"word": ["Unforgettable Fire\u00a0"], "author": "StrongGirl"}
+{"word": ["Pride"], "author": "My smile is relief"}
+{"word": ["Feeling"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Emotions"], "author": "My smile is relief"}
+{"word": ["Happy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Laugh"], "author": "My smile is relief"}
+{"word": ["Loud"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Music"], "author": "My smile is relief"}
+{"word": ["Documentary"], "author": "A_Fly_On_The_Wall"}
+{"word": ["National Geographic"], "author": "My smile is relief"}
+{"word": ["Planet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Earth"], "author": "bonobuzz"}
+{"word": ["Life"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Living"], "author": "My smile is relief"}
+{"word": ["creature"], "author": "bonobuzz"}
+{"word": ["Zombie"], "author": "My smile is relief"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lyric"], "author": "bonobuzz"}
+{"word": ["Word"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Letter"], "author": "My smile is relief"}
+{"word": ["Alphabet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Spelling"], "author": "My smile is relief"}
+{"word": ["Mistake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Error"], "author": "My smile is relief"}
+{"word": ["Input"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Advice"], "author": "My smile is relief"}
+{"word": ["Good"], "author": "A_Fly_On_The_Wall"}
+{"word": ["BAD"], "author": "bonobuzz"}
+{"word": ["Unforgettable Fire"], "author": "A_Fly_On_The_Wall"}
+{"word": ["October"], "author": "bonobuzz"}
+{"word": ["University"], "author": "My smile is relief"}
+{"word": ["College"], "author": "A_Fly_On_The_Wall"}
+{"word": ["school"], "author": "EnduringChill"}
+{"word": ["Classes"], "author": "My smile is relief"}
+{"word": ["English"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Translating"], "author": "My smile is relief"}
+{"word": ["language"], "author": "EnduringChill"}
+{"word": ["Speaking"], "author": "My smile is relief"}
+{"word": ["Listening"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Music"], "author": "My smile is relief"}
+{"word": ["harmony"], "author": "bonobuzz"}
+{"word": ["choir"], "author": null}
+{"word": ["church"], "author": "My smile is relief"}
+{"word": ["altar"], "author": "StrongGirl"}
+{"word": ["Eucharist"], "author": "My smile is relief"}
+{"word": ["Communion"], "author": "singnomore"}
+{"word": ["wine"], "author": "EnduringChill"}
+{"word": ["Red"], "author": "A_Fly_On_The_Wall"}
+{"word": ["One"], "author": "theocean"}
+{"word": ["Alone"], "author": "A_Fly_On_The_Wall"}
+{"word": ["home"], "author": "EnduringChill"}
+{"word": ["warm"], "author": "trlica"}
+{"word": ["fuzzy blanket"], "author": "EnduringChill"}
+{"word": ["cozy"], "author": "My smile is relief"}
+{"word": ["warm"], "author": "bonobuzz"}
+{"word": ["summer"], "author": null}
+{"word": ["rain"], "author": "My smile is relief"}
+{"word": ["right"], "author": "EnduringChill"}
+{"word": ["Left"], "author": null}
+{"word": ["Coldplay (yeah... don't ask"], "author": "EnduringChill"}
+{"word": ["Subway (listened to them on the subway in London)"], "author": null}
+{"word": ["underground"], "author": "EnduringChill"}
+{"word": ["mafia"], "author": "My smile is relief"}
+{"word": ["The Godfather"], "author": "StrongGirl"}
+{"word": ["Sunglasses"], "author": "A_Fly_On_The_Wall"}
+{"word": ["beach"], "author": "My smile is relief"}
+{"word": ["sand"], "author": "bonobuzz"}
+{"word": ["Castle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Windsor Castle"], "author": "My smile is relief"}
+{"word": ["Magic Castle"], "author": "trlica"}
+{"word": ["Slane Castle"], "author": "bonobuzz"}
+{"word": ["Ireland"], "author": "StrongGirl"}
+{"word": ["Blarney Stone"], "author": "theocean"}
+{"word": ["google"], "author": "My smile is relief"}
+{"word": ["search engine"], "author": "StrongGirl"}
+{"word": ["typing"], "author": "My smile is relief"}
+{"word": ["fingers"], "author": "trlica"}
+{"word": ["Piano"], "author": null}
+{"word": ["brown"], "author": "trlica"}
+{"word": ["Eyes"], "author": null}
+{"word": ["two"], "author": "trlica"}
+{"word": ["U2"], "author": null}
+{"word": ["Band"], "author": "My smile is relief"}
+{"word": ["Elastic"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rubber"], "author": null}
+{"word": ["Suit"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rubber SUIT??\u00a0"], "author": null}
+{"word": ["Of course... you know, like Catwoman\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["riiigght....."], "author": null}
+{"word": ["Shirt"], "author": "A_Fly_On_The_Wall"}
+{"word": ["jeans"], "author": "EnduringChill"}
+{"word": ["Baggy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["plastic"], "author": "EnduringChill"}
+{"word": ["Surgery"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Doctor"], "author": "My smile is relief"}
+{"word": ["Hospital"], "author": "A_Fly_On_The_Wall"}
+{"word": ["work"], "author": "EnduringChill"}
+{"word": ["profession"], "author": "My smile is relief"}
+{"word": ["professor"], "author": "EnduringChill"}
+{"word": ["classes"], "author": "My smile is relief"}
+{"word": ["College"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hogwarts"], "author": "theocean"}
+{"word": ["Magic"], "author": "My smile is relief"}
+{"word": ["Wizards"], "author": "A_Fly_On_The_Wall"}
+{"word": ["magic"], "author": "trlica"}
+{"word": ["Witch"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vampire"], "author": "EnduringChill"}
+{"word": ["Diaries"], "author": "My smile is relief"}
+{"word": ["notebook"], "author": "bonobuzz"}
+{"word": ["Movie"], "author": "My smile is relief"}
+{"word": ["watch"], "author": "EnduringChill"}
+{"word": ["popcorn"], "author": "trlica"}
+{"word": ["cinema"], "author": "My smile is relief"}
+{"word": ["seats"], "author": "trlica"}
+{"word": ["bus"], "author": "My smile is relief"}
+{"word": ["School"], "author": "A_Fly_On_The_Wall"}
+{"word": ["students"], "author": "bonobuzz"}
+{"word": ["Teacher"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lesson"], "author": "bonobuzz"}
+{"word": ["Driving"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Walk On"], "author": "StrongGirl"}
+{"word": ["song"], "author": "My smile is relief"}
+{"word": ["lyrics"], "author": "StrongGirl"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tune"], "author": "EnduringChill"}
+{"word": ["In"], "author": "A_Fly_On_The_Wall"}
+{"word": ["out"], "author": "EnduringChill"}
+{"word": ["outside"], "author": "My smile is relief"}
+{"word": ["Weather"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Forecast"], "author": "My smile is relief"}
+{"word": ["predict"], "author": "StrongGirl"}
+{"word": ["Conspiracy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hope"], "author": "EnduringChill"}
+{"word": ["faith"], "author": "My smile is relief"}
+{"word": ["Religion"], "author": null}
+{"word": ["Differences"], "author": "My smile is relief"}
+{"word": ["Money"], "author": null}
+{"word": ["Work"], "author": "My smile is relief"}
+{"word": ["Hard"], "author": null}
+{"word": ["Effort"], "author": "My smile is relief"}
+{"word": ["A*"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Excellent"], "author": "My smile is relief"}
+{"word": ["Excel"], "author": "StrongGirl"}
+{"word": ["Microsoft"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Word"], "author": "EnduringChill"}
+{"word": ["Spoken"], "author": "My smile is relief"}
+{"word": ["Mouth"], "author": "trlica"}
+{"word": ["tongue"], "author": "EnduringChill"}
+{"word": ["senses"], "author": "My smile is relief"}
+{"word": ["hot"], "author": "trlica"}
+{"word": ["flames"], "author": "StrongGirl"}
+{"word": ["covered"], "author": "EnduringChill"}
+{"word": ["grass"], "author": "My smile is relief"}
+{"word": ["green"], "author": "EnduringChill"}
+{"word": ["Shrek"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ogre"], "author": null}
+{"word": ["Giant"], "author": "A_Fly_On_The_Wall"}
+{"word": ["FLY"], "author": null}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bricks"], "author": null}
+{"word": ["Cement"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sidewalk"], "author": null}
+{"word": ["Path"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Way"], "author": null}
+{"word": ["One"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Apple"], "author": "trlica"}
+{"word": ["New York"], "author": "My smile is relief"}
+{"word": ["City"], "author": "EnduringChill"}
+{"word": ["Bishop\u00a0"], "author": "My smile is relief"}
+{"word": ["Priest"], "author": "EnduringChill"}
+{"word": ["Church"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Catholic"], "author": "EnduringChill"}
+{"word": ["Religion"], "author": "My smile is relief"}
+{"word": ["Jewish"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hanukkah"], "author": "My smile is relief"}
+{"word": ["Halloween"], "author": "EnduringChill"}
+{"word": ["Costumes"], "author": "My smile is relief"}
+{"word": ["Party"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Alcohol"], "author": "My smile is relief"}
+{"word": ["drinking"], "author": "EnduringChill"}
+{"word": ["Party"], "author": "My smile is relief"}
+{"word": ["New Year's Eve"], "author": "StrongGirl"}
+{"word": ["Fireworks"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bonfire Night"], "author": "My smile is relief"}
+{"word": ["Sparkler"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wedding"], "author": "My smile is relief"}
+{"word": ["Singer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Stage"], "author": "My smile is relief"}
+{"word": ["Talent"], "author": "bonobuzz"}
+{"word": ["Drawing"], "author": "My smile is relief"}
+{"word": ["SE"], "author": null}
+{"word": ["You"], "author": "EnduringChill"}
+{"word": ["EC"], "author": "theocean"}
+{"word": ["Covers"], "author": "My smile is relief"}
+{"word": ["Blanket"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Warmth"], "author": "StrongGirl"}
+{"word": ["I'm flattered that you thought of covers when you thought of me"], "author": "EnduringChill"}
+{"word": ["That crossed my mind!"], "author": "My smile is relief"}
+{"word": ["Temperature"], "author": "A_Fly_On_The_Wall"}
+{"word": ["weather"], "author": "bonobuzz"}
+{"word": ["Cold"], "author": "EnduringChill"}
+{"word": ["Heart"], "author": "A_Fly_On_The_Wall"}
+{"word": ["broken"], "author": "EnduringChill"}
+{"word": ["Smashed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["crushed"], "author": "EnduringChill"}
+{"word": ["cars"], "author": "trlica"}
+{"word": ["train"], "author": "EnduringChill"}
+{"word": ["Hey soul sister\u00a0"], "author": "StrongGirl"}
+{"word": ["I don't wanna miss her!\u00a0"], "author": "My smile is relief"}
+{"word": ["Pepsi"], "author": "EnduringChill"}
+{"word": ["Monopoly"], "author": "My smile is relief"}
+{"word": ["game"], "author": "EnduringChill"}
+{"word": ["World of Warcraft"], "author": "My smile is relief"}
+{"word": ["Xbox"], "author": "theocean"}
+{"word": ["360"], "author": "EnduringChill"}
+{"word": ["Degree"], "author": "A_Fly_On_The_Wall"}
+{"word": ["college"], "author": "bonobuzz"}
+{"word": ["stress"], "author": null}
+{"word": ["bills"], "author": "bonobuzz"}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bullet The Blue Sky\u00a0"], "author": "StrongGirl"}
+{"word": ["U2"], "author": "A_Fly_On_The_Wall"}
+{"word": ["forum"], "author": "My smile is relief"}
+{"word": ["Family"], "author": "A_Fly_On_The_Wall"}
+{"word": ["The Wall!"], "author": "My smile is relief"}
+{"word": ["Home\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pillowfight\u00a0"], "author": "My smile is relief"}
+{"word": ["Loser\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fly!"], "author": "My smile is relief"}
+{"word": ["Winner\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Smile!"], "author": "My smile is relief"}
+{"word": ["One of our favorite forum members!\u00a0"], "author": "StrongGirl"}
+{"word": ["I can only say Smile again\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["happy"], "author": "EnduringChill"}
+{"word": ["days"], "author": "singnomore"}
+{"word": ["down"], "author": "EnduringChill"}
+{"word": ["Underground"], "author": "A_Fly_On_The_Wall"}
+{"word": ["^ aww that's so sweet\u00a0"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fridge"], "author": "My smile is relief"}
+{"word": ["Electrical"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Storm"], "author": "My smile is relief"}
+{"word": ["Thunder"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fear"], "author": "My smile is relief"}
+{"word": ["Phobia"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Snakes"], "author": "My smile is relief"}
+{"word": ["Eyes"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Green"], "author": "My smile is relief"}
+{"word": ["Grass"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ants"], "author": "My smile is relief"}
+{"word": ["Picnic"], "author": "theocean"}
+{"word": ["rain"], "author": "EnduringChill"}
+{"word": ["Summer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sunshine"], "author": "bonobuzz"}
+{"word": ["Hot"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sweating"], "author": "EnduringChill"}
+{"word": ["stinky"], "author": "theocean"}
+{"word": ["scented wipes"], "author": "trlica"}
+{"word": ["Clean"], "author": "bonobuzz"}
+{"word": ["squeaky"], "author": "EnduringChill"}
+{"word": ["Oil Can (from the Wizard of Oz\u00a0"], "author": "StrongGirl"}
+{"word": ["Tin"], "author": "A_Fly_On_The_Wall"}
+{"word": ["man"], "author": "EnduringChill"}
+{"word": ["BONO\u00a0"], "author": "bonobuzz"}
+{"word": ["Glasses"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rose colored\u00a0"], "author": "StrongGirl"}
+{"word": ["Red"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Blood"], "author": "bonobuzz"}
+{"word": ["Vampire"], "author": "My smile is relief"}
+{"word": ["Edward"], "author": "EnduringChill"}
+{"word": ["King"], "author": "A_Fly_On_The_Wall"}
+{"word": ["England"], "author": "bonobuzz"}
+{"word": ["Elizabeth"], "author": "My smile is relief"}
+{"word": ["The King's Speech"], "author": "StrongGirl"}
+{"word": ["radio"], "author": "EnduringChill"}
+{"word": ["DJ"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Party"], "author": "My smile is relief"}
+{"word": ["party girl"], "author": null}
+{"word": ["crazy"], "author": "My smile is relief"}
+{"word": ["a net\u00a0"], "author": "StrongGirl"}
+{"word": ["hairnet"], "author": "EnduringChill"}
+{"word": ["sleeping"], "author": "My smile is relief"}
+{"word": ["wishful"], "author": "EnduringChill"}
+{"word": ["dreamer"], "author": "My smile is relief"}
+{"word": ["lover"], "author": "EnduringChill"}
+{"word": ["Sexy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hot"], "author": "EnduringChill"}
+{"word": ["Stove"], "author": "theocean"}
+{"word": ["kitchen"], "author": "My smile is relief"}
+{"word": ["sink"], "author": "EnduringChill"}
+{"word": ["dishes"], "author": "My smile is relief"}
+{"word": ["dirty"], "author": "EnduringChill"}
+{"word": ["mind"], "author": "My smile is relief"}
+{"word": ["Brain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Storm"], "author": "My smile is relief"}
+{"word": ["hurricane"], "author": "StrongGirl"}
+{"word": ["drunk"], "author": "EnduringChill"}
+{"word": ["alcohol"], "author": "My smile is relief"}
+{"word": ["Vodka"], "author": "A_Fly_On_The_Wall"}
+{"word": ["on the rocks"], "author": "StrongGirl"}
+{"word": ["ice cubes"], "author": "My smile is relief"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["weather"], "author": "My smile is relief"}
+{"word": ["sky"], "author": "trlica"}
+{"word": ["clouds"], "author": "My smile is relief"}
+{"word": ["moon"], "author": "EnduringChill"}
+{"word": ["Hawk"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Eagle"], "author": "StrongGirl"}
+{"word": ["Golf"], "author": "A_Fly_On_The_Wall"}
+{"word": ["game"], "author": "EnduringChill"}
+{"word": ["Winner"], "author": "My smile is relief"}
+{"word": ["loser"], "author": "EnduringChill"}
+{"word": ["betting"], "author": "theocean"}
+{"word": ["Man"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Woman"], "author": "My smile is relief"}
+{"word": ["Blonde"], "author": "A_Fly_On_The_Wall"}
+{"word": ["suicide (suicide blonde)"], "author": "EnduringChill"}
+{"word": ["Desperation"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rope"], "author": "EnduringChill"}
+{"word": ["Hanging"], "author": null}
+{"word": ["moment"], "author": "EnduringChill"}
+{"word": ["Stuck"], "author": null}
+{"word": ["in a moment!"], "author": "EnduringChill"}
+{"word": ["Time"], "author": null}
+{"word": ["race"], "author": "EnduringChill"}
+{"word": ["First"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Last"], "author": "theocean"}
+{"word": ["Night"], "author": "My smile is relief"}
+{"word": ["Day"], "author": "EnduringChill"}
+{"word": ["sun"], "author": null}
+{"word": ["bright"], "author": "EnduringChill"}
+{"word": ["blind"], "author": "StrongGirl"}
+{"word": ["deaf"], "author": "EnduringChill"}
+{"word": ["ear"], "author": "trlica"}
+{"word": ["Headphones"], "author": "My smile is relief"}
+{"word": ["earbuds"], "author": "EnduringChill"}
+{"word": ["phone"], "author": "My smile is relief"}
+{"word": ["unknown caller (of course!)"], "author": "StrongGirl"}
+{"word": ["No line on the horizon"], "author": null}
+{"word": ["gray sea"], "author": "EnduringChill"}
+{"word": ["Colours"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rainbow"], "author": "My smile is relief"}
+{"word": ["sunshine"], "author": "bonobuzz"}
+{"word": ["good day"], "author": "EnduringChill"}
+{"word": ["Summer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rain"], "author": null}
+{"word": ["Wet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sand"], "author": "My smile is relief"}
+{"word": ["Toes"], "author": "EnduringChill"}
+{"word": ["Nails"], "author": "My smile is relief"}
+{"word": ["Metal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Band"], "author": "My smile is relief"}
+{"word": ["Elastic"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Storm"], "author": "My smile is relief"}
+{"word": ["Electrical"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Devise"], "author": "My smile is relief"}
+{"word": ["Theorise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Scientists"], "author": "My smile is relief"}
+{"word": ["Space"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Universe"], "author": "My smile is relief"}
+{"word": ["Huge"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hug"], "author": "My smile is relief"}
+{"word": ["Kiss\u00a0"], "author": "trlica"}
+{"word": ["Love"], "author": "bonobuzz"}
+{"word": ["Valentine's Day"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Romance"], "author": null}
+{"word": ["fine"], "author": "EnduringChill"}
+{"word": ["taste"], "author": "My smile is relief"}
+{"word": ["swallow"], "author": "EnduringChill"}
+{"word": ["chew"], "author": "StrongGirl"}
+{"word": ["gum"], "author": "My smile is relief"}
+{"word": ["Tree"], "author": null}
+{"word": ["Joshua"], "author": "EnduringChill"}
+{"word": ["a boy"], "author": "trlica"}
+{"word": ["a girl"], "author": "My smile is relief"}
+{"word": ["pretty"], "author": "trlica"}
+{"word": ["Face"], "author": "bonobuzz"}
+{"word": ["Ghost"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Soul"], "author": null}
+{"word": ["Passion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Temptation"], "author": "My smile is relief"}
+{"word": ["Chocolate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dark"], "author": "EnduringChill"}
+{"word": ["dawn"], "author": "StrongGirl"}
+{"word": ["fog"], "author": "trlica"}
+{"word": ["outside"], "author": "My smile is relief"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ice"], "author": "My smile is relief"}
+{"word": ["Cube"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Math"], "author": "My smile is relief"}
+{"word": ["Plus"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Minus"], "author": "My smile is relief"}
+{"word": ["Takeaway"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Takeover"], "author": "My smile is relief"}
+{"word": ["Fun & Games"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Real World"], "author": "My smile is relief"}
+{"word": ["Forum"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Home"], "author": "My smile is relief"}
+{"word": ["House"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Roof"], "author": "My smile is relief"}
+{"word": ["Windows"], "author": "theocean"}
+{"word": ["Sky"], "author": "My smile is relief"}
+{"word": ["Blue"], "author": null}
+{"word": ["Sea"], "author": "My smile is relief"}
+{"word": ["beach"], "author": "StrongGirl"}
+{"word": ["water"], "author": "EnduringChill"}
+{"word": ["Salt"], "author": "A_Fly_On_The_Wall"}
+{"word": ["taste"], "author": "EnduringChill"}
+{"word": ["Sense"], "author": "A_Fly_On_The_Wall"}
+{"word": ["touch"], "author": "EnduringChill"}
+{"word": ["feel"], "author": "StrongGirl"}
+{"word": ["New Order (they have a song that begins \"How do you feel?\")"], "author": "EnduringChill"}
+{"word": ["Band"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Group"], "author": "My smile is relief"}
+{"word": ["rock"], "author": "EnduringChill"}
+{"word": ["Stone"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Roses"], "author": "singnomore"}
+{"word": ["blue"], "author": "EnduringChill"}
+{"word": ["Velvet\u00a0 (old song!)"], "author": "StrongGirl"}
+{"word": ["dress"], "author": "EnduringChill"}
+{"word": ["Black"], "author": "A_Fly_On_The_Wall"}
+{"word": ["clothes"], "author": "trlica"}
+{"word": ["wardrobe"], "author": "My smile is relief"}
+{"word": ["brown"], "author": "trlica"}
+{"word": ["colour"], "author": "My smile is relief"}
+{"word": ["rainbow"], "author": "StrongGirl"}
+{"word": ["Gold"], "author": "My smile is relief"}
+{"word": ["Ring"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Door"], "author": "My smile is relief"}
+{"word": ["Handle"], "author": null}
+{"word": ["hot"], "author": "EnduringChill"}
+{"word": ["Chili"], "author": "My smile is relief"}
+{"word": ["Meal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Supper"], "author": "My smile is relief"}
+{"word": ["Night"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bed"], "author": "My smile is relief"}
+{"word": ["Pillow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fight"], "author": "My smile is relief"}
+{"word": ["Loser"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fly\u00a0"], "author": "My smile is relief"}
+{"word": ["Alter-ego (and\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["MacPhisto"], "author": "My smile is relief"}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Snow"], "author": "My smile is relief"}
+{"word": ["Frosty the Snowman\u00a0"], "author": "StrongGirl"}
+{"word": ["Childhood"], "author": "My smile is relief"}
+{"word": ["Stories"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fairy Tales"], "author": "My smile is relief"}
+{"word": ["Snow White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["French class"], "author": "EnduringChill"}
+{"word": ["Paris couture"], "author": "StrongGirl"}
+{"word": ["Chanel"], "author": "singnomore"}
+{"word": ["Fashion"], "author": "My smile is relief"}
+{"word": ["Fall"], "author": "EnduringChill"}
+{"word": ["leaves"], "author": "My smile is relief"}
+{"word": ["brown"], "author": "trlica"}
+{"word": ["Twigs"], "author": null}
+{"word": ["stick insects\u00a0"], "author": "singnomore"}
+{"word": ["Bugs"], "author": null}
+{"word": ["Scientist"], "author": "My smile is relief"}
+{"word": ["Laboratory"], "author": "trlica"}
+{"word": ["Experiments"], "author": null}
+{"word": ["Erlenmeyer flask"], "author": "EnduringChill"}
+{"word": ["Chemistry"], "author": "My smile is relief"}
+{"word": ["solutions"], "author": "EnduringChill"}
+{"word": ["decisions"], "author": "My smile is relief"}
+{"word": ["hard"], "author": "trlica"}
+{"word": ["obstacles"], "author": "StrongGirl"}
+{"word": ["course"], "author": "EnduringChill"}
+{"word": ["evening"], "author": "trlica"}
+{"word": ["dinner"], "author": "My smile is relief"}
+{"word": ["hungry"], "author": "singnomore"}
+{"word": ["food"], "author": "trlica"}
+{"word": ["eat"], "author": "EnduringChill"}
+{"word": ["Drink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Chocolate Milk"], "author": "theocean"}
+{"word": ["straw"], "author": "trlica"}
+{"word": ["Bale"], "author": null}
+{"word": ["Christian\u00a0"], "author": null}
+{"word": ["Church"], "author": "EnduringChill"}
+{"word": ["candles"], "author": "trlica"}
+{"word": ["Hanukah"], "author": "EnduringChill"}
+{"word": ["Kwanzaa"], "author": "StrongGirl"}
+{"word": ["Green"], "author": "EnduringChill"}
+{"word": ["Go"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Move"], "author": "My smile is relief"}
+{"word": ["House"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Home Alone"], "author": "My smile is relief"}
+{"word": ["Movie"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cinema"], "author": "My smile is relief"}
+{"word": ["plastic"], "author": "EnduringChill"}
+{"word": ["surgery"], "author": "My smile is relief"}
+{"word": ["Doctor"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dr. House"], "author": "My smile is relief"}
+{"word": ["creepy"], "author": "EnduringChill"}
+{"word": ["Ghosts"], "author": "A_Fly_On_The_Wall"}
+{"word": ["person"], "author": "My smile is relief"}
+{"word": ["life"], "author": "EnduringChill"}
+{"word": ["living"], "author": "My smile is relief"}
+{"word": ["breathing"], "author": "EnduringChill"}
+{"word": ["air"], "author": "My smile is relief"}
+{"word": ["Thin"], "author": "A_Fly_On_The_Wall"}
+{"word": ["thick"], "author": "EnduringChill"}
+{"word": ["Blood"], "author": "A_Fly_On_The_Wall"}
+{"word": ["gory"], "author": "EnduringChill"}
+{"word": ["Death"], "author": "A_Fly_On_The_Wall"}
+{"word": ["despair"], "author": "EnduringChill"}
+{"word": ["depth"], "author": "StrongGirl"}
+{"word": ["Meaningful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["profound"], "author": "singnomore"}
+{"word": ["lyrics"], "author": "EnduringChill"}
+{"word": ["poems"], "author": "ABloodRedSky"}
+{"word": ["book"], "author": "EnduringChill"}
+{"word": ["story"], "author": "My smile is relief"}
+{"word": ["long"], "author": "trlica"}
+{"word": ["Width"], "author": "EnduringChill"}
+{"word": ["shoe size"], "author": "StrongGirl"}
+{"word": ["heels"], "author": "EnduringChill"}
+{"word": ["Pumps"], "author": "theocean"}
+{"word": ["kicks"], "author": "EnduringChill"}
+{"word": ["boxing"], "author": "My smile is relief"}
+{"word": ["gloves"], "author": "EnduringChill"}
+{"word": ["Winter"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Snow Man"], "author": "theocean"}
+{"word": ["Frosty"], "author": null}
+{"word": ["Cartoon"], "author": "My smile is relief"}
+{"word": ["Spongebob"], "author": "EnduringChill"}
+{"word": ["yellow"], "author": "trlica"}
+{"word": ["Coldplay"], "author": "EnduringChill"}
+{"word": ["Paradise"], "author": "My smile is relief"}
+{"word": ["Mylo Xyloto"], "author": "EnduringChill"}
+{"word": ["Album"], "author": "My smile is relief"}
+{"word": ["cd"], "author": "trlica"}
+{"word": ["player"], "author": "My smile is relief"}
+{"word": ["Sports"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ESPN ( sports cable channel for those who may not know"], "author": "StrongGirl"}
+{"word": ["TV"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Zoo"], "author": "EnduringChill"}
+{"word": ["animals"], "author": "trlica"}
+{"word": ["PETA"], "author": "My smile is relief"}
+{"word": ["Pets"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dogs"], "author": "EnduringChill"}
+{"word": ["Cats"], "author": "A_Fly_On_The_Wall"}
+{"word": ["furry"], "author": "EnduringChill"}
+{"word": ["Hamster"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Honey (the name of my first hamster... best pet ever)"], "author": "EnduringChill"}
+{"word": ["wild honey\u00a0"], "author": null}
+{"word": ["The Edge (is blowing in the breeze, wiild honey!)"], "author": "EnduringChill"}
+{"word": ["U2"], "author": "A_Fly_On_The_Wall"}
+{"word": ["love"], "author": "EnduringChill"}
+{"word": ["feelings"], "author": "My smile is relief"}
+{"word": ["Emotional"], "author": "StrongGirl"}
+{"word": ["sad"], "author": "EnduringChill"}
+{"word": ["tears"], "author": "My smile is relief"}
+{"word": ["crying"], "author": "EnduringChill"}
+{"word": ["sadness"], "author": "horizon"}
+{"word": ["uncomfortable"], "author": "trlica"}
+{"word": ["worried"], "author": "EnduringChill"}
+{"word": ["somebody"], "author": "My smile is relief"}
+{"word": ["human"], "author": "singnomore"}
+{"word": ["The Killers"], "author": "EnduringChill"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["heaven"], "author": "singnomore"}
+{"word": ["paradise"], "author": "My smile is relief"}
+{"word": ["coconuts!"], "author": "singnomore"}
+{"word": ["The Marx Brothers (their first movie was called Coconuts)"], "author": "EnduringChill"}
+{"word": ["black and white"], "author": "trlica"}
+{"word": ["Larry"], "author": null}
+{"word": ["Pretty"], "author": "EnduringChill"}
+{"word": ["(I'm sure he'd LOVE to be called that)"], "author": null}
+{"word": ["But he is."], "author": "EnduringChill"}
+{"word": ["Dress"], "author": "My smile is relief"}
+{"word": ["Black\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fly shades"], "author": null}
+{"word": ["Bro!!\u00a0"], "author": "My smile is relief"}
+{"word": ["Fly\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Summer!"], "author": "My smile is relief"}
+{"word": ["Season"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Football"], "author": "My smile is relief"}
+{"word": ["Round"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Table"], "author": "My smile is relief"}
+{"word": ["Crumbs\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cookies"], "author": "My smile is relief"}
+{"word": ["chocolate"], "author": "EnduringChill"}
+{"word": ["Brownies"], "author": null}
+{"word": ["yummyyyyyyyyyy"], "author": "EnduringChill"}
+{"word": ["food"], "author": "My smile is relief"}
+{"word": ["eating"], "author": "EnduringChill"}
+{"word": ["drinking"], "author": "StrongGirl"}
+{"word": ["burping"], "author": "singnomore"}
+{"word": ["Pardon"], "author": "My smile is relief"}
+{"word": ["Excused"], "author": null}
+{"word": ["polite"], "author": "trlica"}
+{"word": ["manners"], "author": "StrongGirl"}
+{"word": ["gentleman"], "author": "My smile is relief"}
+{"word": ["flowers"], "author": "trlica"}
+{"word": ["roses"], "author": "My smile is relief"}
+{"word": ["Valentine's Day"], "author": "A_Fly_On_The_Wall"}
+{"word": ["February"], "author": "My smile is relief"}
+{"word": ["Month"], "author": "A_Fly_On_The_Wall"}
+{"word": ["year"], "author": "EnduringChill"}
+{"word": ["New"], "author": "bonobuzz"}
+{"word": ["day"], "author": "EnduringChill"}
+{"word": ["Night"], "author": "A_Fly_On_The_Wall"}
+{"word": ["stars"], "author": "StrongGirl"}
+{"word": ["moon"], "author": "bonobuzz"}
+{"word": ["Pale"], "author": "A_Fly_On_The_Wall"}
+{"word": ["face"], "author": "EnduringChill"}
+{"word": ["Pretty"], "author": "bonobuzz"}
+{"word": ["soft"], "author": "EnduringChill"}
+{"word": ["smooth"], "author": null}
+{"word": ["carlos santana"], "author": "My smile is relief"}
+{"word": ["guitarist"], "author": "bonobuzz"}
+{"word": ["love"], "author": "EnduringChill"}
+{"word": ["heart"], "author": "My smile is relief"}
+{"word": ["red"], "author": "trlica"}
+{"word": ["wine"], "author": "My smile is relief"}
+{"word": ["Australia"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hot"], "author": "EnduringChill"}
+{"word": ["Bono"], "author": "theocean"}
+{"word": ["Father"], "author": "My smile is relief"}
+{"word": ["mother"], "author": "singnomore"}
+{"word": ["children"], "author": "bonobuzz"}
+{"word": ["Disappeared"], "author": "StrongGirl"}
+{"word": ["mothers"], "author": "EnduringChill"}
+{"word": ["Love"], "author": "santipsedge"}
+{"word": ["Peace"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Green"], "author": "santipsedge"}
+{"word": ["Grass"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lawn"], "author": null}
+{"word": ["Backyard"], "author": "My smile is relief"}
+{"word": ["cook out"], "author": "Inishfree"}
+{"word": ["barbecue"], "author": "EnduringChill"}
+{"word": ["marshmellows"], "author": "theocean"}
+{"word": ["s'mores"], "author": null}
+{"word": ["chestnuts\u00a0 \u00a0(roasting on an open fire, which I have never had)...."], "author": "theocean"}
+{"word": ["(we did that....grossest thing I ever had)"], "author": null}
+{"word": ["my city (my city is well-know because of chestnuts trees around the city)"], "author": "My smile is relief"}
+{"word": ["Home"], "author": "A_Fly_On_The_Wall"}
+{"word": ["place"], "author": "EnduringChill"}
+{"word": ["area"], "author": "My smile is relief"}
+{"word": ["space"], "author": "EnduringChill"}
+{"word": ["universe"], "author": "My smile is relief"}
+{"word": ["World"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Earth"], "author": "My smile is relief"}
+{"word": ["Google"], "author": "A_Fly_On_The_Wall"}
+{"word": ["internet"], "author": "bonobuzz"}
+{"word": ["@U2 forum\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["^the best!"], "author": "bonobuzz"}
+{"word": ["Zootops"], "author": "mdmomof7"}
+{"word": ["Zoo TV"], "author": "bonobuzz"}
+{"word": ["Trabants"], "author": "mdmomof7"}
+{"word": ["Germany"], "author": "bonobuzz"}
+{"word": ["Berlin, of course!\u00a0"], "author": "mdmomof7"}
+{"word": ["Bono's Back Surgery"], "author": "bonobuzz"}
+{"word": ["It all still works! lol! Sorry, but it was memorable on Jon Stewart!\u00a0"], "author": "mdmomof7"}
+{"word": ["^lol"], "author": "bonobuzz"}
+{"word": ["MacPhisto"], "author": "mdmomof7"}
+{"word": ["Mirror Ball Man"], "author": "bonobuzz"}
+{"word": [""], "author": "mdmomof7"}
+{"word": ["Insect"], "author": "bonobuzz"}
+{"word": ["Bug"], "author": "mdmomof7"}
+{"word": ["bees"], "author": "bonobuzz"}
+{"word": ["honey"], "author": "mdmomof7"}
+{"word": ["sweet"], "author": "bonobuzz"}
+{"word": ["Ali"], "author": "mdmomof7"}
+{"word": ["woman"], "author": "bonobuzz"}
+{"word": ["man"], "author": "EnduringChill"}
+{"word": ["MacPhisto"], "author": "A_Fly_On_The_Wall"}
+{"word": ["My \"husband\""], "author": "EnduringChill"}
+{"word": ["Family"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fly's wall"], "author": "EnduringChill"}
+{"word": ["Zoo TV!"], "author": "mdmomof7"}
+{"word": ["best thing ever"], "author": "EnduringChill"}
+{"word": ["Phillips"], "author": "mdmomof7"}
+{"word": ["TV"], "author": "My smile is relief"}
+{"word": ["Zoo"], "author": "EnduringChill"}
+{"word": ["Grid"], "author": "mdmomof7"}
+{"word": ["chart"], "author": "EnduringChill"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["life"], "author": "EnduringChill"}
+{"word": ["Living"], "author": "A_Fly_On_The_Wall"}
+{"word": ["breathing"], "author": "EnduringChill"}
+{"word": ["Oxygen"], "author": "A_Fly_On_The_Wall"}
+{"word": ["need"], "author": "EnduringChill"}
+{"word": ["Want"], "author": "A_Fly_On_The_Wall"}
+{"word": ["thirst"], "author": "EnduringChill"}
+{"word": ["Dry"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Desert"], "author": null}
+{"word": ["Sand"], "author": "bonobuzz"}
+{"word": ["Sandman"], "author": "theocean"}
+{"word": ["Jawas"], "author": "mdmomof7"}
+{"word": ["Tatooine......"], "author": "theocean"}
+{"word": ["Moons"], "author": "mdmomof7"}
+{"word": ["Moons"], "author": "theocean"}
+{"word": ["Jupiter"], "author": "mdmomof7"}
+{"word": ["Venus"], "author": "theocean"}
+{"word": ["Mars - obviously!\u00a0"], "author": "mdmomof7"}
+{"word": ["McCartney (one of his old songs was called Venus & Mars) very good."], "author": "theocean"}
+{"word": ["NO WAY!! I immediately think of that and NOT the book. Venus and Mars are all right tonight!\u00a0"], "author": "mdmomof7"}
+{"word": ["Oh I loved her and I am a bit mad he's remarried twice now..poor sweet Linda, lovely linda.."], "author": "theocean"}
+{"word": ["Kilts"], "author": "mdmomof7"}
+{"word": ["Bagpipes"], "author": "theocean"}
+{"word": ["Lochs"], "author": "mdmomof7"}
+{"word": ["Wool"], "author": "theocean"}
+{"word": ["Tartan"], "author": "mdmomof7"}
+{"word": ["Irish Sweaters"], "author": "theocean"}
+{"word": ["Fisherman"], "author": "mdmomof7"}
+{"word": ["Swordfish"], "author": "theocean"}
+{"word": ["Travolta\u00a0"], "author": "mdmomof7"}
+{"word": ["Grease"], "author": "My smile is relief"}
+{"word": ["leather"], "author": "mdmomof7"}
+{"word": ["jacket"], "author": "bonobuzz"}
+{"word": ["pants"], "author": "mdmomof7"}
+{"word": ["inside"], "author": "EnduringChill"}
+{"word": ["Outside"], "author": "A_Fly_On_The_Wall"}
+{"word": ["America"], "author": "EnduringChill"}
+{"word": ["New York"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spring trip (I'm going there this spring)"], "author": "EnduringChill"}
+{"word": ["California"], "author": "mdmomof7"}
+{"word": ["dreaming"], "author": "EnduringChill"}
+{"word": ["sleep"], "author": "mdmomof7"}
+{"word": ["snoring"], "author": "EnduringChill"}
+{"word": ["shake"], "author": "mdmomof7"}
+{"word": ["rattle"], "author": "bonobuzz"}
+{"word": ["Snake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dragon"], "author": null}
+{"word": ["Bearded"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pirate"], "author": "bonobuzz"}
+{"word": ["Jack Sparrow\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Davey Jones"], "author": "bonobuzz"}
+{"word": ["Suction cups"], "author": "mdmomof7"}
+{"word": ["bathtub"], "author": "EnduringChill"}
+{"word": ["Bubbles"], "author": "theocean"}
+{"word": ["Bono's Bubble Pants!"], "author": "mdmomof7"}
+{"word": ["black"], "author": "trlica"}
+{"word": ["licorice"], "author": "bonobuzz"}
+{"word": ["Candy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sweet tooth"], "author": "StrongGirl"}
+{"word": ["Little hit"], "author": "mdmomof7"}
+{"word": ["Buzz"], "author": "bonobuzz"}
+{"word": ["Bono\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Irish"], "author": "Inishfree"}
+{"word": ["Larry"], "author": "theocean"}
+{"word": ["Drums"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cymbals"], "author": "bonobuzz"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["gentle"], "author": "EnduringChill"}
+{"word": ["humanitarian"], "author": "Inishfree"}
+{"word": ["World"], "author": "A_Fly_On_The_Wall"}
+{"word": ["United Nations"], "author": "StrongGirl"}
+{"word": ["UNICEF"], "author": "mdmomof7"}
+{"word": ["donation"], "author": "EnduringChill"}
+{"word": ["Charity"], "author": "theocean"}
+{"word": ["concert"], "author": "EnduringChill"}
+{"word": ["World Vision"], "author": "mdmomof7"}
+{"word": ["Africa"], "author": "A_Fly_On_The_Wall"}
+{"word": ["water"], "author": "EnduringChill"}
+{"word": ["Sea"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beach"], "author": "My smile is relief"}
+{"word": ["Waves"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hand"], "author": "My smile is relief"}
+{"word": ["Glove"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Velvet"], "author": "My smile is relief"}
+{"word": ["Material"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Accounting"], "author": "My smile is relief"}
+{"word": ["Profession"], "author": "A_Fly_On_The_Wall"}
+{"word": ["University"], "author": "My smile is relief"}
+{"word": ["Degree"], "author": null}
+{"word": ["party\u00a0"], "author": "trlica"}
+{"word": ["Celebrate!"], "author": "mdmomof7"}
+{"word": ["French exam (I couldn't remember how to say that word in French)"], "author": "EnduringChill"}
+{"word": ["language"], "author": "trlica"}
+{"word": ["Foreign"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Spanish"], "author": "mdmomof7"}
+{"word": ["tomatoes\u00a0 \u00a0"], "author": "trlica"}
+{"word": ["Sauce"], "author": "mdmomof7"}
+{"word": ["Barbecue"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sandwich buns"], "author": "EnduringChill"}
+{"word": ["Sesame"], "author": "mdmomof7"}
+{"word": ["street"], "author": "EnduringChill"}
+{"word": ["No Name\u00a0"], "author": "StrongGirl"}
+{"word": ["Nothing"], "author": "mdmomof7"}
+{"word": ["radio"], "author": "EnduringChill"}
+{"word": ["Ouch!\u00a0"], "author": "mdmomof7"}
+{"word": ["(Nothing is a song that comes on the radio a lot)"], "author": "EnduringChill"}
+{"word": ["Oh, I guess I don't listen enough. Who is Nothing by?"], "author": "mdmomof7"}
+{"word": ["ballad"], "author": "My smile is relief"}
+{"word": ["love"], "author": "bonobuzz"}
+{"word": ["It is by The Script"], "author": "EnduringChill"}
+{"word": ["desire"], "author": "Inishfree"}
+{"word": ["Want"], "author": "mdmomof7"}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cash register"], "author": "EnduringChill"}
+{"word": ["Supermarket"], "author": "A_Fly_On_The_Wall"}
+{"word": ["trolley"], "author": "EnduringChill"}
+{"word": ["Basket"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cart"], "author": "bonobuzz"}
+{"word": ["cycle"], "author": "EnduringChill"}
+{"word": ["Life"], "author": "mdmomof7"}
+{"word": ["Birth"], "author": "StrongGirl"}
+{"word": ["Death"], "author": "mdmomof7"}
+{"word": ["mortality"], "author": "EnduringChill"}
+{"word": ["Death"], "author": "A_Fly_On_The_Wall"}
+{"word": ["destruction"], "author": "EnduringChill"}
+{"word": ["Global Warming"], "author": "A_Fly_On_The_Wall"}
+{"word": ["heat wave"], "author": "EnduringChill"}
+{"word": ["USA 2011"], "author": null}
+{"word": ["vacation"], "author": "EnduringChill"}
+{"word": ["Summer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Holidays"], "author": null}
+{"word": ["Beach"], "author": "A_Fly_On_The_Wall"}
+{"word": ["swim"], "author": null}
+{"word": ["Ocean"], "author": "A_Fly_On_The_Wall"}
+{"word": ["U2"], "author": null}
+{"word": ["Band"], "author": "A_Fly_On_The_Wall"}
+{"word": ["good music"], "author": null}
+{"word": ["tunes"], "author": "mdmomof7"}
+{"word": ["notes"], "author": "EnduringChill"}
+{"word": ["messages"], "author": "mdmomof7"}
+{"word": ["Letters"], "author": "bonobuzz"}
+{"word": ["sending"], "author": "EnduringChill"}
+{"word": ["receiving"], "author": null}
+{"word": ["delivery"], "author": "bonobuzz"}
+{"word": ["Late\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["early"], "author": "bonobuzz"}
+{"word": ["sunrise"], "author": "Inishfree"}
+{"word": ["birds"], "author": "theocean"}
+{"word": ["Flies\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lord"], "author": "mdmomof7"}
+{"word": ["Church"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spirituality"], "author": "Inishfree"}
+{"word": ["Gifts"], "author": "mdmomof7"}
+{"word": ["presents"], "author": "bonobuzz"}
+{"word": ["anniversary"], "author": "EnduringChill"}
+{"word": ["Happy"], "author": "mdmomof7"}
+{"word": ["sad"], "author": "EnduringChill"}
+{"word": ["Cheer"], "author": "mdmomof7"}
+{"word": ["cup"], "author": "EnduringChill"}
+{"word": ["Tin"], "author": "mdmomof7"}
+{"word": ["Metal"], "author": null}
+{"word": ["sticks"], "author": "EnduringChill"}
+{"word": ["Stones"], "author": null}
+{"word": ["bones"], "author": "mdmomof7"}
+{"word": ["dry"], "author": "EnduringChill"}
+{"word": ["Desert"], "author": null}
+{"word": ["cactus"], "author": "mdmomof7"}
+{"word": ["prickly"], "author": "EnduringChill"}
+{"word": ["spiky"], "author": "mdmomof7"}
+{"word": ["mohawk"], "author": null}
+{"word": ["unattractive"], "author": "EnduringChill"}
+{"word": ["ugly"], "author": "mdmomof7"}
+{"word": ["distasteful"], "author": "EnduringChill"}
+{"word": ["yuchy"], "author": "mdmomof7"}
+{"word": ["sick"], "author": null}
+{"word": ["puke-y"], "author": "EnduringChill"}
+{"word": ["nauseous"], "author": null}
+{"word": ["ill"], "author": "EnduringChill"}
+{"word": ["Montezuma!"], "author": "mdmomof7"}
+{"word": ["Revenge\u00a0"], "author": null}
+{"word": ["evil"], "author": "EnduringChill"}
+{"word": ["Spaniards?"], "author": "mdmomof7"}
+{"word": ["trial"], "author": "EnduringChill"}
+{"word": ["court"], "author": "trlica"}
+{"word": ["judge"], "author": "EnduringChill"}
+{"word": ["jury"], "author": "Inishfree"}
+{"word": ["decision"], "author": "EnduringChill"}
+{"word": ["Tough"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Challenge"], "author": "StrongGirl"}
+{"word": ["Competition"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sibling rivalry"], "author": "EnduringChill"}
+{"word": ["family"], "author": "mdmomof7"}
+{"word": ["forum"], "author": "My smile is relief"}
+{"word": ["internet"], "author": "Inishfree"}
+{"word": ["Web"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Spider who eats the Fly"], "author": null}
+{"word": ["Enemy\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Villain"], "author": null}
+{"word": ["Bad"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Song"], "author": null}
+{"word": ["Meaningful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cherished"], "author": null}
+{"word": ["Life"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Existence"], "author": null}
+{"word": ["Legacy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Batman"], "author": "My smile is relief"}
+{"word": ["Suit"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tie"], "author": "My smile is relief"}
+{"word": ["Level"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Game"], "author": "My smile is relief"}
+{"word": ["Forum"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Family!"], "author": "My smile is relief"}
+{"word": ["Cake\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["CHOCOLATE!!"], "author": "My smile is relief"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hearts"], "author": "My smile is relief"}
+{"word": ["beating"], "author": "EnduringChill"}
+{"word": ["Rhythm"], "author": "A_Fly_On_The_Wall"}
+{"word": ["section"], "author": "mdmomof7"}
+{"word": ["house"], "author": "My smile is relief"}
+{"word": ["doctor\u00a0"], "author": "trlica"}
+{"word": ["Hospital"], "author": "A_Fly_On_The_Wall"}
+{"word": ["medicine"], "author": "bonobuzz"}
+{"word": ["Sick"], "author": "A_Fly_On_The_Wall"}
+{"word": ["temperature"], "author": "My smile is relief"}
+{"word": ["Climate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Weather"], "author": "My smile is relief"}
+{"word": ["Sunny"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cloudy"], "author": "bonobuzz"}
+{"word": ["Meatballs\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Spaghetti"], "author": "My smile is relief"}
+{"word": ["sauce"], "author": "bonobuzz"}
+{"word": ["Barbecue"], "author": "A_Fly_On_The_Wall"}
+{"word": ["backyard"], "author": "My smile is relief"}
+{"word": ["Garden"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flowers"], "author": "My smile is relief"}
+{"word": ["Roses"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Valentine"], "author": "bonobuzz"}
+{"word": ["February"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Leap Year"], "author": "My smile is relief"}
+{"word": ["2012"], "author": "A_Fly_On_The_Wall"}
+{"word": ["December 21st"], "author": "My smile is relief"}
+{"word": ["Conspiracy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Theory"], "author": "My smile is relief"}
+{"word": ["Mathematics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Numbers"], "author": "My smile is relief"}
+{"word": ["Fibonacci"], "author": "mdmomof7"}
+{"word": ["Italian"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spaghetti"], "author": "EnduringChill"}
+{"word": ["Ziti"], "author": "theocean"}
+{"word": ["Bolognese"], "author": "mdmomof7"}
+{"word": ["Best food"], "author": "My smile is relief"}
+{"word": ["Irish Stew"], "author": "Inishfree"}
+{"word": ["Pub"], "author": "My smile is relief"}
+{"word": ["beer"], "author": "EnduringChill"}
+{"word": ["wine"], "author": "Inishfree"}
+{"word": ["Sparkling"], "author": "mdmomof7"}
+{"word": ["Vampire"], "author": "My smile is relief"}
+{"word": ["Blood"], "author": "A_Fly_On_The_Wall"}
+{"word": ["wound"], "author": "bonobuzz"}
+{"word": ["Bandage"], "author": "StrongGirl"}
+{"word": ["First aid"], "author": "My smile is relief"}
+{"word": ["CPR"], "author": "bonobuzz"}
+{"word": ["Resuscitation"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mouth-to-mouth"], "author": "EnduringChill"}
+{"word": ["breathing"], "author": "My smile is relief"}
+{"word": ["respiration"], "author": "mdmomof7"}
+{"word": ["Air"], "author": null}
+{"word": ["Jordin Sparks"], "author": "mdmomof7"}
+{"word": ["I don't know who this is......"], "author": null}
+{"word": ["She won American Idol and is a singer. She's actually good. One of her big hits is Air."], "author": "mdmomof7"}
+{"word": ["Tattoo"], "author": "My smile is relief"}
+{"word": ["Piercing"], "author": null}
+{"word": ["darkness"], "author": "mdmomof7"}
+{"word": ["light"], "author": "EnduringChill"}
+{"word": ["day"], "author": "mdmomof7"}
+{"word": ["sunrise"], "author": null}
+{"word": ["sunset"], "author": "mdmomof7"}
+{"word": ["Horizon"], "author": "My smile is relief"}
+{"word": ["shore"], "author": "bonobuzz"}
+{"word": ["beach"], "author": "EnduringChill"}
+{"word": ["Waves"], "author": "StrongGirl"}
+{"word": ["Hello"], "author": "Joe90usa"}
+{"word": ["hola"], "author": "EnduringChill"}
+{"word": ["Margarita!"], "author": "bonobuzz"}
+{"word": ["Alcohol"], "author": "A_Fly_On_The_Wall"}
+{"word": ["liquid"], "author": "My smile is relief"}
+{"word": ["Juice"], "author": "A_Fly_On_The_Wall"}
+{"word": ["food"], "author": "EnduringChill"}
+{"word": ["spaghetti"], "author": "My smile is relief"}
+{"word": ["Love\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["relationship"], "author": "Inishfree"}
+{"word": ["pointless\u00a0"], "author": null}
+{"word": ["Giving up\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["life"], "author": null}
+{"word": ["Living"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hard"], "author": null}
+{"word": ["Shell"], "author": "A_Fly_On_The_Wall"}
+{"word": ["gasoline station"], "author": null}
+{"word": ["Petrol"], "author": "A_Fly_On_The_Wall"}
+{"word": ["car"], "author": null}
+{"word": ["Wheels"], "author": "A_Fly_On_The_Wall"}
+{"word": ["John Lennon"], "author": "My smile is relief"}
+{"word": ["Beatle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Liverpool"], "author": "My smile is relief"}
+{"word": ["England"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bro!"], "author": "My smile is relief"}
+{"word": ["Tall\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bro!"], "author": "My smile is relief"}
+{"word": ["Fly\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": [""], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["well that was my second association!"], "author": "My smile is relief"}
+{"word": ["House"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dr House"], "author": "My smile is relief"}
+{"word": ["Programme"], "author": "A_Fly_On_The_Wall"}
+{"word": ["TV"], "author": "My smile is relief"}
+{"word": ["Show"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Performance"], "author": "My smile is relief"}
+{"word": ["Best"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Thing"], "author": "My smile is relief"}
+{"word": ["stuff"], "author": "EnduringChill"}
+{"word": ["bra"], "author": "theocean"}
+{"word": ["\u00a0"], "author": "My smile is relief"}
+{"word": ["Film"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Camera"], "author": "theocean"}
+{"word": ["Digital"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pictures"], "author": "EnduringChill"}
+{"word": ["pictures of you"], "author": null}
+{"word": ["The Cure"], "author": "EnduringChill"}
+{"word": ["Lovesong"], "author": "My smile is relief"}
+{"word": ["romantic"], "author": "EnduringChill"}
+{"word": ["Lover"], "author": "mdmomof7"}
+{"word": ["The Valentine's Day"], "author": "My smile is relief"}
+{"word": ["hearts"], "author": "EnduringChill"}
+{"word": ["moons"], "author": "mdmomof7"}
+{"word": ["stars"], "author": "trlica"}
+{"word": ["Texas"], "author": "bonobuzz"}
+{"word": ["USA"], "author": "A_Fly_On_The_Wall"}
+{"word": ["America"], "author": "bonobuzz"}
+{"word": ["New York"], "author": "A_Fly_On_The_Wall"}
+{"word": ["New car"], "author": "bonobuzz"}
+{"word": ["Expensive"], "author": "A_Fly_On_The_Wall"}
+{"word": ["oops I see I screwed up^ sorry!"], "author": "bonobuzz"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["marriage"], "author": "bonobuzz"}
+{"word": ["Wedding"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vows"], "author": "bonobuzz"}
+{"word": ["Trust"], "author": "A_Fly_On_The_Wall"}
+{"word": ["commitment"], "author": "bonobuzz"}
+{"word": ["Faith"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hope"], "author": "bonobuzz"}
+{"word": ["Belief"], "author": "A_Fly_On_The_Wall"}
+{"word": ["religion"], "author": "bonobuzz"}
+{"word": ["Catholic"], "author": "A_Fly_On_The_Wall"}
+{"word": ["priest"], "author": "bonobuzz"}
+{"word": ["Mass"], "author": "A_Fly_On_The_Wall"}
+{"word": ["prayer"], "author": "bonobuzz"}
+{"word": ["God"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Angel"], "author": "bonobuzz"}
+{"word": ["Harlem\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["New York"], "author": "My smile is relief"}
+{"word": ["CSI"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Miami"], "author": "EnduringChill"}
+{"word": ["Palms"], "author": "theocean"}
+{"word": ["dry skin"], "author": "EnduringChill"}
+{"word": ["sunburn"], "author": "Inishfree"}
+{"word": ["red"], "author": "EnduringChill"}
+{"word": ["color"], "author": "My smile is relief"}
+{"word": ["TV"], "author": "A_Fly_On_The_Wall"}
+{"word": ["commercial"], "author": "bonobuzz"}
+{"word": ["Pepsi"], "author": "Inishfree"}
+{"word": ["Max"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Min"], "author": "My smile is relief"}
+{"word": ["Mini dress"], "author": "StrongGirl"}
+{"word": ["short"], "author": "EnduringChill"}
+{"word": ["tall"], "author": "My smile is relief"}
+{"word": ["Big"], "author": "A_Fly_On_The_Wall"}
+{"word": ["large"], "author": "EnduringChill"}
+{"word": ["space"], "author": "My smile is relief"}
+{"word": ["Moon"], "author": "theocean"}
+{"word": ["planets"], "author": "Inishfree"}
+{"word": ["Venus"], "author": "My smile is relief"}
+{"word": ["Women"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rights"], "author": "My smile is relief"}
+{"word": ["Equality"], "author": "theocean"}
+{"word": ["freedom"], "author": "EnduringChill"}
+{"word": ["Scent"], "author": "A_Fly_On_The_Wall"}
+{"word": ["taste"], "author": "EnduringChill"}
+{"word": ["Sense"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Feelings"], "author": "theocean"}
+{"word": ["Emotions"], "author": "My smile is relief"}
+{"word": ["happiness"], "author": "bonobuzz"}
+{"word": ["joy"], "author": "My smile is relief"}
+{"word": ["sadness"], "author": "EnduringChill"}
+{"word": ["grief"], "author": "mdmomof7"}
+{"word": ["mourning"], "author": "EnduringChill"}
+{"word": ["death"], "author": "My smile is relief"}
+{"word": ["scary"], "author": "EnduringChill"}
+{"word": ["people"], "author": "My smile is relief"}
+{"word": ["strange"], "author": "EnduringChill"}
+{"word": ["ME\u00a0"], "author": null}
+{"word": ["girl"], "author": "EnduringChill"}
+{"word": ["boy"], "author": null}
+{"word": ["U2"], "author": "A_Fly_On_The_Wall"}
+{"word": ["music"], "author": "My smile is relief"}
+{"word": ["songs"], "author": "bonobuzz"}
+{"word": ["lyrics"], "author": "My smile is relief"}
+{"word": ["chorus"], "author": "bonobuzz"}
+{"word": ["choir"], "author": "My smile is relief"}
+{"word": ["piano"], "author": "bonobuzz"}
+{"word": ["melody"], "author": "My smile is relief"}
+{"word": ["harmony"], "author": "bonobuzz"}
+{"word": ["blend"], "author": "EnduringChill"}
+{"word": ["colours"], "author": "My smile is relief"}
+{"word": ["Fireworks"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lightning"], "author": "mdmomof7"}
+{"word": ["thunder"], "author": "My smile is relief"}
+{"word": ["Clap"], "author": "A_Fly_On_The_Wall"}
+{"word": ["applaud"], "author": "mdmomof7"}
+{"word": ["encore"], "author": "Snowmoon"}
+{"word": ["More!!"], "author": "mdmomof7"}
+{"word": ["Numerous (md, your stretching my brain!)"], "author": "Snowmoon"}
+{"word": ["I'm right there w/ you. Mine too. I'm really spacey this Friday night. Uh oh..."], "author": "mdmomof7"}
+{"word": ["Shooting"], "author": "Snowmoon"}
+{"word": ["meteors"], "author": "mdmomof7"}
+{"word": ["Falling\u00a0"], "author": "Snowmoon"}
+{"word": ["rising"], "author": "mdmomof7"}
+{"word": ["sun"], "author": "Snowmoon"}
+{"word": ["Moon"], "author": "mdmomof7"}
+{"word": ["red"], "author": "Snowmoon"}
+{"word": ["Dawn"], "author": "mdmomof7"}
+{"word": ["peaceful"], "author": "Snowmoon"}
+{"word": ["tranquil"], "author": "mdmomof7"}
+{"word": ["turquoise"], "author": "Snowmoon"}
+{"word": ["my horoscope color!"], "author": "My smile is relief"}
+{"word": ["Gemini"], "author": "theocean"}
+{"word": ["twins"], "author": "Inishfree"}
+{"word": ["Movie"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Popcorn"], "author": "Snowmoon"}
+{"word": ["Soda"], "author": "StrongGirl"}
+{"word": ["Coca-Cola"], "author": "My smile is relief"}
+{"word": ["Pepsi (no coke)"], "author": "theocean"}
+{"word": ["pop"], "author": "bonobuzz"}
+{"word": ["priest"], "author": "My smile is relief"}
+{"word": ["Lent"], "author": "A_Fly_On_The_Wall"}
+{"word": ["40 days"], "author": "StrongGirl"}
+{"word": ["Fast"], "author": null}
+{"word": ["Friday"], "author": "mdmomof7"}
+{"word": ["The Cure"], "author": "My smile is relief"}
+{"word": ["Pornography"], "author": "singnomore"}
+{"word": ["Revolting"], "author": "mdmomof7"}
+{"word": ["Disgusting"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Noise"], "author": "My smile is relief"}
+{"word": ["Loud"], "author": "bonobuzz"}
+{"word": ["Concert"], "author": "Snowmoon"}
+{"word": ["Love!!"], "author": "mdmomof7"}
+{"word": ["U2"], "author": "bonobuzz"}
+{"word": ["Adoration"], "author": "mdmomof7"}
+{"word": ["Respect"], "author": "bonobuzz"}
+{"word": ["RELEVANT\u00a0"], "author": "Snowmoon"}
+{"word": ["Needed"], "author": "theocean"}
+{"word": ["Missed..."], "author": "mdmomof7"}
+{"word": ["Forum Family\u00a0"], "author": "My smile is relief"}
+{"word": ["my family!!"], "author": "trlica"}
+{"word": ["bonds"], "author": "mdmomof7"}
+{"word": ["loyalty"], "author": "Snowmoon"}
+{"word": ["friendship"], "author": "Inishfree"}
+{"word": ["connection"], "author": "My smile is relief"}
+{"word": ["simular"], "author": "Inishfree"}
+{"word": ["pretender"], "author": "singnomore"}
+{"word": ["Foo Fighters"], "author": "mdmomof7"}
+{"word": ["Rope"], "author": "My smile is relief"}
+{"word": ["Chain"], "author": "theocean"}
+{"word": ["Rumours"], "author": "mdmomof7"}
+{"word": ["Gossips"], "author": "My smile is relief"}
+{"word": ["socializing"], "author": "Thehorsefly [whinny!]"}
+{"word": ["Facebook"], "author": "mdmomof7"}
+{"word": ["stalking"], "author": "My smile is relief"}
+{"word": ["scary"], "author": "mdmomof7"}
+{"word": ["Horror"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gothic"], "author": "Snowmoon"}
+{"word": ["Medieval"], "author": "mdmomof7"}
+{"word": ["Times"], "author": "Inishfree"}
+{"word": ["Knights"], "author": "mdmomof7"}
+{"word": ["Camelot"], "author": "My smile is relief"}
+{"word": ["Kennedy"], "author": "mdmomof7"}
+{"word": ["Space center"], "author": null}
+{"word": ["Blast off"], "author": "Snowmoon"}
+{"word": ["Rocket"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Space"], "author": "bonobuzz"}
+{"word": ["Oddity"], "author": "mdmomof7"}
+{"word": ["Odd Couple"], "author": "StrongGirl"}
+{"word": ["felix"], "author": "jabw10"}
+{"word": ["Oscar"], "author": "mdmomof7"}
+{"word": ["Award"], "author": "A_Fly_On_The_Wall"}
+{"word": ["trophy"], "author": "bonobuzz"}
+{"word": ["Recognition"], "author": "Snowmoon"}
+{"word": ["Achievement"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Success"], "author": "Snowmoon"}
+{"word": ["Fame"], "author": "bonobuzz"}
+{"word": ["Fortune"], "author": "OnlyU2"}
+{"word": ["wealth"], "author": "mdmomof7"}
+{"word": ["money"], "author": "OnlyU2"}
+{"word": ["greed"], "author": "Snowmoon"}
+{"word": ["corruption"], "author": "mdmomof7"}
+{"word": ["government"], "author": "My smile is relief"}
+{"word": ["taxes"], "author": "OnlyU2"}
+{"word": ["Annoying\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pest"], "author": "bonobuzz"}
+{"word": ["Flies\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["swatter"], "author": "bonobuzz"}
+{"word": ["Death"], "author": "A_Fly_On_The_Wall"}
+{"word": ["^"], "author": "bonobuzz"}
+{"word": ["Black"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Eye"], "author": null}
+{"word": ["vision"], "author": "bonobuzz"}
+{"word": ["clouded"], "author": "mdmomof7"}
+{"word": ["memory"], "author": "bonobuzz"}
+{"word": ["faulty"], "author": "mdmomof7"}
+{"word": ["broken"], "author": "bonobuzz"}
+{"word": ["bits"], "author": "singnomore"}
+{"word": ["pieces"], "author": "bonobuzz"}
+{"word": ["Reese's\u00a0"], "author": "mdmomof7"}
+{"word": ["peanut butter"], "author": "bonobuzz"}
+{"word": ["ET"], "author": "mdmomof7"}
+{"word": ["movies"], "author": "bonobuzz"}
+{"word": ["theater"], "author": "My smile is relief"}
+{"word": ["Hospital"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Nurse"], "author": null}
+{"word": ["Doctor"], "author": "mdmomof7"}
+{"word": ["M.D.\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["specialist"], "author": "Inishfree"}
+{"word": ["treats"], "author": "mdmomof7"}
+{"word": ["desserts"], "author": null}
+{"word": ["Trifle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Whipped cream"], "author": "bonobuzz"}
+{"word": ["Frappuccino"], "author": "Snowmoon"}
+{"word": ["Mocha"], "author": "mdmomof7"}
+{"word": ["Hershey"], "author": "theocean"}
+{"word": ["kisses"], "author": "mdmomof7"}
+{"word": ["love"], "author": "Inishfree"}
+{"word": ["adore"], "author": "mdmomof7"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["radio"], "author": "bonobuzz"}
+{"word": ["station"], "author": "trlica"}
+{"word": ["TV"], "author": "bonobuzz"}
+{"word": ["Dvd's"], "author": "Inishfree"}
+{"word": ["Video's"], "author": null}
+{"word": ["Camera"], "author": "A_Fly_On_The_Wall"}
+{"word": ["photo"], "author": "My smile is relief"}
+{"word": ["picture"], "author": "bonobuzz"}
+{"word": ["frame"], "author": "My smile is relief"}
+{"word": ["wood"], "author": "bonobuzz"}
+{"word": ["Tree"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hill"], "author": "mdmomof7"}
+{"word": ["view"], "author": "My smile is relief"}
+{"word": ["scenary"], "author": "Inishfree"}
+{"word": ["nature"], "author": "trlica"}
+{"word": ["Countryside"], "author": null}
+{"word": ["Horses"], "author": "My smile is relief"}
+{"word": ["Stable"], "author": null}
+{"word": ["barn"], "author": "bonobuzz"}
+{"word": ["hay"], "author": "OnlyU2"}
+{"word": ["Fever"], "author": "dysthanasiac"}
+{"word": ["Saturday night"], "author": "My smile is relief"}
+{"word": ["Disco"], "author": "Inishfree"}
+{"word": ["lights"], "author": "trlica"}
+{"word": ["windows"], "author": "My smile is relief"}
+{"word": ["Glass"], "author": null}
+{"word": ["water"], "author": "My smile is relief"}
+{"word": ["river"], "author": "Inishfree"}
+{"word": ["Flowing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Boat"], "author": "My smile is relief"}
+{"word": ["Ship"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Battle"], "author": "My smile is relief"}
+{"word": ["Fight"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pillow!\u00a0"], "author": "My smile is relief"}
+{"word": ["Soft\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gentle"], "author": "My smile is relief"}
+{"word": ["Touch"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cuddle"], "author": "My smile is relief"}
+{"word": ["Couple"], "author": "A_Fly_On_The_Wall"}
+{"word": ["unite"], "author": "mdmomof7"}
+{"word": ["Connect"], "author": null}
+{"word": ["Marge"], "author": "My smile is relief"}
+{"word": ["^ I think you meant merge\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(I did, just typo!"], "author": "My smile is relief"}
+{"word": ["Eternity"], "author": "mdmomof7"}
+{"word": ["Robbie Williams"], "author": "My smile is relief"}
+{"word": ["Geri Halliwell"], "author": "mdmomof7"}
+{"word": ["Raining Man"], "author": "My smile is relief"}
+{"word": ["it's raining men XD"], "author": null}
+{"word": ["Hallelujah"], "author": "My smile is relief"}
+{"word": ["....Here she comes?"], "author": null}
+{"word": ["dressed in black"], "author": "My smile is relief"}
+{"word": ["Dress"], "author": null}
+{"word": ["Bro!!\u00a0"], "author": "My smile is relief"}
+{"word": ["convincing someone to show a picture\u00a0"], "author": null}
+{"word": ["persuading"], "author": "My smile is relief"}
+{"word": ["google translate"], "author": null}
+{"word": ["Huh?\u00a0"], "author": "mdmomof7"}
+{"word": ["confusion"], "author": "My smile is relief"}
+{"word": ["mystification"], "author": "mdmomof7"}
+{"word": ["Bewildered"], "author": null}
+{"word": ["wonderment"], "author": "mdmomof7"}
+{"word": ["awe"], "author": "bonobuzz"}
+{"word": ["dazed"], "author": "bonobuzz"}
+{"word": ["Trance"], "author": null}
+{"word": ["Hypnotic"], "author": "Snowmoon"}
+{"word": ["Sleep"], "author": "My smile is relief"}
+{"word": ["rest"], "author": "Inishfree"}
+{"word": ["weary"], "author": "mdmomof7"}
+{"word": ["shirt"], "author": "trlica"}
+{"word": ["Dress"], "author": "theocean"}
+{"word": ["skirt"], "author": "trlica"}
+{"word": ["denim"], "author": "My smile is relief"}
+{"word": ["jeans"], "author": "bonobuzz"}
+{"word": ["Buttonfly"], "author": "Snowmoon"}
+{"word": ["Levis"], "author": "mdmomof7"}
+{"word": ["brand"], "author": "trlica"}
+{"word": ["logo"], "author": "My smile is relief"}
+{"word": ["trademark"], "author": "Snowmoon"}
+{"word": ["signature"], "author": "mdmomof7"}
+{"word": ["name"], "author": "Inishfree"}
+{"word": ["number"], "author": "trlica"}
+{"word": ["id"], "author": "bonobuzz"}
+{"word": ["passport"], "author": "Snowmoon"}
+{"word": ["traveling"], "author": "My smile is relief"}
+{"word": ["flight"], "author": "Inishfree"}
+{"word": ["airplane"], "author": "bonobuzz"}
+{"word": ["Fuel"], "author": "theocean"}
+{"word": ["Jet"], "author": "bonobuzz"}
+{"word": ["Are you gonna be my girl"], "author": "My smile is relief"}
+{"word": ["Jam"], "author": "bonobuzz"}
+{"word": ["bread"], "author": "trlica"}
+{"word": ["sandwich"], "author": "Snowmoon"}
+{"word": ["cucumber"], "author": "singnomore"}
+{"word": ["peanut butter"], "author": "trlica"}
+{"word": ["Jelly"], "author": "bonobuzz"}
+{"word": ["donut"], "author": "OnlyU2"}
+{"word": ["TIM HORTONS!!!!!\u00a0"], "author": "Starman"}
+{"word": ["I had to look that up!"], "author": "singnomore"}
+{"word": ["Most Americans would have to too."], "author": "Starman"}
+{"word": ["Frankies and Benny's"], "author": "singnomore"}
+{"word": ["(I had to look that one up myself)"], "author": "Starman"}
+{"word": ["I thought that was Global - sorry!"], "author": "singnomore"}
+{"word": ["That's ok"], "author": "Starman"}
+{"word": ["salty"], "author": "singnomore"}
+{"word": ["potato chips"], "author": "EnduringChill"}
+{"word": ["pizza"], "author": "My smile is relief"}
+{"word": ["pepperoni"], "author": "EnduringChill"}
+{"word": ["Sausage"], "author": "theocean"}
+{"word": ["cheese"], "author": "trlica"}
+{"word": ["cows"], "author": "singnomore"}
+{"word": ["eggs"], "author": "EnduringChill"}
+{"word": ["Easter"], "author": "trlica"}
+{"word": ["Hare"], "author": "My smile is relief"}
+{"word": ["rabbit"], "author": "EnduringChill"}
+{"word": ["bunnies"], "author": "Snowmoon"}
+{"word": ["hopping"], "author": "singnomore"}
+{"word": ["(finally came up with something!)"], "author": "Snowmoon"}
+{"word": ["mad\u00a0"], "author": "singnomore"}
+{"word": ["Hopping mad or jumping mad?\u00a0"], "author": "Snowmoon"}
+{"word": ["jumping...hmm not really a good choice but lets try jumping LOL"], "author": "singnomore"}
+{"word": ["Irate"], "author": "Snowmoon"}
+{"word": ["raging"], "author": "singnomore"}
+{"word": ["furious"], "author": "Snowmoon"}
+{"word": ["anger"], "author": "My smile is relief"}
+{"word": ["frustration"], "author": "trlica"}
+{"word": ["grumpy"], "author": "singnomore"}
+{"word": ["cantankerous"], "author": "Snowmoon"}
+{"word": ["grouchy"], "author": "EnduringChill"}
+{"word": ["crab"], "author": "OnlyU2"}
+{"word": ["picking"], "author": "EnduringChill"}
+{"word": ["selecting"], "author": "OnlyU2"}
+{"word": ["choice"], "author": "EnduringChill"}
+{"word": ["option"], "author": "OnlyU2"}
+{"word": ["deal"], "author": "mdmomof7"}
+{"word": ["square"], "author": "EnduringChill"}
+{"word": ["SpongBob"], "author": "trlica"}
+{"word": ["happiness"], "author": "EnduringChill"}
+{"word": ["A warm gun"], "author": null}
+{"word": ["blood"], "author": "EnduringChill"}
+{"word": ["Life"], "author": null}
+{"word": ["liberty"], "author": "EnduringChill"}
+{"word": ["Statue"], "author": null}
+{"word": ["power"], "author": "EnduringChill"}
+{"word": ["Force"], "author": null}
+{"word": ["Air"], "author": "OnlyU2"}
+{"word": ["Breathe"], "author": null}
+{"word": ["song"], "author": "EnduringChill"}
+{"word": ["Music"], "author": null}
+{"word": ["words"], "author": "EnduringChill"}
+{"word": ["Speak"], "author": null}
+{"word": ["listen"], "author": "EnduringChill"}
+{"word": ["Hear"], "author": null}
+{"word": ["ears"], "author": "EnduringChill"}
+{"word": ["Head"], "author": null}
+{"word": ["Sore"], "author": "singnomore"}
+{"word": ["muscle"], "author": "trlica"}
+{"word": ["man"], "author": "Dark Angel"}
+{"word": ["bloke"], "author": "singnomore"}
+{"word": ["Fellow"], "author": "EnduringChill"}
+{"word": ["gal"], "author": "mdmomof7"}
+{"word": ["girl"], "author": "EnduringChill"}
+{"word": ["Sheila"], "author": "mdmomof7"}
+{"word": ["name"], "author": "EnduringChill"}
+{"word": ["number"], "author": "trlica"}
+{"word": ["333"], "author": "mdmomof7"}
+{"word": ["Time"], "author": "EnduringChill"}
+{"word": ["Clock"], "author": "mdmomof7"}
+{"word": ["alarm"], "author": "OnlyU2"}
+{"word": ["Shrill"], "author": "mdmomof7"}
+{"word": ["siren"], "author": "My smile is relief"}
+{"word": ["Marilyn"], "author": "mdmomof7"}
+{"word": ["Manson"], "author": "My smile is relief"}
+{"word": ["dislike"], "author": "mdmomof7"}
+{"word": ["Hate"], "author": "U2OnceAgain"}
+{"word": ["Evil"], "author": "mdmomof7"}
+{"word": ["wicked"], "author": "Snowmoon"}
+{"word": ["Broadway"], "author": "mdmomof7"}
+{"word": ["drama"], "author": "imaginary friend"}
+{"word": ["Girls!!"], "author": "mdmomof7"}
+{"word": ["Boys"], "author": "singnomore"}
+{"word": ["Men"], "author": "theocean"}
+{"word": ["Woman"], "author": "My smile is relief"}
+{"word": ["mother"], "author": null}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["child"], "author": "Inishfree"}
+{"word": ["tot"], "author": "mdmomof7"}
+{"word": ["tater\u00a0"], "author": null}
+{"word": ["fries"], "author": "mdmomof7"}
+{"word": ["Potatoes"], "author": "CillaLh"}
+{"word": ["Meal"], "author": null}
+{"word": ["Dinner"], "author": "OnlyU2"}
+{"word": ["Food"], "author": "A_Fly_On_The_Wall"}
+{"word": ["appetite"], "author": "mdmomof7"}
+{"word": ["hungry"], "author": "bonobuzz"}
+{"word": ["wolf"], "author": "mdmomof7"}
+{"word": ["howl"], "author": "bonobuzz"}
+{"word": ["poem"], "author": "My smile is relief"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["town"], "author": "mdmomof7"}
+{"word": ["City"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lights"], "author": null}
+{"word": ["Bright"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sun"], "author": null}
+{"word": ["Tan"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sea"], "author": "My smile is relief"}
+{"word": ["Surf"], "author": "A_Fly_On_The_Wall"}
+{"word": ["waves"], "author": "My smile is relief"}
+{"word": ["Crashing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sound"], "author": "My smile is relief"}
+{"word": ["Barrier"], "author": "A_Fly_On_The_Wall"}
+{"word": ["islands"], "author": "mdmomof7"}
+{"word": ["Utopia"], "author": "My smile is relief"}
+{"word": ["Perfection"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Seychelles"], "author": "mdmomof7"}
+{"word": ["Sea"], "author": "My smile is relief"}
+{"word": ["Sargasso"], "author": "mdmomof7"}
+{"word": ["Atlantic"], "author": "My smile is relief"}
+{"word": ["\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["3D"], "author": "My smile is relief"}
+{"word": ["Avatar"], "author": "mdmomof7"}
+{"word": ["James Cameron"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Director"], "author": "My smile is relief"}
+{"word": ["Scorsese"], "author": "mdmomof7"}
+{"word": ["The Departed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Leonardo DiCaprio"], "author": "My smile is relief"}
+{"word": ["Models"], "author": "mdmomof7"}
+{"word": ["Fashion Week"], "author": "My smile is relief"}
+{"word": ["Bryant Park"], "author": "mdmomof7"}
+{"word": ["New York"], "author": "My smile is relief"}
+{"word": ["Apple"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Orange"], "author": "mdmomof7"}
+{"word": ["red"], "author": null}
+{"word": ["lipstick"], "author": "My smile is relief"}
+{"word": ["lipstick"], "author": "mdmomof7"}
+{"word": ["Great minds!\u00a0"], "author": "mdmomof7"}
+{"word": ["Eyeliner"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mascara"], "author": "mdmomof7"}
+{"word": ["think alike!"], "author": "My smile is relief"}
+{"word": ["Nose"], "author": "mdmomof7"}
+{"word": ["mouth"], "author": "My smile is relief"}
+{"word": ["Big"], "author": "A_Fly_On_The_Wall"}
+{"word": ["kiss"], "author": "mdmomof7"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Adoration"], "author": "mdmomof7"}
+{"word": ["Idol"], "author": "A_Fly_On_The_Wall"}
+{"word": ["worship"], "author": "mdmomof7"}
+{"word": ["God"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Trinity"], "author": "mdmomof7"}
+{"word": ["Cross"], "author": "theocean"}
+{"word": ["Holy"], "author": "My smile is relief"}
+{"word": ["Water"], "author": "A_Fly_On_The_Wall"}
+{"word": ["baptism"], "author": "mdmomof7"}
+{"word": ["Church\u00a0"], "author": "My smile is relief"}
+{"word": ["religion"], "author": null}
+{"word": ["Faith"], "author": "Snowmoon"}
+{"word": ["George Michael\u00a0"], "author": "singnomore"}
+{"word": ["Singer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["\u00a0 Blech!!"], "author": "mdmomof7"}
+{"word": ["Bono"], "author": null}
+{"word": ["Man\u00a0"], "author": "bonobuzz"}
+{"word": ["Woman"], "author": "trlica"}
+{"word": ["Children"], "author": "theocean"}
+{"word": ["Offspring"], "author": "mdmomof7"}
+{"word": ["Band"], "author": "bonobuzz"}
+{"word": ["Elastic"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Stretch"], "author": "Snowmoon"}
+{"word": ["Spandex"], "author": "bonobuzz"}
+{"word": ["tights"], "author": "Snowmoon"}
+{"word": ["ballet"], "author": "bonobuzz"}
+{"word": ["slippers"], "author": "Snowmoon"}
+{"word": ["pj's"], "author": "bonobuzz"}
+{"word": ["Comfortable"], "author": "A_Fly_On_The_Wall"}
+{"word": ["blanket"], "author": "bonobuzz"}
+{"word": ["Security"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Guard"], "author": "bonobuzz"}
+{"word": ["coast"], "author": "OnlyU2"}
+{"word": ["ocean"], "author": "bonobuzz"}
+{"word": ["The Ocean!"], "author": "My smile is relief"}
+{"word": ["peaceful"], "author": "bonobuzz"}
+{"word": ["Tranquil"], "author": "A_Fly_On_The_Wall"}
+{"word": ["relaxing"], "author": "mdmomof7"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lyrics"], "author": "mdmomof7"}
+{"word": ["Important"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Message"], "author": "EnduringChill"}
+{"word": ["communicate"], "author": "mdmomof7"}
+{"word": ["conversation"], "author": "bonobuzz"}
+{"word": ["talk, talk, talking"], "author": "mdmomof7"}
+{"word": ["chit chat"], "author": "bonobuzz"}
+{"word": ["tete a tete"], "author": "mdmomof7"}
+{"word": ["Tiko Tiko (this weird song that uses the phrase \"tete a tete\" in the lyrics"], "author": "EnduringChill"}
+{"word": ["Fiji"], "author": "mdmomof7"}
+{"word": ["island"], "author": "singnomore"}
+{"word": ["Sea"], "author": "My smile is relief"}
+{"word": ["ocean"], "author": "mdmomof7"}
+{"word": ["Atlantic"], "author": "My smile is relief"}
+{"word": ["salty"], "author": "bonobuzz"}
+{"word": ["fishy"], "author": "mdmomof7"}
+{"word": ["Dodgy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["shoddy"], "author": "EnduringChill"}
+{"word": ["imitation"], "author": "My smile is relief"}
+{"word": ["Flattery"], "author": "A_Fly_On_The_Wall"}
+{"word": ["insincere"], "author": "Inishfree"}
+{"word": ["rude"], "author": "bonobuzz"}
+{"word": ["Nasty"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Laugh"], "author": "My smile is relief"}
+{"word": ["Smile\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["grin"], "author": "EnduringChill"}
+{"word": ["creepy"], "author": null}
+{"word": ["scary"], "author": "EnduringChill"}
+{"word": ["sharks"], "author": null}
+{"word": ["jaws"], "author": "OnlyU2"}
+{"word": ["teeth"], "author": "bonobuzz"}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pure"], "author": "EnduringChill"}
+{"word": ["sterile"], "author": "Snowmoon"}
+{"word": ["fertilized"], "author": "EnduringChill"}
+{"word": ["grass"], "author": "horizon"}
+{"word": ["green"], "author": "EnduringChill"}
+{"word": ["Froggy"], "author": "theocean"}
+{"word": ["puppy"], "author": "EnduringChill"}
+{"word": ["Love"], "author": "Snowmoon"}
+{"word": ["feelings"], "author": "My smile is relief"}
+{"word": ["Sad"], "author": null}
+{"word": ["tears"], "author": "My smile is relief"}
+{"word": ["cry"], "author": null}
+{"word": ["eyes"], "author": "My smile is relief"}
+{"word": ["spanish eyes"], "author": null}
+{"word": ["Ali"], "author": "theocean"}
+{"word": ["Bono"], "author": "EnduringChill"}
+{"word": ["sun glasses\u00a0"], "author": "trlica"}
+{"word": ["Weather"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Clouds"], "author": "My smile is relief"}
+{"word": ["Stormy"], "author": "Snowmoon"}
+{"word": ["Lightning"], "author": "mdmomof7"}
+{"word": ["Fear"], "author": "My smile is relief"}
+{"word": ["Death"], "author": "A_Fly_On_The_Wall"}
+{"word": ["grief"], "author": "bonobuzz"}
+{"word": ["sadness"], "author": "mdmomof7"}
+{"word": ["depression"], "author": "My smile is relief"}
+{"word": ["Lonely"], "author": "A_Fly_On_The_Wall"}
+{"word": ["One"], "author": "Snowmoon"}
+{"word": ["love"], "author": "EnduringChill"}
+{"word": ["Heart"], "author": "A_Fly_On_The_Wall"}
+{"word": ["shape"], "author": "My smile is relief"}
+{"word": ["Triangle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["right angle"], "author": "EnduringChill"}
+{"word": ["Geometry"], "author": "My smile is relief"}
+{"word": ["Mathematics"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Logic"], "author": "mdmomof7"}
+{"word": ["Sudoku"], "author": "My smile is relief"}
+{"word": ["numbers"], "author": "trlica"}
+{"word": ["Letters"], "author": "A_Fly_On_The_Wall"}
+{"word": ["paper"], "author": "trlica"}
+{"word": ["toilet"], "author": "mdmomof7"}
+{"word": ["flush"], "author": "Snowmoon"}
+{"word": ["sink"], "author": "EnduringChill"}
+{"word": ["mirror"], "author": "My smile is relief"}
+{"word": ["reflection"], "author": null}
+{"word": ["Past"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Perfect"], "author": "My smile is relief"}
+{"word": ["Beach"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ocean"], "author": "EnduringChill"}
+{"word": ["shark"], "author": "trlica"}
+{"word": ["Hungry\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["me"], "author": "EnduringChill"}
+{"word": ["you"], "author": "mdmomof7"}
+{"word": ["us"], "author": "EnduringChill"}
+{"word": ["we"], "author": "mdmomof7"}
+{"word": ["are"], "author": "EnduringChill"}
+{"word": ["You"], "author": "A_Fly_On_The_Wall"}
+{"word": ["human"], "author": "trlica"}
+{"word": ["being"], "author": "My smile is relief"}
+{"word": ["Present"], "author": "A_Fly_On_The_Wall"}
+{"word": ["now"], "author": "EnduringChill"}
+{"word": ["moment"], "author": "mdmomof7"}
+{"word": ["Perfect"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pretty"], "author": "EnduringChill"}
+{"word": ["Vacant"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Empty"], "author": "Snowmoon"}
+{"word": ["spaces"], "author": "EnduringChill"}
+{"word": ["gaps"], "author": "OnlyU2"}
+{"word": ["air"], "author": "EnduringChill"}
+{"word": ["Breath"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lungs"], "author": "My smile is relief"}
+{"word": ["Organ"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vital"], "author": "EnduringChill"}
+{"word": ["breathing"], "author": "trlica"}
+{"word": ["alive"], "author": "OnlyU2"}
+{"word": ["death"], "author": "trlica"}
+{"word": ["Emotional"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Break down"], "author": "My smile is relief"}
+{"word": ["Car"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Crash"], "author": "My smile is relief"}
+{"word": ["Impact"], "author": "Snowmoon"}
+{"word": ["G-Force"], "author": "A_Fly_On_The_Wall"}
+{"word": ["strong"], "author": "EnduringChill"}
+{"word": ["fierce"], "author": "My smile is relief"}
+{"word": ["Celtic"], "author": "ITM"}
+{"word": ["Language"], "author": "A_Fly_On_The_Wall"}
+{"word": ["speaking"], "author": "EnduringChill"}
+{"word": ["Whispering"], "author": "Snowmoon"}
+{"word": ["ssshhhh... (an onomatopoeia, so it could be a word)"], "author": "EnduringChill"}
+{"word": ["Hush\u00a0"], "author": "Snowmoon"}
+{"word": ["quiet"], "author": "EnduringChill"}
+{"word": ["silence"], "author": null}
+{"word": ["shun"], "author": "EnduringChill"}
+{"word": ["prayer"], "author": "ITM"}
+{"word": ["Grace"], "author": "Snowmoon"}
+{"word": ["Amazing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["awe-inspiring"], "author": "EnduringChill"}
+{"word": ["Numinous"], "author": "ITM"}
+{"word": ["Religion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["powerful"], "author": "EnduringChill"}
+{"word": ["mind"], "author": "My smile is relief"}
+{"word": ["heart"], "author": "EnduringChill"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Action"], "author": "ITM"}
+{"word": ["fogures"], "author": "EnduringChill"}
+{"word": ["Mist"], "author": "ITM"}
+{"word": ["fog"], "author": "EnduringChill"}
+{"word": ["Thick"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Brownie"], "author": "theocean"}
+{"word": ["chocolate"], "author": "My smile is relief"}
+{"word": ["Milk"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cows"], "author": "EnduringChill"}
+{"word": ["Tasty\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["treats"], "author": "mdmomof7"}
+{"word": ["Snacks"], "author": "EnduringChill"}
+{"word": ["Afternoon"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Delight"], "author": "mdmomof7"}
+{"word": [""], "author": "EnduringChill"}
+{"word": ["Noise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sound"], "author": "EnduringChill"}
+{"word": ["music"], "author": null}
+{"word": ["love"], "author": "EnduringChill"}
+{"word": ["word"], "author": null}
+{"word": ["speaking"], "author": "EnduringChill"}
+{"word": ["Hearing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["listening"], "author": "CillaLh"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Soulful"], "author": "Snowmoon"}
+{"word": ["Jazz"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Saxophone"], "author": "My smile is relief"}
+{"word": ["Beautiful"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gorgeous"], "author": "EnduringChill"}
+{"word": ["Looks"], "author": "A_Fly_On_The_Wall"}
+{"word": ["appearance"], "author": "EnduringChill"}
+{"word": ["Vain"], "author": "Snowmoon"}
+{"word": ["idle"], "author": "My smile is relief"}
+{"word": ["Worship"], "author": "A_Fly_On_The_Wall"}
+{"word": ["God"], "author": "Snowmoon"}
+{"word": ["Religion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sect"], "author": "Snowmoon"}
+{"word": ["In"], "author": "A_Fly_On_The_Wall"}
+{"word": ["side"], "author": "EnduringChill"}
+{"word": ["otherside"], "author": "My smile is relief"}
+{"word": ["Opposite"], "author": "A_Fly_On_The_Wall"}
+{"word": ["different"], "author": "EnduringChill"}
+{"word": ["People"], "author": "A_Fly_On_The_Wall"}
+{"word": ["somebody"], "author": "EnduringChill"}
+{"word": ["Stranger"], "author": "Snowmoon"}
+{"word": ["Mystery"], "author": "My smile is relief"}
+{"word": ["mystify"], "author": "EnduringChill"}
+{"word": ["Amaze"], "author": "A_Fly_On_The_Wall"}
+{"word": ["astound"], "author": "EnduringChill"}
+{"word": ["Shock"], "author": "Snowmoon"}
+{"word": ["Electric"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lightening"], "author": "Snowmoon"}
+{"word": ["Thunder"], "author": "My smile is relief"}
+{"word": ["Weather"], "author": "A_Fly_On_The_Wall"}
+{"word": ["storm"], "author": "EnduringChill"}
+{"word": ["Rain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["falling"], "author": "EnduringChill"}
+{"word": ["Down"], "author": "A_Fly_On_The_Wall"}
+{"word": ["out"], "author": "EnduringChill"}
+{"word": ["Exit"], "author": "Snowmoon"}
+{"word": ["leave"], "author": "EnduringChill"}
+{"word": ["runaway"], "author": "Snowmoon"}
+{"word": ["fly"], "author": "EnduringChill"}
+{"word": ["Soar"], "author": "Snowmoon"}
+{"word": ["Throat"], "author": "My smile is relief"}
+{"word": ["Swallow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Digest"], "author": "Snowmoon"}
+{"word": ["Gulp"], "author": "EnduringChill"}
+{"word": ["Choke"], "author": "Snowmoon"}
+{"word": ["Vomit"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Drunk"], "author": "My smile is relief"}
+{"word": ["Happy\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Takeover"], "author": "My smile is relief"}
+{"word": ["This"], "author": "A_Fly_On_The_Wall"}
+{"word": ["That"], "author": "My smile is relief"}
+{"word": ["Something"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Somewhere"], "author": "My smile is relief"}
+{"word": ["Forum"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Site"], "author": "My smile is relief"}
+{"word": ["place"], "author": "EnduringChill"}
+{"word": ["Home"], "author": "Snowmoon"}
+{"word": ["dwelling"], "author": "EnduringChill"}
+{"word": ["Cave"], "author": "Snowmoon"}
+{"word": ["man"], "author": "OnlyU2"}
+{"word": ["woman"], "author": "Snowmoon"}
+{"word": ["couple"], "author": "OnlyU2"}
+{"word": ["two"], "author": "Snowmoon"}
+{"word": ["duet"], "author": "OnlyU2"}
+{"word": ["pair"], "author": "Snowmoon"}
+{"word": ["twins"], "author": "OnlyU2"}
+{"word": ["Two"], "author": "A_Fly_On_The_Wall"}
+{"word": ["three"], "author": "EnduringChill"}
+{"word": ["Number"], "author": "A_Fly_On_The_Wall"}
+{"word": ["phone"], "author": "EnduringChill"}
+{"word": ["call"], "author": "Snowmoon"}
+{"word": ["hear"], "author": "EnduringChill"}
+{"word": ["listen"], "author": "Inishfree"}
+{"word": ["whisper"], "author": "EnduringChill"}
+{"word": ["softly"], "author": "Snowmoon"}
+{"word": ["quiet"], "author": "EnduringChill"}
+{"word": ["Mello"], "author": "Snowmoon"}
+{"word": ["Trumpet"], "author": "EnduringChill"}
+{"word": ["instrument"], "author": null}
+{"word": ["tool"], "author": "EnduringChill"}
+{"word": ["hammer"], "author": null}
+{"word": ["pounding"], "author": "EnduringChill"}
+{"word": ["Heart"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Soul"], "author": "Snowmoon"}
+{"word": ["religion"], "author": null}
+{"word": ["Faith"], "author": "A_Fly_On_The_Wall"}
+{"word": ["God"], "author": null}
+{"word": ["Heaven"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dream"], "author": null}
+{"word": ["Sleep"], "author": "A_Fly_On_The_Wall"}
+{"word": ["pillow"], "author": null}
+{"word": ["Comfortable"], "author": "A_Fly_On_The_Wall"}
+{"word": ["bed"], "author": null}
+{"word": ["Night-time"], "author": "A_Fly_On_The_Wall"}
+{"word": ["midnight"], "author": null}
+{"word": ["Dark"], "author": "A_Fly_On_The_Wall"}
+{"word": ["shadow"], "author": "EnduringChill"}
+{"word": ["follow"], "author": null}
+{"word": ["Lead"], "author": "A_Fly_On_The_Wall"}
+{"word": ["metal"], "author": "EnduringChill"}
+{"word": ["steel"], "author": null}
+{"word": ["Tough"], "author": "A_Fly_On_The_Wall"}
+{"word": ["strong"], "author": "EnduringChill"}
+{"word": ["Muscle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Skin"], "author": "EnduringChill"}
+{"word": ["Thick"], "author": "A_Fly_On_The_Wall"}
+{"word": ["thin"], "author": "EnduringChill"}
+{"word": ["paper"], "author": null}
+{"word": ["sand"], "author": "EnduringChill"}
+{"word": ["castle"], "author": "Snowmoon"}
+{"word": ["stone"], "author": "EnduringChill"}
+{"word": ["pebble"], "author": "Snowmoon"}
+{"word": ["beach"], "author": "OnlyU2"}
+{"word": ["island"], "author": "Snowmoon"}
+{"word": ["deserted"], "author": "OnlyU2"}
+{"word": ["barren"], "author": "Snowmoon"}
+{"word": ["sterile"], "author": "OnlyU2"}
+{"word": ["sanitary"], "author": "Snowmoon"}
+{"word": ["hygiene"], "author": "OnlyU2"}
+{"word": ["bathe"], "author": "Snowmoon"}
+{"word": ["wash"], "author": "OnlyU2"}
+{"word": ["scrub"], "author": "Snowmoon"}
+{"word": ["scour"], "author": "OnlyU2"}
+{"word": ["rub"], "author": "Snowmoon"}
+{"word": ["massage"], "author": "OnlyU2"}
+{"word": ["soothe"], "author": "Snowmoon"}
+{"word": ["murmur"], "author": "EnduringChill"}
+{"word": ["Quiet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["moment"], "author": "EnduringChill"}
+{"word": ["second"], "author": null}
+{"word": ["goodbye"], "author": "EnduringChill"}
+{"word": ["leave"], "author": null}
+{"word": ["depart"], "author": "EnduringChill"}
+{"word": ["alone"], "author": null}
+{"word": ["All"], "author": "A_Fly_On_The_Wall"}
+{"word": ["together"], "author": "EnduringChill"}
+{"word": ["united"], "author": "OnlyU2"}
+{"word": ["we stand..."], "author": "EnduringChill"}
+{"word": ["ovation"], "author": "OnlyU2"}
+{"word": ["encore"], "author": "Snowmoon"}
+{"word": ["presentation"], "author": "OnlyU2"}
+{"word": ["PowerPoint"], "author": "EnduringChill"}
+{"word": ["sleepy"], "author": "singnomore"}
+{"word": ["tired"], "author": "EnduringChill"}
+{"word": ["bored"], "author": "theocean"}
+{"word": ["jaded"], "author": "Snowmoon"}
+{"word": ["green"], "author": "EnduringChill"}
+{"word": ["grass"], "author": "Snowmoon"}
+{"word": ["rough"], "author": "EnduringChill"}
+{"word": ["jagged"], "author": "Snowmoon"}
+{"word": ["serrated"], "author": "EnduringChill"}
+{"word": ["notched"], "author": "Snowmoon"}
+{"word": ["cut"], "author": "EnduringChill"}
+{"word": ["Scissors"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sisters"], "author": "EnduringChill"}
+{"word": ["Brothers"], "author": "A_Fly_On_The_Wall"}
+{"word": ["twins"], "author": "EnduringChill"}
+{"word": ["Gemini (me)"], "author": "theocean"}
+{"word": ["Star Sign"], "author": "A_Fly_On_The_Wall"}
+{"word": ["stars"], "author": null}
+{"word": ["sky"], "author": "bonobuzz"}
+{"word": ["heaven"], "author": null}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["clouds"], "author": "bonobuzz"}
+{"word": ["England\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["London"], "author": null}
+{"word": ["Olympics"], "author": "bonobuzz"}
+{"word": ["sports"], "author": null}
+{"word": ["Athlete"], "author": "A_Fly_On_The_Wall"}
+{"word": ["strong"], "author": null}
+{"word": ["Muscles"], "author": "A_Fly_On_The_Wall"}
+{"word": ["body"], "author": null}
+{"word": ["shape"], "author": "bonobuzz"}
+{"word": ["exercise"], "author": null}
+{"word": ["sweat"], "author": "bonobuzz"}
+{"word": ["drip"], "author": "Snowmoon"}
+{"word": ["trickle"], "author": "EnduringChill"}
+{"word": ["Slowly"], "author": "A_Fly_On_The_Wall"}
+{"word": ["love"], "author": "EnduringChill"}
+{"word": ["Valentine's Day"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cupcakes"], "author": "EnduringChill"}
+{"word": ["Snacks"], "author": "A_Fly_On_The_Wall"}
+{"word": ["chips"], "author": "bonobuzz"}
+{"word": ["Tortillas"], "author": "theocean"}
+{"word": ["quesadillas"], "author": "EnduringChill"}
+{"word": ["taco bell"], "author": "Taco"}
+{"word": ["fast food"], "author": "EnduringChill"}
+{"word": ["drive thru"], "author": "bonobuzz"}
+{"word": ["window"], "author": "EnduringChill"}
+{"word": ["glass"], "author": "theocean"}
+{"word": ["menagerie"], "author": "EnduringChill"}
+{"word": ["Animals"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Zoo"], "author": "OnlyU2"}
+{"word": ["Outdoors"], "author": "A_Fly_On_The_Wall"}
+{"word": ["grass"], "author": "singnomore"}
+{"word": ["Blade"], "author": "A_Fly_On_The_Wall"}
+{"word": ["razor"], "author": "EnduringChill"}
+{"word": ["blade"], "author": "OnlyU2"}
+{"word": ["Movie"], "author": "A_Fly_On_The_Wall"}
+{"word": ["film"], "author": "EnduringChill"}
+{"word": ["camera"], "author": "OnlyU2"}
+{"word": ["Shutter"], "author": "A_Fly_On_The_Wall"}
+{"word": ["windows"], "author": "EnduringChill"}
+{"word": ["Software"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hardware"], "author": "EnduringChill"}
+{"word": ["Hard Drive"], "author": "A_Fly_On_The_Wall"}
+{"word": ["external"], "author": "EnduringChill"}
+{"word": ["Surroundings"], "author": "A_Fly_On_The_Wall"}
+{"word": ["place"], "author": "EnduringChill"}
+{"word": ["Here"], "author": "A_Fly_On_The_Wall"}
+{"word": ["now"], "author": "EnduringChill"}
+{"word": ["Right"], "author": "A_Fly_On_The_Wall"}
+{"word": ["left"], "author": "EnduringChill"}
+{"word": ["Handed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dominant"], "author": "EnduringChill"}
+{"word": ["Intimidating"], "author": "A_Fly_On_The_Wall"}
+{"word": ["staring"], "author": "EnduringChill"}
+{"word": ["sun\u00a0"], "author": null}
+{"word": ["bright"], "author": "EnduringChill"}
+{"word": ["light"], "author": null}
+{"word": ["shining"], "author": "EnduringChill"}
+{"word": ["Redrum"], "author": null}
+{"word": ["drink?"], "author": "EnduringChill"}
+{"word": ["( Its something from \"The Shining\""], "author": null}
+{"word": ["washing"], "author": "EnduringChill"}
+{"word": ["laundry"], "author": "OnlyU2"}
+{"word": ["soap"], "author": "EnduringChill"}
+{"word": ["bleach"], "author": "theocean"}
+{"word": ["OCD"], "author": "singnomore"}
+{"word": ["obsession"], "author": "EnduringChill"}
+{"word": ["U2\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["2 hearts"], "author": "singnomore"}
+{"word": ["beating"], "author": "EnduringChill"}
+{"word": ["Drum"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sticks"], "author": "EnduringChill"}
+{"word": ["Rhythm\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["blues"], "author": "EnduringChill"}
+{"word": ["soul"], "author": "bonobuzz"}
+{"word": ["emotion"], "author": "EnduringChill"}
+{"word": ["happiness"], "author": "bonobuzz"}
+{"word": ["Smile"], "author": "A_Fly_On_The_Wall"}
+{"word": ["teeth"], "author": "bonobuzz"}
+{"word": ["Soreness"], "author": "Tumbling Dice"}
+{"word": ["bruise"], "author": "bonobuzz"}
+{"word": ["pain"], "author": "EnduringChill"}
+{"word": ["Annoying"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flys, not you^, real fly's"], "author": "bonobuzz"}
+{"word": ["*gasps* I am a real Fly\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["LOL"], "author": "bonobuzz"}
+{"word": ["Bull"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cow"], "author": "OnlyU2"}
+{"word": ["Grass"], "author": "A_Fly_On_The_Wall"}
+{"word": ["green"], "author": "EnduringChill"}
+{"word": ["emerald"], "author": "Inishfree"}
+{"word": ["City (wizard of oz)"], "author": "theocean"}
+{"word": ["Detroit"], "author": "bonobuzz"}
+{"word": ["Michigan"], "author": "EnduringChill"}
+{"word": ["USA"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Amurrica"], "author": "EnduringChill"}
+{"word": ["Applepie"], "author": "theocean"}
+{"word": ["crust"], "author": "OnlyU2"}
+{"word": ["thin"], "author": "EnduringChill"}
+{"word": ["mints"], "author": "theocean"}
+{"word": ["breath"], "author": "EnduringChill"}
+{"word": ["air"], "author": "My smile is relief"}
+{"word": ["oxygen"], "author": "EnduringChill"}
+{"word": ["helium"], "author": "theocean"}
+{"word": ["hot air balloon"], "author": "EnduringChill"}
+{"word": ["Branson"], "author": "mdmomof7"}
+{"word": ["city"], "author": "My smile is relief"}
+{"word": ["Richard\u00a0"], "author": "mdmomof7"}
+{"word": ["person"], "author": "EnduringChill"}
+{"word": ["animal"], "author": "mdmomof7"}
+{"word": ["beast"], "author": "OnlyU2"}
+{"word": ["band"], "author": "My smile is relief"}
+{"word": ["group"], "author": "EnduringChill"}
+{"word": ["flashmob"], "author": "Snowmoon"}
+{"word": ["dancing"], "author": "EnduringChill"}
+{"word": ["disco"], "author": "Shesgonnadreamoutloud"}
+{"word": ["platforms"], "author": "theocean"}
+{"word": ["shoes"], "author": "EnduringChill"}
+{"word": ["boots"], "author": "Snowmoon"}
+{"word": ["Sexy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Voluptuous"], "author": "Snowmoon"}
+{"word": ["Women"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Men"], "author": "Snowmoon"}
+{"word": ["People"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Crowds"], "author": "Snowmoon"}
+{"word": ["Glastonbury"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mythical"], "author": "Snowmoon"}
+{"word": ["Mystical"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Magical"], "author": "Snowmoon"}
+{"word": ["Power"], "author": "My smile is relief"}
+{"word": ["Greed"], "author": "Snowmoon"}
+{"word": ["want"], "author": "EnduringChill"}
+{"word": ["desire"], "author": "singnomore"}
+{"word": ["hunger"], "author": "EnduringChill"}
+{"word": ["stomach"], "author": "singnomore"}
+{"word": ["growl"], "author": "Snowmoon"}
+{"word": ["tiger"], "author": "EnduringChill"}
+{"word": ["eye"], "author": "Shesgonnadreamoutloud"}
+{"word": ["falling star (I'm listening to Cosmic Love by Florence right now"], "author": "EnduringChill"}
+{"word": ["wish"], "author": "My smile is relief"}
+{"word": ["bone"], "author": "singnomore"}
+{"word": ["Funny"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Comedy"], "author": "Snowmoon"}
+{"word": ["hilarious"], "author": "EnduringChill"}
+{"word": ["silly"], "author": "theocean"}
+{"word": ["goofy"], "author": "Snowmoon"}
+{"word": ["cute"], "author": "EnduringChill"}
+{"word": ["kitten"], "author": "singnomore"}
+{"word": ["fluffy"], "author": "EnduringChill"}
+{"word": ["Hair"], "author": "A_Fly_On_The_Wall"}
+{"word": ["long"], "author": "EnduringChill"}
+{"word": ["curly"], "author": "My smile is relief"}
+{"word": ["bouncy"], "author": "EnduringChill"}
+{"word": ["springy"], "author": "Snowmoon"}
+{"word": ["Wavey"], "author": "theocean"}
+{"word": ["ocean!"], "author": "EnduringChill"}
+{"word": ["Calm"], "author": "A_Fly_On_The_Wall"}
+{"word": ["slowly"], "author": "EnduringChill"}
+{"word": ["Moving"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Walking"], "author": "Snowmoon"}
+{"word": ["Running"], "author": "A_Fly_On_The_Wall"}
+{"word": ["jumping"], "author": "EnduringChill"}
+{"word": ["Around"], "author": "A_Fly_On_The_Wall"}
+{"word": ["roundabout"], "author": "EnduringChill"}
+{"word": ["Roads"], "author": "A_Fly_On_The_Wall"}
+{"word": ["streets"], "author": "EnduringChill"}
+{"word": ["City"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lights"], "author": "EnduringChill"}
+{"word": ["Head"], "author": "A_Fly_On_The_Wall"}
+{"word": ["shoulders"], "author": "EnduringChill"}
+{"word": ["Broad"], "author": "A_Fly_On_The_Wall"}
+{"word": ["wide"], "author": "EnduringChill"}
+{"word": ["Narrow"], "author": "Inishfree"}
+{"word": ["thin"], "author": "EnduringChill"}
+{"word": ["skinny"], "author": "theocean"}
+{"word": ["bony"], "author": "EnduringChill"}
+{"word": ["skeleton"], "author": "Snowmoon"}
+{"word": ["rattle"], "author": "EnduringChill"}
+{"word": ["Snake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["skin"], "author": "Shesgonnadreamoutloud"}
+{"word": ["flesh"], "author": "EnduringChill"}
+{"word": ["Blood"], "author": "A_Fly_On_The_Wall"}
+{"word": ["new"], "author": "EnduringChill"}
+{"word": ["Boy"], "author": "Shesgonnadreamoutloud"}
+{"word": ["girl"], "author": "EnduringChill"}
+{"word": ["woman"], "author": "theocean"}
+{"word": ["man"], "author": "EnduringChill"}
+{"word": ["boy"], "author": "edgetastic [Vote Zaphod]"}
+{"word": ["Son"], "author": "Snowmoon"}
+{"word": ["galaxy"], "author": "singnomore"}
+{"word": ["Milky Way"], "author": "Snowmoon"}
+{"word": ["Mars Bars"], "author": "singnomore"}
+{"word": ["Mounds"], "author": "Snowmoon"}
+{"word": ["lumps"], "author": "singnomore"}
+{"word": ["Bumps"], "author": "Snowmoon"}
+{"word": ["pimples"], "author": "EnduringChill"}
+{"word": ["Teenagers"], "author": "A_Fly_On_The_Wall"}
+{"word": ["annoying"], "author": "bonobuzz"}
+{"word": ["^ True\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["wet"], "author": "bonobuzz"}
+{"word": ["Soaked"], "author": "Snowmoon"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["beer"], "author": "bonobuzz"}
+{"word": ["Alcohol"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vodka"], "author": "bonobuzz"}
+{"word": ["Cocktail"], "author": "A_Fly_On_The_Wall"}
+{"word": ["drink"], "author": "EnduringChill"}
+{"word": ["Lemonaide"], "author": "theocean"}
+{"word": ["sour"], "author": "bonobuzz"}
+{"word": ["Sweet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["heart"], "author": "bonobuzz"}
+{"word": ["Shape"], "author": "A_Fly_On_The_Wall"}
+{"word": ["square"], "author": "bonobuzz"}
+{"word": ["Head"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hair"], "author": "EnduringChill"}
+{"word": ["ponytail"], "author": "bonobuzz"}
+{"word": ["braid"], "author": "Snowmoon"}
+{"word": ["Weave"], "author": "A_Fly_On_The_Wall"}
+{"word": ["thread"], "author": "EnduringChill"}
+{"word": ["Material"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Girl"], "author": "My smile is relief"}
+{"word": ["Power"], "author": "Snowmoon"}
+{"word": ["Rangers"], "author": "My smile is relief"}
+{"word": ["Forrest"], "author": "Snowmoon"}
+{"word": ["Gump"], "author": "My smile is relief"}
+{"word": ["Bubba"], "author": "Snowmoon"}
+{"word": ["Brother"], "author": "My smile is relief"}
+{"word": ["big"], "author": "EnduringChill"}
+{"word": ["mountain"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Alps"], "author": "theocean"}
+{"word": ["ski"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Snow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["white"], "author": "bonobuzz"}
+{"word": ["Rose"], "author": "A_Fly_On_The_Wall"}
+{"word": ["daisy"], "author": "bonobuzz"}
+{"word": ["Flower"], "author": "A_Fly_On_The_Wall"}
+{"word": ["garden"], "author": "bonobuzz"}
+{"word": ["Bushes"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tree"], "author": "bonobuzz"}
+{"word": ["Leaf"], "author": "A_Fly_On_The_Wall"}
+{"word": ["autumn"], "author": "bonobuzz"}
+{"word": ["Season"], "author": "A_Fly_On_The_Wall"}
+{"word": ["summer\u00a0"], "author": "bonobuzz"}
+{"word": ["Rain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["umbrella"], "author": "bonobuzz"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lyric"], "author": "bonobuzz"}
+{"word": ["rhyme"], "author": "My smile is relief"}
+{"word": ["pun"], "author": "Shesgonnadreamoutloud"}
+{"word": ["humor"], "author": "Inishfree"}
+{"word": ["laugh"], "author": "Snowmoon"}
+{"word": ["giggle"], "author": "bonobuzz"}
+{"word": ["funny"], "author": "Shesgonnadreamoutloud"}
+{"word": ["comic"], "author": "bonobuzz"}
+{"word": ["Sketch"], "author": "A_Fly_On_The_Wall"}
+{"word": ["drawing"], "author": "bonobuzz"}
+{"word": ["Art"], "author": "A_Fly_On_The_Wall"}
+{"word": ["class"], "author": "bonobuzz"}
+{"word": ["Register"], "author": "A_Fly_On_The_Wall"}
+{"word": ["schedule"], "author": "bonobuzz"}
+{"word": ["Diary"], "author": "A_Fly_On_The_Wall"}
+{"word": ["journal"], "author": "bonobuzz"}
+{"word": ["Personal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mine"], "author": "EnduringChill"}
+{"word": ["precious"], "author": "My smile is relief"}
+{"word": ["heart"], "author": "EnduringChill"}
+{"word": ["beat"], "author": "My smile is relief"}
+{"word": ["pound"], "author": "EnduringChill"}
+{"word": ["currency"], "author": "My smile is relief"}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pink Floyd"], "author": "EnduringChill"}
+{"word": ["band"], "author": "Snowmoon"}
+{"word": ["together"], "author": "uplate6674"}
+{"word": ["One"], "author": "theocean"}
+{"word": ["same"], "author": "Shesgonnadreamoutloud"}
+{"word": ["alike"], "author": "Snowmoon"}
+{"word": ["Twins"], "author": "A_Fly_On_The_Wall"}
+{"word": ["identical"], "author": "Snowmoon"}
+{"word": ["Same"], "author": "A_Fly_On_The_Wall"}
+{"word": ["companionable"], "author": "Snowmoon"}
+{"word": ["Social"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Outgoing"], "author": "Snowmoon"}
+{"word": ["Friendly"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flirty"], "author": "Snowmoon"}
+{"word": ["promiscuous"], "author": "EnduringChill"}
+{"word": ["Young"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Baby"], "author": "Snowmoon"}
+{"word": ["child"], "author": "EnduringChill"}
+{"word": ["Parents"], "author": "A_Fly_On_The_Wall"}
+{"word": ["guardians"], "author": "EnduringChill"}
+{"word": ["Adults"], "author": "A_Fly_On_The_Wall"}
+{"word": ["grown-up"], "author": "EnduringChill"}
+{"word": ["Work"], "author": "A_Fly_On_The_Wall"}
+{"word": ["play"], "author": "EnduringChill"}
+{"word": ["Games"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tetherball"], "author": "EnduringChill"}
+{"word": ["Multiplayer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["video game"], "author": "EnduringChill"}
+{"word": ["nintendo"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Play station"], "author": "Inishfree"}
+{"word": ["Fifa"], "author": "My smile is relief"}
+{"word": ["Soccer?"], "author": "Inishfree"}
+{"word": ["Football"], "author": "Snowmoon"}
+{"word": ["Sport"], "author": "A_Fly_On_The_Wall"}
+{"word": ["baseball"], "author": "EnduringChill"}
+{"word": ["Bat"], "author": "My smile is relief"}
+{"word": ["...man"], "author": "EnduringChill"}
+{"word": ["Rises!"], "author": "My smile is relief"}
+{"word": ["lift-off"], "author": "EnduringChill"}
+{"word": ["Rocket"], "author": "My smile is relief"}
+{"word": ["spaceship"], "author": "EnduringChill"}
+{"word": ["Astronaut"], "author": "My smile is relief"}
+{"word": ["moon"], "author": "EnduringChill"}
+{"word": ["night"], "author": "My smile is relief"}
+{"word": ["dark"], "author": "EnduringChill"}
+{"word": ["place"], "author": "My smile is relief"}
+{"word": ["area"], "author": "EnduringChill"}
+{"word": ["cover"], "author": "My smile is relief"}
+{"word": ["song"], "author": "EnduringChill"}
+{"word": ["music"], "author": "My smile is relief"}
+{"word": ["dancing"], "author": "EnduringChill"}
+{"word": ["queen"], "author": "My smile is relief"}
+{"word": ["king"], "author": "EnduringChill"}
+{"word": ["throne"], "author": "My smile is relief"}
+{"word": ["Crown"], "author": "A_Fly_On_The_Wall"}
+{"word": ["jewels"], "author": "EnduringChill"}
+{"word": ["Diamonds"], "author": "A_Fly_On_The_Wall"}
+{"word": ["mine"], "author": "Shesgonnadreamoutloud"}
+{"word": ["yours"], "author": "EnduringChill"}
+{"word": ["myself"], "author": "Snowmoon"}
+{"word": ["Individual"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Unique"], "author": "Snowmoon"}
+{"word": ["Snowflake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cold"], "author": "EnduringChill"}
+{"word": ["Winter"], "author": "Inishfree"}
+{"word": ["harsh"], "author": "EnduringChill"}
+{"word": ["cruel"], "author": "Snowmoon"}
+{"word": ["abusive"], "author": "OnlyU2"}
+{"word": ["pushy"], "author": "EnduringChill"}
+{"word": ["impatient"], "author": "OnlyU2"}
+{"word": ["aggressive"], "author": "Snowmoon"}
+{"word": ["vicious"], "author": "EnduringChill"}
+{"word": ["narly"], "author": "theocean"}
+{"word": ["twisted"], "author": "EnduringChill"}
+{"word": ["Corkscrew"], "author": "A_Fly_On_The_Wall"}
+{"word": ["bottle"], "author": "EnduringChill"}
+{"word": ["Glass"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Prism"], "author": "Snowmoon"}
+{"word": ["orb"], "author": "EnduringChill"}
+{"word": ["Circle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sphere"], "author": "OnlyU2"}
+{"word": ["Globe"], "author": "A_Fly_On_The_Wall"}
+{"word": ["round"], "author": "EnduringChill"}
+{"word": ["Shape"], "author": "A_Fly_On_The_Wall"}
+{"word": ["square"], "author": "EnduringChill"}
+{"word": ["Table"], "author": "A_Fly_On_The_Wall"}
+{"word": ["flat"], "author": "EnduringChill"}
+{"word": ["Pancake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["YUMMY"], "author": "EnduringChill"}
+{"word": ["Cake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["frosting"], "author": "EnduringChill"}
+{"word": ["Dessert"], "author": "A_Fly_On_The_Wall"}
+{"word": ["food"], "author": "EnduringChill"}
+{"word": ["Drink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["swallow"], "author": "EnduringChill"}
+{"word": ["Throat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vocal cords"], "author": "EnduringChill"}
+{"word": ["Talking"], "author": "A_Fly_On_The_Wall"}
+{"word": ["blah blah"], "author": "EnduringChill"}
+{"word": ["Random\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["thoughts"], "author": "EnduringChill"}
+{"word": ["Mind"], "author": "A_Fly_On_The_Wall"}
+{"word": ["soul"], "author": "EnduringChill"}
+{"word": ["Body"], "author": "A_Fly_On_The_Wall"}
+{"word": ["building"], "author": "EnduringChill"}
+{"word": ["Bricks"], "author": "A_Fly_On_The_Wall"}
+{"word": ["wall"], "author": "EnduringChill"}
+{"word": ["Fly\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cool"], "author": "EnduringChill"}
+{"word": ["Ice"], "author": "theocean"}
+{"word": ["fire"], "author": "EnduringChill"}
+{"word": ["Spark"], "author": "theocean"}
+{"word": ["glow"], "author": "EnduringChill"}
+{"word": ["tinkerbell\u00a0"], "author": "theocean"}
+{"word": ["fairy"], "author": "EnduringChill"}
+{"word": ["tooth"], "author": "OnlyU2"}
+{"word": ["ache"], "author": "EnduringChill"}
+{"word": ["pain"], "author": "OnlyU2"}
+{"word": ["hurting"], "author": "EnduringChill"}
+{"word": ["sore"], "author": "OnlyU2"}
+{"word": ["throat"], "author": "My smile is relief"}
+{"word": ["neck"], "author": "OnlyU2"}
+{"word": ["Giraffe"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tall"], "author": "theocean"}
+{"word": ["Legs"], "author": "A_Fly_On_The_Wall"}
+{"word": ["strong"], "author": "EnduringChill"}
+{"word": ["muscular"], "author": "Shesgonnadreamoutloud"}
+{"word": ["ripped"], "author": "OnlyU2"}
+{"word": ["torn"], "author": "Snowmoon"}
+{"word": ["shredded"], "author": "EnduringChill"}
+{"word": ["paper"], "author": "Shesgonnadreamoutloud"}
+{"word": ["soft"], "author": "EnduringChill"}
+{"word": ["dough"], "author": "theocean"}
+{"word": ["cookie"], "author": "Snowmoon"}
+{"word": ["Chocolate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Truffle"], "author": "Snowmoon"}
+{"word": ["Italy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spaghetti"], "author": "EnduringChill"}
+{"word": ["pasta"], "author": "OnlyU2"}
+{"word": ["sauce"], "author": "My smile is relief"}
+{"word": ["cheese"], "author": "theocean"}
+{"word": ["sandwich"], "author": "Shesgonnadreamoutloud"}
+{"word": ["peanut butter"], "author": "bonobuzz"}
+{"word": ["jelly"], "author": "Shesgonnadreamoutloud"}
+{"word": ["jam"], "author": "EnduringChill"}
+{"word": ["berries"], "author": "Shesgonnadreamoutloud"}
+{"word": ["cherries"], "author": "Inishfree"}
+{"word": ["topping"], "author": "Shesgonnadreamoutloud"}
+{"word": ["chocolate"], "author": "My smile is relief"}
+{"word": ["ice cream"], "author": "Inishfree"}
+{"word": ["dessert"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Sweet"], "author": "EnduringChill"}
+{"word": ["candy"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Yum"], "author": "EnduringChill"}
+{"word": ["eating"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Food"], "author": "EnduringChill"}
+{"word": ["lunch"], "author": "bonobuzz"}
+{"word": ["noon"], "author": "Shesgonnadreamoutloud"}
+{"word": ["High"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Street"], "author": "My smile is relief"}
+{"word": ["path"], "author": "theocean"}
+{"word": ["woods"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Forest"], "author": "EnduringChill"}
+{"word": ["Trees"], "author": "Snowmoon"}
+{"word": ["Leaves"], "author": "EnduringChill"}
+{"word": ["Branches"], "author": "Snowmoon"}
+{"word": ["limbs"], "author": "OnlyU2"}
+{"word": ["roots"], "author": "theocean"}
+{"word": ["ancestry"], "author": "Snowmoon"}
+{"word": ["family"], "author": "OnlyU2"}
+{"word": ["Heirs"], "author": "Snowmoon"}
+{"word": ["inheritance"], "author": "OnlyU2"}
+{"word": ["wealth"], "author": "Snowmoon"}
+{"word": ["fame"], "author": "OnlyU2"}
+{"word": ["celebrity"], "author": "Snowmoon"}
+{"word": ["star"], "author": "OnlyU2"}
+{"word": ["Diva"], "author": "Snowmoon"}
+{"word": ["JLo"], "author": "mdmomof7"}
+{"word": ["dancing"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Moves"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Jagger"], "author": "mdmomof7"}
+{"word": ["Stones"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Rolling"], "author": "mdmomof7"}
+{"word": ["Wheel"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tire"], "author": "Snowmoon"}
+{"word": ["tread"], "author": "theocean"}
+{"word": ["rubber"], "author": "Snowmoon"}
+{"word": ["soul"], "author": "mdmomof7"}
+{"word": ["sing"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Crooner"], "author": "Snowmoon"}
+{"word": ["Bono?"], "author": "EnduringChill"}
+{"word": ["glasses"], "author": "theocean"}
+{"word": ["Shades"], "author": "OnlyU2"}
+{"word": ["awesome"], "author": "EnduringChill"}
+{"word": ["me (just kidding\u00a0"], "author": "Shesgonnadreamoutloud"}
+{"word": ["scary dreams"], "author": "EnduringChill"}
+{"word": ["nightmares"], "author": "My smile is relief"}
+{"word": ["Fantasy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["real life"], "author": "EnduringChill"}
+{"word": ["non-fiction"], "author": "mdmomof7"}
+{"word": ["Reality"], "author": "Snowmoon"}
+{"word": ["situation"], "author": "My smile is relief"}
+{"word": ["Difficult"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hard"], "author": "EnduringChill"}
+{"word": ["Cement"], "author": "A_Fly_On_The_Wall"}
+{"word": ["asphalt"], "author": "EnduringChill"}
+{"word": ["Road"], "author": "A_Fly_On_The_Wall"}
+{"word": ["street"], "author": "EnduringChill"}
+{"word": ["Lane"], "author": "A_Fly_On_The_Wall"}
+{"word": ["change"], "author": "EnduringChill"}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["coins"], "author": "theocean"}
+{"word": ["dollars"], "author": "EnduringChill"}
+{"word": ["cash"], "author": "Snowmoon"}
+{"word": ["Johnny"], "author": "Shesgonnadreamoutloud"}
+{"word": ["June"], "author": "Inishfree"}
+{"word": ["Wedding"], "author": "Snowmoon"}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["snow"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Cold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ice"], "author": "bonobuzz"}
+{"word": ["sleet"], "author": "Snowmoon"}
+{"word": ["Wet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rain"], "author": "My smile is relief"}
+{"word": ["Weather"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ballon"], "author": "Snowmoon"}
+{"word": ["Do you mean Balloon?"], "author": "A_Fly_On_The_Wall"}
+{"word": ["floating"], "author": "EnduringChill"}
+{"word": ["raft"], "author": "bonobuzz"}
+{"word": ["rubber"], "author": "Snowmoon"}
+{"word": ["band"], "author": "mdmomof7"}
+{"word": ["orchestra"], "author": "Snowmoon"}
+{"word": ["classical"], "author": "mdmomof7"}
+{"word": ["violin"], "author": "Inishfree"}
+{"word": ["fiddle"], "author": "Snowmoon"}
+{"word": ["cat"], "author": "theocean"}
+{"word": ["Claw"], "author": "A_Fly_On_The_Wall"}
+{"word": ["360 Tour"], "author": "EnduringChill"}
+{"word": ["Zagreb"], "author": "My smile is relief"}
+{"word": ["Europe"], "author": "singnomore"}
+{"word": ["United Kingdom"], "author": "Inishfree"}
+{"word": ["Beatles"], "author": "theocean"}
+{"word": ["music"], "author": "EnduringChill"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["romance"], "author": "Shesgonnadreamoutloud"}
+{"word": ["heart"], "author": "EnduringChill"}
+{"word": ["rhythm"], "author": "OnlyU2"}
+{"word": ["samba"], "author": "singnomore"}
+{"word": ["fiesta"], "author": "theocean"}
+{"word": ["party"], "author": "EnduringChill"}
+{"word": ["celebrate"], "author": "mdmomof7"}
+{"word": ["Anniversary"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wedding"], "author": "Snowmoon"}
+{"word": ["Graduation"], "author": "mdmomof7"}
+{"word": ["School"], "author": "A_Fly_On_The_Wall"}
+{"word": ["College"], "author": "mdmomof7"}
+{"word": ["Subject"], "author": "A_Fly_On_The_Wall"}
+{"word": ["course"], "author": "mdmomof7"}
+{"word": ["lesson"], "author": "EnduringChill"}
+{"word": ["assignment"], "author": "Snowmoon"}
+{"word": ["Notebook"], "author": "theocean"}
+{"word": ["Writing"], "author": "EnduringChill"}
+{"word": ["lyrics"], "author": "mdmomof7"}
+{"word": ["Words"], "author": "EnduringChill"}
+{"word": ["Poetry"], "author": "Snowmoon"}
+{"word": ["Beautiful"], "author": "EnduringChill"}
+{"word": ["Beach"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sand"], "author": "Snowmoon"}
+{"word": ["Brown"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Nose"], "author": "Snowmoon"}
+{"word": ["Smell"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flower"], "author": "My smile is relief"}
+{"word": ["Lily"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Golden"], "author": "My smile is relief"}
+{"word": ["Jewelry"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ring"], "author": "My smile is relief"}
+{"word": ["Circle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Math"], "author": "My smile is relief"}
+{"word": ["Numbers"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sudoku"], "author": "My smile is relief"}
+{"word": ["Puzzle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pieces"], "author": "My smile is relief"}
+{"word": ["Shapes"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Body"], "author": "My smile is relief"}
+{"word": ["Person"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Opinion"], "author": "My smile is relief"}
+{"word": ["Debate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Public"], "author": "My smile is relief"}
+{"word": ["Toilet\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Paper!"], "author": "My smile is relief"}
+{"word": ["Cut"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Blood"], "author": "My smile is relief"}
+{"word": ["red"], "author": "EnduringChill"}
+{"word": ["Dress"], "author": "My smile is relief"}
+{"word": ["Pretty"], "author": "EnduringChill"}
+{"word": ["Feminine"], "author": "Snowmoon"}
+{"word": ["Pink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Girly"], "author": "Snowmoon"}
+{"word": ["Fashion"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Forward"], "author": "Snowmoon"}
+{"word": ["front"], "author": "EnduringChill"}
+{"word": ["back"], "author": "Shesgonnadreamoutloud"}
+{"word": ["side"], "author": "EnduringChill"}
+{"word": ["B"], "author": "mdmomof7"}
+{"word": ["honey"], "author": "Inishfree"}
+{"word": ["bee\u00a0"], "author": "mdmomof7"}
+{"word": ["buzz"], "author": "My smile is relief"}
+{"word": ["saw"], "author": "EnduringChill"}
+{"word": ["see"], "author": "mdmomof7"}
+{"word": ["view"], "author": "bonobuzz"}
+{"word": ["Sight"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Perception"], "author": "Snowmoon"}
+{"word": ["Views"], "author": "My smile is relief"}
+{"word": ["vistas"], "author": "theocean"}
+{"word": ["View"], "author": "EnduringChill"}
+{"word": ["Scenery"], "author": "Snowmoon"}
+{"word": ["stage"], "author": "theocean"}
+{"word": ["lights"], "author": "EnduringChill"}
+{"word": ["Bright"], "author": "A_Fly_On_The_Wall"}
+{"word": ["glowing"], "author": "EnduringChill"}
+{"word": ["Candle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["burning"], "author": "EnduringChill"}
+{"word": ["Flame"], "author": "A_Fly_On_The_Wall"}
+{"word": ["fire"], "author": "EnduringChill"}
+{"word": ["Hot"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cider"], "author": "Inishfree"}
+{"word": ["warm"], "author": "EnduringChill"}
+{"word": ["fuzzy"], "author": "mdmomof7"}
+{"word": ["kitten"], "author": "EnduringChill"}
+{"word": ["meow"], "author": null}
+{"word": ["cat"], "author": "Shesgonnadreamoutloud"}
+{"word": ["cute"], "author": "EnduringChill"}
+{"word": ["fluffy"], "author": "Shesgonnadreamoutloud"}
+{"word": ["hair"], "author": "EnduringChill"}
+{"word": ["annoying"], "author": null}
+{"word": ["Bratty"], "author": "EnduringChill"}
+{"word": ["spoiled"], "author": "Inishfree"}
+{"word": ["crabby"], "author": "theocean"}
+{"word": ["cranky"], "author": "Inishfree"}
+{"word": ["Fussy"], "author": "EnduringChill"}
+{"word": ["picky"], "author": "OnlyU2"}
+{"word": ["particular"], "author": "Inishfree"}
+{"word": ["Certain"], "author": "EnduringChill"}
+{"word": ["positive"], "author": "OnlyU2"}
+{"word": ["sure"], "author": "Snowmoon"}
+{"word": ["Right..."], "author": "mdmomof7"}
+{"word": ["Hand"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Man"], "author": "mdmomof7"}
+{"word": ["boy"], "author": "EnduringChill"}
+{"word": ["Son"], "author": "OnlyU2"}
+{"word": ["Daughter"], "author": "EnduringChill"}
+{"word": ["Princess"], "author": "theocean"}
+{"word": ["spoiled"], "author": "bonobuzz"}
+{"word": ["Sour"], "author": "EnduringChill"}
+{"word": ["grapes"], "author": "Inishfree"}
+{"word": ["green"], "author": "EnduringChill"}
+{"word": ["Ireland"], "author": "A_Fly_On_The_Wall"}
+{"word": ["U2"], "author": "EnduringChill"}
+{"word": ["Love"], "author": "mdmomof7"}
+{"word": ["kindness"], "author": "theocean"}
+{"word": ["Nice"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sincere"], "author": "Snowmoon"}
+{"word": ["Description"], "author": "A_Fly_On_The_Wall"}
+{"word": ["blurb"], "author": "mdmomof7"}
+{"word": ["Book"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cover"], "author": "My smile is relief"}
+{"word": ["chapters"], "author": "Inishfree"}
+{"word": ["paragraphs"], "author": "theocean"}
+{"word": ["Writing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Poems"], "author": "My smile is relief"}
+{"word": ["Lyric"], "author": "Snowmoon"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Writer"], "author": "Snowmoon"}
+{"word": ["Occupation"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Professional"], "author": "Snowmoon"}
+{"word": ["Skill"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Talent"], "author": "Snowmoon"}
+{"word": ["Versatile"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ambidexterity"], "author": "Snowmoon"}
+{"word": ["Ability"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Aptitude"], "author": "Snowmoon"}
+{"word": ["Description"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Narration"], "author": "My smile is relief"}
+{"word": ["Movie"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Star"], "author": "My smile is relief"}
+{"word": ["Bright"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Light"], "author": "My smile is relief"}
+{"word": ["Sun"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rise"], "author": "My smile is relief"}
+{"word": ["Lift"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Building"], "author": "My smile is relief"}
+{"word": ["Brick"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wall"], "author": "My smile is relief"}
+{"word": ["Family\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Friends"], "author": "EnduringChill"}
+{"word": ["Close"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Door"], "author": "My smile is relief"}
+{"word": ["outside"], "author": "EnduringChill"}
+{"word": ["nature"], "author": "Snowmoon"}
+{"word": ["Wildlife"], "author": "A_Fly_On_The_Wall"}
+{"word": ["animals"], "author": "My smile is relief"}
+{"word": ["farm"], "author": "OnlyU2"}
+{"word": ["Green"], "author": "theocean"}
+{"word": ["Envy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Jealousy"], "author": "Snowmoon"}
+{"word": ["rage"], "author": "theocean"}
+{"word": ["Red"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dress"], "author": "My smile is relief"}
+{"word": ["wedding"], "author": "Snowmoon"}
+{"word": ["bride"], "author": "My smile is relief"}
+{"word": ["groom"], "author": "Snowmoon"}
+{"word": ["best man"], "author": "My smile is relief"}
+{"word": ["friend"], "author": "Snowmoon"}
+{"word": ["friendship"], "author": "My smile is relief"}
+{"word": ["harmony"], "author": "Snowmoon"}
+{"word": ["music"], "author": "My smile is relief"}
+{"word": ["symphony"], "author": "Snowmoon"}
+{"word": ["piano"], "author": "My smile is relief"}
+{"word": ["keys"], "author": "Snowmoon"}
+{"word": ["doors"], "author": "My smile is relief"}
+{"word": ["band"], "author": "EnduringChill"}
+{"word": ["Microphone"], "author": "theocean"}
+{"word": ["Sound"], "author": "A_Fly_On_The_Wall"}
+{"word": ["noise"], "author": "EnduringChill"}
+{"word": ["scream"], "author": "My smile is relief"}
+{"word": ["Horror"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flick"], "author": "Snowmoon"}
+{"word": ["Finger"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Point"], "author": "Snowmoon"}
+{"word": ["Arrow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bow"], "author": "My smile is relief"}
+{"word": ["Ribbon"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tie"], "author": "EnduringChill"}
+{"word": ["Undecided"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Neutral"], "author": "Snowmoon"}
+{"word": ["Ambivalent"], "author": "EnduringChill"}
+{"word": ["Mixed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Feelings"], "author": "My smile is relief"}
+{"word": ["Senses"], "author": "theocean"}
+{"word": ["touch"], "author": "EnduringChill"}
+{"word": ["magic"], "author": "My smile is relief"}
+{"word": ["Trick"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pony"], "author": "Snowmoon"}
+{"word": ["Flying"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Fly\u00a0"], "author": "My smile is relief"}
+{"word": ["buzzing"], "author": "theocean"}
+{"word": ["Horn"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Unicorn"], "author": "My smile is relief"}
+{"word": ["Fantasy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Books"], "author": "My smile is relief"}
+{"word": ["Hard"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Punch"], "author": "My smile is relief"}
+{"word": ["Drink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Glass"], "author": "My smile is relief"}
+{"word": ["Fragile"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sting"], "author": "My smile is relief"}
+{"word": ["Musician"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Artist"], "author": "My smile is relief"}
+{"word": ["Paint"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wall"], "author": "My smile is relief"}
+{"word": ["Strong"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Will"], "author": "My smile is relief"}
+{"word": ["Name"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Username"], "author": "My smile is relief"}
+{"word": ["Login"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Password"], "author": "My smile is relief"}
+{"word": ["Security"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Protection"], "author": "My smile is relief"}
+{"word": ["Gun"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bullets"], "author": "My smile is relief"}
+{"word": ["Fast"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Furious"], "author": "My smile is relief"}
+{"word": ["Mad"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Angry"], "author": "My smile is relief"}
+{"word": ["Birds"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Nets"], "author": "My smile is relief"}
+{"word": ["Fish"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Chips"], "author": "Snowmoon"}
+{"word": ["Casino"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Craps"], "author": "Snowmoon"}
+{"word": ["Cards"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dice"], "author": "Snowmoon"}
+{"word": ["Cube"], "author": "A_Fly_On_The_Wall"}
+{"word": ["root"], "author": "Snowmoon"}
+{"word": ["Weed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sensimilla"], "author": "Snowmoon"}
+{"word": ["Naughty\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Profound"], "author": "Snowmoon"}
+{"word": ["Deep"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Well"], "author": "Snowmoon"}
+{"word": ["Perfect"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Anal"], "author": "Snowmoon"}
+{"word": ["Obsessive"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Controlling"], "author": "Snowmoon"}
+{"word": ["Leader"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dictator"], "author": "Snowmoon"}
+{"word": ["Power"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dominate"], "author": "Snowmoon"}
+{"word": ["Win"], "author": "A_Fly_On_The_Wall"}
+{"word": ["trophy"], "author": "bonobuzz"}
+{"word": ["Prize"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Reward"], "author": "mdmomof7"}
+{"word": ["payment"], "author": "theocean"}
+{"word": ["debt"], "author": "mdmomof7"}
+{"word": ["loan"], "author": "My smile is relief"}
+{"word": ["cash"], "author": "theocean"}
+{"word": ["Loan"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Borrow"], "author": "theocean"}
+{"word": ["Money"], "author": "My smile is relief"}
+{"word": ["Cash"], "author": "mdmomof7"}
+{"word": ["dollars"], "author": "OnlyU2"}
+{"word": ["cents"], "author": "EnduringChill"}
+{"word": ["Currency"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Euros"], "author": "mdmomof7"}
+{"word": ["France"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Italy"], "author": "mdmomof7"}
+{"word": ["Pisa"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Rome"], "author": "mdmomof7"}
+{"word": ["City"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Venice"], "author": "mdmomof7"}
+{"word": ["Water"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Wishful Thinking - It's that time of year..."], "author": "mdmomof7"}
+{"word": ["Boat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vaporetti"], "author": "mdmomof7"}
+{"word": ["Italy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tuscany\u00a0"], "author": "mdmomof7"}
+{"word": ["Tourism"], "author": "A_Fly_On_The_Wall"}
+{"word": ["commerce"], "author": "mdmomof7"}
+{"word": ["trade"], "author": "EnduringChill"}
+{"word": ["swap"], "author": "mdmomof7"}
+{"word": ["exchange"], "author": "Inishfree"}
+{"word": ["Loan"], "author": "Snowmoon"}
+{"word": ["Borrow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Steal"], "author": "_acrobat"}
+{"word": ["take"], "author": "EnduringChill"}
+{"word": ["recover"], "author": "Inishfree"}
+{"word": ["find"], "author": "theocean"}
+{"word": ["discover"], "author": "EnduringChill"}
+{"word": ["dig"], "author": "theocean"}
+{"word": ["excavate"], "author": "Inishfree"}
+{"word": ["Uncover"], "author": "_acrobat"}
+{"word": ["mole"], "author": "mdmomof7"}
+{"word": ["Brown"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hair"], "author": "My smile is relief"}
+{"word": ["Rug"], "author": "theocean"}
+{"word": ["Carpet"], "author": "_acrobat"}
+{"word": ["indoor"], "author": "Inishfree"}
+{"word": ["Cat (indoor cat)"], "author": "theocean"}
+{"word": ["Pet"], "author": "My smile is relief"}
+{"word": ["Goldfish"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cracker"], "author": "Snowmoon"}
+{"word": ["snacks"], "author": "My smile is relief"}
+{"word": ["munch"], "author": "EnduringChill"}
+{"word": ["Crunch"], "author": "Snowmoon"}
+{"word": ["Crash"], "author": "A_Fly_On_The_Wall"}
+{"word": ["fall"], "author": "EnduringChill"}
+{"word": ["Autumn"], "author": "OnlyU2"}
+{"word": ["Winter"], "author": "_acrobat"}
+{"word": ["Spring"], "author": "Inishfree"}
+{"word": ["free"], "author": "EnduringChill"}
+{"word": ["release"], "author": "Shesgonnadreamoutloud"}
+{"word": ["tension"], "author": "EnduringChill"}
+{"word": ["tight"], "author": "Snowmoon"}
+{"word": ["Close"], "author": "A_Fly_On_The_Wall"}
+{"word": ["stop"], "author": "Snowmoon"}
+{"word": ["End"], "author": "_acrobat"}
+{"word": ["Time"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Clock"], "author": "Snowmoon"}
+{"word": ["Alarm"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Emergency"], "author": "Snowmoon"}
+{"word": ["Police"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Detective"], "author": "Snowmoon"}
+{"word": ["Investigate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Discover"], "author": "_acrobat"}
+{"word": ["Unearth"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dig"], "author": "EnduringChill"}
+{"word": ["gold"], "author": "My smile is relief"}
+{"word": ["Ring"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Jewel"], "author": "theocean"}
+{"word": ["Stone"], "author": "_acrobat"}
+{"word": ["Ruby"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Red"], "author": "OnlyU2"}
+{"word": ["Blood"], "author": "My smile is relief"}
+{"word": ["Wine"], "author": "_acrobat"}
+{"word": ["glass"], "author": "Snowmoon"}
+{"word": ["Heart"], "author": "A_Fly_On_The_Wall"}
+{"word": ["One"], "author": "Snowmoon"}
+{"word": ["Union"], "author": "theocean"}
+{"word": ["Teacher"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mentor"], "author": "Snowmoon"}
+{"word": ["Coach"], "author": "_acrobat"}
+{"word": ["Sport"], "author": "Snowmoon"}
+{"word": ["Soccer"], "author": "Inishfree"}
+{"word": ["Goal"], "author": "_acrobat"}
+{"word": ["score"], "author": "EnduringChill"}
+{"word": ["Lucky"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Number"], "author": "Snowmoon"}
+{"word": ["One"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Love"], "author": "Snowmoon"}
+{"word": ["Adore"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Cherish"], "author": "Snowmoon"}
+{"word": ["Care"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Emotion"], "author": "Snowmoon"}
+{"word": ["Music"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beat"], "author": "Snowmoon"}
+{"word": ["Rhythm"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Drum"], "author": "_acrobat"}
+{"word": ["instrument"], "author": "EnduringChill"}
+{"word": ["Guitar"], "author": "OnlyU2"}
+{"word": ["strings"], "author": "EnduringChill"}
+{"word": ["Thread"], "author": "_acrobat"}
+{"word": ["chat"], "author": "EnduringChill"}
+{"word": ["post"], "author": "Inishfree"}
+{"word": ["Deliver"], "author": "A_Fly_On_The_Wall"}
+{"word": ["rescue"], "author": "EnduringChill"}
+{"word": ["Save"], "author": "A_Fly_On_The_Wall"}
+{"word": ["protect"], "author": "EnduringChill"}
+{"word": ["guard"], "author": "OnlyU2"}
+{"word": ["down"], "author": "My smile is relief"}
+{"word": ["up"], "author": "EnduringChill"}
+{"word": ["hill"], "author": "bonobuzz"}
+{"word": ["mountain"], "author": "OnlyU2"}
+{"word": ["climb"], "author": "bonobuzz"}
+{"word": ["jump"], "author": "EnduringChill"}
+{"word": ["Scale"], "author": "theocean"}
+{"word": ["weight"], "author": "bonobuzz"}
+{"word": ["Pound"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sterling"], "author": "mdmomof7"}
+{"word": ["silver"], "author": "EnduringChill"}
+{"word": ["gold"], "author": "mdmomof7"}
+{"word": ["AU"], "author": "EnduringChill"}
+{"word": ["elements"], "author": "mdmomof7"}
+{"word": ["chemistry"], "author": "bonobuzz"}
+{"word": ["Love"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Valentine"], "author": "Snowmoon"}
+{"word": ["Saint"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sinner"], "author": "mdmomof7"}
+{"word": ["winner"], "author": "EnduringChill"}
+{"word": ["champion"], "author": "Shesgonnadreamoutloud"}
+{"word": ["contest"], "author": "EnduringChill"}
+{"word": ["enter"], "author": "Shesgonnadreamoutloud"}
+{"word": ["close"], "author": "EnduringChill"}
+{"word": ["open"], "author": "mdmomof7"}
+{"word": ["door"], "author": "bonobuzz"}
+{"word": ["Handle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lock"], "author": "bonobuzz"}
+{"word": ["Key"], "author": "A_Fly_On_The_Wall"}
+{"word": ["heart"], "author": "bonobuzz"}
+{"word": ["soul"], "author": "EnduringChill"}
+{"word": ["mind"], "author": "mdmomof7"}
+{"word": ["Thoughts"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Dreams"], "author": "Snowmoon"}
+{"word": ["Sleep"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Insomnia"], "author": "Snowmoon"}
+{"word": ["Song"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Music"], "author": "Snowmoon"}
+{"word": ["Soul"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Food"], "author": "Snowmoon"}
+{"word": ["Nice"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mean"], "author": "_acrobat"}
+{"word": ["bully"], "author": "bonobuzz"}
+{"word": ["rude"], "author": "EnduringChill"}
+{"word": ["nude"], "author": "Tumbling Dice"}
+{"word": ["naked"], "author": "EnduringChill"}
+{"word": ["Ladies"], "author": "Tumbling Dice"}
+{"word": ["Single"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Malt"], "author": "Tumbling Dice"}
+{"word": ["Beverage"], "author": "Snowmoon"}
+{"word": ["Margarita!"], "author": "mdmomof7"}
+{"word": ["Tequila"], "author": "Snowmoon"}
+{"word": ["drink"], "author": "EnduringChill"}
+{"word": ["liquid"], "author": "mdmomof7"}
+{"word": ["silver"], "author": "EnduringChill"}
+{"word": ["gold"], "author": "bonobuzz"}
+{"word": ["shiny"], "author": "EnduringChill"}
+{"word": ["object"], "author": "bonobuzz"}
+{"word": ["touch"], "author": "EnduringChill"}
+{"word": ["hold"], "author": "bonobuzz"}
+{"word": ["Feel"], "author": "Snowmoon"}
+{"word": ["Sense"], "author": "OnlyU2"}
+{"word": ["ESP"], "author": "theocean"}
+{"word": ["psychic"], "author": "EnduringChill"}
+{"word": ["Skill"], "author": "A_Fly_On_The_Wall"}
+{"word": ["talent"], "author": "bonobuzz"}
+{"word": ["gift"], "author": "Snowmoon"}
+{"word": ["Birthday"], "author": "A_Fly_On_The_Wall"}
+{"word": ["celebration"], "author": "EnduringChill"}
+{"word": ["party"], "author": "bonobuzz"}
+{"word": ["Political"], "author": "Snowmoon"}
+{"word": ["topic"], "author": "EnduringChill"}
+{"word": ["discussion"], "author": "bonobuzz"}
+{"word": ["Thought"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dream"], "author": "bonobuzz"}
+{"word": ["Reality"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cider"], "author": "bonobuzz"}
+{"word": ["Drink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["^^posted that on the wronf thread,,oops"], "author": "bonobuzz"}
+{"word": ["pint"], "author": "Inishfree"}
+{"word": ["mug"], "author": "bonobuzz"}
+{"word": ["cup"], "author": "My smile is relief"}
+{"word": ["Size"], "author": "A_Fly_On_The_Wall"}
+{"word": ["medium"], "author": "bonobuzz"}
+{"word": ["grande"], "author": "mdmomof7"}
+{"word": ["large"], "author": "Inishfree"}
+{"word": ["field"], "author": "My smile is relief"}
+{"word": ["Farm"], "author": "A_Fly_On_The_Wall"}
+{"word": ["cow"], "author": "bonobuzz"}
+{"word": ["Animal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dog"], "author": "bonobuzz"}
+{"word": ["Puppy"], "author": "Snowmoon"}
+{"word": ["kitty"], "author": "mdmomof7"}
+{"word": ["Litter"], "author": "Snowmoon"}
+{"word": ["scoop"], "author": "mdmomof7"}
+{"word": ["Ice-cream"], "author": "Snowmoon"}
+{"word": ["Yummmmm!!!"], "author": "mdmomof7"}
+{"word": ["(HeHe!) Delicious"], "author": "Snowmoon"}
+{"word": ["Gelato"], "author": "mdmomof7"}
+{"word": ["Italian"], "author": "Snowmoon"}
+{"word": ["vespas"], "author": "mdmomof7"}
+{"word": ["scooter"], "author": "Snowmoon"}
+{"word": ["helmet"], "author": "mdmomof7"}
+{"word": ["motorcycle"], "author": "Snowmoon"}
+{"word": ["Harleys"], "author": "mdmomof7"}
+{"word": ["American"], "author": "Snowmoon"}
+{"word": ["cheese"], "author": "mdmomof7"}
+{"word": ["wine"], "author": "Snowmoon"}
+{"word": ["Riesling"], "author": "mdmomof7"}
+{"word": ["grape"], "author": "Snowmoon"}
+{"word": ["vine"], "author": "mdmomof7"}
+{"word": ["Ivy"], "author": "Snowmoon"}
+{"word": ["Poison"], "author": "mdmomof7"}
+{"word": ["arsenic"], "author": "Snowmoon"}
+{"word": ["lace"], "author": "mdmomof7"}
+{"word": ["Chantilly"], "author": "EnduringChill"}
+{"word": ["50's"], "author": "mdmomof7"}
+{"word": ["Elvis"], "author": "horizon"}
+{"word": ["king"], "author": "EnduringChill"}
+{"word": ["BB"], "author": "mdmomof7"}
+{"word": ["Repetition"], "author": "A_Fly_On_The_Wall"}
+{"word": ["monotony"], "author": "EnduringChill"}
+{"word": ["Boring"], "author": "Snowmoon"}
+{"word": ["Weekdays"], "author": "A_Fly_On_The_Wall"}
+{"word": ["work"], "author": "EnduringChill"}
+{"word": ["pay check"], "author": "Inishfree"}
+{"word": ["Money"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Paper"], "author": "My smile is relief"}
+{"word": ["scissors"], "author": "EnduringChill"}
+{"word": ["Knife"], "author": "_acrobat"}
+{"word": ["Blade"], "author": "Snowmoon"}
+{"word": ["cut"], "author": "EnduringChill"}
+{"word": ["bleed"], "author": "bonobuzz"}
+{"word": ["red"], "author": "EnduringChill"}
+{"word": ["campaign"], "author": "bonobuzz"}
+{"word": ["promise"], "author": "EnduringChill"}
+{"word": ["swear"], "author": "OnlyU2"}
+{"word": ["language"], "author": "EnduringChill"}
+{"word": ["english"], "author": "OnlyU2"}
+{"word": ["British"], "author": "EnduringChill"}
+{"word": ["europe"], "author": "OnlyU2"}
+{"word": ["Germany"], "author": "EnduringChill"}
+{"word": ["Berlin"], "author": "OnlyU2"}
+{"word": ["city"], "author": "EnduringChill"}
+{"word": ["streets"], "author": "Snowmoon"}
+{"word": ["Litter"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Kitty"], "author": "OnlyU2"}
+{"word": ["cat"], "author": "bonobuzz"}
+{"word": ["cool"], "author": "EnduringChill"}
+{"word": ["Ice"], "author": "A_Fly_On_The_Wall"}
+{"word": ["frozen"], "author": "EnduringChill"}
+{"word": ["popsicle"], "author": "bonobuzz"}
+{"word": ["yum"], "author": "EnduringChill"}
+{"word": ["delicious"], "author": "OnlyU2"}
+{"word": ["Tasty"], "author": "A_Fly_On_The_Wall"}
+{"word": ["morsel"], "author": "mdmomof7"}
+{"word": ["crumbs"], "author": "Inishfree"}
+{"word": ["table"], "author": "mdmomof7"}
+{"word": ["kitchen"], "author": "bonobuzz"}
+{"word": ["Cookery"], "author": "A_Fly_On_The_Wall"}
+{"word": ["kitchenware"], "author": "theocean"}
+{"word": ["Fork"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Spoon"], "author": "Snowmoon"}
+{"word": ["Bed"], "author": "A_Fly_On_The_Wall"}
+{"word": ["(FLY!! Shocking!)"], "author": "Snowmoon"}
+{"word": ["Insect"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Nuisance"], "author": "Snowmoon"}
+{"word": ["Bug Spray\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bug ZAPPER\u00a0"], "author": "Snowmoon"}
+{"word": ["Bug Bite"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bug off\u00a0 \u00a0"], "author": "mdmomof7"}
+{"word": ["Raid!"], "author": "OnlyU2"}
+{"word": ["Scram\u00a0"], "author": "Snowmoon"}
+{"word": ["Shooo!"], "author": "mdmomof7"}
+{"word": ["Scat!"], "author": "OnlyU2"}
+{"word": ["fly swatter"], "author": "Inishfree"}
+{"word": ["Fly death"], "author": "EnduringChill"}
+{"word": ["Nightmare\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dream"], "author": "EnduringChill"}
+{"word": ["Fantasy"], "author": "Snowmoon"}
+{"word": ["Unreal"], "author": "A_Fly_On_The_Wall"}
+{"word": ["imaginative"], "author": "My smile is relief"}
+{"word": ["Clever"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sly"], "author": "Snowmoon"}
+{"word": ["FOX"], "author": "bonobuzz"}
+{"word": ["Silver"], "author": "A_Fly_On_The_Wall"}
+{"word": ["jewelry"], "author": "bonobuzz"}
+{"word": ["ring"], "author": "My smile is relief"}
+{"word": ["promise"], "author": "Snowmoon"}
+{"word": ["vow"], "author": "bonobuzz"}
+{"word": ["Promise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["^^"], "author": "Snowmoon"}
+{"word": ["^ Gimme a break, it's nearly 2:00am here\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Concur"], "author": "OnlyU2"}
+{"word": ["Cooperate"], "author": "My smile is relief"}
+{"word": ["compromise"], "author": "OnlyU2"}
+{"word": ["marriage"], "author": "My smile is relief"}
+{"word": ["spouse"], "author": "OnlyU2"}
+{"word": ["partner"], "author": "My smile is relief"}
+{"word": ["mate"], "author": "OnlyU2"}
+{"word": ["friend"], "author": "horizon"}
+{"word": ["companion"], "author": "OnlyU2"}
+{"word": ["couple"], "author": "Snowmoon"}
+{"word": ["duet"], "author": "OnlyU2"}
+{"word": ["quartet"], "author": "theocean"}
+{"word": ["foursome"], "author": "OnlyU2"}
+{"word": ["Band"], "author": "Snowmoon"}
+{"word": ["Group"], "author": "OnlyU2"}
+{"word": ["Crowd"], "author": "Snowmoon"}
+{"word": ["mob"], "author": "OnlyU2"}
+{"word": ["gangster"], "author": "Snowmoon"}
+{"word": ["hoodlum"], "author": "OnlyU2"}
+{"word": ["punk"], "author": "Snowmoon"}
+{"word": ["rock"], "author": "OnlyU2"}
+{"word": ["stone"], "author": "Snowmoon"}
+{"word": ["diamond"], "author": "OnlyU2"}
+{"word": ["sparkle"], "author": "Inishfree"}
+{"word": ["glitter"], "author": "bonobuzz"}
+{"word": ["Text"], "author": "My smile is relief"}
+{"word": ["Message"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Phone"], "author": "My smile is relief"}
+{"word": ["smart"], "author": "Snowmoon"}
+{"word": ["people"], "author": "My smile is relief"}
+{"word": ["souls"], "author": "Snowmoon"}
+{"word": ["vampires"], "author": "My smile is relief"}
+{"word": ["Bats"], "author": "Snowmoon"}
+{"word": ["mouses"], "author": "My smile is relief"}
+{"word": ["rodents"], "author": "Snowmoon"}
+{"word": ["animals"], "author": "My smile is relief"}
+{"word": ["pets"], "author": "Snowmoon"}
+{"word": ["cats"], "author": "My smile is relief"}
+{"word": ["dogs"], "author": "EnduringChill"}
+{"word": ["samoyed"], "author": "My smile is relief"}
+{"word": ["dont feel stupid....i've always referred to more than one mouse as 'Meeces'...."], "author": "theocean"}
+{"word": ["white"], "author": "Snowmoon"}
+{"word": ["Color"], "author": "_acrobat"}
+{"word": ["blue"], "author": "Inishfree"}
+{"word": ["Aqua\u00a0"], "author": "theocean"}
+{"word": ["Viva"], "author": "My smile is relief"}
+{"word": ["La Vida"], "author": "EnduringChill"}
+{"word": ["Coldplay"], "author": "My smile is relief"}
+{"word": ["Mylo Xyloto"], "author": "EnduringChill"}
+{"word": ["random"], "author": "My smile is relief"}
+{"word": ["Thoughts"], "author": "EnduringChill"}
+{"word": ["Opinions"], "author": "My smile is relief"}
+{"word": ["Feelings"], "author": "EnduringChill"}
+{"word": ["emotions"], "author": "My smile is relief"}
+{"word": ["Sadness"], "author": "EnduringChill"}
+{"word": ["tears"], "author": "My smile is relief"}
+{"word": ["Crying"], "author": "EnduringChill"}
+{"word": ["Hysterical"], "author": "theocean"}
+{"word": ["Joy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Happiness"], "author": "theocean"}
+{"word": ["ecstacy"], "author": "OnlyU2"}
+{"word": ["drug"], "author": "My smile is relief"}
+{"word": ["Pot"], "author": "theocean"}
+{"word": ["dope"], "author": "My smile is relief"}
+{"word": ["psychedelic"], "author": "Snowmoon"}
+{"word": ["Funky"], "author": "A_Fly_On_The_Wall"}
+{"word": ["disco"], "author": "bonobuzz"}
+{"word": ["queen"], "author": "Snowmoon"}
+{"word": ["Bee"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Honey"], "author": "Snowmoon"}
+{"word": ["Darling"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sweetheart\u00a0"], "author": "Snowmoon"}
+{"word": ["Baby\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Doll\u00a0"], "author": "Snowmoon"}
+{"word": ["Toy"], "author": "EnduringChill"}
+{"word": ["Poodle"], "author": "Snowmoon"}
+{"word": ["fluffy"], "author": "theocean"}
+{"word": ["poofy"], "author": "EnduringChill"}
+{"word": ["fuzzy"], "author": "Snowmoon"}
+{"word": ["warm"], "author": "OnlyU2"}
+{"word": ["cuddly"], "author": "Snowmoon"}
+{"word": ["snuggly"], "author": "OnlyU2"}
+{"word": ["nestle"], "author": "Snowmoon"}
+{"word": ["cozy"], "author": "OnlyU2"}
+{"word": ["comfortable"], "author": "Snowmoon"}
+{"word": ["content"], "author": "OnlyU2"}
+{"word": ["happy"], "author": "Snowmoon"}
+{"word": ["joyful"], "author": "EnduringChill"}
+{"word": ["ecstatic"], "author": "Snowmoon"}
+{"word": ["Excited"], "author": "theocean"}
+{"word": ["anxious"], "author": "OnlyU2"}
+{"word": ["nervous"], "author": "Inishfree"}
+{"word": ["anxiety"], "author": "Snowmoon"}
+{"word": ["panic"], "author": "OnlyU2"}
+{"word": ["Terror"], "author": "EnduringChill"}
+{"word": ["shock"], "author": "My smile is relief"}
+{"word": ["Awe"], "author": "theocean"}
+{"word": ["Some"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Portion"], "author": "Snowmoon"}
+{"word": ["Little"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tiny"], "author": "Snowmoon"}
+{"word": ["small"], "author": "My smile is relief"}
+{"word": ["wee"], "author": "theocean"}
+{"word": ["petite"], "author": "EnduringChill"}
+{"word": ["miniscule"], "author": "theocean"}
+{"word": ["Cute"], "author": "A_Fly_On_The_Wall"}
+{"word": ["adorable"], "author": "OnlyU2"}
+{"word": ["Doll"], "author": "theocean"}
+{"word": ["Barbie"], "author": "OnlyU2"}
+{"word": ["Ken"], "author": "EnduringChill"}
+{"word": ["Boy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["man"], "author": "EnduringChill"}
+{"word": ["woman"], "author": "My smile is relief"}
+{"word": ["female"], "author": null}
+{"word": ["mother"], "author": "EnduringChill"}
+{"word": ["Parent"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pop"], "author": "theocean"}
+{"word": ["Bubble"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bath"], "author": "Snowmoon"}
+{"word": ["spa"], "author": "theocean"}
+{"word": ["massage"], "author": "EnduringChill"}
+{"word": ["Comfort"], "author": "A_Fly_On_The_Wall"}
+{"word": ["heal"], "author": "EnduringChill"}
+{"word": ["Nurture"], "author": "Snowmoon"}
+{"word": ["nature"], "author": "EnduringChill"}
+{"word": ["Environment"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Habitat"], "author": "Snowmoon"}
+{"word": ["Home"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Turf"], "author": "Snowmoon"}
+{"word": ["Soil"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ground"], "author": "EnduringChill"}
+{"word": ["grass"], "author": "theocean"}
+{"word": ["Green"], "author": "EnduringChill"}
+{"word": ["Day"], "author": "mdmomof7"}
+{"word": ["Light"], "author": "Snowmoon"}
+{"word": ["Darkness"], "author": "mdmomof7"}
+{"word": ["Nightfall"], "author": "Snowmoon"}
+{"word": ["Twilight"], "author": "mdmomof7"}
+{"word": ["Dusk"], "author": "Snowmoon"}
+{"word": ["dawn"], "author": "mdmomof7"}
+{"word": ["sunrise"], "author": "Snowmoon"}
+{"word": ["Morning"], "author": "mdmomof7"}
+{"word": ["Dew"], "author": "Snowmoon"}
+{"word": ["Drop"], "author": "mdmomof7"}
+{"word": ["Fall"], "author": "Snowmoon"}
+{"word": ["Autumn"], "author": "mdmomof7"}
+{"word": ["Harvest"], "author": "Snowmoon"}
+{"word": ["Moon"], "author": "mdmomof7"}
+{"word": ["Beams"], "author": "Snowmoon"}
+{"word": ["rays"], "author": "mdmomof7"}
+{"word": ["prisms"], "author": "Snowmoon"}
+{"word": ["refractions"], "author": "mdmomof7"}
+{"word": ["wave"], "author": "My smile is relief"}
+{"word": ["sound"], "author": "Shesgonnadreamoutloud"}
+{"word": ["noise"], "author": "OnlyU2"}
+{"word": ["Music"], "author": "_acrobat"}
+{"word": ["Song"], "author": "OnlyU2"}
+{"word": ["lyrics"], "author": "trlica"}
+{"word": ["words"], "author": "OnlyU2"}
+{"word": ["numbers"], "author": "trlica"}
+{"word": ["three"], "author": "Thehorsefly [whinny!]"}
+{"word": ["triple"], "author": "OnlyU2"}
+{"word": ["babies"], "author": "trlica"}
+{"word": ["children"], "author": "EnduringChill"}
+{"word": ["Young"], "author": null}
+{"word": ["heart"], "author": "EnduringChill"}
+{"word": ["Studying (im studying hearts for my biology test these days)"], "author": null}
+{"word": ["school"], "author": "EnduringChill"}
+{"word": ["Hell"], "author": null}
+{"word": ["+1"], "author": "EnduringChill"}
+{"word": ["Music"], "author": null}
+{"word": ["love"], "author": "EnduringChill"}
+{"word": ["Word"], "author": null}
+{"word": ["said"], "author": "mdmomof7"}
+{"word": ["spoken"], "author": "EnduringChill"}
+{"word": ["Album"], "author": "_acrobat"}
+{"word": ["money"], "author": "trlica"}
+{"word": ["greed"], "author": "EnduringChill"}
+{"word": ["selfish"], "author": "Thehorsefly [whinny!]"}
+{"word": ["egotistical"], "author": "OnlyU2"}
+{"word": ["snob"], "author": "theocean"}
+{"word": ["rich"], "author": "EnduringChill"}
+{"word": ["filling"], "author": "mdmomof7"}
+{"word": ["cavity"], "author": "Snowmoon"}
+{"word": ["DRILL"], "author": "mdmomof7"}
+{"word": ["tool"], "author": "My smile is relief"}
+{"word": ["hammer"], "author": "EnduringChill"}
+{"word": ["nail"], "author": "OnlyU2"}
+{"word": ["Wood"], "author": "_acrobat"}
+{"word": ["Stud"], "author": "Snowmoon"}
+{"word": ["Diamond"], "author": "A_Fly_On_The_Wall"}
+{"word": ["crowns"], "author": "theocean"}
+{"word": ["queen"], "author": "EnduringChill"}
+{"word": ["king"], "author": "mdmomof7"}
+{"word": ["Elvis"], "author": "OnlyU2"}
+{"word": ["Memphis"], "author": "Snowmoon"}
+{"word": ["Eve"], "author": "OnlyU2"}
+{"word": ["Christmas"], "author": "_acrobat"}
+{"word": ["holiday"], "author": "EnduringChill"}
+{"word": ["vacation"], "author": "OnlyU2"}
+{"word": ["getaway"], "author": "theocean"}
+{"word": ["honeymoon"], "author": "Snowmoon"}
+{"word": ["wedding"], "author": "OnlyU2"}
+{"word": ["marriage"], "author": "EnduringChill"}
+{"word": ["Life"], "author": "A_Fly_On_The_Wall"}
+{"word": ["existence"], "author": "OnlyU2"}
+{"word": ["being"], "author": "mdmomof7"}
+{"word": ["human"], "author": "theocean"}
+{"word": ["feelings"], "author": "bonobuzz"}
+{"word": ["sensitivity"], "author": "OnlyU2"}
+{"word": ["ESP"], "author": "theocean"}
+{"word": ["sports"], "author": "trlica"}
+{"word": ["Superbowl"], "author": "bonobuzz"}
+{"word": ["Snacks"], "author": "theocean"}
+{"word": ["Appetizers"], "author": "Snowmoon"}
+{"word": ["chicken wings"], "author": "bonobuzz"}
+{"word": ["celery"], "author": "Snowmoon"}
+{"word": ["ranch"], "author": "bonobuzz"}
+{"word": ["cowboy"], "author": "Snowmoon"}
+{"word": ["Stetson"], "author": "OnlyU2"}
+{"word": ["hat"], "author": "EnduringChill"}
+{"word": ["sombrero"], "author": "OnlyU2"}
+{"word": ["Mexico"], "author": "Inishfree"}
+{"word": ["Spanish"], "author": "OnlyU2"}
+{"word": ["Food"], "author": "A_Fly_On_The_Wall"}
+{"word": ["steak"], "author": "bonobuzz"}
+{"word": ["meat"], "author": "OnlyU2"}
+{"word": ["butcher"], "author": "bonobuzz"}
+{"word": ["blood\u00a0"], "author": "trlica"}
+{"word": ["Red"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Love"], "author": "bonobuzz"}
+{"word": ["Heart"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sweet"], "author": "bonobuzz"}
+{"word": ["taste"], "author": "EnduringChill"}
+{"word": ["chew"], "author": "Snowmoon"}
+{"word": ["Mouth"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Tongue"], "author": "Snowmoon"}
+{"word": ["Piercing"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ouch\u00a0"], "author": "Snowmoon"}
+{"word": ["Pain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["kill"], "author": "EnduringChill"}
+{"word": ["Joy"], "author": "jabw10"}
+{"word": ["Pleasure"], "author": "OnlyU2"}
+{"word": ["Pain"], "author": "bonobuzz"}
+{"word": ["Ache"], "author": "theocean"}
+{"word": ["sore"], "author": "EnduringChill"}
+{"word": ["muscle"], "author": "Snowmoon"}
+{"word": ["bone"], "author": "EnduringChill"}
+{"word": ["cartilage"], "author": "Snowmoon"}
+{"word": ["nose"], "author": "EnduringChill"}
+{"word": ["sneeze"], "author": "bonobuzz"}
+{"word": ["cough"], "author": "EnduringChill"}
+{"word": ["cold"], "author": "OnlyU2"}
+{"word": ["Snow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["winter"], "author": "bonobuzz"}
+{"word": ["ice"], "author": "EnduringChill"}
+{"word": ["igloo"], "author": "Snowmoon"}
+{"word": ["Eskimo"], "author": "OnlyU2"}
+{"word": ["People"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Homosapiens"], "author": "theocean"}
+{"word": ["human"], "author": "EnduringChill"}
+{"word": ["mankind"], "author": "Snowmoon"}
+{"word": ["The Moon"], "author": "A_Fly_On_The_Wall"}
+{"word": ["The Sun"], "author": "My smile is relief"}
+{"word": ["Yellow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Coldplay"], "author": "My smile is relief"}
+{"word": ["British"], "author": "A_Fly_On_The_Wall"}
+{"word": ["English"], "author": "My smile is relief"}
+{"word": ["Food"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Italy"], "author": "My smile is relief"}
+{"word": ["Rome"], "author": "EnduringChill"}
+{"word": ["Italian"], "author": "Snowmoon"}
+{"word": ["Olive Oil"], "author": "Midnight is Where the Day Begins"}
+{"word": ["pasta"], "author": "bonobuzz"}
+{"word": ["sauce"], "author": "Snowmoon"}
+{"word": ["tomato"], "author": "My smile is relief"}
+{"word": ["salad"], "author": "Inishfree"}
+{"word": ["Caesar\u00a0"], "author": "Snowmoon"}
+{"word": ["Julius"], "author": "OnlyU2"}
+{"word": ["Boy"], "author": "A_Fly_On_The_Wall"}
+{"word": ["child"], "author": "EnduringChill"}
+{"word": ["games"], "author": "My smile is relief"}
+{"word": ["toys"], "author": "bonobuzz"}
+{"word": ["colorful"], "author": "trlica"}
+{"word": ["Rainbow"], "author": "A_Fly_On_The_Wall"}
+{"word": ["skittles"], "author": "bonobuzz"}
+{"word": ["Yummy"], "author": "EnduringChill"}
+{"word": ["Chocolate"], "author": "theocean"}
+{"word": ["Cake"], "author": "My smile is relief"}
+{"word": ["Brownies"], "author": "theocean"}
+{"word": ["Tasty"], "author": "A_Fly_On_The_Wall"}
+{"word": ["homemade"], "author": "bonobuzz"}
+{"word": ["treat"], "author": "EnduringChill"}
+{"word": ["Chocolate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["dark"], "author": "trlica"}
+{"word": ["night"], "author": "bonobuzz"}
+{"word": ["Knight"], "author": "theocean"}
+{"word": ["Armor"], "author": "OnlyU2"}
+{"word": ["Shiny"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sparkle"], "author": "Snowmoon"}
+{"word": ["glitter"], "author": "Inishfree"}
+{"word": ["glamour"], "author": "OnlyU2"}
+{"word": ["Model"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Clay"], "author": "theocean"}
+{"word": ["Rain"], "author": "My smile is relief"}
+{"word": ["Drops"], "author": "theocean"}
+{"word": ["Little"], "author": "A_Fly_On_The_Wall"}
+{"word": ["tiny"], "author": "bonobuzz"}
+{"word": ["mini"], "author": "My smile is relief"}
+{"word": ["wee"], "author": "theocean"}
+{"word": ["Toilet\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lol"], "author": "bonobuzz"}
+{"word": ["poop\u00a0"], "author": "trlica"}
+{"word": [""], "author": "theocean"}
+{"word": ["animals"], "author": "My smile is relief"}
+{"word": ["Companions"], "author": "theocean"}
+{"word": ["pair"], "author": "trlica"}
+{"word": ["couple"], "author": "Inishfree"}
+{"word": ["people"], "author": "My smile is relief"}
+{"word": ["Humans"], "author": "theocean"}
+{"word": ["aliens"], "author": "bonobuzz"}
+{"word": ["Mr Spock"], "author": "Inishfree"}
+{"word": ["future"], "author": "trlica"}
+{"word": ["Time"], "author": "A_Fly_On_The_Wall"}
+{"word": ["clock"], "author": "bonobuzz"}
+{"word": ["Biological"], "author": "theocean"}
+{"word": ["Warfare"], "author": "Snowmoon"}
+{"word": ["Combat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Guns"], "author": "theocean"}
+{"word": ["bullets"], "author": "bonobuzz"}
+{"word": ["Ammunition\u00a0"], "author": "Snowmoon"}
+{"word": ["hunting"], "author": "bonobuzz"}
+{"word": ["prey"], "author": "OnlyU2"}
+{"word": ["worship"], "author": "Snowmoon"}
+{"word": ["idolize"], "author": "OnlyU2"}
+{"word": ["Glorify"], "author": "Snowmoon"}
+{"word": ["Praise"], "author": "theocean"}
+{"word": ["Encourage"], "author": "Snowmoon"}
+{"word": ["Motivate"], "author": "OnlyU2"}
+{"word": ["Edify"], "author": null}
+{"word": ["Educate"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Teach"], "author": "Snowmoon"}
+{"word": ["Instruct"], "author": "OnlyU2"}
+{"word": ["Learn"], "author": "_acrobat"}
+{"word": ["Understand"], "author": "OnlyU2"}
+{"word": ["Share"], "author": null}
+{"word": ["Give"], "author": "_acrobat"}
+{"word": ["Generous"], "author": "Snowmoon"}
+{"word": ["money\u00a0"], "author": "trlica"}
+{"word": ["Cash"], "author": "Snowmoon"}
+{"word": ["Johnny"], "author": "OnlyU2"}
+{"word": ["Yuma"], "author": null}
+{"word": ["train"], "author": "trlica"}
+{"word": ["caboose"], "author": "OnlyU2"}
+{"word": ["Car"], "author": "Snowmoon"}
+{"word": ["Automobile"], "author": "OnlyU2"}
+{"word": ["highway"], "author": "My smile is relief"}
+{"word": ["autobahn"], "author": "Snowmoon"}
+{"word": ["Germany"], "author": "Inishfree"}
+{"word": ["Berlin"], "author": "OnlyU2"}
+{"word": ["meistersaal"], "author": null}
+{"word": ["Studio"], "author": "Snowmoon"}
+{"word": ["apartment"], "author": "OnlyU2"}
+{"word": ["building"], "author": "trlica"}
+{"word": ["House"], "author": "Snowmoon"}
+{"word": ["Mansion"], "author": "OnlyU2"}
+{"word": ["Castle"], "author": "Snowmoon"}
+{"word": ["Fortress"], "author": "Inishfree"}
+{"word": ["Citadel"], "author": "Snowmoon"}
+{"word": ["military"], "author": "mdmomof7"}
+{"word": ["army"], "author": "OnlyU2"}
+{"word": ["navy"], "author": "mdmomof7"}
+{"word": ["Blue"], "author": "Tumbling Dice"}
+{"word": ["marine"], "author": "mdmomof7"}
+{"word": ["Corps"], "author": "Tumbling Dice"}
+{"word": ["band"], "author": "mdmomof7"}
+{"word": ["speckled"], "author": "Tumbling Dice"}
+{"word": ["egg"], "author": "mdmomof7"}
+{"word": ["West"], "author": "Tumbling Dice"}
+{"word": ["End"], "author": "mdmomof7"}
+{"word": ["terminate"], "author": "OnlyU2"}
+{"word": ["initiate"], "author": "mdmomof7"}
+{"word": ["launch"], "author": "Snowmoon"}
+{"word": ["rocket"], "author": "OnlyU2"}
+{"word": ["boosters"], "author": "mdmomof7"}
+{"word": ["Support"], "author": "Snowmoon"}
+{"word": ["Assistance"], "author": "OnlyU2"}
+{"word": ["help"], "author": "trlica"}
+{"word": ["Aid"], "author": "Snowmoon"}
+{"word": ["Band"], "author": "OnlyU2"}
+{"word": ["group"], "author": "mdmomof7"}
+{"word": ["Cult"], "author": "Snowmoon"}
+{"word": ["creepy"], "author": "theocean"}
+{"word": ["costumes"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["theater"], "author": "Inishfree"}
+{"word": ["movie"], "author": "OnlyU2"}
+{"word": ["film"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["camera"], "author": "OnlyU2"}
+{"word": ["cheese"], "author": null}
+{"word": ["cinema"], "author": "mdmomof7"}
+{"word": ["movies"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["popcorn"], "author": "Snowmoon"}
+{"word": ["butter"], "author": "bonobuzz"}
+{"word": ["cream"], "author": "Snowmoon"}
+{"word": ["coffee"], "author": "bonobuzz"}
+{"word": ["brew"], "author": "Snowmoon"}
+{"word": ["Tea"], "author": "bonobuzz"}
+{"word": ["party"], "author": "Snowmoon"}
+{"word": ["celebrate"], "author": "OnlyU2"}
+{"word": ["glorify"], "author": "Snowmoon"}
+{"word": ["magnify"], "author": null}
+{"word": ["Enlarge"], "author": "theocean"}
+{"word": ["shrink"], "author": "bonobuzz"}
+{"word": ["Reduce"], "author": "Snowmoon"}
+{"word": ["lessen"], "author": "OnlyU2"}
+{"word": ["ease"], "author": "theocean"}
+{"word": ["relax"], "author": "bonobuzz"}
+{"word": ["rest"], "author": "OnlyU2"}
+{"word": ["nap"], "author": "Snowmoon"}
+{"word": ["sleep"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["coma"], "author": "theocean"}
+{"word": ["unconsciousness"], "author": "OnlyU2"}
+{"word": ["unaware"], "author": "Snowmoon"}
+{"word": ["NUMB"], "author": "theocean"}
+{"word": ["^good one!"], "author": "bonobuzz"}
+{"word": ["Ice"], "author": "Snowmoon"}
+{"word": ["pop"], "author": "bonobuzz"}
+{"word": ["snap"], "author": "Snowmoon"}
+{"word": ["crackle"], "author": "bonobuzz"}
+{"word": ["paint"], "author": "Snowmoon"}
+{"word": ["color"], "author": "bonobuzz"}
+{"word": ["draw"], "author": "Snowmoon"}
+{"word": ["pencil"], "author": "bonobuzz"}
+{"word": ["lead"], "author": "Snowmoon"}
+{"word": ["paint"], "author": "bonobuzz"}
+{"word": ["finger"], "author": "Snowmoon"}
+{"word": ["ring"], "author": "bonobuzz"}
+{"word": ["diamond"], "author": "Snowmoon"}
+{"word": ["sparkle"], "author": "bonobuzz"}
+{"word": ["shine"], "author": "Snowmoon"}
+{"word": ["sun"], "author": "bonobuzz"}
+{"word": ["ray"], "author": "Snowmoon"}
+{"word": ["light"], "author": "bonobuzz"}
+{"word": ["lamp"], "author": "OnlyU2"}
+{"word": ["flashlight"], "author": "Snowmoon"}
+{"word": ["spark"], "author": null}
+{"word": ["fire"], "author": "Snowmoon"}
+{"word": ["truck"], "author": "Inishfree"}
+{"word": ["haul"], "author": "Snowmoon"}
+{"word": ["tow"], "author": "OnlyU2"}
+{"word": ["pull"], "author": "Snowmoon"}
+{"word": ["tug"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["yank"], "author": "OnlyU2"}
+{"word": ["jerk"], "author": "Snowmoon"}
+{"word": ["soda"], "author": "mdmomof7"}
+{"word": ["coca cola"], "author": "trlica"}
+{"word": ["float"], "author": "Snowmoon"}
+{"word": ["boat"], "author": "mdmomof7"}
+{"word": ["cruise"], "author": "Snowmoon"}
+{"word": ["Tom"], "author": "OnlyU2"}
+{"word": ["cat"], "author": "Inishfree"}
+{"word": ["cuddling"], "author": "trlica"}
+{"word": ["baby"], "author": null}
+{"word": ["achtung"], "author": "OnlyU2"}
+{"word": ["radical"], "author": "Snowmoon"}
+{"word": ["daring"], "author": null}
+{"word": ["brave"], "author": "OnlyU2"}
+{"word": ["courageous\u00a0"], "author": "Snowmoon"}
+{"word": ["gutsy"], "author": "OnlyU2"}
+{"word": ["optimist"], "author": "trlica"}
+{"word": ["positive"], "author": "bonobuzz"}
+{"word": ["negative"], "author": "OnlyU2"}
+{"word": ["pessimistic"], "author": "Snowmoon"}
+{"word": ["black"], "author": "trlica"}
+{"word": ["dress"], "author": "Inishfree"}
+{"word": ["velvet"], "author": "mdmomof7"}
+{"word": ["flowers"], "author": "trlica"}
+{"word": ["bouquet"], "author": "OnlyU2"}
+{"word": ["wedding"], "author": "trlica"}
+{"word": ["invitation"], "author": "Snowmoon"}
+{"word": ["rsvp"], "author": "OnlyU2"}
+{"word": ["reservation"], "author": "Snowmoon"}
+{"word": ["hotel"], "author": "trlica"}
+{"word": ["Motel"], "author": "theocean"}
+{"word": ["room"], "author": "OnlyU2"}
+{"word": ["home"], "author": "CillaLh"}
+{"word": ["place"], "author": "EnduringChill"}
+{"word": ["location"], "author": "rockmusicnut (whenyoufindoutwhat'sworthkeeping)"}
+{"word": ["Compass"], "author": "Snowmoon"}
+{"word": ["map"], "author": "EnduringChill"}
+{"word": ["lost"], "author": "singnomore"}
+{"word": ["lonely"], "author": "EnduringChill"}
+{"word": ["empty"], "author": "CillaLh"}
+{"word": ["shell"], "author": "EnduringChill"}
+{"word": ["Sea"], "author": "CillaLh"}
+{"word": ["ocean"], "author": "OnlyU2"}
+{"word": ["Water"], "author": "CillaLh"}
+{"word": ["drinking"], "author": "EnduringChill"}
+{"word": ["thirst"], "author": "CillaLh"}
+{"word": ["hunger"], "author": "OnlyU2"}
+{"word": ["games"], "author": "EnduringChill"}
+{"word": ["fun"], "author": "CillaLh"}
+{"word": ["excitement"], "author": "OnlyU2"}
+{"word": ["happiness"], "author": "CillaLh"}
+{"word": ["Peacefulness"], "author": "theocean"}
+{"word": ["serenity"], "author": "OnlyU2"}
+{"word": ["harmony"], "author": "CillaLh"}
+{"word": ["melody"], "author": "EnduringChill"}
+{"word": ["Tune"], "author": "CillaLh"}
+{"word": ["song"], "author": "theocean"}
+{"word": ["lyrics"], "author": "Snowmoon"}
+{"word": ["words"], "author": "CillaLh"}
+{"word": ["letters"], "author": "OnlyU2"}
+{"word": ["stamps"], "author": "trlica"}
+{"word": ["postage"], "author": "Snowmoon"}
+{"word": ["mail"], "author": "EnduringChill"}
+{"word": ["electronic (mail)"], "author": "Inishfree"}
+{"word": ["email"], "author": "CillaLh"}
+{"word": ["hotmail"], "author": "OnlyU2"}
+{"word": ["internet"], "author": "CillaLh"}
+{"word": ["online"], "author": "EnduringChill"}
+{"word": ["websights"], "author": "Inishfree"}
+{"word": ["blogs"], "author": "AllThoseThingsILove"}
+{"word": ["Tumblr"], "author": "EnduringChill"}
+{"word": ["Website"], "author": "A_Fly_On_The_Wall"}
+{"word": ["forum"], "author": "EnduringChill"}
+{"word": ["atu2"], "author": null}
+{"word": ["fans"], "author": "CillaLh"}
+{"word": ["groupies"], "author": "Snowmoon"}
+{"word": ["hippys\u00a0"], "author": "theocean"}
+{"word": ["tie-dye"], "author": "InTeDomine"}
+{"word": ["colorful"], "author": "EnduringChill"}
+{"word": ["rainbow"], "author": "theocean"}
+{"word": ["sky"], "author": null}
+{"word": ["birds"], "author": "trlica"}
+{"word": ["wings"], "author": "OnlyU2"}
+{"word": ["Angels"], "author": "Snowmoon"}
+{"word": ["Halo"], "author": "OnlyU2"}
+{"word": ["Golden"], "author": "Snowmoon"}
+{"word": ["girls"], "author": "EnduringChill"}
+{"word": ["boys"], "author": "theocean"}
+{"word": ["men"], "author": "EnduringChill"}
+{"word": ["women"], "author": "OnlyU2"}
+{"word": ["moms"], "author": null}
+{"word": ["dads"], "author": "OnlyU2"}
+{"word": ["parents"], "author": "EnduringChill"}
+{"word": ["grandparents"], "author": "theocean"}
+{"word": ["lake house (my grandparents own one)"], "author": "EnduringChill"}
+{"word": ["swan lake"], "author": "Snowmoon"}
+{"word": ["black swan"], "author": "theocean"}
+{"word": ["black lagoon"], "author": "InTeDomine"}
+{"word": ["how did this game turn into drop a word, add a word?"], "author": "OnlyU2"}
+{"word": ["^ No idea, maybe because I've deserted F&G lately and there's been no rules to follow in my absence??\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Daylight"], "author": "OnlyU2"}
+{"word": ["lemon"], "author": "Shesgonnadreamoutloud"}
+{"word": ["sour"], "author": "EnduringChill"}
+{"word": ["grapes"], "author": "theocean"}
+{"word": ["summer"], "author": "Shesgonnadreamoutloud"}
+{"word": ["beaches"], "author": "RunningtoStandstill (The League of Extraordinary BonoPeople)"}
+{"word": ["Sand"], "author": "OnlyU2"}
+{"word": ["time"], "author": null}
+{"word": ["clock"], "author": "imaginary friend"}
+{"word": ["watch"], "author": "Inishfree"}
+{"word": ["numbers"], "author": "theocean"}
+{"word": ["digits"], "author": "OnlyU2"}
+{"word": ["symbols"], "author": null}
+{"word": ["foreign"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Russia"], "author": "EnduringChill"}
+{"word": ["Moscow"], "author": "OnlyU2"}
+{"word": ["rich people"], "author": "trlica"}
+{"word": ["wealthy"], "author": "theocean"}
+{"word": ["billionaires"], "author": "DecemberStar (The Mysterious Girl)"}
+{"word": ["Absurd"], "author": "EnduringChill"}
+{"word": ["ridiculous"], "author": "bonobuzz"}
+{"word": ["Television"], "author": "InTeDomine"}
+{"word": ["programs"], "author": "OnlyU2"}
+{"word": ["Advertising"], "author": "EnduringChill"}
+{"word": ["conformity"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Chaos"], "author": "EnduringChill"}
+{"word": ["Theory"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hypothesis"], "author": "InTeDomine"}
+{"word": ["Explanation"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Literal"], "author": "EnduringChill"}
+{"word": ["Virtual"], "author": "theocean"}
+{"word": ["World"], "author": "EnduringChill"}
+{"word": ["planet"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Mars"], "author": "EnduringChill"}
+{"word": ["Venus"], "author": "theocean"}
+{"word": ["Love"], "author": "EnduringChill"}
+{"word": ["Happiness"], "author": "InTeDomine"}
+{"word": ["Contentment"], "author": "OnlyU2"}
+{"word": ["Blissful"], "author": "Snowmoon"}
+{"word": ["ecstasy"], "author": "OnlyU2"}
+{"word": ["sensual"], "author": "Snowmoon"}
+{"word": ["sultry"], "author": "Inishfree"}
+{"word": ["hot"], "author": "Snowmoon"}
+{"word": ["velvet"], "author": "mdmomof7"}
+{"word": ["dress"], "author": "Shesgonnadreamoutloud"}
+{"word": ["shop"], "author": "Inishfree"}
+{"word": ["money"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Silver"], "author": "theocean"}
+{"word": ["Pewter"], "author": "Snowmoon"}
+{"word": ["metals"], "author": "Inishfree"}
+{"word": ["iron"], "author": "EnduringChill"}
+{"word": ["clothes"], "author": "trlica"}
+{"word": ["Shopping"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Money"], "author": "theocean"}
+{"word": ["Rich"], "author": "A_Fly_On_The_Wall"}
+{"word": ["gold"], "author": "Shesgonnadreamoutloud"}
+{"word": ["silver"], "author": "EnduringChill"}
+{"word": ["coins"], "author": "theocean"}
+{"word": ["slot machine"], "author": "Shesgonnadreamoutloud"}
+{"word": ["fruit"], "author": "EnduringChill"}
+{"word": ["strawberries"], "author": "Inishfree"}
+{"word": ["fresh"], "author": "InTeDomine"}
+{"word": ["air"], "author": "Shesgonnadreamoutloud"}
+{"word": ["breath"], "author": "Snowmoon"}
+{"word": ["mint"], "author": "Shesgonnadreamoutloud"}
+{"word": ["gum"], "author": "Snowmoon"}
+{"word": ["chew"], "author": "Inishfree"}
+{"word": ["jaw"], "author": "EnduringChill"}
+{"word": ["Bone"], "author": "theocean"}
+{"word": ["structure"], "author": "EnduringChill"}
+{"word": ["building"], "author": "OnlyU2"}
+{"word": ["castle"], "author": "Snowmoon"}
+{"word": ["hill"], "author": "EnduringChill"}
+{"word": ["view"], "author": "Allie79"}
+{"word": ["scenery"], "author": "Snowmoon"}
+{"word": ["landscape"], "author": "EnduringChill"}
+{"word": ["portrait"], "author": "InTeDomine"}
+{"word": ["painting"], "author": "Inishfree"}
+{"word": ["Perspective"], "author": "Shesgonnadreamoutloud"}
+{"word": ["view"], "author": "theocean"}
+{"word": ["room"], "author": "EnduringChill"}
+{"word": ["kitchen"], "author": "Inishfree"}
+{"word": ["cutlery"], "author": "EnduringChill"}
+{"word": ["utensils"], "author": "Inishfree"}
+{"word": ["spoon"], "author": "trlica"}
+{"word": ["spork"], "author": "EnduringChill"}
+{"word": ["stainless"], "author": null}
+{"word": ["copper"], "author": "theocean"}
+{"word": ["penny"], "author": "EnduringChill"}
+{"word": ["change"], "author": "Snowmoon"}
+{"word": ["coin"], "author": "Allie79"}
+{"word": ["flip"], "author": "EnduringChill"}
+{"word": ["Back"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Pain"], "author": "Snowmoon"}
+{"word": ["Ache"], "author": "theocean"}
+{"word": ["Nasty"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Boys"], "author": "Snowmoon"}
+{"word": ["Toys"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Games"], "author": "Snowmoon"}
+{"word": ["Fun\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Thrills"], "author": "Snowmoon"}
+{"word": ["Rollercoaster"], "author": "A_Fly_On_The_Wall"}
+{"word": ["vertigo"], "author": "Snowmoon"}
+{"word": ["Hola!\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hello"], "author": "Inishfree"}
+{"word": ["greetings"], "author": "EnduringChill"}
+{"word": ["Christmas"], "author": "Inishfree"}
+{"word": ["family"], "author": "Allie79"}
+{"word": ["Reunion"], "author": "Snowmoon"}
+{"word": ["Friends"], "author": null}
+{"word": ["fight\u00a0"], "author": "trlica"}
+{"word": ["hurt"], "author": "EnduringChill"}
+{"word": ["Pain"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bruise"], "author": "Snowmoon"}
+{"word": ["Ouch"], "author": "A_Fly_On_The_Wall"}
+{"word": ["regret"], "author": "Allie79"}
+{"word": ["learning"], "author": "Inishfree"}
+{"word": ["library"], "author": "bonobuzz"}
+{"word": ["books"], "author": "Snowmoon"}
+{"word": ["nook"], "author": "Inishfree"}
+{"word": ["device"], "author": null}
+{"word": ["mechanical"], "author": "EnduringChill"}
+{"word": ["Robot"], "author": "Shesgonnadreamoutloud"}
+{"word": ["android"], "author": "EnduringChill"}
+{"word": ["Star Trek"], "author": "Inishfree"}
+{"word": ["engage"], "author": "Allie79"}
+{"word": ["warp speed"], "author": "Inishfree"}
+{"word": ["Star ship"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Enterprise"], "author": "Inishfree"}
+{"word": ["exploration"], "author": "Allie79"}
+{"word": ["Elevation"], "author": "theocean"}
+{"word": ["U2"], "author": "Inishfree"}
+{"word": ["tour"], "author": "Shesgonnadreamoutloud"}
+{"word": ["traveling"], "author": "EnduringChill"}
+{"word": ["airports"], "author": "Allie79"}
+{"word": ["airplane"], "author": "trlica"}
+{"word": ["jet"], "author": "Inishfree"}
+{"word": ["Airplane contrails filled with mind-control poison by evil governments who want to subjugate the masses."], "author": "InTeDomine"}
+{"word": ["sonic boom"], "author": "Allie79"}
+{"word": ["sound (barrier)"], "author": "theocean"}
+{"word": ["whistle"], "author": "Snowmoon"}
+{"word": ["dog"], "author": "Inishfree"}
+{"word": ["pal"], "author": "Snowmoon"}
+{"word": ["best friend......."], "author": "Inishfree"}
+{"word": ["soulmate"], "author": "theocean"}
+{"word": ["Soul Train"], "author": "Inishfree"}
+{"word": ["Crazy Train"], "author": "InTeDomine"}
+{"word": ["Ozzy osbourne"], "author": "horizon"}
+{"word": ["Kelly Osbourne"], "author": "Inishfree"}
+{"word": ["Hollywood"], "author": "theocean"}
+{"word": ["starlets"], "author": "Inishfree"}
+{"word": ["Glamorous"], "author": "Snowmoon"}
+{"word": ["red carpet"], "author": "Inishfree"}
+{"word": ["cameras"], "author": "InTeDomine"}
+{"word": ["Photographers"], "author": "Inishfree"}
+{"word": ["Paparazzi"], "author": "Snowmoon"}
+{"word": ["Pizza"], "author": "InTeDomine"}
+{"word": ["dough"], "author": "Snowmoon"}
+{"word": ["money"], "author": "InTeDomine"}
+{"word": ["Rich"], "author": "Snowmoon"}
+{"word": ["Excess"], "author": "InTeDomine"}
+{"word": ["abundance"], "author": "OnlyU2"}
+{"word": ["(cup) overflowith"], "author": "theocean"}
+{"word": ["water"], "author": "Inishfree"}
+{"word": ["liquid"], "author": "OnlyU2"}
+{"word": ["Fluid"], "author": "InTeDomine"}
+{"word": ["river"], "author": "Inishfree"}
+{"word": ["Bruce Springsteen"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Boss"], "author": "OnlyU2"}
+{"word": ["E Street Band"], "author": "Inishfree"}
+{"word": ["Clarence Clemens"], "author": "OnlyU2"}
+{"word": ["Sax"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Tenor"], "author": "InTeDomine"}
+{"word": ["Baritone"], "author": "OnlyU2"}
+{"word": ["Trombone"], "author": "InTeDomine"}
+{"word": ["Band"], "author": "Shesgonnadreamoutloud"}
+{"word": ["U2"], "author": "EnduringChill"}
+{"word": ["Awesome"], "author": "InTeDomine"}
+{"word": ["incredible"], "author": "Inishfree"}
+{"word": ["Phantasmagorical"], "author": "InTeDomine"}
+{"word": ["fantasy"], "author": "theocean"}
+{"word": ["dream"], "author": "OnlyU2"}
+{"word": ["wish"], "author": "Inishfree"}
+{"word": ["want"], "author": "EnduringChill"}
+{"word": ["yearn"], "author": "theocean"}
+{"word": ["Desire"], "author": "InTeDomine"}
+{"word": ["Longing"], "author": "theocean"}
+{"word": ["need"], "author": "EnduringChill"}
+{"word": ["request"], "author": "Inishfree"}
+{"word": ["Ask"], "author": "theocean"}
+{"word": ["Answer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["reply"], "author": "OnlyU2"}
+{"word": ["write"], "author": "Shesgonnadreamoutloud"}
+{"word": ["print"], "author": "OnlyU2"}
+{"word": ["paper"], "author": "EnduringChill"}
+{"word": ["sheet"], "author": "OnlyU2"}
+{"word": ["white"], "author": "EnduringChill"}
+{"word": ["clouds"], "author": "Inishfree"}
+{"word": ["thunder"], "author": "OnlyU2"}
+{"word": ["lightning"], "author": "EnduringChill"}
+{"word": ["moonshine"], "author": "theocean"}
+{"word": ["Full moon"], "author": "bonobuzz"}
+{"word": ["werewolf"], "author": "EnduringChill"}
+{"word": ["she wolf\u00a0"], "author": "theocean"}
+{"word": ["Shakira"], "author": "EnduringChill"}
+{"word": ["singer"], "author": "Inishfree"}
+{"word": ["Wedding"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Marriage"], "author": "OnlyU2"}
+{"word": ["Partner"], "author": "theocean"}
+{"word": ["couple"], "author": "EnduringChill"}
+{"word": ["Two"], "author": "A_Fly_On_The_Wall"}
+{"word": ["number"], "author": "EnduringChill"}
+{"word": ["math"], "author": "Inishfree"}
+{"word": ["algebra"], "author": "OnlyU2"}
+{"word": ["trigonometry"], "author": "EnduringChill"}
+{"word": ["differential equations"], "author": "theocean"}
+{"word": ["difficult"], "author": "EnduringChill"}
+{"word": ["Greek"], "author": "theocean"}
+{"word": ["Yoghurt"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Chobani"], "author": "EnduringChill"}
+{"word": ["strawberry"], "author": "Shesgonnadreamoutloud"}
+{"word": ["banana"], "author": "EnduringChill"}
+{"word": ["Running"], "author": "Shesgonnadreamoutloud"}
+{"word": ["marathon"], "author": "Allie79"}
+{"word": ["Finish"], "author": "Shesgonnadreamoutloud"}
+{"word": ["satisfaction"], "author": "Allie79"}
+{"word": ["Rolling stones"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Mick Jagger"], "author": "Inishfree"}
+{"word": ["Skinny\u00a0"], "author": "theocean"}
+{"word": ["Fat"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Bottom"], "author": "Snowmoon"}
+{"word": ["Top"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Peak"], "author": "Snowmoon"}
+{"word": ["Best"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Trump"], "author": "Snowmoon"}
+{"word": ["Towers"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Castle"], "author": "Snowmoon"}
+{"word": ["Ancient"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Historic"], "author": "OnlyU2"}
+{"word": ["Castle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sand"], "author": "Snowmoon"}
+{"word": ["Beach"], "author": "OnlyU2"}
+{"word": ["Body"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Image"], "author": "Snowmoon"}
+{"word": ["Picture"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Photography"], "author": "A_Fly_On_The_Wall"}
+{"word": ["3D"], "author": "theocean"}
+{"word": ["movie"], "author": "EnduringChill"}
+{"word": ["Actor"], "author": "A_Fly_On_The_Wall"}
+{"word": ["thespian"], "author": "Snowmoon"}
+{"word": ["Theater"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Play"], "author": "horizon"}
+{"word": ["Characters"], "author": "theocean"}
+{"word": ["Personality"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Spunk"], "author": "theocean"}
+{"word": ["Determination"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Willpower"], "author": "Snowmoon"}
+{"word": ["Confidence"], "author": "OnlyU2"}
+{"word": ["Strong"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Stallion"], "author": "theocean"}
+{"word": ["Italian"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Ziti"], "author": "theocean"}
+{"word": ["Pasta"], "author": "Snowmoon"}
+{"word": ["Spaghetti"], "author": "OnlyU2"}
+{"word": ["Macaroni...."], "author": "theocean"}
+{"word": ["cheese\u00a0"], "author": "Snowmoon"}
+{"word": ["toast"], "author": "EnduringChill"}
+{"word": ["Slainte!"], "author": "jabw10"}
+{"word": ["Language"], "author": "A_Fly_On_The_Wall"}
+{"word": ["spanish"], "author": "trlica"}
+{"word": ["fly\u00a0"], "author": "Snowmoon"}
+{"word": ["Eyes"], "author": "A_Fly_On_The_Wall"}
+{"word": ["stare"], "author": "Snowmoon"}
+{"word": ["Look"], "author": "theocean"}
+{"word": ["Watch"], "author": "OnlyU2"}
+{"word": ["Band"], "author": "jabw10"}
+{"word": ["Group"], "author": "OnlyU2"}
+{"word": ["Friends"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Foes"], "author": "Snowmoon"}
+{"word": ["enemies"], "author": "theocean"}
+{"word": ["attack"], "author": "EnduringChill"}
+{"word": ["Fight"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Karate"], "author": "Snowmoon"}
+{"word": ["Kung Fu"], "author": "theocean"}
+{"word": ["Grasshopper\u00a0"], "author": "Snowmoon"}
+{"word": ["insect"], "author": "OnlyU2"}
+{"word": ["crawl"], "author": null}
+{"word": ["roll"], "author": "theocean"}
+{"word": ["rock"], "author": "OnlyU2"}
+{"word": ["stone"], "author": "Snowmoon"}
+{"word": ["grave"], "author": "OnlyU2"}
+{"word": ["cemetery"], "author": "Inishfree"}
+{"word": ["ghosts"], "author": "EnduringChill"}
+{"word": ["scary"], "author": null}
+{"word": ["creepy"], "author": "OnlyU2"}
+{"word": ["zombie"], "author": "Snowmoon"}
+{"word": ["Apocalypse"], "author": "jabw10"}
+{"word": ["End"], "author": null}
+{"word": ["beginning"], "author": "EnduringChill"}
+{"word": ["start"], "author": "OnlyU2"}
+{"word": ["go"], "author": "theocean"}
+{"word": ["walk"], "author": null}
+{"word": ["stride"], "author": "mdmomof7"}
+{"word": ["Rite"], "author": "jabw10"}
+{"word": ["Wrong\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Error"], "author": "mdmomof7"}
+{"word": ["Mistake"], "author": "A_Fly_On_The_Wall"}
+{"word": ["OOps"], "author": "theocean"}
+{"word": ["Daisy\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Flower"], "author": null}
+{"word": ["Petunia"], "author": "theocean"}
+{"word": ["Rose"], "author": null}
+{"word": ["petal"], "author": "Snowmoon"}
+{"word": ["Nickname"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Alias"], "author": null}
+{"word": ["pseudonym"], "author": "EnduringChill"}
+{"word": ["False"], "author": "A_Fly_On_The_Wall"}
+{"word": ["liar"], "author": "EnduringChill"}
+{"word": ["fibber"], "author": "OnlyU2"}
+{"word": ["storyteller"], "author": "Snowmoon"}
+{"word": ["novelist"], "author": null}
+{"word": ["literature"], "author": "Snowmoon"}
+{"word": ["Fiction"], "author": null}
+{"word": ["Mystery"], "author": "Snowmoon"}
+{"word": ["Unknown"], "author": null}
+{"word": ["Obscure"], "author": "Snowmoon"}
+{"word": ["Weird"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Odd"], "author": null}
+{"word": ["Number"], "author": "A_Fly_On_The_Wall"}
+{"word": ["One\u00a0"], "author": null}
+{"word": ["United"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Airlines"], "author": "theocean"}
+{"word": ["Transport"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Jet Pack"], "author": "theocean"}
+{"word": ["Cool\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Frosty"], "author": null}
+{"word": ["Winter"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Scarves"], "author": "theocean"}
+{"word": ["Mittens"], "author": null}
+{"word": ["Warmth"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Hug"], "author": null}
+{"word": ["Embrace"], "author": "A_Fly_On_The_Wall"}
+{"word": ["entwine"], "author": "theocean"}
+{"word": ["Tangle"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Web"], "author": "theocean"}
+{"word": ["Internet"], "author": "A_Fly_On_The_Wall"}
+{"word": ["computer"], "author": "EnduringChill"}
+{"word": ["Screen"], "author": "A_Fly_On_The_Wall"}
+{"word": ["terminal"], "author": "OnlyU2"}
+{"word": ["Tcon"], "author": "theocean"}
+{"word": ["Acronym(?)"], "author": "A_Fly_On_The_Wall"}
+{"word": ["oh sorry, its a tcon, for tcon board, timing control board, which is broke on my tv and now i have half black half pixle screen..."], "author": "theocean"}
+{"word": ["So I was sort of right when I said \"Acronym\" then?\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ac\u00b7ro\u00b7nym"], "author": "theocean"}
+{"word": ["So, is it your turn now?\u00a0"], "author": "A_Fly_On_The_Wall"}
+{"word": ["New Word Fly"], "author": "theocean"}
+{"word": ["Shine"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sparkle"], "author": "Inishfree"}
+{"word": ["Glitter"], "author": "jabw10"}
+{"word": ["Ball (radiate round the hall... lifts me up and then leaves me to fall) *sorry but Simple Minds happened*"], "author": "JSab"}
+{"word": ["Golf"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Club"], "author": "OnlyU2"}
+{"word": ["Secret"], "author": null}
+{"word": ["Garden"], "author": "jabw10"}
+{"word": ["Tart"], "author": null}
+{"word": ["cherry"], "author": "EnduringChill"}
+{"word": ["Flavour"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Month"], "author": null}
+{"word": ["Time"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Clock"], "author": "OnlyU2"}
+{"word": ["Chimes"], "author": "theocean"}
+{"word": ["bells"], "author": "EnduringChill"}
+{"word": ["Jingle"], "author": "theocean"}
+{"word": ["Jangle"], "author": "jabw10"}
+{"word": ["pop"], "author": "EnduringChill"}
+{"word": ["soda"], "author": "OnlyU2"}
+{"word": ["Fizz"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Gin"], "author": "theocean"}
+{"word": ["184 (that book made me never want to drink gin, at least not the kind they had"], "author": "EnduringChill"}
+{"word": ["quotient"], "author": "Thehorsefly [whinny!]"}
+{"word": ["Maths"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Equations"], "author": "theocean"}
+{"word": ["Variables"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Puzzles"], "author": "theocean"}
+{"word": ["crosswords"], "author": "OnlyU2"}
+{"word": ["Game"], "author": "A_Fly_On_The_Wall"}
+{"word": ["player"], "author": "EnduringChill"}
+{"word": ["Sports"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Team"], "author": "OnlyU2"}
+{"word": ["Group"], "author": "A_Fly_On_The_Wall"}
+{"word": ["effort"], "author": "EnduringChill"}
+{"word": ["Strength"], "author": "theocean"}
+{"word": ["Power"], "author": "OnlyU2"}
+{"word": ["energy"], "author": "EnduringChill"}
+{"word": ["Motivation"], "author": "FiOz"}
+{"word": ["Speaker"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Lecturer"], "author": "Snowmoon"}
+{"word": ["professor"], "author": "EnduringChill"}
+{"word": ["Teacher"], "author": "OnlyU2"}
+{"word": ["Classroom"], "author": "AJ"}
+{"word": ["School"], "author": "OnlyU2"}
+{"word": ["Youth"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Memories"], "author": "FiOz"}
+{"word": ["thinking"], "author": "EnduringChill"}
+{"word": ["brain"], "author": "FiOz"}
+{"word": ["thought"], "author": null}
+{"word": ["idea"], "author": "OnlyU2"}
+{"word": ["Lightbulb"], "author": "jabw10"}
+{"word": ["Watt"], "author": "OnlyU2"}
+{"word": ["volt"], "author": "theocean"}
+{"word": ["lightning"], "author": "EnduringChill"}
+{"word": ["ride"], "author": "imaginary friend"}
+{"word": ["drive"], "author": "EnduringChill"}
+{"word": ["Car"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Mercedes"], "author": null}
+{"word": ["German"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Beer"], "author": "FiOz"}
+{"word": ["Miller"], "author": "OnlyU2"}
+{"word": ["Coors"], "author": "theocean"}
+{"word": ["Alcohol"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Booze"], "author": "OnlyU2"}
+{"word": ["Drink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["soda"], "author": "EnduringChill"}
+{"word": ["Coke"], "author": "OnlyU2"}
+{"word": ["pepsi"], "author": "EnduringChill"}
+{"word": ["Drink"], "author": "FiOz"}
+{"word": ["Taste"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Sip"], "author": "theocean"}
+{"word": ["Drink"], "author": "A_Fly_On_The_Wall"}
+{"word": ["refreshment"], "author": "OnlyU2"}
+{"word": ["Water"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Drowning"], "author": "striped potatoe"}
+{"word": ["swim classes"], "author": "Inishfree"}
+{"word": ["Machine"], "author": "BAEBS"}
+{"word": ["ATM"], "author": "bonobuzz"}
+{"word": ["Cash"], "author": "theocean"}
+{"word": ["money"], "author": "bonobuzz"}
+{"word": ["Power"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Electricity"], "author": "OnlyU2"}
+{"word": ["Light"], "author": "bonobuzz"}
+{"word": ["You are not allowed to view links."], "author": "theocean"}
+{"word": ["neon"], "author": "bonobuzz"}
+{"word": ["Bright"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sunglasses"], "author": "bonobuzz"}
+{"word": ["shades"], "author": "OnlyU2"}
+{"word": ["umbrella"], "author": "EnduringChill"}
+{"word": ["parasol"], "author": "OnlyU2"}
+{"word": ["dancing"], "author": "EnduringChill"}
+{"word": ["days - (Led Zeppelin Dancing Days\u00a0"], "author": "mdmomof7"}
+{"word": ["music"], "author": "bonobuzz"}
+{"word": ["Noise"], "author": "A_Fly_On_The_Wall"}
+{"word": ["static....."], "author": "theocean"}
+{"word": ["Radio"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Waves"], "author": "UnknownCaller98"}
+{"word": ["Ocean"], "author": "OnlyU2"}
+{"word": ["\u00a0Tides"], "author": "Am I bugging you?"}
+{"word": ["Beach"], "author": "bonobuzz"}
+{"word": ["sand"], "author": "Inishfree"}
+{"word": ["Gold"], "author": "A_Fly_On_The_Wall"}
+{"word": ["ring"], "author": "bonobuzz"}
+{"word": ["diamond"], "author": "Inishfree"}
+{"word": ["wedding"], "author": "bonobuzz"}
+{"word": ["Honeymoon"], "author": "Inishfree"}
+{"word": ["Hawaii"], "author": "bonobuzz"}
+{"word": ["Luau"], "author": "OnlyU2"}
+{"word": ["island"], "author": "theocean"}
+{"word": [""], "author": "ZooTV8"}
+{"word": ["Singer"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Songwriter"], "author": "ZooTV8"}
+{"word": ["Lyricist"], "author": "OnlyU2"}
+{"word": ["\u00a0 Poet"], "author": "Am I bugging you?"}
+{"word": ["Language"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Spanish"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Mexico"], "author": "OnlyU2"}
+{"word": ["\u00a0 Taco"], "author": "Am I bugging you?"}
+{"word": ["Burrito"], "author": "OnlyU2"}
+{"word": ["\u00a0 Food"], "author": "Am I bugging you?"}
+{"word": ["Nourishment"], "author": "OnlyU2"}
+{"word": ["fruit"], "author": "bonobuzz"}
+{"word": ["Lemon"], "author": "OnlyU2"}
+{"word": ["Meringue"], "author": "jabw10"}
+{"word": ["Pie"], "author": "OnlyU2"}
+{"word": ["\u00a0 Apple"], "author": "Am I bugging you?"}
+{"word": ["cake"], "author": "Inishfree"}
+{"word": ["Birthday"], "author": "bonobuzz"}
+{"word": ["PARTY!!"], "author": "mdmomof7"}
+{"word": ["balloons"], "author": "trlica"}
+{"word": ["Helium"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Gas"], "author": "OnlyU2"}
+{"word": ["Petrol"], "author": "mdmomof7"}
+{"word": ["Fuel"], "author": "OnlyU2"}
+{"word": ["octane"], "author": "mdmomof7"}
+{"word": ["\u00a0 High"], "author": "Am I bugging you?"}
+{"word": ["Low"], "author": "Inishfree"}
+{"word": ["Ground"], "author": "Shesgonnadreamoutloud"}
+{"word": ["\u00a0 Dirt"], "author": "Am I bugging you?"}
+{"word": ["Soil"], "author": "theocean"}
+{"word": ["Gardening"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Weeding"], "author": "mdmomof7"}
+{"word": ["Outdoors"], "author": "A_Fly_On_The_Wall"}
+{"word": ["hiking"], "author": "theocean"}
+{"word": ["Trail"], "author": "OnlyU2"}
+{"word": ["\u00a0 Bike"], "author": "Am I bugging you?"}
+{"word": ["Trails"], "author": "Inishfree"}
+{"word": ["Adventure"], "author": "A_Fly_On_The_Wall"}
+{"word": ["voyage"], "author": "theocean"}
+{"word": ["\u00a0 Space"], "author": "Am I bugging you?"}
+{"word": ["galaxy"], "author": "theocean"}
+{"word": ["Enterprise"], "author": "mdmomof7"}
+{"word": ["Corporation"], "author": "OnlyU2"}
+{"word": ["Company"], "author": "theocean"}
+{"word": ["Business"], "author": "OnlyU2"}
+{"word": ["working"], "author": "EnduringChill"}
+{"word": ["retired"], "author": "theocean"}
+{"word": ["\u00a0 Holiday"], "author": "Am I bugging you?"}
+{"word": ["Vacation"], "author": "OnlyU2"}
+{"word": ["cruise"], "author": "theocean"}
+{"word": ["control"], "author": "EnduringChill"}
+{"word": ["Out of"], "author": "Pride"}
+{"word": ["Exit"], "author": "singnomore"}
+{"word": ["Door"], "author": "trlica"}
+{"word": ["Entrance"], "author": "OnlyU2"}
+{"word": ["threshold"], "author": "Inishfree"}
+{"word": ["Entryway"], "author": "theocean"}
+{"word": ["passage"], "author": "EnduringChill"}
+{"word": ["travel"], "author": "Inishfree"}
+{"word": ["plane"], "author": "trlica"}
+{"word": ["jet"], "author": "theocean"}
+{"word": ["skiing"], "author": "trlica"}
+{"word": ["surfing"], "author": "theocean"}
+{"word": ["waves"], "author": "Snowmoon"}
+{"word": ["sharks......"], "author": "theocean"}
+{"word": ["Teeth"], "author": "EnduringChill"}
+{"word": ["White"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Snow"], "author": "Pride"}
+{"word": ["Ball"], "author": "trlica"}
+{"word": ["Beach"], "author": "EnduringChill"}
+{"word": ["A ways away."], "author": "Pride"}
+{"word": ["China"], "author": "trlica"}
+{"word": ["doll"], "author": "Inishfree"}
+{"word": ["babyface"], "author": "Pride"}
+{"word": ["newborn"], "author": "theocean"}
+{"word": ["Child"], "author": "Pride"}
+{"word": ["games"], "author": "trlica"}
+{"word": ["Monopoly"], "author": "UnknownCaller98"}
+{"word": ["Hotel"], "author": "OnlyU2"}
+{"word": ["Luxury"], "author": "trlica"}
+{"word": ["Diamonds"], "author": "theocean"}
+{"word": ["Girl\u00a0"], "author": "trlica"}
+{"word": ["boy"], "author": "theocean"}
+{"word": ["Ball"], "author": "trlica"}
+{"word": ["playing"], "author": "EnduringChill"}
+{"word": ["beach"], "author": "trlica"}
+{"word": ["sand"], "author": "theocean"}
+{"word": ["castle"], "author": "OnlyU2"}
+{"word": ["Spain"], "author": "Pride"}
+{"word": ["Madrid"], "author": "Inishfree"}
+{"word": ["\u00a0 Soccer"], "author": "Am I bugging you?"}
+{"word": ["Ball"], "author": "2_Shots_Of_Lemon"}
+{"word": ["\u00a0 Games"], "author": "Am I bugging you?"}
+{"word": ["Thrones"], "author": "sebastianIM"}
+{"word": ["Kingdom"], "author": "bonobuzz"}
+{"word": ["Grapes\u00a0"], "author": "trlica"}
+{"word": ["\u00a0 Wine"], "author": "Am I bugging you?"}
+{"word": ["cheese"], "author": "trlica"}
+{"word": ["mouse"], "author": "trlica"}
+{"word": ["\u00a0 Cat"], "author": "Am I bugging you?"}
+{"word": ["biscuits"], "author": "trlica"}
+{"word": ["\u00a0 Milk"], "author": "Am I bugging you?"}
+{"word": ["cereal"], "author": "trlica"}
+{"word": ["number"], "author": "Pride"}
+{"word": ["letter"], "author": "trlica"}
+{"word": ["Post"], "author": "mulls"}
+{"word": ["office"], "author": "Inishfree"}
+{"word": ["papers"], "author": "trlica"}
+{"word": ["\u00a0 News"], "author": "Am I bugging you?"}
+{"word": ["reading"], "author": "EnduringChill"}
+{"word": ["glasses"], "author": "theocean"}
+{"word": ["face"], "author": "EnduringChill"}
+{"word": ["\u00a0 Eyes"], "author": "Am I bugging you?"}
+{"word": ["lashes"], "author": "theocean"}
+{"word": ["\u00a0 Mascara"], "author": "Am I bugging you?"}
+{"word": ["Coon Rapids"], "author": "Pride"}
+{"word": ["place"], "author": "EnduringChill"}
+{"word": ["house"], "author": "FerrrCavalcanti"}
+{"word": ["hug"], "author": "OnlyU2"}
+{"word": ["\u00a0 Bear"], "author": "Am I bugging you?"}
+{"word": ["Necessities"], "author": "Pride"}
+{"word": ["Needs"], "author": "theocean"}
+{"word": ["Jungle"], "author": "trlica"}
+{"word": ["\u00a0 Song"], "author": "Am I bugging you?"}
+{"word": ["music"], "author": "trlica"}
+{"word": ["Drugs"], "author": "UnknownCaller98"}
+{"word": ["Disease"], "author": "OnlyU2"}
+{"word": ["\u00a0 Cure"], "author": "Am I bugging you?"}
+{"word": ["\u00a0 Faith"], "author": "Am I bugging you?"}
+{"word": ["war"], "author": "EnduringChill"}
+{"word": ["\u00a0 Girl"], "author": "Am I bugging you?"}
+{"word": ["Sister"], "author": "OnlyU2"}
+{"word": ["Brother"], "author": "jabw10"}
+{"word": ["Mate"], "author": "theocean"}
+{"word": ["partner"], "author": "EnduringChill"}
+{"word": ["\u00a0 Howdy"], "author": "Am I bugging you?"}
+{"word": ["\u00a0 Cushion"], "author": "Am I bugging you?"}
+{"word": ["rug"], "author": "codeguy"}
+{"word": ["mat"], "author": "OnlyU2"}
+{"word": ["Tress"], "author": "jabw10"}
+{"word": ["chair"], "author": "trlica"}
+{"word": ["trip"], "author": "codeguy"}
+{"word": ["winter"], "author": "OnlyU2"}
+{"word": ["coat"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Warmth"], "author": "UnknownCaller98"}
+{"word": ["Fire"], "author": "jabw10"}
+{"word": ["Burn"], "author": "UnknownCaller98"}
+{"word": ["Thing"], "author": "EnduringChill"}
+{"word": ["Squish"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Nip"], "author": "theocean"}
+{"word": ["Shirt"], "author": "Shesgonnadreamoutloud"}
+{"word": ["Tail"], "author": "jabw10"}
+{"word": ["Hem"], "author": "theocean"}
+{"word": ["needle"], "author": "EnduringChill"}
+{"word": ["bug"], "author": "theocean"}
+{"word": ["annoy"], "author": "OnlyU2"}
+{"word": ["celery"], "author": "OnlyU2"}
+{"word": ["Sticks"], "author": "jabw10"}
+{"word": ["Stones"], "author": "OnlyU2"}
+{"word": ["Bones"], "author": "jabw10"}
+{"word": ["Archaeology"], "author": "Shesgonnadreamoutloud"}
+{"word": ["phaeroh"], "author": "EnduringChill"}
+{"word": ["King"], "author": "OnlyU2"}
+{"word": ["\u00a0 Cushion"], "author": "Am I bugging you?"}
+{"word": ["Pillow!"], "author": "theocean"}
+{"word": ["\u00a0 Sleep"], "author": "Am I bugging you?"}
+{"word": ["Number"], "author": "jabw10"}
+{"word": ["\u00a0 Blanket"], "author": "Am I bugging you?"}
+{"word": ["Soft"], "author": "trlica"}
+{"word": ["\u00a0 Feel"], "author": "Am I bugging you?"}
+{"word": ["emotion"], "author": "EnduringChill"}
+{"word": ["grey"], "author": "Pride"}
+{"word": ["\u00a0 Limit"], "author": "Am I bugging you?"}
+{"word": ["Less"], "author": "jabw10"}
+{"word": ["more"], "author": "codeguy"}
+{"word": ["\u00a0 Enough"], "author": "Am I bugging you?"}
+{"word": ["good"], "author": "codeguy"}
+{"word": ["/girl"], "author": "miryclay"}
+{"word": ["pink"], "author": "trlica"}
+{"word": ["wedding"], "author": "codeguy"}
+{"word": ["Rite"], "author": "theocean"}
+{"word": ["Aid"], "author": "jabw10"}
+{"word": ["Assistance"], "author": "OnlyU2"}
+{"word": ["Southern"], "author": "horizon"}
+{"word": ["chicken"], "author": "horizon"}
+{"word": ["eggs"], "author": "theocean"}
+{"word": ["arnold"], "author": "OnlyU2"}
+{"word": ["\u00a0 Bono"], "author": "Am I bugging you?"}
+{"word": ["Sunglasses"], "author": "UnknownCaller98"}
+{"word": ["Lotion"], "author": "Bhawx10"}
+{"word": ["\u00a0summer"], "author": "trlica"}
+{"word": ["\u00a0 Hot"], "author": "Am I bugging you?"}
+{"word": ["Dog"], "author": "Bhawx10"}
+{"word": ["\u00a0 Walk"], "author": "Am I bugging you?"}
+{"word": ["follow"], "author": "theocean"}
+{"word": ["\u00a0 Leader"], "author": "Am I bugging you?"}
+{"word": ["strong"], "author": "trlica"}
+{"word": ["\u00a0 Turf"], "author": "Am I bugging you?"}
+{"word": ["field"], "author": "~Ultra*U2*Love~"}
+{"word": ["flowers"], "author": "trlica"}
+{"word": ["petals"], "author": "~Ultra*U2*Love~"}
+{"word": ["\u00a0 Track"], "author": "Am I bugging you?"}
+{"word": ["race"], "author": "~Ultra*U2*Love~"}
+{"word": ["\u00a0 Car"], "author": "Am I bugging you?"}
+{"word": ["drive"], "author": "~Ultra*U2*Love~"}
+{"word": ["Ride"], "author": "theocean"}
+{"word": ["roll"], "author": "EnduringChill"}
+{"word": ["tumble"], "author": "~Ultra*U2*Love~"}
+{"word": ["\u00a0 Fall"], "author": "Am I bugging you?"}
+{"word": ["Spring"], "author": "Lizard"}
+{"word": ["\u00a0 Board"], "author": "Am I bugging you?"}
+{"word": ["School"], "author": "trlica"}
+{"word": ["class"], "author": "EnduringChill"}
+{"word": ["Books"], "author": "WookieeWarrior10"}
+{"word": ["Meaningful"], "author": "WookieeWarrior10"}
+{"word": ["Pointless"], "author": "EnduringChill"}
+{"word": ["\u00a0 Exercise"], "author": "Am I bugging you?"}
+{"word": ["Effort"], "author": "WookieeWarrior10"}
+{"word": ["struggle"], "author": "EnduringChill"}
+{"word": ["difficulty"], "author": "OnlyU2"}
+{"word": ["Hard"], "author": "EnduringChill"}
+{"word": ["\u00a0 Steel"], "author": "Am I bugging you?"}
+{"word": ["up"], "author": "EnduringChill"}
+{"word": ["Side"], "author": "jabw10"}
+{"word": ["Diagonal"], "author": "Pride"}
+{"word": ["sliced"], "author": "EnduringChill"}
+{"word": ["Diced"], "author": "WookieeWarrior10"}
+{"word": ["\u00a0 Onion"], "author": "Am I bugging you?"}
+{"word": ["peel"], "author": "EnduringChill"}
+{"word": ["Orange"], "author": "WookieeWarrior10"}
+{"word": ["\u00a0 Crush"], "author": "Am I bugging you?"}
+{"word": ["Love"], "author": "EnduringChill"}
+{"word": ["Shack"], "author": "jabw10"}
+{"word": ["house"], "author": "EnduringChill"}
+{"word": ["red"], "author": "trlica"}
+{"word": ["blue"], "author": "EnduringChill"}
+{"word": ["Shoe"], "author": "jabw10"}
+{"word": ["\u00a0 Lace"], "author": "Am I bugging you?"}
+{"word": ["Brick"], "author": "WookieeWarrior10"}
+{"word": ["Thick"], "author": "EnduringChill"}
+{"word": ["sauce"], "author": "trlica"}
+{"word": ["alcohol"], "author": "EnduringChill"}
+{"word": ["Wipe"], "author": "jabw10"}
+{"word": ["antibacterial"], "author": "trlica"}
+{"word": ["soap"], "author": "EnduringChill"}
+{"word": ["scum"], "author": "imaginary friend"}
+{"word": ["\u00a0 Bag"], "author": "Am I bugging you?"}
+{"word": ["brown"], "author": "EnduringChill"}
+{"word": ["wood"], "author": "trlica"}
+{"word": ["\u00a0 Norwegian"], "author": "Am I bugging you?"}
+{"word": ["Poor"], "author": "WookieeWarrior10"}
+{"word": ["rich"], "author": "EnduringChill"}
+{"word": ["chocolate"], "author": "jabw10"}
+{"word": ["Dark"], "author": "WookieeWarrior10"}
+{"word": ["\u00a0 Crystal"], "author": "Am I bugging you?"}
+{"word": ["Ballroom"], "author": "jabw10"}
+{"word": ["Dance"], "author": "trlica"}
+{"word": ["Spin"], "author": "EnduringChill"}
+{"word": ["Round"], "author": "jabw10"}
+{"word": ["Table"], "author": "WookieeWarrior10"}
+{"word": ["armor"], "author": "EnduringChill"}
+{"word": ["Plated"], "author": "jabw10"}
+{"word": ["Shell"], "author": "jabw10"}
+{"word": ["nut"], "author": "EnduringChill"}
+{"word": ["Butter"], "author": "Bhawx10"}
+{"word": ["bread"], "author": "EnduringChill"}
+{"word": ["Pudding"], "author": "jabw10"}
+{"word": ["Yogurt"], "author": "Pride"}
+{"word": ["\u00a0 Greek"], "author": "Am I bugging you?"}
+{"word": ["Tragedy"], "author": "jabw10"}
+{"word": ["agony"], "author": "EnduringChill"}
+{"word": ["Defeat"], "author": "jabw10"}
+{"word": ["battle"], "author": "EnduringChill"}
+{"word": ["Cry"], "author": "WookieeWarrior10"}
+{"word": ["\u00a0 Electric"], "author": "Am I bugging you?"}
+{"word": ["Road"], "author": "EnduringChill"}
+{"word": ["Trip"], "author": "jabw10"}
+{"word": ["Wires (heh)"], "author": "EnduringChill"}
+{"word": ["Strings"], "author": "Pride"}
+{"word": ["\u00a0 Puppets"], "author": "Am I bugging you?"}
+{"word": ["Co"], "author": "WookieeWarrior10"}
+{"word": ["Worker"], "author": "EnduringChill"}
+{"word": ["Man"], "author": "Bhawx10"}
+{"word": ["Boy"], "author": "WookieeWarrior10"}
+{"word": ["Fighting"], "author": "EnduringChill"}
+{"word": ["Peace"], "author": "trlica"}
+{"word": ["Child"], "author": "jabw10"}
+{"word": ["Mother"], "author": "horizon"}
+{"word": ["\u00a0 Son"], "author": "Am I bugging you?"}
+{"word": ["Boy"], "author": "horizon"}
+{"word": ["Girl"], "author": "trlica"}
+{"word": ["Friend"], "author": "jabw10"}
+{"word": ["sea"], "author": "trlica"}
+{"word": ["\u00a0 Sick"], "author": "Am I bugging you?"}
+{"word": ["Love"], "author": "jabw10"}
+{"word": ["Games"], "author": "trlica"}
+{"word": ["Football"], "author": "WookieeWarrior10"}
+{"word": ["Green"], "author": "trlica"}
+{"word": ["\u00a0 Grass"], "author": "Am I bugging you?"}
+{"word": ["\u00a0 Plant"], "author": "Am I bugging you?"}
+{"word": ["Farm"], "author": "WookieeWarrior10"}
+{"word": ["Dairy"], "author": "Nikki_Silver"}
+{"word": ["Freddy"], "author": "WookieeWarrior10"}
+{"word": ["\u00a0 Switch"], "author": "Am I bugging you?"}
+{"word": ["Plate"], "author": "jabw10"}
+{"word": ["Dinner"], "author": "trlica"}
+{"word": ["church"], "author": "trlica"}
+{"word": ["Sunday"], "author": "OnlyU2"}
+{"word": ["rain"], "author": "trlica"}
+{"word": ["Storm"], "author": "jabw10"}
+{"word": ["clouds"], "author": "Nikki_Silver"}
+{"word": ["Sun"], "author": "trlica"}
+{"word": ["Shine"], "author": "jabw10"}
+{"word": ["Clean"], "author": "trlica"}
+{"word": ["Sweep"], "author": "jabw10"}
+{"word": ["Bowl"], "author": "Nikki_Silver"}
+{"word": ["\u00a0 Super"], "author": "Am I bugging you?"}
+{"word": ["Man"], "author": "TheRealEdge"}
+{"word": ["Woman"], "author": "trlica"}
+{"word": ["\u00a0 People"], "author": "Am I bugging you?"}
+{"word": ["Watching"], "author": "jabw10"}
+{"word": ["TV"], "author": "trlica"}
+{"word": ["Dinner"], "author": "jabw10"}
+{"word": ["\u00a0"], "author": "trlica"}
+{"word": ["\u00a0"], "author": "TheRealEdge"}
+{"word": ["\u00a0"], "author": "jabw10"}
+{"word": ["Surprise"], "author": "Nikki_Silver"}
+{"word": ["Shock"], "author": "EnduringChill"}
+{"word": ["Therapy"], "author": "jabw10"}
+{"word": ["Help"], "author": "Nikki_Silver"}
+{"word": ["Desk"], "author": "jabw10"}
+{"word": ["Chair"], "author": "Nikki_Silver"}
+{"word": ["\u00a0 Electric"], "author": "Am I bugging you?"}
+{"word": ["Power"], "author": "trlica"}
+{"word": ["Saw"], "author": "Nikki_Silver"}
+{"word": ["Three"], "author": "trlica"}
+{"word": ["little kittens"], "author": "Nikki_Silver"}
+{"word": ["babies\u00a0"], "author": "trlica"}
+{"word": ["Donald trump"], "author": "Nikki_Silver"}
+{"word": ["\u00a0 Fired"], "author": "Am I bugging you?"}
+{"word": ["Jobless"], "author": "trlica"}
+{"word": ["Rate"], "author": "jabw10"}
+{"word": ["tax"], "author": "trlica"}
+{"word": ["U2"], "author": "TheRealEdge"}
+{"word": ["money"], "author": "trlica"}
+{"word": ["greed"], "author": "trlica"}
+{"word": ["Scrooge"], "author": "theocean"}
+{"word": ["A Christmas Carol"], "author": "Nikki_Silver"}
+{"word": ["\u00a0 Song"], "author": "Am I bugging you?"}
+{"word": ["Dance"], "author": "Nikki_Silver"}
+{"word": ["Lights"], "author": "trlica"}
+{"word": ["christmas"], "author": "TheRealEdge"}
+{"word": ["Tree"], "author": "jabw10"}
+{"word": ["Joshua"], "author": "WookieeWarrior10"}
+{"word": ["Israel"], "author": "TheRealEdge"}
+{"word": ["War"], "author": "trlica"}
+{"word": ["\u00a0 Green"], "author": "Am I bugging you?"}
+{"word": ["red"], "author": "EnduringChill"}
+{"word": ["Dye"], "author": "jabw10"}
+{"word": ["Hair"], "author": "trlica"}
+{"word": ["don't"], "author": "OnlyU2"}
+{"word": ["laugh"], "author": "trlica"}
+{"word": ["Strong"], "author": "Nikki_Silver"}
+{"word": ["Powerful"], "author": "OnlyU2"}
+{"word": ["Money\u00a0"], "author": "trlica"}
+{"word": ["Penny"], "author": "jabw10"}
+{"word": ["Bronze"], "author": "trlica"}
+{"word": ["Class"], "author": "jabw10"}
+{"word": ["Circus"], "author": "trlica"}
+{"word": ["camping"], "author": "trlica"}
+{"word": ["\u00a0 Fire"], "author": "Am I bugging you?"}
+{"word": ["flame"], "author": "EnduringChill"}
+{"word": ["Candle"], "author": "trlica"}
+{"word": ["wax"], "author": "OnlyU2"}
+{"word": ["bees"], "author": "trlica"}
+{"word": ["toes"], "author": "EnduringChill"}
+{"word": ["feet"], "author": "trlica"}
+{"word": ["inches"], "author": "OnlyU2"}
+{"word": ["\u00a0 Imperial"], "author": "Am I bugging you?"}
+{"word": ["Pub"], "author": "trlica"}
+{"word": ["Pint"], "author": "WookieeWarrior10"}
+{"word": ["Glass"], "author": "trlica"}
+{"word": ["\u00a0 Smash"], "author": "Am I bugging you?"}
+{"word": ["Winter"], "author": "EnduringChill"}
+{"word": ["\u00a0 Chill"], "author": "Am I bugging you?"}
+{"word": ["Out"], "author": "jabw10"}
+{"word": ["Door"], "author": "trlica"}
+{"word": ["\u00a0 Open"], "author": "Am I bugging you?"}
+{"word": ["eye"], "author": "trlica"}
+{"word": ["nose"], "author": "trlica"}
+{"word": ["\u00a0 Bleed"], "author": "Am I bugging you?"}
+{"word": ["Red"], "author": "EnduringChill"}
+{"word": ["apple"], "author": "trlica"}
+{"word": ["Green."], "author": "WookieeWarrior10"}
+{"word": ["Day"], "author": "ultravioletlight"}
+{"word": ["New York"], "author": "trlica"}
+{"word": ["City"], "author": "WookieeWarrior10"}
+{"word": ["times"], "author": "EnduringChill"}
+{"word": ["\u00a0 Education"], "author": "Am I bugging you?"}
+{"word": ["Teacher"], "author": "ultravioletlight"}
+{"word": ["computer"], "author": "ultravioletlight"}
+{"word": ["Glasses"], "author": "trlica"}
+{"word": ["Geek"], "author": "OnlyU2"}
+{"word": ["School"], "author": "trlica"}
+{"word": ["\u00a0 Sunny"], "author": "Am I bugging you?"}
+{"word": ["bright"], "author": "EnduringChill"}
+{"word": ["smart"], "author": "OnlyU2"}
+{"word": ["genius"], "author": "Snowmoon"}
+{"word": ["Einstein"], "author": "OnlyU2"}
+{"word": ["Toasted"], "author": "WookieeWarrior10"}
+{"word": ["peas"], "author": "EnduringChill"}
+{"word": ["green"], "author": "Inishfree"}
+{"word": ["\u00a0 Grass"], "author": "Am I bugging you?"}
+{"word": ["\u00a0 Slavery"], "author": "Am I bugging you?"}
+{"word": ["pain"], "author": "trlica"}
+{"word": ["injustice"], "author": "Inishfree"}
+{"word": ["life"], "author": "trlica"}
+{"word": ["beginning"], "author": "trlica"}
+{"word": ["\u00a0 Start"], "author": "Am I bugging you?"}
+{"word": ["bottom"], "author": "EnduringChill"}
+{"word": ["show"], "author": "trlica"}
+{"word": ["pink"], "author": "trlica"}
+{"word": ["\u00a0 Ladies"], "author": "Am I bugging you?"}
+{"word": ["Gentlemen"], "author": "OnlyU2"}
+{"word": ["Rain"], "author": "Nikki_Silver"}
+{"word": ["Umbrella"], "author": "trlica"}
+{"word": ["\u00a0 Under"], "author": "Am I bugging you?"}
+{"word": ["Blanket"], "author": "trlica"}
+{"word": ["huggs"], "author": "Inishfree"}
+{"word": ["\u00a0 Compromise"], "author": "Am I bugging you?"}
+{"word": ["marriage"], "author": "trlica"}
+{"word": ["The Sweetest Thing"], "author": "PopMart"}
+{"word": ["\u00a0 Honey"], "author": "Am I bugging you?"}
+{"word": ["Winnie The Pooh\u00a0"], "author": "trlica"}
+{"word": ["A teddy bear"], "author": "World71R"}
+{"word": ["best friend"], "author": "trlica"}
+{"word": ["A helping hand"], "author": "World71R"}
+{"word": ["trust"], "author": "trlica"}
+{"word": ["30"], "author": "imaginary friend"}
+{"word": ["years"], "author": "trlica"}
+{"word": ["star"], "author": "trlica"}
+{"word": ["Threat"], "author": "WookieeWarrior10"}
+{"word": ["Nuclear"], "author": "World71R"}
+{"word": ["War"], "author": "trlica"}
+{"word": ["headache"], "author": "trlica"}
+{"word": ["Suitcase"], "author": "WookieeWarrior10"}
+{"word": ["Business"], "author": "World71R"}
+{"word": ["Stress"], "author": "trlica"}
+{"word": ["relaxation"], "author": "trlica"}
+{"word": ["music"], "author": "trlica"}
+{"word": ["Entertainment"], "author": "WookieeWarrior10"}
+{"word": ["\u00a0 Performance"], "author": "Am I bugging you?"}
+{"word": ["relaxed"], "author": "trlica"}
+{"word": ["short"], "author": "trlica"}
+{"word": ["\u00a0 Midget"], "author": "Am I bugging you?"}
+{"word": ["Offended\u00a0 \u00a0"], "author": "Samantha"}
+{"word": ["odor"], "author": "imaginary friend"}
+{"word": ["trail"], "author": "imaginary friend"}
+{"word": ["train"], "author": "trlica"}
+{"word": ["\u00a0 Exercise"], "author": "Am I bugging you?"}
+{"word": ["shorts"], "author": "trlica"}
+{"word": ["\u00a0 Cinema"], "author": "Am I bugging you?"}
+{"word": ["popcorn"], "author": "trlica"}
+{"word": ["candy"], "author": "codeguy"}
+{"word": ["sugar"], "author": "trlica"}
+{"word": ["apple"], "author": "trlica"}
+{"word": ["\u00a0 Look"], "author": "Am I bugging you?"}
+{"word": ["Down"], "author": "EnduringChill"}
+{"word": ["Ground"], "author": "Volcanogirl"}
+{"word": ["Floor"], "author": "EnduringChill"}
+{"word": ["\u00a0 Rug"], "author": "Am I bugging you?"}
+{"word": ["Health"], "author": "EnduringChill"}
+{"word": ["insurance"], "author": "riffraff"}
+{"word": ["auto"], "author": "EnduringChill"}
+{"word": ["Wheels"], "author": "Volcanogirl"}
+{"word": ["Bus"], "author": "EnduringChill"}
+{"word": ["Bike"], "author": "Volcanogirl"}
+{"word": ["crash!"], "author": "riffraff"}
+{"word": ["accident"], "author": "OnlyU2"}
+{"word": ["\u00a0 Damage"], "author": "Am I bugging you?"}
+{"word": ["insurance"], "author": "trlica"}
+{"word": ["house"], "author": "theocean"}
+{"word": ["dirty"], "author": "riffraff"}
+{"word": ["laundry"], "author": "Volcanogirl"}
+{"word": ["clothes"], "author": "OnlyU2"}
+{"word": ["poverty"], "author": "Inishfree"}
+{"word": ["donate"], "author": "riffraff"}
+{"word": ["Dollars"], "author": "Volcanogirl"}
+{"word": ["food"], "author": "trlica"}
+{"word": ["Pudding"], "author": "theocean"}
+{"word": ["figgy"], "author": "riffraff"}
+{"word": ["\u00a0"], "author": "WookieeWarrior10"}
+{"word": ["cookie"], "author": "theocean"}
+{"word": ["crumbs (on my table?)"], "author": "riffraff"}
+{"word": ["puff pastry"], "author": "Volcanogirl"}
+{"word": ["cheese danish"], "author": "theocean"}
+{"word": ["cheese head"], "author": "riffraff"}
+{"word": ["bald head"], "author": "Volcanogirl"}
+{"word": ["(you guys know this isn't drop a word and add a word, right?)"], "author": "WookieeWarrior10"}
+{"word": ["red (turning red when you almost explode ....)"], "author": "Volcanogirl"}
+{"word": ["green"], "author": "Lizard"}
+{"word": ["beer"], "author": "riffraff"}
+{"word": ["root beer"], "author": "theocean"}
+{"word": ["bottle"], "author": "trlica"}
+{"word": ["Wine"], "author": "Volcanogirl"}
+{"word": ["barf"], "author": "riffraff"}
+{"word": ["pain"], "author": "trlica"}
+{"word": ["cube"], "author": "OnlyU2"}
+{"word": ["hip hop"], "author": "Volcanogirl"}
+{"word": ["music"], "author": "trlica"}
+{"word": ["guitar"], "author": "theocean"}
+{"word": ["\u00a0 Edge"], "author": "Am I bugging you?"}
+{"word": ["whimper"], "author": "riffraff"}
+{"word": ["woof"], "author": "riffraff"}
+{"word": ["Miauw"], "author": "Volcanogirl"}
+{"word": ["claws"], "author": "riffraff"}
+{"word": ["presents!"], "author": "riffraff"}
+{"word": ["doll"], "author": "Volcanogirl"}
+{"word": ["Adam"], "author": "riffraff"}
+{"word": ["Eve"], "author": "theocean"}
+{"word": ["serpent"], "author": "riffraff"}
+{"word": ["Sid"], "author": "theocean"}
+{"word": ["Barrett"], "author": "WookieeWarrior10"}
+{"word": ["Shoes"], "author": "Volcanogirl"}
+{"word": ["velvet dress"], "author": "riffraff"}
+{"word": ["love"], "author": "theocean"}
+{"word": ["rock-n-roll"], "author": "riffraff"}
+{"word": ["Rock Star (bono)"], "author": "theocean"}
+{"word": ["shine"], "author": "riffraff"}
+{"word": ["on"], "author": "riffraff"}
+{"word": ["Me\u00a0"], "author": "Volcanogirl"}
+{"word": ["Joplin!"], "author": "riffraff"}
+{"word": ["Janice"], "author": "WookieeWarrior10"}
+{"word": ["Hippy"], "author": "Volcanogirl"}
+{"word": ["Woodstock"], "author": "theocean"}
+{"word": ["Hendrix"], "author": "riffraff"}
+{"word": ["Indulge"], "author": "WookieeWarrior10"}
+{"word": ["reward"], "author": "Inishfree"}
+{"word": ["grace"], "author": "riffraff"}
+{"word": ["girl"], "author": "Inishfree"}
+{"word": ["friend"], "author": "riffraff"}
+{"word": ["Kind"], "author": "Volcanogirl"}
+{"word": ["BEAUTIFUL !"], "author": "riffraff"}
+{"word": ["Holy"], "author": "riffraff"}
+{"word": ["crap\u00a0"], "author": "Volcanogirl"}
+{"word": ["funny!"], "author": "riffraff"}
+{"word": ["laughing..."], "author": "riffraff"}
+{"word": ["amusing"], "author": "OnlyU2"}
+{"word": ["pleasing"], "author": "Volcanogirl"}
+{"word": ["massage"], "author": "riffraff"}
+{"word": ["relaxing"], "author": "trlica"}
+{"word": ["music"], "author": "riffraff"}
+{"word": ["disco"], "author": "OnlyU2"}
+{"word": ["swindle"], "author": "theocean"}
+{"word": ["politicians"], "author": "Bhawx10"}
+{"word": ["Trump"], "author": "WookieeWarrior10"}
+{"word": ["Gross\u00a0 \u00a0"], "author": "Volcanogirl"}
+{"word": ["barf"], "author": "riffraff"}
+{"word": ["nauseating"], "author": "OnlyU2"}
+{"word": ["b.t.b."], "author": "riffraff"}
+{"word": ["bless"], "author": "riffraff"}
+{"word": ["BTO"], "author": "imaginary friend"}
+{"word": ["Food"], "author": "trlica"}
+{"word": ["rye"], "author": "imaginary friend"}
+{"word": ["beer"], "author": "riffraff"}
+{"word": ["Dill"], "author": "OnlyU2"}
+{"word": ["Tomato"], "author": "trlica"}
+{"word": ["Cheese (hey i'm a Dutch girl!)"], "author": "Volcanogirl"}
+{"word": ["whiz"], "author": "riffraff"}
+{"word": ["smart"], "author": "Inishfree"}
+{"word": ["jeans"], "author": "trlica"}
+{"word": ["Quitar"], "author": "Volcanogirl"}
+{"word": ["zippers"], "author": "riffraff"}
+{"word": ["Button"], "author": "Volcanogirl"}
+{"word": ["\u00a0 Remote"], "author": "Am I bugging you?"}
+{"word": ["control"], "author": "riffraff"}
+{"word": ["airplane"], "author": "trlica"}
+{"word": ["wheeeee"], "author": "riffraff"}
+{"word": ["Adventure"], "author": "trlica"}
+{"word": ["vacation"], "author": "theocean"}
+{"word": ["April"], "author": "riffraff"}
+{"word": ["Fool"], "author": "Volcanogirl"}
+{"word": ["bible"], "author": "theocean"}
+{"word": ["mom"], "author": "riffraff"}
+{"word": ["Parent"], "author": "A_Fly_On_The_Wall"}
+{"word": ["child"], "author": "Volcanogirl"}
+{"word": ["games"], "author": "trlica"}
+{"word": ["mind"], "author": "riffraff"}
+{"word": ["sanity"], "author": "OnlyU2"}
+{"word": ["non-existant"], "author": "riffraff"}
+{"word": ["husband"], "author": "OnlyU2"}
+{"word": ["eek!"], "author": "riffraff"}
+{"word": ["Spider"], "author": "Volcanogirl"}
+{"word": ["run!"], "author": "riffraff"}
+{"word": ["chicken"], "author": "trlica"}
+{"word": ["\u00a0 Breast"], "author": "Am I bugging you?"}
+{"word": ["tattoo"], "author": "riffraff"}
+{"word": ["Ink"], "author": "OnlyU2"}
+{"word": ["Spot"], "author": "Volcanogirl"}
+{"word": ["Black"], "author": "trlica"}
+{"word": ["White"], "author": "OnlyU2"}
+{"word": ["hands"], "author": "riffraff"}
+{"word": ["Healing"], "author": "Volcanogirl"}
+{"word": ["release"], "author": "riffraff"}
+{"word": ["peaceful"], "author": "OnlyU2"}
+{"word": ["Landscape"], "author": "Volcanogirl"}
+{"word": ["lavender"], "author": "riffraff"}
+{"word": ["herb"], "author": "theocean"}
+{"word": ["smoke"], "author": "riffraff"}
+{"word": ["cigarette"], "author": "OnlyU2"}
+{"word": ["menthol"], "author": "riffraff"}
+{"word": ["breathe"], "author": "riffraff"}
+{"word": ["air"], "author": "theocean"}
+{"word": ["clean"], "author": "riffraff"}
+{"word": ["save"], "author": "riffraff"}
+{"word": ["rescue"], "author": "OnlyU2"}
+{"word": ["me"], "author": "riffraff"}
+{"word": ["myself"], "author": "OnlyU2"}
+{"word": ["I"], "author": "riffraff"}
+{"word": ["eye"], "author": "OnlyU2"}
+{"word": ["black"], "author": "riffraff"}
+{"word": ["licorice"], "author": "OnlyU2"}
+{"word": ["red"], "author": "riffraff"}
+{"word": ["cherry"], "author": "OnlyU2"}
+{"word": ["lips"], "author": "riffraff"}
+{"word": ["sheet"], "author": "riffraff"}
+{"word": ["pillow"], "author": "theocean"}
+{"word": ["teddy bear"], "author": "riffraff"}
+{"word": ["Winnie the Pooh\u00a0 (I love him)\u00a0"], "author": "trlica"}
+{"word": ["Eeyore"], "author": "trlica"}
+{"word": ["Honey"], "author": "Volcanogirl"}
+{"word": ["wild"], "author": "riffraff"}
+{"word": ["adventurous"], "author": "theocean"}
+{"word": ["forest"], "author": "trlica"}
+{"word": ["Gump"], "author": "OnlyU2"}
+{"word": ["tail"], "author": "trlica"}
+{"word": ["dog"], "author": "OnlyU2"}
+{"word": ["Cat"], "author": "trlica"}
+{"word": ["Dinner"], "author": "Volcanogirl"}
+{"word": ["Kraft"], "author": "OnlyU2"}
+{"word": ["cheddar"], "author": "OnlyU2"}
+{"word": ["Mash"], "author": "Volcanogirl"}
+{"word": ["saute"], "author": "theocean"}
+{"word": ["cabbage"], "author": "trlica"}
+{"word": ["coleslaw"], "author": "OnlyU2"}
+{"word": ["BBQ"], "author": "Volcanogirl"}
+{"word": ["farts! (I'm back!)"], "author": "riffraff"}
+{"word": ["bean sprouts"], "author": "riffraff"}
+{"word": ["noise"], "author": "Volcanogirl"}
+{"word": ["quiet"], "author": "riffraff"}
+{"word": ["square"], "author": "riffraff"}
+{"word": ["people"], "author": "trlica"}
+{"word": ["Magazine"], "author": "WookieeWarrior10"}
+{"word": ["rifle"], "author": "OnlyU2"}
+{"word": ["Arrest"], "author": "Volcanogirl"}
+{"word": ["prison"], "author": "riffraff"}
+{"word": ["scary"], "author": "riffraff"}
+{"word": ["creepy"], "author": "theocean"}
+{"word": ["yikes"], "author": "riffraff"}
+{"word": ["btb"], "author": "riffraff"}
+{"word": ["Cell phone"], "author": "trlica"}
+{"word": ["communication"], "author": "riffraff"}
+{"word": ["Forum"], "author": "Volcanogirl"}
+{"word": ["\u00a0college"], "author": "riffraff"}
+{"word": ["assignments"], "author": "trlica"}
+{"word": ["cramming"], "author": "riffraff"}
+{"word": ["studying"], "author": "OnlyU2"}
+{"word": ["boring"], "author": "riffraff"}
+{"word": ["fractions"], "author": "riffraff"}
+{"word": ["Differential Equations...."], "author": "theocean"}
+{"word": ["Yikes !"], "author": "Volcanogirl"}
+{"word": ["oh no"], "author": "EnduringChill"}
+{"word": ["help"], "author": "riffraff"}
+{"word": ["sos"], "author": "theocean"}
+{"word": ["assist"], "author": "riffraff"}
+{"word": ["aid"], "author": "OnlyU2"}
+{"word": ["support"], "author": "riffraff"}
+{"word": ["bra"], "author": "OnlyU2"}
+{"word": ["uncomfortable"], "author": "riffraff"}
+{"word": ["awkward"], "author": "OnlyU2"}
+{"word": ["stupid"], "author": "riffraff"}
+{"word": ["idiotic"], "author": "OnlyU2"}
+{"word": ["men"], "author": "riffraff"}
+{"word": ["guys"], "author": "OnlyU2"}
+{"word": ["boys"], "author": "riffraff"}
+{"word": ["girls"], "author": "OnlyU2"}
+{"word": ["rule!"], "author": "riffraff"}
+{"word": ["Queen"], "author": "OnlyU2"}
+{"word": ["Freddie"], "author": "riffraff"}
+{"word": ["mercury"], "author": "OnlyU2"}
+{"word": ["temperature"], "author": "riffraff"}
+{"word": ["fever"], "author": "OnlyU2"}
+{"word": ["disco\u00a0 (ick!)"], "author": "riffraff"}
+{"word": ["boogie"], "author": "OnlyU2"}
+{"word": ["bling"], "author": "riffraff"}
+{"word": ["jewelry"], "author": "OnlyU2"}
+{"word": ["gold"], "author": "riffraff"}
+{"word": ["silver"], "author": "OnlyU2"}
+{"word": ["bullet"], "author": "riffraff"}
+{"word": ["ammunition"], "author": "OnlyU2"}
+{"word": ["uzi"], "author": "riffraff"}
+{"word": ["submachine"], "author": "OnlyU2"}
+{"word": ["peace"], "author": "riffraff"}
+{"word": ["tranquility"], "author": "OnlyU2"}
+{"word": ["Pacific"], "author": "riffraff"}
+{"word": ["Ocean"], "author": "OnlyU2"}
+{"word": ["great"], "author": "EnduringChill"}
+{"word": ["sea"], "author": "riffraff"}
+{"word": ["shells"], "author": "EnduringChill"}
+{"word": ["clams"], "author": "OnlyU2"}
+{"word": ["sand"], "author": "trlica"}
+{"word": ["castle"], "author": "riffraff"}
+{"word": ["kingdom"], "author": "OnlyU2"}
+{"word": ["God"], "author": "riffraff"}
+{"word": ["Lord"], "author": "OnlyU2"}
+{"word": ["thankful"], "author": "riffraff"}
+{"word": ["appreciative"], "author": "OnlyU2"}
+{"word": ["spiritual"], "author": "riffraff"}
+{"word": ["religious"], "author": "OnlyU2"}
+{"word": ["belief"], "author": "riffraff"}
+{"word": ["springs"], "author": "riffraff"}
+{"word": ["promise"], "author": "riffraff"}
+{"word": ["broken"], "author": "OnlyU2"}
+{"word": ["heart"], "author": "riffraff"}
+{"word": ["organ"], "author": "OnlyU2"}
+{"word": ["donor"], "author": "riffraff"}
+{"word": ["giver"], "author": "OnlyU2"}
+{"word": ["taker"], "author": "riffraff"}
+{"word": ["borrower"], "author": "EnduringChill"}
+{"word": ["lender"], "author": "riffraff"}
+{"word": ["spender"], "author": "EnduringChill"}
+{"word": ["money"], "author": "riffraff"}
+{"word": ["cash"], "author": "OnlyU2"}
+{"word": ["dollars"], "author": "EnduringChill"}
+{"word": ["Euro's"], "author": "Volcanogirl"}
+{"word": ["brexit"], "author": "riffraff"}
+{"word": ["Scotland"], "author": "riffraff"}
+{"word": ["kilts"], "author": "OnlyU2"}
+{"word": ["bagpipes"], "author": "riffraff"}
+{"word": ["cucumber"], "author": "riffraff"}
+{"word": ["pickle"], "author": "OnlyU2"}
+{"word": ["sour"], "author": "riffraff"}
+{"word": ["cream"], "author": "OnlyU2"}
+{"word": ["cheese"], "author": "riffraff"}
+{"word": ["swiss"], "author": "OnlyU2"}
+{"word": ["Alps"], "author": "riffraff"}
+{"word": ["chocolate"], "author": "trlica"}
+{"word": ["mousse"], "author": "riffraff"}
+{"word": ["holes"], "author": "trlica"}
+{"word": ["pockets"], "author": "riffraff"}
+{"word": ["coins"], "author": "trlica"}
+{"word": ["pennies"], "author": "riffraff"}
+{"word": ["bronze"], "author": "trlica"}
+{"word": ["brass"], "author": "EnduringChill"}
+{"word": ["ouch"], "author": "riffraff"}
+{"word": ["pain"], "author": "OnlyU2"}
+{"word": ["disappears"], "author": "riffraff"}
+{"word": ["vanishes"], "author": "OnlyU2"}
+{"word": ["gone"], "author": "riffraff"}
+{"word": ["dead"], "author": "OnlyU2"}
+{"word": ["reborn"], "author": "riffraff"}
+{"word": ["life"], "author": "OnlyU2"}
+{"word": ["eternal"], "author": "riffraff"}
+{"word": ["forever"], "author": "OnlyU2"}
+{"word": ["friends"], "author": "riffraff"}
+{"word": ["pals"], "author": "OnlyU2"}
+{"word": ["inseparable"], "author": "riffraff"}
+{"word": ["brothers"], "author": "trlica"}
+{"word": ["siblings"], "author": "OnlyU2"}
+{"word": ["faraway"], "author": "riffraff"}
+{"word": ["country"], "author": "trlica"}
+{"word": ["culture"], "author": "Inishfree"}
+{"word": ["monuments"], "author": "trlica"}
+{"word": ["grand"], "author": "riffraff"}
+{"word": ["piano"], "author": "OnlyU2"}
+{"word": ["beautiful"], "author": "riffraff"}
+{"word": ["cheese"], "author": "trlica"}
+{"word": ["crackers"], "author": "riffraff"}
+{"word": ["ritz"], "author": "OnlyU2"}
+{"word": ["hotel"], "author": "riffraff"}
+{"word": ["California"], "author": "OnlyU2"}
+{"word": ["cliffs"], "author": "riffraff"}
+{"word": ["rockies"], "author": "OnlyU2"}
+{"word": ["beer"], "author": "riffraff"}
+{"word": ["draft"], "author": "OnlyU2"}
+{"word": ["bottles"], "author": "riffraff"}
+{"word": ["picnic"], "author": "trlica"}
+{"word": ["volleyball"], "author": "riffraff"}
+{"word": ["net"], "author": "OnlyU2"}
+{"word": ["butterfly"], "author": "riffraff"}
+{"word": ["dreams"], "author": "riffraff"}
+{"word": ["Funny"], "author": "Volcanogirl"}
+{"word": ["crazy"], "author": "riffraff"}
+{"word": ["insane"], "author": "OnlyU2"}
+{"word": ["asylum"], "author": "riffraff"}
+{"word": ["hospital"], "author": "OnlyU2"}
+{"word": ["building"], "author": "trlica"}
+{"word": ["sidewalk"], "author": "riffraff"}
+{"word": ["crack"], "author": "OnlyU2"}
+{"word": ["butt"], "author": "riffraff"}
+{"word": ["bacon"], "author": "riffraff"}
+{"word": ["eggs"], "author": "theocean"}
+{"word": ["hungry"], "author": "riffraff"}
+{"word": ["starving"], "author": "OnlyU2"}
+{"word": ["feasting"], "author": "riffraff"}
+{"word": ["day"], "author": "trlica"}
+{"word": ["stuffed"], "author": "riffraff"}
+{"word": ["turkey"], "author": "OnlyU2"}
+{"word": ["dumplings"], "author": "riffraff"}
+{"word": ["apple"], "author": "OnlyU2"}
+{"word": ["pie"], "author": "riffraff"}
+{"word": ["tart"], "author": "OnlyU2"}
+{"word": ["hooker"], "author": "riffraff"}
+{"word": ["surgery"], "author": "riffraff"}
+{"word": ["scalpel"], "author": "OnlyU2"}
+{"word": ["stitches"], "author": "riffraff"}
+{"word": ["scar"], "author": "OnlyU2"}
+{"word": ["healing"], "author": "riffraff"}
+{"word": ["recovery"], "author": "OnlyU2"}
+{"word": ["meds"], "author": "riffraff"}
+{"word": ["drugs"], "author": "OnlyU2"}
+{"word": ["addiction"], "author": "riffraff"}
+{"word": ["dependency"], "author": "OnlyU2"}
+{"word": ["escape"], "author": "riffraff"}
+{"word": ["prison"], "author": "OnlyU2"}
+{"word": ["guards"], "author": "riffraff"}
+{"word": ["security"], "author": "OnlyU2"}
+{"word": ["lock"], "author": "trlica"}
+{"word": ["key"], "author": "riffraff"}
+{"word": ["Secret"], "author": "Volcanogirl"}
+{"word": ["mystery"], "author": "riffraff"}
+{"word": ["Sniper\u00a0 visitors can't see pics , please You are not allowed to view links."], "author": "Volcanogirl"}
+{"word": ["ugly"], "author": "riffraff"}
+{"word": ["duckling"], "author": "OnlyU2"}
+{"word": ["quack"], "author": "riffraff"}
+{"word": ["doctor"], "author": "OnlyU2"}
+{"word": ["surgeon"], "author": "riffraff"}
+{"word": ["plastic"], "author": "OnlyU2"}
+{"word": ["cup"], "author": "riffraff"}
+{"word": ["coffee"], "author": "OnlyU2"}
+{"word": ["mate"], "author": "riffraff"}
+{"word": ["Forumbuddy visitors can't see pics , please You are not allowed to view links."], "author": "Volcanogirl"}
+{"word": ["besties!"], "author": "riffraff"}
+{"word": ["pals"], "author": "OnlyU2"}
+{"word": ["amiga's"], "author": "riffraff"}
+{"word": ["Amis"], "author": "OnlyU2"}
+{"word": ["bellamia"], "author": "riffraff"}
+{"word": ["fruende"], "author": "OnlyU2"}
+{"word": ["companion"], "author": "riffraff"}
+{"word": ["travel"], "author": "OnlyU2"}
+{"word": ["roadtrip"], "author": "riffraff"}
+{"word": ["Brad"], "author": "riffraff"}
+{"word": ["Walkman"], "author": "Volcanogirl"}
+{"word": ["beer"], "author": "riffraff"}
+{"word": ["Molson"], "author": "OnlyU2"}
+{"word": ["coors light"], "author": "riffraff"}
+{"word": ["Labatt"], "author": "OnlyU2"}
+{"word": ["coors light"], "author": "riffraff"}
+{"word": ["refreshing"], "author": "OnlyU2"}
+{"word": ["fattening"], "author": "riffraff"}
+{"word": ["unhealthy"], "author": "OnlyU2"}
+{"word": ["whocares?"], "author": "riffraff"}
+{"word": ["LarrythecatfromDowningstreet10"], "author": "Volcanogirl"}
+{"word": ["(good one, Volcanogirl!)"], "author": "riffraff"}
+{"word": ["chihuahua"], "author": "OnlyU2"}
+{"word": ["chuckles"], "author": "riffraff"}
+{"word": ["dummies"], "author": "riffraff"}
+{"word": ["Test"], "author": "Volcanogirl"}
+{"word": ["fail"], "author": "riffraff"}
+{"word": ["Nervous"], "author": "Volcanogirl"}
+{"word": ["jumpy"], "author": "riffraff"}
+{"word": ["anxious"], "author": "OnlyU2"}
+{"word": ["relax!"], "author": "riffraff"}
+{"word": ["release"], "author": "riffraff"}
+{"word": ["Free"], "author": "Volcanogirl"}
+{"word": ["forever"], "author": "riffraff"}
+{"word": ["Fan !"], "author": "Volcanogirl"}
+{"word": ["U2"], "author": "riffraff"}
+{"word": ["Love !"], "author": "Volcanogirl"}
+{"word": ["faithful"], "author": "riffraff"}
+{"word": ["Fanbase"], "author": "Volcanogirl"}
+{"word": ["followers"], "author": "riffraff"}
+{"word": ["clan"], "author": "theocean"}
+{"word": ["family"], "author": "riffraff"}
+{"word": ["Forumbuddies"], "author": "Volcanogirl"}
+{"word": ["relaxes"], "author": "riffraff"}
+{"word": ["flowing"], "author": "riffraff"}
+{"word": ["Growing"], "author": "Volcanogirl"}
+{"word": ["expanding"], "author": "riffraff"}
+{"word": ["Knowing"], "author": "Volcanogirl"}
+{"word": ["believing"], "author": "riffraff"}
+{"word": ["faith"], "author": "OnlyU2"}
+{"word": ["Hope"], "author": "Volcanogirl"}
+{"word": ["wish"], "author": "riffraff"}
+{"word": ["Fly"], "author": "Volcanogirl"}
+{"word": ["lyric"], "author": "riffraff"}
+{"word": ["sadness"], "author": "riffraff"}
+{"word": ["mourning"], "author": "OnlyU2"}
+{"word": ["rebirth"], "author": "riffraff"}
+{"word": ["xanax"], "author": "riffraff"}
+{"word": ["Wine"], "author": "Volcanogirl"}
+{"word": ["beer\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (loved your wine/xanax reference there, Volcano!)"], "author": "riffraff"}
+{"word": ["fiesta"], "author": "riffraff"}
+{"word": ["cerveza"], "author": "riffraff"}
+{"word": ["suitcase"], "author": "riffraff"}
+{"word": ["Weight"], "author": "Volcanogirl"}
+{"word": ["heavy"], "author": "riffraff"}
+{"word": ["Champion"], "author": "Volcanogirl"}
+{"word": ["loser"], "author": "riffraff"}
+{"word": ["Match"], "author": "Volcanogirl"}
+{"word": ["winner"], "author": "riffraff"}
+{"word": ["Escape"], "author": "Volcanogirl"}
+{"word": ["dreams"], "author": "riffraff"}
+{"word": ["Future"], "author": "trlica"}
+{"word": ["Open"], "author": "Volcanogirl"}
+{"word": ["door"], "author": "riffraff"}
+{"word": ["Adventure"], "author": "Volcanogirl"}
+{"word": ["roadtrip!"], "author": "riffraff"}
+{"word": ["Motor"], "author": "Volcanogirl"}
+{"word": ["viper"], "author": "riffraff"}
+{"word": ["Yikes !"], "author": "Volcanogirl"}
+{"word": ["fast"], "author": "riffraff"}
+{"word": ["Lightning"], "author": "Volcanogirl"}
+{"word": ["flash"], "author": "riffraff"}
+{"word": ["watch"], "author": "linds61119"}
+{"word": ["Hold"], "author": "Volcanogirl"}
+{"word": ["cherish"], "author": "riffraff"}
+{"word": ["Important"], "author": "Volcanogirl"}
+{"word": ["friendship"], "author": "riffraff"}
+{"word": ["Forum"], "author": "Volcanogirl"}
+{"word": ["FUN!"], "author": "riffraff"}
+{"word": ["Games"], "author": "Volcanogirl"}
+{"word": ["competition"], "author": "riffraff"}
+{"word": ["Discussions"], "author": "Volcanogirl"}
+{"word": ["debates"], "author": "riffraff"}
+{"word": ["ridiculous"], "author": "riffraff"}
+{"word": ["Maddening"], "author": "Volcanogirl"}
+{"word": ["depressing"], "author": "riffraff"}
+{"word": ["Thought"], "author": "jabw10"}
+{"word": ["Wisdom"], "author": "Volcanogirl"}
+{"word": ["need"], "author": "riffraff"}
+{"word": ["desire"], "author": "riffraff"}
+{"word": ["Magnificent !!"], "author": "Volcanogirl"}
+{"word": ["Mysterious"], "author": "riffraff"}
+{"word": ["Ways"], "author": "Volcanogirl"}
+{"word": ["fun"], "author": "riffraff"}
+{"word": ["games"], "author": "trlica"}
+{"word": ["trivia"], "author": "linds61119"}
+{"word": ["New"], "author": "Volcanogirl"}
+{"word": ["true"], "author": "riffraff"}
+{"word": ["false"], "author": "OnlyU2"}
+{"word": ["implants"], "author": "riffraff"}
+{"word": ["Unreal"], "author": "Volcanogirl"}
+{"word": ["fantasy"], "author": "riffraff"}
+{"word": ["swimming"], "author": "riffraff"}
+{"word": ["butterfly"], "author": "linds61119"}
+{"word": ["net"], "author": "riffraff"}
+{"word": ["Ball"], "author": "trlica"}
+{"word": ["diamond"], "author": "riffraff"}
+{"word": ["money"], "author": "Volcanogirl"}
+{"word": ["save"], "author": "riffraff"}
+{"word": ["life"], "author": "linds61119"}
+{"word": ["wonder"], "author": "Volcanogirl"}
+{"word": ["question"], "author": "riffraff"}
+{"word": ["answer"], "author": "Volcanogirl"}
+{"word": ["Key"], "author": "jabw10"}
+{"word": ["lock"], "author": "OnlyU2"}
+{"word": ["open"], "author": "riffraff"}
+{"word": ["sesame"], "author": "OnlyU2"}
+{"word": ["seed"], "author": "riffraff"}
+{"word": ["plant"], "author": "OnlyU2"}
+{"word": ["soil"], "author": "riffraff"}
+{"word": ["garden"], "author": "OnlyU2"}
+{"word": ["veggies"], "author": "riffraff"}
+{"word": ["carrots"], "author": "OnlyU2"}
+{"word": ["bunnies"], "author": "riffraff"}
+{"word": ["easter"], "author": "OnlyU2"}
+{"word": ["worship"], "author": "riffraff"}
+{"word": ["idolize"], "author": "OnlyU2"}
+{"word": ["adore"], "author": "riffraff"}
+{"word": ["cherish"], "author": "OnlyU2"}
+{"word": ["association"], "author": "riffraff"}
+{"word": ["game"], "author": "Volcanogirl"}
+{"word": ["fun!"], "author": "riffraff"}
+{"word": ["playing\u00a0 (with Snickers and her new toy)"], "author": "Volcanogirl"}
+{"word": ["bunnies!"], "author": "riffraff"}
+{"word": ["hopping"], "author": "Volcanogirl"}
+{"word": ["mad"], "author": "riffraff"}
+{"word": ["angry"], "author": "OnlyU2"}
+{"word": ["hurt"], "author": "riffraff"}
+{"word": ["injured"], "author": "OnlyU2"}
+{"word": ["healing"], "author": "riffraff"}
+{"word": ["recuperate"], "author": "OnlyU2"}
+{"word": ["therapy"], "author": "riffraff"}
+{"word": ["counselling"], "author": "OnlyU2"}
+{"word": ["\u00a0shrink"], "author": "riffraff"}
+{"word": ["shorten"], "author": "OnlyU2"}
+{"word": ["Washing machine"], "author": "trlica"}
+{"word": ["Ironingboard"], "author": "Volcanogirl"}
+{"word": ["wrinkles"], "author": "riffraff"}
+{"word": ["In time"], "author": "jabw10"}
+{"word": ["age"], "author": "riffraff"}
+{"word": ["wisdom"], "author": "Volcanogirl"}
+{"word": ["goofyness"], "author": "riffraff"}
+{"word": ["Silly"], "author": "OnlyU2"}
+{"word": ["happy"], "author": "riffraff"}
+{"word": ["Mondays"], "author": "jabw10"}
+{"word": ["weekend"], "author": "riffraff"}
+{"word": ["Chillin"], "author": "Volcanogirl"}
+{"word": ["Grillin"], "author": "jabw10"}
+{"word": ["Eating"], "author": "Volcanogirl"}
+{"word": ["steak"], "author": "riffraff"}
+{"word": ["caesar"], "author": "OnlyU2"}
+{"word": ["Roman"], "author": "riffraff"}
+{"word": ["numeral"], "author": "OnlyU2"}
+{"word": ["Latin"], "author": "riffraff"}
+{"word": ["Dictionary"], "author": "Volcanogirl"}
+{"word": ["thesaurus"], "author": "riffraff"}
+{"word": ["words"], "author": "trlica"}
+{"word": ["actions"], "author": "riffraff"}
+{"word": ["determination"], "author": "trlica"}
+{"word": ["generousity"], "author": "riffraff"}
+{"word": ["characteristic"], "author": "trlica"}
+{"word": ["trait"], "author": "riffraff"}
+{"word": ["personality"], "author": "trlica"}
+{"word": ["lack"], "author": "riffraff"}
+{"word": ["introvert"], "author": "trlica"}
+{"word": ["lonely"], "author": "riffraff"}
+{"word": ["books"], "author": "trlica"}
+{"word": ["music"], "author": "riffraff"}
+{"word": ["tv"], "author": "trlica"}
+{"word": ["cable"], "author": "riffraff"}
+{"word": ["programs"], "author": "trlica"}
+{"word": ["mini-series"], "author": "riffraff"}
+{"word": ["soaps"], "author": "trlica"}
+{"word": ["blech !"], "author": "riffraff"}
+{"word": ["long-lasting"], "author": "trlica"}
+{"word": ["longitude"], "author": "riffraff"}
+{"word": ["it is fun"], "author": "trlica"}
+{"word": ["party"], "author": "riffraff"}
+{"word": ["alcohol"], "author": "trlica"}
+{"word": ["beer !"], "author": "riffraff"}
+{"word": ["keg"], "author": "OnlyU2"}
+{"word": ["thirsty"], "author": "riffraff"}
+{"word": ["quench"], "author": "OnlyU2"}
+{"word": ["beer!\u00a0 \u00a0 \u00a0 (I keep coming back to beer, don't I? uhoh!)"], "author": "riffraff"}
+{"word": ["wine"], "author": "Volcanogirl"}
+{"word": ["whine"], "author": "riffraff"}
+{"word": ["complain"], "author": "OnlyU2"}
+{"word": ["gripe"], "author": "riffraff"}
+{"word": ["type"], "author": "Volcanogirl"}
+{"word": ["hype !"], "author": "riffraff"}
+{"word": ["feedback"], "author": "OnlyU2"}
+{"word": ["U2"], "author": "riffraff"}
+{"word": ["band"], "author": "OnlyU2"}
+{"word": ["amazing"], "author": "Volcanogirl"}
+{"word": ["soothing"], "author": "riffraff"}
+{"word": ["comforting"], "author": "OnlyU2"}
+{"word": ["Thought"], "author": "jabw10"}
+{"word": ["dream"], "author": "Volcanogirl"}
+{"word": ["nightmare"], "author": "riffraff"}
+{"word": ["Horror"], "author": "Volcanogirl"}
+{"word": ["scared"], "author": "riffraff"}
+{"word": ["Scream"], "author": "Volcanogirl"}
+{"word": ["shiver"], "author": "riffraff"}
+{"word": ["frozen"], "author": "OnlyU2"}
+{"word": ["Passion"], "author": "Volcanogirl"}
+{"word": ["release"], "author": "riffraff"}
+{"word": ["anger"], "author": "Volcanogirl"}
+{"word": ["threats"], "author": "riffraff"}
+{"word": ["Hate"], "author": "Volcanogirl"}
+{"word": ["desperation"], "author": "riffraff"}
+{"word": ["Plea"], "author": "jabw10"}
+{"word": ["deal"], "author": "Volcanogirl"}
+{"word": ["trade"], "author": "riffraff"}
+{"word": ["swap"], "author": "OnlyU2"}
+{"word": ["tickets"], "author": "Volcanogirl"}
+{"word": ["seats"], "author": "riffraff"}
+{"word": ["rest"], "author": "Volcanogirl"}
+{"word": ["peace"], "author": "theocean"}
+{"word": ["quiet"], "author": "riffraff"}
+{"word": ["heaven"], "author": "Volcanogirl"}
+{"word": ["doggy"], "author": "riffraff"}
+{"word": ["Position\u00a0"], "author": "trlica"}
+{"word": ["going"], "author": "riffraff"}
+{"word": ["Exit"], "author": "OnlyU2"}
+{"word": ["only"], "author": "riffraff"}
+{"word": ["U2"], "author": "OnlyU2"}
+{"word": ["rocks"], "author": "riffraff"}
+{"word": ["stones"], "author": "OnlyU2"}
+{"word": ["rolling"], "author": "riffraff"}
+{"word": ["pin"], "author": "OnlyU2"}
+{"word": ["ouch"], "author": "riffraff"}
+{"word": ["pain"], "author": "OnlyU2"}
+{"word": ["agony"], "author": "riffraff"}
+{"word": ["suffering"], "author": "OnlyU2"}
+{"word": ["compassion"], "author": "riffraff"}
+{"word": ["sympathy"], "author": "OnlyU2"}
+{"word": ["empathy"], "author": "riffraff"}
+{"word": ["understanding"], "author": "OnlyU2"}
+{"word": ["confusion"], "author": "riffraff"}
+{"word": ["delirious"], "author": "OnlyU2"}
+{"word": ["drunk"], "author": "riffraff"}
+{"word": ["plastered"], "author": "OnlyU2"}
+{"word": ["barf"], "author": "riffraff"}
+{"word": ["puke"], "author": "OnlyU2"}
+{"word": ["stinks"], "author": "riffraff"}
+{"word": ["socks"], "author": "trlica"}
+{"word": ["dirty"], "author": "riffraff"}
+{"word": ["Laundry"], "author": "jabw10"}
+{"word": ["Tide"], "author": "riffraff"}
+{"word": ["high"], "author": "OnlyU2"}
+{"word": ["low"], "author": "riffraff"}
+{"word": ["blow"], "author": "jabw10"}
+{"word": ["bubbles"], "author": "riffraff"}
+{"word": ["suds"], "author": "OnlyU2"}
+{"word": ["brewski"], "author": "riffraff"}
+{"word": ["beer"], "author": "OnlyU2"}
+{"word": ["nuts"], "author": "riffraff"}
+{"word": ["crazy"], "author": "OnlyU2"}
+{"word": ["loco"], "author": "riffraff"}
+{"word": ["motive"], "author": "OnlyU2"}
+{"word": ["reason"], "author": "riffraff"}
+{"word": ["Insanity"], "author": "jabw10"}
+{"word": ["lunatic"], "author": "OnlyU2"}
+{"word": ["moon"], "author": "riffraff"}
+{"word": ["River"], "author": "jabw10"}
+{"word": ["whitewater"], "author": "riffraff"}
+{"word": ["rafting"], "author": "OnlyU2"}
+{"word": ["cold"], "author": "riffraff"}
+{"word": ["freezing"], "author": "OnlyU2"}
+{"word": ["mittens"], "author": "riffraff"}
+{"word": ["kittens"], "author": "OnlyU2"}
+{"word": ["furry"], "author": "riffraff"}
+{"word": ["fluffy"], "author": "OnlyU2"}
+{"word": ["stinky"], "author": "riffraff"}
+{"word": ["smelly"], "author": "OnlyU2"}
+{"word": ["onions"], "author": "riffraff"}
+{"word": ["strong"], "author": "OnlyU2"}
+{"word": ["man"], "author": "riffraff"}
+{"word": ["guy"], "author": "OnlyU2"}
+{"word": ["cute"], "author": "riffraff"}
+{"word": ["adorable"], "author": "OnlyU2"}
+{"word": ["kitten"], "author": "trlica"}
+{"word": ["hugs"], "author": "Volcanogirl"}
+{"word": ["friends"], "author": "riffraff"}
+{"word": ["greatest"], "author": "Volcanogirl"}
+{"word": ["loyal"], "author": "riffraff"}
+{"word": ["true"], "author": "OnlyU2"}
+{"word": ["lies"], "author": "riffraff"}
+{"word": ["fibs"], "author": "OnlyU2"}
+{"word": ["unnecessary"], "author": "riffraff"}
+{"word": ["war visitors can't see pics , please You are not allowed to view links."], "author": "Volcanogirl"}
+{"word": ["stop"], "author": "riffraff"}
+{"word": ["terminate"], "author": "OnlyU2"}
+{"word": ["end"], "author": "riffraff"}
+{"word": ["finish"], "author": "OnlyU2"}
+{"word": ["over"], "author": "riffraff"}
+{"word": ["complete"], "author": "OnlyU2"}
+{"word": ["waste"], "author": "jabw10"}
+{"word": ["inane"], "author": "riffraff"}
+{"word": ["weird"], "author": "Volcanogirl"}
+{"word": ["mysterious"], "author": "riffraff"}
+{"word": ["secretive"], "author": "OnlyU2"}
+{"word": ["sneaky"], "author": "riffraff"}
+{"word": ["sly"], "author": "OnlyU2"}
+{"word": ["wiley"], "author": "riffraff"}
+{"word": ["cunning"], "author": "OnlyU2"}
+{"word": ["coyote"], "author": "riffraff"}
+{"word": ["roadrunner"], "author": "OnlyU2"}
+{"word": ["javelina"], "author": "riffraff"}
+{"word": ["peccary"], "author": "OnlyU2"}
+{"word": ["(what's a peccary?)"], "author": "riffraff"}
+{"word": ["another name for a javelina, or a skunk pig"], "author": "OnlyU2"}
+{"word": ["- thanks!"], "author": "riffraff"}
+{"word": ["pig"], "author": "OnlyU2"}
+{"word": ["boar"], "author": "riffraff"}
+{"word": ["wild"], "author": "OnlyU2"}
+{"word": ["Horses"], "author": "jabw10"}
+{"word": ["running"], "author": "riffraff"}
+{"word": ["jogging"], "author": "OnlyU2"}
+{"word": ["sit-ups"], "author": "riffraff"}
+{"word": ["pushups"], "author": "OnlyU2"}
+{"word": ["strength"], "author": "riffraff"}
+{"word": ["power"], "author": "OnlyU2"}
+{"word": ["weakness"], "author": "riffraff"}
+{"word": ["handicap"], "author": "OnlyU2"}
+{"word": ["wheelchair"], "author": "riffraff"}
+{"word": ["paralyzed"], "author": "OnlyU2"}
+{"word": ["Fear"], "author": "jabw10"}
+{"word": ["nightmares"], "author": "riffraff"}
+{"word": ["problems"], "author": "trlica"}
+{"word": ["Solved"], "author": "jabw10"}
+{"word": ["relax"], "author": "riffraff"}
+{"word": ["rest"], "author": "OnlyU2"}
+{"word": ["energy"], "author": "riffraff"}
+{"word": ["active"], "author": "OnlyU2"}
+{"word": ["hyper"], "author": "riffraff"}
+{"word": ["crazy"], "author": "OnlyU2"}
+{"word": ["me"], "author": "riffraff"}
+{"word": ["myself"], "author": "OnlyU2"}
+{"word": ["I"], "author": "riffraff"}
+{"word": ["individual"], "author": "OnlyU2"}
+{"word": ["everyone"], "author": "riffraff"}
+{"word": ["all"], "author": "OnlyU2"}
+{"word": ["Done"], "author": "jabw10"}
+{"word": ["deal"], "author": "riffraff"}
+{"word": ["agreement"], "author": "trlica"}
+{"word": ["treaty"], "author": "riffraff"}
+{"word": ["pact"], "author": "OnlyU2"}
+{"word": ["broken"], "author": "riffraff"}
+{"word": ["busted"], "author": "OnlyU2"}
+{"word": ["narc"], "author": "riffraff"}
+{"word": ["drugs"], "author": "OnlyU2"}
+{"word": ["Miracle"], "author": "jabw10"}
+{"word": ["hallelujah"], "author": "riffraff"}
+{"word": ["lyrics"], "author": "OnlyU2"}
+{"word": ["Bono"], "author": "riffraff"}
+{"word": ["Vox"], "author": "jabw10"}
+{"word": ["Hype"], "author": "riffraff"}
+{"word": ["feedback"], "author": "OnlyU2"}
+{"word": ["Loop"], "author": "jabw10"}
+{"word": ["circle"], "author": "OnlyU2"}
+{"word": ["square"], "author": "riffraff"}
+{"word": ["nerd"], "author": "OnlyU2"}
+{"word": ["math"], "author": "Volcanogirl"}
+{"word": ["engineering"], "author": "riffraff"}
+{"word": ["Degree"], "author": "jabw10"}
+{"word": ["body"], "author": "riffraff"}
+{"word": ["corpse"], "author": "OnlyU2"}
+{"word": ["decompose"], "author": "riffraff"}
+{"word": ["rot"], "author": "OnlyU2"}
+{"word": ["snot\u00a0 \u00a0 (well, it rhymes...sorry, couldn't think of better)"], "author": "riffraff"}
+{"word": ["booger"], "author": "OnlyU2"}
+{"word": ["pick"], "author": "riffraff"}
+{"word": ["guitar"], "author": "OnlyU2"}
+{"word": ["Edge"], "author": "riffraff"}
+{"word": ["table"], "author": "trlica"}
+{"word": ["chair"], "author": "riffraff"}
+{"word": ["seat"], "author": "OnlyU2"}
+{"word": ["hot"], "author": "riffraff"}
+{"word": ["Pocket"], "author": "jabw10"}
+{"word": ["trouser"], "author": "trlica"}
+{"word": ["socks"], "author": "riffraff"}
+{"word": ["The cat"], "author": "jabw10"}
+{"word": ["mouse"], "author": "Volcanogirl"}
+{"word": ["rats"], "author": "riffraff"}
+{"word": ["rodents"], "author": "OnlyU2"}
+{"word": ["creeps"], "author": "riffraff"}
+{"word": ["jerks"], "author": "OnlyU2"}
+{"word": ["monsters"], "author": "riffraff"}
+{"word": ["scary"], "author": "OnlyU2"}
+{"word": ["nightmares"], "author": "riffraff"}
+{"word": ["Horses"], "author": "jabw10"}
+{"word": ["Falling"], "author": "Volcanogirl"}
+{"word": ["star"], "author": "riffraff"}
+{"word": ["Light"], "author": "jabw10"}
+{"word": ["dark"], "author": "riffraff"}
+{"word": ["black"], "author": "OnlyU2"}
+{"word": ["beauty"], "author": "riffraff"}
+{"word": ["pageant"], "author": "OnlyU2"}
+{"word": ["queen"], "author": "riffraff"}
+{"word": ["Bee"], "author": "jabw10"}
+{"word": ["sting"], "author": "riffraff"}
+{"word": ["police"], "author": "OnlyU2"}
+{"word": ["Roxanne"], "author": "riffraff"}
+{"word": ["girl"], "author": "OnlyU2"}
+{"word": ["friend"], "author": "riffraff"}
+{"word": ["enemy"], "author": "OnlyU2"}
+{"word": ["fear"], "author": "riffraff"}
+{"word": ["terror"], "author": "OnlyU2"}
+{"word": ["scream"], "author": "riffraff"}
+{"word": ["shriek"], "author": "OnlyU2"}
+{"word": ["hoooowwwwl"], "author": "riffraff"}
+{"word": ["wolf"], "author": "OnlyU2"}
+{"word": ["coyote"], "author": "riffraff"}
+{"word": ["roadrunner"], "author": "OnlyU2"}
+{"word": ["mustang"], "author": "riffraff"}
+{"word": ["Ford"], "author": "OnlyU2"}
+{"word": ["president"], "author": "riffraff"}
+{"word": ["Trump"], "author": "OnlyU2"}
+{"word": ["horrible"], "author": "riffraff"}
+{"word": ["disgusting"], "author": "OnlyU2"}
+{"word": ["hairdo"], "author": "riffraff"}
+{"word": ["hairdresser"], "author": "trlica"}
+{"word": ["hairspray"], "author": "riffraff"}
+{"word": ["gel"], "author": "Volcanogirl"}
+{"word": ["mousse"], "author": "riffraff"}
+{"word": ["Chocolate"], "author": "jabw10"}
+{"word": ["cocoa"], "author": "riffraff"}
+{"word": ["hot"], "author": "OnlyU2"}
+{"word": ["Red"], "author": "Volcanogirl"}
+{"word": ["jellybean"], "author": "riffraff"}
+{"word": ["sweet"], "author": "OnlyU2"}
+{"word": ["Child"], "author": "jabw10"}
+{"word": ["offspring"], "author": "OnlyU2"}
+{"word": ["plants"], "author": "trlica"}
+{"word": ["\u00a0cactus"], "author": "riffraff"}
+{"word": ["p****"], "author": "OnlyU2"}
+{"word": ["(that was funny!)"], "author": "riffraff"}
+{"word": ["dude"], "author": "OnlyU2"}
+{"word": ["Lebowski"], "author": "trlica"}
+{"word": ["great"], "author": "riffraff"}
+{"word": ["bowling"], "author": "trlica"}
+{"word": ["strike"], "author": "riffraff"}
+{"word": ["Out"], "author": "jabw10"}
+{"word": ["side"], "author": "riffraff"}
+{"word": ["Door"], "author": "jabw10"}
+{"word": ["escape"], "author": "riffraff"}
+{"word": ["room"], "author": "Volcanogirl"}
+{"word": ["window"], "author": "trlica"}
+{"word": ["dirty"], "author": "riffraff"}
+{"word": ["cleaner"], "author": "Volcanogirl"}
+{"word": ["maid"], "author": "riffraff"}
+{"word": ["house"], "author": "Volcanogirl"}
+{"word": ["spacious"], "author": "trlica"}
+{"word": ["luxurious"], "author": "riffraff"}
+{"word": ["bubblebath"], "author": "Volcanogirl"}
+{"word": ["champagne"], "author": "riffraff"}
+{"word": ["glas"], "author": "trlica"}
+{"word": ["tipsy"], "author": "riffraff"}
+{"word": ["Topsy"], "author": "jabw10"}
+{"word": ["turvy"], "author": "riffraff"}
+{"word": ["Twisty"], "author": "jabw10"}
+{"word": ["pretzels"], "author": "riffraff"}
+{"word": ["drunk"], "author": "OnlyU2"}
+{"word": ["stagger"], "author": "riffraff"}
+{"word": ["wobble"], "author": "OnlyU2"}
+{"word": ["collapse"], "author": "riffraff"}
+{"word": ["implode"], "author": "OnlyU2"}
+{"word": ["erupt"], "author": "riffraff"}
+{"word": ["volcano"], "author": "OnlyU2"}
+{"word": ["girl"], "author": "riffraff"}
+{"word": ["woman"], "author": "OnlyU2"}
+{"word": ["sister"], "author": "riffraff"}
+{"word": ["nun"], "author": "OnlyU2"}
+{"word": ["penguin"], "author": "riffraff"}
+{"word": ["Pittsburgh"], "author": "OnlyU2"}
+{"word": ["steel"], "author": "riffraff"}
+{"word": ["iron"], "author": "OnlyU2"}
+{"word": ["wrinkles"], "author": "riffraff"}
+{"word": ["elderly"], "author": "OnlyU2"}
+{"word": ["wisdom"], "author": "Volcanogirl"}
+{"word": ["lacking"], "author": "riffraff"}
+{"word": ["insufficient"], "author": "OnlyU2"}
+{"word": ["peace"], "author": "Volcanogirl"}
+{"word": ["forever"], "author": "riffraff"}
+{"word": ["eternity"], "author": "OnlyU2"}
+{"word": ["Cologne"], "author": "jabw10"}
+{"word": ["scent"], "author": "riffraff"}
+{"word": ["armpit"], "author": "Volcanogirl"}
+{"word": ["sweaty"], "author": "riffraff"}
+{"word": ["Socks"], "author": "jabw10"}
+{"word": ["dirty"], "author": "riffraff"}
+{"word": ["perverted"], "author": "OnlyU2"}
+{"word": ["scrungy"], "author": "riffraff"}
+{"word": ["filth"], "author": "OnlyU2"}
+{"word": ["Pit"], "author": "jabw10"}
+{"word": ["abyss"], "author": "riffraff"}
+{"word": ["shark"], "author": "Volcanogirl"}
+{"word": ["surfer"], "author": "riffraff"}
+{"word": ["atlete"], "author": "Volcanogirl"}
+{"word": ["gymnast"], "author": "riffraff"}
+{"word": ["scoreboard"], "author": "Volcanogirl"}
+{"word": ["winner"], "author": "riffraff"}
+{"word": ["Chicken dinner"], "author": "jabw10"}
+{"word": ["microwave"], "author": "Volcanogirl"}
+{"word": ["nuke"], "author": "riffraff"}
+{"word": ["hungry"], "author": "Volcanogirl"}
+{"word": ["pasta"], "author": "riffraff"}
+{"word": ["spaghetti"], "author": "OnlyU2"}
+{"word": ["rigatoni"], "author": "riffraff"}
+{"word": ["lasagna"], "author": "OnlyU2"}
+{"word": ["wine"], "author": "riffraff"}
+{"word": ["cooler"], "author": "OnlyU2"}
+{"word": ["beer"], "author": "riffraff"}
+{"word": ["draft"], "author": "OnlyU2"}
+{"word": ["bottle (Coors Light, please!)"], "author": "riffraff"}
+{"word": ["can"], "author": "OnlyU2"}
+{"word": ["cold"], "author": "riffraff"}
+{"word": ["ice"], "author": "OnlyU2"}
+{"word": ["Alaska"], "author": "riffraff"}
+{"word": ["state"], "author": "OnlyU2"}
+{"word": ["north"], "author": "riffraff"}
+{"word": ["pole"], "author": "OnlyU2"}
+{"word": ["bean"], "author": "riffraff"}
+{"word": ["green"], "author": "OnlyU2"}
+{"word": ["envy"], "author": "riffraff"}
+{"word": ["jealousy"], "author": "OnlyU2"}
+{"word": ["greed"], "author": "riffraff"}
+{"word": ["selfishness"], "author": "OnlyU2"}
+{"word": ["human"], "author": "riffraff"}
+{"word": ["animals"], "author": "Volcanogirl"}
+{"word": ["critters"], "author": "riffraff"}
+{"word": ["rats"], "author": "OnlyU2"}
+{"word": ["tattletales"], "author": "riffraff"}
+{"word": ["snitches"], "author": "OnlyU2"}
+{"word": ["britches"], "author": "riffraff"}
+{"word": ["burn"], "author": "OnlyU2"}
+{"word": ["sun"], "author": "riffraff"}
+{"word": ["shine"], "author": "OnlyU2"}
+{"word": ["bright"], "author": "riffraff"}
+{"word": ["smart"], "author": "OnlyU2"}
+{"word": ["aleck"], "author": "riffraff"}
+{"word": ["Baldwin"], "author": "OnlyU2"}
+{"word": ["Jean-Pierre (one of my high school teachers!)"], "author": "riffraff"}
+{"word": ["homework"], "author": "Volcanogirl"}
+{"word": ["diploma"], "author": "riffraff"}
+{"word": ["examination"], "author": "Volcanogirl"}
+{"word": ["physical"], "author": "riffraff"}
+{"word": ["Fitness"], "author": "jabw10"}
+{"word": ["gym"], "author": "OnlyU2"}
+{"word": ["muscles"], "author": "riffraff"}
+{"word": ["bodybuilder"], "author": "Volcanogirl"}
+{"word": ["yum"], "author": "riffraff"}
+{"word": ["bassplayer"], "author": "Volcanogirl"}
+{"word": ["Adam"], "author": "OnlyU2"}
+{"word": ["gentle"], "author": "riffraff"}
+{"word": ["soul"], "author": "Volcanogirl"}
+{"word": ["mate"], "author": "riffraff"}
+{"word": ["Coffee"], "author": "jabw10"}
+{"word": ["need"], "author": "riffraff"}
+{"word": ["requirement"], "author": "OnlyU2"}
+{"word": ["oxygen"], "author": "riffraff"}
+{"word": ["Air"], "author": "jabw10"}
+{"word": ["smog"], "author": "riffraff"}
+{"word": ["Los Angeles"], "author": "OnlyU2"}
+{"word": ["Malibu"], "author": "riffraff"}
+{"word": ["Barbie"], "author": "jabw10"}
+{"word": ["corvette"], "author": "riffraff"}
+{"word": ["bike"], "author": "Volcanogirl"}
+{"word": ["accident"], "author": "OnlyU2"}
+{"word": ["Bono"], "author": "riffraff"}
+{"word": ["rockstar"], "author": "OnlyU2"}
+{"word": ["fun"], "author": "riffraff"}
+{"word": ["House"], "author": "jabw10"}
+{"word": ["safe"], "author": "riffraff"}
+{"word": ["vault"], "author": "OnlyU2"}
+{"word": ["gymnast"], "author": "riffraff"}
+{"word": ["olympics"], "author": "OnlyU2"}
+{"word": ["sports"], "author": "riffraff"}
+{"word": ["football"], "author": "OnlyU2"}
+{"word": ["running"], "author": "Volcanogirl"}
+{"word": ["Scared"], "author": "jabw10"}
+{"word": ["dark"], "author": "riffraff"}
+{"word": ["chocolate"], "author": "OnlyU2"}
+{"word": ["cocoa"], "author": "riffraff"}
+{"word": ["winter"], "author": "Volcanogirl"}
+{"word": ["snow"], "author": "riffraff"}
+{"word": ["ski"], "author": "OnlyU2"}
+{"word": ["water"], "author": "riffraff"}
+{"word": ["ocean"], "author": "OnlyU2"}
+{"word": ["Pacific"], "author": "riffraff"}
+{"word": ["Atlantic"], "author": "OnlyU2"}
+{"word": ["dirty"], "author": "riffraff"}
+{"word": ["fish"], "author": "Volcanogirl"}
+{"word": ["chowder"], "author": "riffraff"}
+{"word": ["clam"], "author": "OnlyU2"}
+{"word": ["steamed"], "author": "riffraff"}
+{"word": ["grilled"], "author": "Volcanogirl"}
+{"word": ["meat"], "author": "trlica"}
+{"word": ["rare"], "author": "riffraff"}
+{"word": ["salty"], "author": "Volcanogirl"}
+{"word": ["peanuts"], "author": "OnlyU2"}
+{"word": ["Snoopy"], "author": "riffraff"}
+{"word": ["shun"], "author": "imaginary friend"}
+{"word": ["huh? shun?"], "author": "riffraff"}
+{"word": ["new word:"], "author": "OnlyU2"}
+{"word": ["cookies"], "author": "Volcanogirl"}
+{"word": ["sprinkles"], "author": "riffraff"}
+{"word": ["chocolate"], "author": "OnlyU2"}
+{"word": ["fudge"], "author": "riffraff"}
+{"word": ["tootbrush"], "author": "Volcanogirl"}
+{"word": ["dentist"], "author": "riffraff"}
+{"word": ["Chair"], "author": "jabw10"}
+{"word": ["oak"], "author": "riffraff"}
+{"word": ["tree"], "author": "OnlyU2"}
+{"word": ["bird"], "author": "Volcanogirl"}
+{"word": ["singing"], "author": "riffraff"}
+{"word": ["songs"], "author": "OnlyU2"}
+{"word": ["experience"], "author": "riffraff"}
+{"word": ["Hendrix"], "author": "jabw10"}
+{"word": ["album"], "author": "trlica"}
+{"word": ["concert"], "author": "riffraff"}
+{"word": ["tour"], "author": "OnlyU2"}
+{"word": ["now"], "author": "riffraff"}
+{"word": ["Yes !"], "author": "trlica"}
+{"word": ["absolutely"], "author": "OnlyU2"}
+{"word": ["Please!"], "author": "jabw10"}
+{"word": ["pleading!"], "author": "riffraff"}
+{"word": ["begging!"], "author": "OnlyU2"}
+{"word": ["Jones-ing"], "author": "riffraff"}
+{"word": ["Craving"], "author": "A_Fly_On_The_Wall"}
+{"word": ["Chocolate"], "author": "jabw10"}
+{"word": ["Sundae"], "author": "shineinthesummernight"}
+{"word": ["dieting"], "author": "riffraff"}
+{"word": ["resolutions"], "author": "Volcanogirl"}
+{"word": ["willpower"], "author": "riffraff"}
+{"word": ["mentality"], "author": "Volcanogirl"}
+{"word": ["intelligence"], "author": "riffraff"}
+{"word": ["Artificial"], "author": "A_Fly_On_The_Wall"}
+{"word": ["sweetener"], "author": "riffraff"}
+{"word": ["honey"], "author": "Volcanogirl"}
+{"word": ["Bunch"], "author": "jabw10"}
+{"word": ["bunny's"], "author": "Volcanogirl"}
+{"word": ["hop"], "author": "riffraff"}
+{"word": ["jump"], "author": "Volcanogirl"}
+{"word": ["off"], "author": "riffraff"}
+{"word": ["on"], "author": "OnlyU2"}
+{"word": ["top"], "author": "riffraff"}
+{"word": ["bottom"], "author": "OnlyU2"}
+{"word": ["butt"], "author": "riffraff"}
+{"word": ["cigarette"], "author": "OnlyU2"}
+{"word": ["withdrawal"], "author": "riffraff"}
+{"word": ["rehab"], "author": "OnlyU2"}
+{"word": ["healing"], "author": "riffraff"}
+{"word": ["mending"], "author": "OnlyU2"}
+{"word": ["fixing"], "author": "riffraff"}
+{"word": ["repairing"], "author": "OnlyU2"}
+{"word": ["broken"], "author": "riffraff"}
+{"word": ["shattered"], "author": "OnlyU2"}
+{"word": ["devastated"], "author": "riffraff"}
+{"word": ["Region"], "author": "jabw10"}
+{"word": ["area"], "author": "riffraff"}
+{"word": ["Land"], "author": "A_Fly_On_The_Wall"}
+{"word": ["lord"], "author": "jabw10"}
+{"word": ["god"], "author": "connorfin22"}
+{"word": ["prayer"], "author": "riffraff"}
+{"word": ["candle"], "author": "Volcanogirl"}
+{"word": ["fire"], "author": "riffraff"}
+{"word": ["energy"], "author": "Volcanogirl"}
+{"word": ["dynamic"], "author": "riffraff"}
+{"word": ["bass player"], "author": "Volcanogirl"}
+{"word": ["lovely"], "author": "riffraff"}
+{"word": ["creative"], "author": "Volcanogirl"}
+{"word": ["sensitive"], "author": "riffraff"}
+{"word": ["cry"], "author": "georgemccauley"}
+{"word": ["release"], "author": "riffraff"}
+{"word": ["album!!!!!"], "author": "OnlyU2"}
+{"word": ["tour"], "author": "Volcanogirl"}
+{"word": ["tickets"], "author": "riffraff"}
+{"word": ["shirts"], "author": "Volcanogirl"}
+{"word": ["leather"], "author": "riffraff"}
+{"word": ["jacket"], "author": "OnlyU2"}
+{"word": ["intro-music"], "author": "Volcanogirl"}
+{"word": ["Streets"], "author": "riffraff"}
+{"word": ["Exitement"], "author": "Volcanogirl"}
+{"word": ["depression"], "author": "riffraff"}
+{"word": ["anger"], "author": "georgemccauley"}
+{"word": ["frustration"], "author": "riffraff"}
+{"word": ["Desolation"], "author": "jabw10"}
+{"word": ["isolation"], "author": "OnlyU2"}
+{"word": ["Revelation"], "author": "Volcanogirl"}
+{"word": ["Bad"], "author": "georgemccauley"}
+{"word": ["isolation"], "author": "riffraff"}
+{"word": ["One"], "author": "georgemccauley"}
+{"word": ["separation"], "author": "riffraff"}
+{"word": ["awful"], "author": "Volcanogirl"}
+{"word": ["gut-wrenching"], "author": "riffraff"}
+{"word": ["painfull"], "author": "Volcanogirl"}
+{"word": ["sickening"], "author": "riffraff"}
+{"word": ["gross"], "author": "OnlyU2"}
+{"word": ["scream"], "author": "Volcanogirl"}
+{"word": ["shriek"], "author": "OnlyU2"}
+{"word": ["dark"], "author": "Volcanogirl"}
+{"word": ["night"], "author": "OnlyU2"}
+{"word": ["blue"], "author": "riffraff"}
+{"word": ["lake"], "author": "Volcanogirl"}
+{"word": ["swim"], "author": "riffraff"}
+{"word": ["Water"], "author": "A_Fly_On_The_Wall"}
+{"word": ["boat"], "author": "Volcanogirl"}
+{"word": ["surf"], "author": "theocean"}
+{"word": ["board"], "author": "Volcanogirl"}
+{"word": ["lumber"], "author": "OnlyU2"}
+{"word": ["Company"], "author": "jabw10"}
+{"word": ["business"], "author": "OnlyU2"}
+{"word": ["industry"], "author": "riffraff"}
+{"word": ["career"], "author": "OnlyU2"}
+{"word": ["retirement"], "author": "riffraff"}
+{"word": ["hobby"], "author": "Volcanogirl"}
+{"word": ["hiking"], "author": "riffraff"}
+{"word": ["shoes"], "author": "Volcanogirl"}
+{"word": ["blisters"], "author": "riffraff"}
+{"word": ["4 day walk\u00a0 \u00a0 (this march is the biggest ever)."], "author": "Volcanogirl"}
+{"word": ["walk on..."], "author": "riffraff"}
+{"word": ["With purpose"], "author": "jabw10"}
+{"word": ["pride"], "author": "riffraff"}
+{"word": ["leader"], "author": "Volcanogirl"}
+{"word": ["follower"], "author": "riffraff"}
+{"word": ["shadow"], "author": "OnlyU2"}
+{"word": ["tall tree's"], "author": "Volcanogirl"}
+{"word": ["shade"], "author": "riffraff"}
+{"word": ["sunbeam"], "author": "Volcanogirl"}
+{"word": ["sundog"], "author": "riffraff"}
+{"word": ["sparklebunny"], "author": "Volcanogirl"}
+{"word": ["bunnyrabbit"], "author": "riffraff"}
+{"word": ["Foo-foo"], "author": "jabw10"}
+{"word": ["booboo"], "author": "riffraff"}
+{"word": ["owie"], "author": "OnlyU2"}
+{"word": ["whimper"], "author": "riffraff"}
+{"word": ["yelp"], "author": "OnlyU2"}
+{"word": ["Review"], "author": "jabw10"}
+{"word": ["report"], "author": "riffraff"}
+{"word": ["photo"], "author": "Volcanogirl"}
+{"word": ["shoot"], "author": "riffraff"}
+{"word": ["fire"], "author": "OnlyU2"}
+{"word": ["bang"], "author": "riffraff"}
+{"word": ["clatter"], "author": "Volcanogirl"}
+{"word": ["din"], "author": "riffraff"}
+{"word": ["Racket"], "author": "Madra-mor"}
+{"word": ["QUIET !"], "author": "riffraff"}
+{"word": ["SHHUSHHH!"], "author": "OnlyU2"}
+{"word": ["NOW.......!"], "author": "Volcanogirl"}
+{"word": ["whisper"], "author": "riffraff"}
+{"word": ["soft"], "author": "Volcanogirl"}
+{"word": ["kitten"], "author": "riffraff"}
+{"word": ["scratch"], "author": "acrobat62"}
+{"word": ["fever"], "author": "riffraff"}
+{"word": ["awful"], "author": "Volcanogirl"}
+{"word": ["shivers"], "author": "riffraff"}
+{"word": ["creepy"], "author": "Volcanogirl"}
+{"word": ["eerie"], "author": "riffraff"}
+{"word": ["Canal"], "author": "acrobat62"}
+{"word": ["(that was funny)"], "author": "riffraff"}
+{"word": ["Wax"], "author": "acrobat62"}
+{"word": ["car"], "author": "riffraff"}
+{"word": ["Chrome"], "author": "Madra-mor"}
+{"word": ["Firefox"], "author": "acrobat62"}
+{"word": ["Browse"], "author": "Madra-mor"}
+{"word": ["Eyes"], "author": "acrobat62"}
+{"word": ["bloodshot"], "author": "riffraff"}
+{"word": ["Bad"], "author": "OnlyU2"}
+{"word": ["horrible"], "author": "riffraff"}
+{"word": ["awful"], "author": "OnlyU2"}
+{"word": ["beastly"], "author": "riffraff"}
+{"word": ["monstrous"], "author": "OnlyU2"}
+{"word": ["mammoth"], "author": "riffraff"}
+{"word": ["giant"], "author": "Volcanogirl"}
+{"word": ["teeny"], "author": "riffraff"}
+{"word": ["Micro"], "author": "Madra-mor"}
+{"word": ["Mega"], "author": "Volcanogirl"}
+{"word": ["super"], "author": "riffraff"}
+{"word": ["market"], "author": "Volcanogirl"}
+{"word": ["shopping"], "author": "riffraff"}
+{"word": ["bag"], "author": "Volcanogirl"}
+{"word": ["lady"], "author": "riffraff"}
+{"word": ["glamour"], "author": "Volcanogirl"}
+{"word": ["magazine"], "author": "OnlyU2"}
+{"word": ["Cover"], "author": "jabw10"}
+{"word": ["photoshoot"], "author": "Volcanogirl"}
+{"word": ["fashion"], "author": "riffraff"}
+{"word": ["Bowie"], "author": "acrobat62"}
+{"word": ["Ziggy"], "author": "riffraff"}
+{"word": ["Cartoon"], "author": "acrobat62"}
+{"word": ["laughter"], "author": "riffraff"}
+{"word": ["Clown"], "author": "acrobat62"}
+{"word": ["nose"], "author": "Volcanogirl"}
+{"word": ["achoo"], "author": "riffraff"}
+{"word": ["Tissue"], "author": "acrobat62"}
+{"word": ["Kleenex"], "author": "OnlyU2"}
+{"word": ["blow"], "author": "riffraff"}
+{"word": ["hole"], "author": "acrobat62"}
+{"word": ["dig"], "author": "riffraff"}
+{"word": ["mole"], "author": "acrobat62"}
+{"word": ["ELEVATION!"], "author": "riffraff"}
+{"word": ["an tha"], "author": "acrobat62"}
+{"word": ["funny"], "author": "riffraff"}
+{"word": ["bunny"], "author": "jabw10"}
+{"word": ["Bugs"], "author": "OnlyU2"}
+{"word": ["carrot"], "author": "Volcanogirl"}
+{"word": ["orange"], "author": "riffraff"}
+{"word": ["Netherlands!"], "author": "Volcanogirl"}
+{"word": ["Netherlands? Please explain!"], "author": "riffraff"}
+{"word": ["The king and queens colour is orange"], "author": "Volcanogirl"}
+{"word": ["ohhhhhhhhhhhhhh. Thanks!"], "author": "riffraff"}
+{"word": ["gin"], "author": "acrobat62"}
+{"word": ["Tonic"], "author": "jabw10"}
+{"word": ["seltzer"], "author": "riffraff"}
+{"word": ["waterbotle"], "author": "Volcanogirl"}
+{"word": ["beer\u00a0 \u00a0(that's my answer to everything)"], "author": "riffraff"}
+{"word": ["cap"], "author": "Volcanogirl"}
+{"word": ["hat"], "author": "OnlyU2"}
+{"word": ["beanie"], "author": "riffraff"}
+{"word": ["propeller"], "author": "acrobat62"}
+{"word": ["boat"], "author": "riffraff"}
+{"word": ["flag"], "author": "Volcanogirl"}
+{"word": ["salute"], "author": "riffraff"}
+{"word": ["attention"], "author": "acrobat62"}
+{"word": ["ease"], "author": "riffraff"}
+{"word": ["flop"], "author": "acrobat62"}
+{"word": ["hammock"], "author": "riffraff"}
+{"word": ["nap"], "author": "acrobat62"}
+{"word": ["comfy"], "author": "riffraff"}
+{"word": ["warm"], "author": "acrobat62"}
+{"word": ["snore"], "author": "riffraff"}
+{"word": ["awake"], "author": "acrobat62"}
+{"word": ["sleepy"], "author": "riffraff"}
+{"word": ["dreamy"], "author": "acrobat62"}
+{"word": ["NIGHTMARE!"], "author": "riffraff"}
+{"word": ["Scream"], "author": "acrobat62"}
+{"word": ["sweat"], "author": "riffraff"}
+{"word": ["Tears"], "author": "jabw10"}
+{"word": ["blood"], "author": "riffraff"}
+{"word": ["transfusion"], "author": "OnlyU2"}
+{"word": ["needles"], "author": "riffraff"}
+{"word": ["Nurse"], "author": "Madra-mor"}
+{"word": ["doctor"], "author": "riffraff"}
+{"word": ["news"], "author": "acrobat62"}
+{"word": ["bad"], "author": "riffraff"}
+{"word": ["sad"], "author": "Volcanogirl"}
+{"word": ["blue"], "author": "riffraff"}
+{"word": ["red"], "author": "Volcanogirl"}
+{"word": ["roses"], "author": "riffraff"}
+{"word": ["thorn"], "author": "acrobat62"}
+{"word": ["ouch"], "author": "riffraff"}
+{"word": ["cry"], "author": "acrobat62"}
+{"word": ["baby"], "author": "riffraff"}
+{"word": ["face"], "author": "acrobat62"}
+{"word": ["off"], "author": "riffraff"}
+{"word": ["on"], "author": "acrobat62"}
+{"word": ["time"], "author": "riffraff"}
+{"word": ["rushing"], "author": "Volcanogirl"}
+{"word": ["flood"], "author": "riffraff"}
+{"word": ["run"], "author": "acrobat62"}
+{"word": ["away"], "author": "riffraff"}
+{"word": ["go"], "author": "acrobat62"}
+{"word": ["fast"], "author": "riffraff"}
+{"word": ["slow"], "author": "acrobat62"}
+{"word": ["tortoise"], "author": "riffraff"}
+{"word": ["shell"], "author": "acrobat62"}
+{"word": ["sea"], "author": "OnlyU2"}
+{"word": ["side"], "author": "acrobat62"}
+{"word": ["walk"], "author": "OnlyU2"}
+{"word": ["street"], "author": "riffraff"}
+{"word": ["pavement"], "author": "Volcanogirl"}
+{"word": ["Concrete"], "author": "Madra-mor"}
+{"word": ["wall"], "author": "Volcanogirl"}
+{"word": ["fall"], "author": "riffraff"}
+{"word": ["Summer"], "author": "acrobat62"}
+{"word": ["hot"], "author": "riffraff"}
+{"word": ["potato"], "author": "acrobat62"}
+{"word": ["scalloped"], "author": "OnlyU2"}
+{"word": ["au gratin"], "author": "riffraff"}
+{"word": ["Breadcrumbs"], "author": "Madra-mor"}
+{"word": ["crackers"], "author": "riffraff"}
+{"word": ["cheese"], "author": "acrobat62"}
+{"word": ["beer"], "author": "riffraff"}
+{"word": ["garden"], "author": "acrobat62"}
+{"word": ["eden"], "author": "riffraff"}
+{"word": ["apple"], "author": "acrobat62"}
+{"word": ["sin"], "author": "riffraff"}
+{"word": ["Hope"], "author": "acrobat62"}
+{"word": ["surrender"], "author": "riffraff"}
+{"word": ["concede"], "author": "OnlyU2"}
+{"word": ["agree"], "author": "riffraff"}
+{"word": ["consent"], "author": "OnlyU2"}
+{"word": ["compromise"], "author": "riffraff"}
+{"word": ["settlement"], "author": "OnlyU2"}
+{"word": ["camp"], "author": "acrobat62"}
+{"word": ["tent"], "author": "riffraff"}
+{"word": ["pole"], "author": "acrobat62"}
+{"word": ["stake"], "author": "riffraff"}
+{"word": ["post"], "author": "OnlyU2"}
+{"word": ["office"], "author": "riffraff"}
+{"word": ["desks"], "author": "trlica"}
+{"word": ["laptop"], "author": "Volcanogirl"}
+{"word": ["ancient"], "author": "riffraff"}
+{"word": ["Museum"], "author": "trlica"}
+{"word": ["relic"], "author": "riffraff"}
+{"word": ["ruin"], "author": "acrobat62"}
+{"word": ["Destroy"], "author": "Madra-mor"}
+{"word": ["troubles"], "author": "riffraff"}
+{"word": ["consequence"], "author": "acrobat62"}
+{"word": ["truth"], "author": "riffraff"}
+{"word": ["courtroom"], "author": "Volcanogirl"}
+{"word": ["justice"], "author": "riffraff"}
+{"word": ["righteousness"], "author": "OnlyU2"}
+{"word": ["humility"], "author": "riffraff"}
+{"word": ["quite"], "author": "acrobat62"}
+{"word": ["modesty"], "author": "riffraff"}
+{"word": ["Vanity"], "author": "Madra-mor"}
+{"word": ["ego"], "author": "OnlyU2"}
+{"word": ["Maniac"], "author": "Madra-mor"}
+{"word": ["lunatic"], "author": "OnlyU2"}
+{"word": ["Broken"], "author": "Madra-mor"}
+{"word": ["pieces"], "author": "Volcanogirl"}
+{"word": ["candy"], "author": "riffraff"}
+{"word": ["butercup"], "author": "Volcanogirl"}
+{"word": ["snickers!"], "author": "riffraff"}
+{"word": ["giggle"], "author": "acrobat62"}
+{"word": ["Laugh"], "author": "jabw10"}
+{"word": ["hysteria"], "author": "riffraff"}
+{"word": ["posterior"], "author": "acrobat62"}
+{"word": ["butt"], "author": "riffraff"}
+{"word": ["cigarette"], "author": "OnlyU2"}
+{"word": ["smoke"], "author": "acrobat62"}
+{"word": ["chimney"], "author": "OnlyU2"}
+{"word": ["sweep"], "author": "riffraff"}
+{"word": ["broom"], "author": "acrobat62"}
+{"word": ["witch"], "author": "OnlyU2"}
+{"word": ["doctor"], "author": "riffraff"}
+{"word": ["psychiatrist"], "author": "OnlyU2"}
+{"word": ["Quack"], "author": "Madra-mor"}
+{"word": ["duck"], "author": "Volcanogirl"}
+{"word": ["waddle"], "author": "riffraff"}
+{"word": ["puddle"], "author": "acrobat62"}
+{"word": ["splash"], "author": "riffraff"}
+{"word": ["wet"], "author": "acrobat62"}
+{"word": ["soaking"], "author": "OnlyU2"}
+{"word": ["jacuzzi"], "author": "riffraff"}
+{"word": ["party"], "author": "Volcanogirl"}
+{"word": ["festivities"], "author": "riffraff"}
+{"word": ["balloons"], "author": "acrobat62"}
+{"word": ["pie"], "author": "Volcanogirl"}
+{"word": ["champagne"], "author": "riffraff"}
+{"word": ["toast"], "author": "OnlyU2"}
+{"word": ["butter"], "author": "acrobat62"}
+{"word": ["popcorn"], "author": "riffraff"}
+{"word": ["movies"], "author": "OnlyU2"}
+{"word": ["sno-caps"], "author": "riffraff"}
+{"word": ["candy"], "author": "OnlyU2"}
+{"word": ["Raisinettes"], "author": "riffraff"}
+{"word": ["Rockettes"], "author": "jabw10"}
+{"word": ["Dancing"], "author": "riffraff"}
+{"word": ["Dirty"], "author": "OnlyU2"}
+{"word": ["Patrick"], "author": "riffraff"}
+{"word": ["Saint"], "author": "OnlyU2"}
+{"word": ["snakes"], "author": "riffraff"}
+{"word": ["rattlers"], "author": "OnlyU2"}
+{"word": ["fangs"], "author": "riffraff"}
+{"word": ["vampire"], "author": "OnlyU2"}
+{"word": ["coffin"], "author": "riffraff"}
+{"word": ["tomb"], "author": "OnlyU2"}
+{"word": ["final"], "author": "riffraff"}
+{"word": ["exam"], "author": "OnlyU2"}
+{"word": ["doctor"], "author": "riffraff"}
+{"word": ["injection"], "author": "Volcanogirl"}
+{"word": ["pain"], "author": "riffraff"}
+{"word": ["blood"], "author": "Volcanogirl"}
+{"word": ["death"], "author": "acrobat62"}
+{"word": ["ghost"], "author": "riffraff"}
+{"word": ["spirit"], "author": "OnlyU2"}
+{"word": ["heavenly"], "author": "riffraff"}
+{"word": ["father"], "author": "OnlyU2"}
+{"word": ["son"], "author": "riffraff"}
+{"word": ["daughter"], "author": "OnlyU2"}
+{"word": ["lovely"], "author": "riffraff"}
+{"word": ["flower"], "author": "acrobat62"}
+{"word": ["petal"], "author": "riffraff"}
+{"word": ["power"], "author": "acrobat62"}
+{"word": ["steering"], "author": "riffraff"}
+{"word": ["wheel"], "author": "acrobat62"}
+{"word": ["boat"], "author": "trlica"}
+{"word": ["river"], "author": "riffraff"}
+{"word": ["raft"], "author": "OnlyU2"}
+{"word": ["peddeling"], "author": "Volcanogirl"}
+{"word": ["whitewater"], "author": "riffraff"}
+{"word": ["rapids"], "author": "OnlyU2"}
+{"word": ["life vest"], "author": "Volcanogirl"}
+{"word": ["life partner"], "author": "riffraff"}
+{"word": ["life quard"], "author": "trlica"}
+{"word": ["body guard"], "author": "Volcanogirl"}
+{"word": ["beach body"], "author": "riffraff"}
+{"word": ["baywatch"], "author": "acrobat62"}
+{"word": ["boobs"], "author": "riffraff"}
+{"word": ["hooters"], "author": "OnlyU2"}
+{"word": ["chi chi's"], "author": "riffraff"}
+{"word": ["TGIFriday's"], "author": "acrobat62"}
+{"word": ["food!"], "author": "riffraff"}
+{"word": ["truck"], "author": "acrobat62"}
+{"word": ["monster"], "author": "riffraff"}
+{"word": ["Frankenstein"], "author": "OnlyU2"}
+{"word": ["scars"], "author": "riffraff"}
+{"word": ["wounds"], "author": "OnlyU2"}
+{"word": ["cruelty"], "author": "riffraff"}
+{"word": ["abuse"], "author": "OnlyU2"}
+{"word": ["shame"], "author": "riffraff"}
+{"word": ["embarrassment"], "author": "OnlyU2"}
+{"word": ["disbelief"], "author": "riffraff"}
+{"word": ["shock"], "author": "acrobat62"}
+{"word": ["terror"], "author": "riffraff"}
+{"word": ["faint"], "author": "acrobat62"}
+{"word": ["dim"], "author": "OnlyU2"}
+{"word": ["witted"], "author": "riffraff"}
+{"word": ["quick"], "author": "OnlyU2"}
+{"word": ["cheetah"], "author": "riffraff"}
+{"word": ["Africa"], "author": "OnlyU2"}
+{"word": ["Elephant"], "author": "Volcanogirl"}
+{"word": ["peanuts"], "author": "riffraff"}
+{"word": ["peanutbutter"], "author": "Volcanogirl"}
+{"word": ["jam"], "author": "OnlyU2"}
+{"word": ["toe jam"], "author": "riffraff"}
+{"word": ["gross"], "author": "OnlyU2"}
+{"word": ["barf"], "author": "riffraff"}
+{"word": ["puke"], "author": "OnlyU2"}
+{"word": ["york"], "author": "acrobat62"}
+{"word": ["New"], "author": "Volcanogirl"}
+{"word": ["Apple"], "author": "trlica"}
+{"word": ["yummy"], "author": "Volcanogirl"}
+{"word": ["delicious"], "author": "riffraff"}
+{"word": ["fruity"], "author": "Volcanogirl"}
+{"word": ["healthy"], "author": "riffraff"}
+{"word": ["snack"], "author": "acrobat62"}
+{"word": ["beer"], "author": "riffraff"}
+{"word": ["pretzels\u00a0 (They're making me thirsty\u00a0"], "author": "acrobat62"}
+{"word": ["gotcha! um, let's see, pretzels..."], "author": "riffraff"}
+{"word": ["ketchup"], "author": "OnlyU2"}
+{"word": ["bun"], "author": "acrobat62"}
+{"word": ["honey"], "author": "riffraff"}
+{"word": ["bee"], "author": "OnlyU2"}
+{"word": ["sting"], "author": "riffraff"}
+{"word": ["Police"], "author": "OnlyU2"}
+{"word": ["Roxanne"], "author": "riffraff"}
+{"word": ["song"], "author": "OnlyU2"}
+{"word": ["music"], "author": "riffraff"}
+{"word": ["tunes"], "author": "OnlyU2"}
+{"word": ["relaxing"], "author": "riffraff"}
+{"word": ["peaceful"], "author": "OnlyU2"}
+{"word": ["inspiring"], "author": "riffraff"}
+{"word": ["influential"], "author": "OnlyU2"}
+{"word": ["powerful"], "author": "riffraff"}
+{"word": ["strong"], "author": "OnlyU2"}
+{"word": ["manly"], "author": "riffraff"}
+{"word": ["macho"], "author": "OnlyU2"}
+{"word": ["stupid"], "author": "riffraff"}
+{"word": ["idiotic"], "author": "OnlyU2"}
+{"word": ["crazy"], "author": "riffraff"}
+{"word": ["wacko"], "author": "OnlyU2"}
+{"word": ["manic"], "author": "riffraff"}
+{"word": ["depressive"], "author": "OnlyU2"}
+{"word": ["medicate"], "author": "riffraff"}
+{"word": ["drugs"], "author": "OnlyU2"}
+{"word": ["Bad"], "author": "riffraff"}
+{"word": ["awful"], "author": "OnlyU2"}
+{"word": ["sad"], "author": "Volcanogirl"}
+{"word": ["useless"], "author": "riffraff"}
+{"word": ["usefull"], "author": "acrobat62"}
+{"word": ["enabling"], "author": "riffraff"}
+{"word": ["allowing"], "author": "OnlyU2"}
+{"word": ["gullible"], "author": "riffraff"}
+{"word": ["naive"], "author": "OnlyU2"}
+{"word": ["clown"], "author": "acrobat62"}
+{"word": ["joker"], "author": "riffraff"}
+{"word": ["card"], "author": "OnlyU2"}
+{"word": ["player"], "author": "acrobat62"}
+{"word": ["poker"], "author": "riffraff"}
+{"word": ["strip"], "author": "OnlyU2"}
+{"word": ["tease"], "author": "riffraff"}
+{"word": ["provoke"], "author": "OnlyU2"}
+{"word": ["tantalize"], "author": "riffraff"}
+{"word": ["torment"], "author": "OnlyU2"}
+{"word": ["torture"], "author": "riffraff"}
+{"word": ["inflict"], "author": "OnlyU2"}
+{"word": ["pain"], "author": "riffraff"}
+{"word": ["suffering"], "author": "OnlyU2"}
+{"word": ["death"], "author": "riffraff"}
+{"word": ["metal"], "author": "OnlyU2"}
+{"word": ["heavy"], "author": "riffraff"}
+{"word": ["obese"], "author": "OnlyU2"}
+{"word": ["diet"], "author": "riffraff"}
+{"word": ["exercise"], "author": "OnlyU2"}
+{"word": ["situps"], "author": "riffraff"}
+{"word": ["pushups"], "author": "OnlyU2"}
+{"word": ["bra"], "author": "riffraff"}
+{"word": ["strap"], "author": "OnlyU2"}
+{"word": ["uncomfortable"], "author": "riffraff"}
+{"word": ["uneasy"], "author": "OnlyU2"}
+{"word": ["trembling"], "author": "riffraff"}
+{"word": ["cold"], "author": "Volcanogirl"}
+{"word": ["shivering"], "author": "riffraff"}
+{"word": ["quacking"], "author": "acrobat62"}
+{"word": ["quacking? Oh...quaking? yeah, okay...um"], "author": "riffraff"}
+{"word": ["earthquake"], "author": "OnlyU2"}
+{"word": ["scary"], "author": "riffraff"}
+{"word": ["frightening"], "author": "OnlyU2"}
+{"word": ["spooky"], "author": "riffraff"}
+{"word": ["quacking? Oh...quaking? yeah, okay...um....boy do I feel dumb, anyway"], "author": "acrobat62"}
+{"word": ["Being dumb is occasionally quite fun...no worries!"], "author": "riffraff"}
+{"word": ["creepy"], "author": "OnlyU2"}
+{"word": ["booga booga!"], "author": "riffraff"}
+{"word": ["Halloween"], "author": "Volcanogirl"}
+{"word": ["treats"], "author": "riffraff"}
+{"word": ["horrorclown"], "author": "Volcanogirl"}
+{"word": ["Pennywise"], "author": "riffraff"}
+{"word": ["It"], "author": "OnlyU2"}
+{"word": ["King"], "author": "riffraff"}
+{"word": ["queen"], "author": "Volcanogirl"}
+{"word": ["Mercury"], "author": "riffraff"}
+{"word": ["Dee ooh !"], "author": "Volcanogirl"}
+{"word": ["ooh my"], "author": "riffraff"}
+{"word": ["my buddie"], "author": "Volcanogirl"}
+{"word": ["fun buddie"], "author": "riffraff"}
+{"word": ["game fun"], "author": "Volcanogirl"}
+{"word": ["word game"], "author": "riffraff"}
+{"word": ["Scrabble"], "author": "jabw10"}
+{"word": ["letters"], "author": "riffraff"}
+{"word": ["envelop"], "author": "trlica"}
+{"word": ["surround"], "author": "riffraff"}
+{"word": ["arms"], "author": "trlica"}
+{"word": ["hugs"], "author": "riffraff"}
+{"word": ["friends"], "author": "Volcanogirl"}
+{"word": ["warmth"], "author": "riffraff"}
+{"word": ["music"], "author": "Volcanogirl"}
+{"word": ["thrilling"], "author": "riffraff"}
+{"word": ["bassplayer"], "author": "Volcanogirl"}
+{"word": ["sweeeeeeeeeeeeeeeeeeeeeeeeeet"], "author": "riffraff"}
+{"word": ["caroline"], "author": "acrobat62"}
+{"word": ["Kennedy"], "author": "riffraff"}
+{"word": ["president"], "author": "OnlyU2"}
+{"word": ["Catholic"], "author": "riffraff"}
+{"word": ["Pope"], "author": "acrobat62"}
+{"word": ["wine"], "author": "riffraff"}
+{"word": ["red"], "author": "OnlyU2"}
+{"word": ["bloodbath"], "author": "miryclay"}
+{"word": ["massacre"], "author": "OnlyU2"}
+{"word": ["tragedy"], "author": "riffraff"}
+{"word": ["cruel"], "author": "Volcanogirl"}
+{"word": ["revenge"], "author": "riffraff"}
+{"word": ["cold"], "author": "acrobat62"}
+{"word": ["frigid"], "author": "OnlyU2"}
+{"word": ["icyhot"], "author": "riffraff"}
+{"word": ["mixed"], "author": "Volcanogirl"}
+{"word": ["emotions"], "author": "riffraff"}
+{"word": ["feelings"], "author": "OnlyU2"}
+{"word": ["memories"], "author": "riffraff"}
+{"word": ["childhood"], "author": "Volcanogirl"}
+{"word": ["aging"], "author": "riffraff"}
+{"word": ["cream"], "author": "acrobat62"}
+{"word": ["puff"], "author": "riffraff"}
+{"word": ["dragon"], "author": "OnlyU2"}
+{"word": ["breath"], "author": "riffraff"}
+{"word": ["smoke"], "author": "Volcanogirl"}
+{"word": ["fire"], "author": "riffraff"}
+{"word": ["panic"], "author": "Volcanogirl"}
+{"word": ["firetrucks"], "author": "riffraff"}
+{"word": ["breakout"], "author": "Volcanogirl"}
+{"word": ["prison"], "author": "riffraff"}
+{"word": ["riot"], "author": "Volcanogirl"}
+{"word": ["escape"], "author": "riffraff"}
+{"word": ["great"], "author": "acrobat62"}
+{"word": ["expectations"], "author": "riffraff"}
+{"word": ["Dickens"], "author": "acrobat62"}
+{"word": ["rain"], "author": "Volcanogirl"}
+{"word": ["gloomy"], "author": "riffraff"}
+{"word": ["drab"], "author": "OnlyU2"}
+{"word": ["soggy"], "author": "riffraff"}
+{"word": ["damp"], "author": "OnlyU2"}
+{"word": ["muddy"], "author": "riffraff"}
+{"word": ["waters"], "author": "acrobat62"}
+{"word": ["roger"], "author": "riffraff"}
+{"word": ["rabbit"], "author": "Volcanogirl"}
+{"word": ["Snickers!"], "author": "riffraff"}
+{"word": ["candy"], "author": "acrobat62"}
+{"word": ["nose"], "author": "riffraff"}
+{"word": ["Rudolf"], "author": "Volcanogirl"}
+{"word": ["reindeer"], "author": "riffraff"}
+{"word": ["meat"], "author": "acrobat62"}
+{"word": ["elk"], "author": "riffraff"}
+{"word": ["moose"], "author": "acrobat62"}
+{"word": ["squirrel"], "author": "riffraff"}
+{"word": ["nuts"], "author": "acrobat62"}
+{"word": ["birdy"], "author": "Volcanogirl"}
+{"word": ["flying"], "author": "riffraff"}
+{"word": ["high"], "author": "acrobat62"}
+{"word": ["stoned"], "author": "riffraff"}
+{"word": ["wall"], "author": "acrobat62"}
+{"word": ["fence"], "author": "riffraff"}
+{"word": ["gate"], "author": "OnlyU2"}
+{"word": ["swing"], "author": "riffraff"}
+{"word": ["time"], "author": "acrobat62"}
+{"word": ["flies"], "author": "riffraff"}
+{"word": ["dragon"], "author": "OnlyU2"}
+{"word": ["breath"], "author": "riffraff"}
+{"word": ["baby's"], "author": "OnlyU2"}
+{"word": ["poop"], "author": "riffraff"}
+{"word": ["\u00a02"], "author": "acrobat62"}
+{"word": ["number"], "author": "riffraff"}
+{"word": ["one"], "author": "Volcanogirl"}
+{"word": ["more"], "author": "riffraff"}
+{"word": ["dip"], "author": "miryclay"}
+{"word": ["please"], "author": "riffraff"}
+{"word": ["begging"], "author": "Volcanogirl"}
+{"word": ["praying"], "author": "riffraff"}
+{"word": ["Postumously"], "author": "miryclay"}
+{"word": ["dead"], "author": "riffraff"}
+{"word": ["Alive"], "author": "WookieeWarrior10"}
+{"word": ["kicking"], "author": "riffraff"}
+{"word": ["screaming"], "author": "Volcanogirl"}
+{"word": ["silence"], "author": "riffraff"}
+{"word": ["sound"], "author": "acrobat62"}
+{"word": ["sane"], "author": "riffraff"}
+{"word": ["Mind"], "author": "jabw10"}
+{"word": ["games"], "author": "acrobat62"}
+{"word": ["mental"], "author": "riffraff"}
+{"word": ["health"], "author": "acrobat62"}
+{"word": ["lucky"], "author": "Volcanogirl"}
+{"word": ["shamrock"], "author": "riffraff"}
+{"word": ["shake"], "author": "acrobat62"}
+{"word": ["green"], "author": "riffraff"}
+{"word": ["shamrock"], "author": "acrobat62"}
+{"word": ["Ireland"], "author": "OnlyU2"}
+{"word": ["U2"], "author": "riffraff"}
+{"word": ["Dublin"], "author": "acrobat62"}
+{"word": ["lads"], "author": "riffraff"}
+{"word": ["Dockers"], "author": "Volcanogirl"}
+{"word": ["men"], "author": "riffraff"}
+{"word": ["women"], "author": "acrobat62"}
+{"word": ["trouble"], "author": "riffraff"}
+{"word": ["double"], "author": "acrobat62"}
+{"word": ["dice"], "author": "Volcanogirl"}
+{"word": ["THROW"], "author": "poppyann"}
+{"word": ["gamble"], "author": "riffraff"}
+{"word": ["Sin"], "author": "poppyann"}
+{"word": ["forgive"], "author": "riffraff"}
+{"word": ["forget"], "author": "acrobat62"}
+{"word": ["remember"], "author": "OnlyU2"}
+{"word": ["Alamo"], "author": "riffraff"}
+{"word": ["Texas"], "author": "poppyann"}
+{"word": ["rangers"], "author": "riffraff"}
+{"word": ["cowboys"], "author": "trlica"}
+{"word": ["Indians"], "author": "riffraff"}
+{"word": ["Curry"], "author": "poppyann"}
+{"word": ["spices"], "author": "riffraff"}
+{"word": ["garnish"], "author": "OnlyU2"}
+{"word": ["paprika"], "author": "Volcanogirl"}
+{"word": ["hungry"], "author": "riffraff"}
+{"word": ["Me !!"], "author": "poppyann"}
+{"word": ["too !"], "author": "riffraff"}
+{"word": ["Extremely !"], "author": "poppyann"}
+{"word": ["famished"], "author": "riffraff"}
+{"word": ["bloated"], "author": "acrobat62"}
+{"word": ["gassy"], "author": "riffraff"}
+{"word": ["Windy"], "author": "poppyann"}
+{"word": ["breezy"], "author": "OnlyU2"}
+{"word": ["achoo !"], "author": "riffraff"}
+{"word": ["sneeze"], "author": "OnlyU2"}
+{"word": ["Irritation"], "author": "poppyann"}
+{"word": ["allergy"], "author": "riffraff"}
+{"word": ["pollen"], "author": "OnlyU2"}
+{"word": ["bees"], "author": "riffraff"}
+{"word": ["sneeze"], "author": "Volcanogirl"}
+{"word": ["tissue"], "author": "riffraff"}
+{"word": ["Nose"], "author": "poppyann"}
+{"word": ["runny"], "author": "riffraff"}
+{"word": ["Egg"], "author": "poppyann"}
+{"word": ["hatchling"], "author": "riffraff"}
+{"word": ["Vunerable"], "author": "Volcanogirl"}
+{"word": ["honest"], "author": "acrobat62"}
+{"word": ["intrepid"], "author": "riffraff"}
+{"word": ["cheese"], "author": "miryclay"}
+{"word": ["Blue"], "author": "poppyann"}
+{"word": ["sad"], "author": "riffraff"}
+{"word": ["Solemn"], "author": "poppyann"}
+{"word": ["serious"], "author": "riffraff"}
+{"word": ["talent"], "author": "miryclay"}
+{"word": ["Flair"], "author": "poppyann"}
+{"word": ["style"], "author": "riffraff"}
+{"word": ["Pizzazz................."], "author": "theocean"}
+{"word": ["model"], "author": "Volcanogirl"}
+{"word": ["runway"], "author": "theocean"}
+{"word": ["fashion"], "author": "riffraff"}
+{"word": ["diamond"], "author": "miryclay"}
+{"word": ["Sparkle"], "author": "poppyann"}
+{"word": ["glitter"], "author": "riffraff"}
+{"word": ["rain"], "author": "acrobat62"}
+{"word": ["Umbrella"], "author": "poppyann"}
+{"word": ["bumpershoot"], "author": "riffraff"}
+{"word": ["Parasol"], "author": "poppyann"}
+{"word": ["Chinagirl"], "author": "riffraff"}
+{"word": ["acrobat"], "author": "Volcanogirl"}
+{"word": ["perform"], "author": "riffraff"}
+{"word": ["jump"], "author": "acrobat62"}
+{"word": ["high"], "author": "riffraff"}
+{"word": ["enough"], "author": "acrobat62"}
+{"word": ["never"], "author": "riffraff"}
+{"word": ["ever"], "author": "acrobat62"}
+{"word": ["lie"], "author": "riffraff"}
+{"word": ["down\u00a0 \u00a0"], "author": "acrobat62"}
+{"word": ["eider"], "author": "riffraff"}
+{"word": ["Drake"], "author": "acrobat62"}
+{"word": ["quack"], "author": "riffraff"}
+{"word": ["crazy"], "author": "acrobat62"}
+{"word": ["nutzoid"], "author": "riffraff"}
+{"word": ["looney"], "author": "OnlyU2"}
+{"word": ["tunes"], "author": "riffraff"}
+{"word": ["Melody"], "author": "poppyann"}
+{"word": ["music"], "author": "trlica"}
+{"word": ["Crapshoot"], "author": "miryclay"}
+{"word": ["Risky"], "author": "poppyann"}
+{"word": ["business"], "author": "riffraff"}
+{"word": ["practice"], "author": "miryclay"}
+{"word": ["perfect"], "author": "riffraff"}
+{"word": ["ten"], "author": "acrobat62"}
+{"word": ["hutt"], "author": "riffraff"}
+{"word": ["Salute"], "author": "poppyann"}
+{"word": ["honor"], "author": "riffraff"}
+{"word": ["Fame"], "author": "poppyann"}
+{"word": ["celebrity"], "author": "riffraff"}
+{"word": ["hype"], "author": "acrobat62"}
+{"word": ["THE HYPE !!!"], "author": "riffraff"}
+{"word": ["Exposure"], "author": "poppyann"}
+{"word": ["streak"], "author": "riffraff"}
+{"word": ["Strip"], "author": "poppyann"}
+{"word": ["tease"], "author": "riffraff"}
+{"word": ["Hair"], "author": "acrobat62"}
+{"word": ["cut"], "author": "riffraff"}
+{"word": ["out"], "author": "acrobat62"}
+{"word": ["safe"], "author": "riffraff"}
+{"word": ["cracker"], "author": "acrobat62"}
+{"word": ["Snack"], "author": "poppyann"}
+{"word": ["milkbone"], "author": "riffraff"}
+{"word": ["biscuit"], "author": "OnlyU2"}
+{"word": ["baby"], "author": "miryclay"}
+{"word": ["Bouncing"], "author": "poppyann"}
+{"word": ["bubbles"], "author": "Volcanogirl"}
+{"word": ["Froth"], "author": "poppyann"}
+{"word": ["suds"], "author": "riffraff"}
+{"word": ["Lather"], "author": "poppyann"}
+{"word": ["shower"], "author": "riffraff"}
+{"word": ["Cap"], "author": "poppyann"}
+{"word": ["baseball"], "author": "riffraff"}
+{"word": ["Team"], "author": "poppyann"}
+{"word": ["compete"], "author": "acrobat62"}
+{"word": ["win"], "author": "riffraff"}
+{"word": ["medals"], "author": "Volcanogirl"}
+{"word": ["Gold"], "author": "poppyann"}
+{"word": ["silver"], "author": "Volcanogirl"}
+{"word": ["mines"], "author": "riffraff"}
+{"word": ["dwarfs"], "author": "acrobat62"}
+{"word": ["dragons"], "author": "riffraff"}
+{"word": ["Hobbits"], "author": "Volcanogirl"}
+{"word": ["rings"], "author": "riffraff"}
+{"word": ["onion"], "author": "acrobat62"}
+{"word": ["cry"], "author": "riffraff"}
+{"word": ["baby"], "author": "acrobat62"}
+{"word": ["diaper"], "author": "riffraff"}
+{"word": ["dirty"], "author": "acrobat62"}
+{"word": ["trabant"], "author": "miryclay"}
+{"word": ["car"], "author": "riffraff"}
+{"word": ["bike"], "author": "acrobat62"}
+{"word": ["Harley"], "author": "riffraff"}
+{"word": ["Hog"], "author": "acrobat62"}
+{"word": ["Pig"], "author": "poppyann"}
+{"word": ["oink"], "author": "riffraff"}
+{"word": ["nose"], "author": "Volcanogirl"}
+{"word": ["sniffles"], "author": "riffraff"}
+{"word": ["snot"], "author": "acrobat62"}
+{"word": ["booger"], "author": "riffraff"}
+{"word": ["green"], "author": "OnlyU2"}
+{"word": ["Jealousy"], "author": "poppyann"}
+{"word": ["envy"], "author": "OnlyU2"}
+{"word": ["Resentful"], "author": "poppyann"}
+{"word": ["spiteful"], "author": "riffraff"}
+{"word": ["mean"], "author": "Volcanogirl"}
+{"word": ["divorce"], "author": "riffraff"}
+{"word": ["married"], "author": "acrobat62"}
+{"word": ["not!"], "author": "riffraff"}
+{"word": ["sad"], "author": "Volcanogirl"}
+{"word": ["sap"], "author": "acrobat62"}
+{"word": ["tree"], "author": "OnlyU2"}
+{"word": ["beard"], "author": "acrobat62"}
+{"word": ["ent"], "author": "riffraff"}
+{"word": ["I knew you'd pick up on that"], "author": "acrobat62"}
+{"word": ["forest"], "author": "riffraff"}
+{"word": ["Gateau"], "author": "poppyann"}
+{"word": ["?"], "author": "riffraff"}
+{"word": ["(gateau is cake in French)"], "author": "OnlyU2"}
+{"word": ["(thanks)"], "author": "riffraff"}
+{"word": ["Yes, They call it the \"Black Forest Gateau Cake \""], "author": "poppyann"}
+{"word": ["Flame"], "author": "poppyann"}
+{"word": ["fire"], "author": "OnlyU2"}
+{"word": ["screams"], "author": "Volcanogirl"}
+{"word": ["Yells"], "author": "poppyann"}
+{"word": ["whimper"], "author": "riffraff"}
+{"word": ["hearing"], "author": "Volcanogirl"}
+{"word": ["loss"], "author": "riffraff"}
+{"word": ["subtitles"], "author": "Volcanogirl"}
+{"word": ["language"], "author": "riffraff"}
+{"word": ["international"], "author": "Volcanogirl"}
+{"word": ["peace"], "author": "riffraff"}
+{"word": ["Harmony"], "author": "poppyann"}
+{"word": ["voices"], "author": "riffraff"}
+{"word": ["vocals"], "author": "OnlyU2"}
+{"word": ["beautiful"], "author": "riffraff"}
+{"word": ["Stunning"], "author": "poppyann"}
+{"word": ["goosebumps"], "author": "riffraff"}
+{"word": ["Tingle"], "author": "poppyann"}
+{"word": ["shivers"], "author": "riffraff"}
+{"word": ["Cold"], "author": "poppyann"}
+{"word": ["icy"], "author": "riffraff"}
+{"word": ["northpole"], "author": "Volcanogirl"}
+{"word": ["SANTA !"], "author": "riffraff"}
+{"word": ["gifts"], "author": "Volcanogirl"}
+{"word": ["giving"], "author": "riffraff"}
+{"word": ["love"], "author": "Volcanogirl"}
+{"word": ["friends"], "author": "riffraff"}
+{"word": ["Colleagues"], "author": "poppyann"}
+{"word": ["associates"], "author": "riffraff"}
+{"word": ["Staff"], "author": "poppyann"}
+{"word": ["coworkers"], "author": "riffraff"}
+{"word": ["Employees"], "author": "poppyann"}
+{"word": ["bossy bosses"], "author": "riffraff"}
+{"word": ["Manager"], "author": "poppyann"}
+{"word": ["complaining"], "author": "Volcanogirl"}
+{"word": ["quitting"], "author": "riffraff"}
+{"word": ["finished"], "author": "acrobat62"}
+{"word": ["over"], "author": "riffraff"}
+{"word": ["under"], "author": "acrobat62"}
+{"word": ["water"], "author": "riffraff"}
+{"word": ["wet"], "author": "acrobat62"}
+{"word": ["splash"], "author": "riffraff"}
+{"word": ["splish"], "author": "acrobat62"}
+{"word": ["Splosh"], "author": "poppyann"}
+{"word": ["splush"], "author": "acrobat62"}
+{"word": ["disgusting!"], "author": "riffraff"}
+{"word": ["gross"], "author": "acrobat62"}
+{"word": ["icky"], "author": "riffraff"}
+{"word": ["YUCK!"], "author": "OnlyU2"}
+{"word": ["Amen!"], "author": "riffraff"}
+{"word": ["Grace"], "author": "OnlyU2"}
+{"word": ["serenity"], "author": "riffraff"}
+{"word": ["peace"], "author": "acrobat62"}
+{"word": ["impossible"], "author": "riffraff"}
+{"word": ["unable"], "author": "OnlyU2"}
+{"word": ["can't"], "author": "acrobat62"}
+{"word": ["won't"], "author": "riffraff"}
+{"word": ["Not"], "author": "poppyann"}
+{"word": ["gonna"], "author": "riffraff"}
+{"word": ["will"], "author": "OnlyU2"}
+{"word": ["Want"], "author": "poppyann"}
+{"word": ["Desire"], "author": "OnlyU2"}
+{"word": ["Magnificent"], "author": "riffraff"}
+{"word": ["Gloria"], "author": "Volcanogirl"}
+{"word": ["faith"], "author": "riffraff"}
+{"word": ["charity"], "author": "acrobat62"}
+{"word": ["needy"], "author": "riffraff"}
+{"word": ["wanting"], "author": "acrobat62"}
+{"word": ["believing"], "author": "Volcanogirl"}
+{"word": ["Trust"], "author": "poppyann"}
+{"word": ["fund"], "author": "acrobat62"}
+{"word": ["money!"], "author": "riffraff"}
+{"word": ["Spent"], "author": "poppyann"}
+{"word": ["gone"], "author": "riffraff"}
+{"word": ["disappeared"], "author": "OnlyU2"}
+{"word": ["poof"], "author": "riffraff"}
+{"word": ["smoke"], "author": "OnlyU2"}
+{"word": ["weed"], "author": "riffraff"}
+{"word": ["marijuana"], "author": "OnlyU2"}
+{"word": ["legalize"], "author": "riffraff"}
+{"word": ["enable"], "author": "OnlyU2"}
+{"word": ["freedom"], "author": "riffraff"}
+{"word": ["divorce"], "author": "OnlyU2"}
+{"word": ["Party !"], "author": "poppyann"}
+{"word": ["animal"], "author": "riffraff"}
+{"word": ["bunny"], "author": "Volcanogirl"}
+{"word": ["Snickers!"], "author": "riffraff"}
+{"word": ["laugh"], "author": "acrobat62"}
+{"word": ["giggle"], "author": "riffraff"}
+{"word": ["grin"], "author": "acrobat62"}
+{"word": ["snort"], "author": "riffraff"}
+{"word": ["root"], "author": "acrobat62"}
+{"word": ["cutting"], "author": "Volcanogirl"}
+{"word": ["Slicing"], "author": "poppyann"}
+{"word": ["dicing"], "author": "acrobat62"}
+{"word": ["onions"], "author": "riffraff"}
+{"word": ["tears"], "author": "acrobat62"}
+{"word": ["fears"], "author": "riffraff"}
+{"word": ["phobias"], "author": "OnlyU2"}
+{"word": ["paranoia"], "author": "riffraff"}
+{"word": ["schizophrenia"], "author": "OnlyU2"}
+{"word": ["nutcase"], "author": "riffraff"}
+{"word": ["crazy"], "author": "acrobat62"}
+{"word": ["beau coup dinky"], "author": "riffraff"}
+{"word": ["Deranged"], "author": "poppyann"}
+{"word": ["snarky"], "author": "riffraff"}
+{"word": ["Critical"], "author": "poppyann"}
+{"word": ["condescending"], "author": "riffraff"}
+{"word": ["patronizing"], "author": "OnlyU2"}
+{"word": ["ridiculous"], "author": "riffraff"}
+{"word": ["idiotic"], "author": "OnlyU2"}
+{"word": ["Silly"], "author": "poppyann"}
+{"word": ["fun"], "author": "riffraff"}
+{"word": ["amusing"], "author": "OnlyU2"}
+{"word": ["entertaining"], "author": "Volcanogirl"}
+{"word": ["addicting"], "author": "riffraff"}
+{"word": ["music"], "author": "Volcanogirl"}
+{"word": ["U2"], "author": "riffraff"}
+{"word": ["awesome!"], "author": "Volcanogirl"}
+{"word": ["mystical"], "author": "riffraff"}
+{"word": ["mysterious"], "author": "Volcanogirl"}
+{"word": ["magical"], "author": "riffraff"}
+{"word": ["sparkling"], "author": "Volcanogirl"}
+{"word": ["exhilarating"], "author": "riffraff"}
+{"word": ["explosive"], "author": "Volcanogirl"}
+{"word": ["inspiring"], "author": "riffraff"}
+{"word": ["spiritual"], "author": "acrobat62"}
+{"word": ["deep"], "author": "riffraff"}
+{"word": ["sh*t"], "author": "acrobat62"}
+{"word": ["storm"], "author": "riffraff"}
+{"word": ["Tornado"], "author": "poppyann"}
+{"word": ["hurricane"], "author": "riffraff"}
+{"word": ["wind"], "author": "acrobat62"}
+{"word": ["breeze"], "author": "OnlyU2"}
+{"word": ["sail"], "author": "riffraff"}
+{"word": ["boat"], "author": "OnlyU2"}
+{"word": ["ocean"], "author": "riffraff"}
+{"word": ["Pacific"], "author": "OnlyU2"}
+{"word": ["beautiful"], "author": "riffraff"}
+{"word": ["purty"], "author": "acrobat62"}
+{"word": ["(sweet spelling!)"], "author": "riffraff"}
+{"word": ["cutie"], "author": "acrobat62"}
+{"word": ["patootie"], "author": "riffraff"}
+{"word": ["fruitie"], "author": "acrobat62"}
+{"word": ["pie"], "author": "riffraff"}
+{"word": ["face"], "author": "acrobat62"}
+{"word": ["off"], "author": "riffraff"}
+{"word": ["bug"], "author": "OnlyU2"}
+{"word": ["bite"], "author": "riffraff"}
+{"word": ["nip"], "author": "OnlyU2"}
+{"word": ["Tweak"], "author": "poppyann"}
+{"word": ["twist"], "author": "OnlyU2"}
+{"word": ["Buckle"], "author": "poppyann"}
+{"word": ["belt"], "author": "OnlyU2"}
+{"word": ["whiskey"], "author": "riffraff"}
+{"word": ["scotch"], "author": "OnlyU2"}
+{"word": ["tape"], "author": "riffraff"}
+{"word": ["duct"], "author": "OnlyU2"}
+{"word": ["air"], "author": "riffraff"}
+{"word": ["breathe"], "author": "acrobat62"}
+{"word": ["gasp"], "author": "riffraff"}
+{"word": ["choke"], "author": "acrobat62"}
+{"word": ["gak"], "author": "riffraff"}
+{"word": ["Cocaine"], "author": "poppyann"}
+{"word": ["booze"], "author": "Volcanogirl"}
+{"word": ["drunk"], "author": "riffraff"}
+{"word": ["plastered"], "author": "OnlyU2"}
+{"word": ["wall"], "author": "acrobat62"}
+{"word": ["Berlin"], "author": "OnlyU2"}
+{"word": ["Brandenburg"], "author": "acrobat62"}
+{"word": ["Germany"], "author": "OnlyU2"}
+{"word": ["Beck's\u00a0"], "author": "acrobat62"}
+{"word": ["brewski"], "author": "riffraff"}
+{"word": ["ale"], "author": "OnlyU2"}
+{"word": ["malt"], "author": "riffraff"}
+{"word": ["grain"], "author": "OnlyU2"}
+{"word": ["yeast"], "author": "riffraff"}
+{"word": ["infection"], "author": "OnlyU2"}
+{"word": ["ewwwwwwwwwwww"], "author": "riffraff"}
+{"word": ["penicillin"], "author": "OnlyU2"}
+{"word": ["reaction"], "author": "riffraff"}
+{"word": ["chemical"], "author": "acrobat62"}
+{"word": ["dependence"], "author": "riffraff"}
+{"word": ["addiction"], "author": "OnlyU2"}
+{"word": ["kick"], "author": "riffraff"}
+{"word": ["punt"], "author": "OnlyU2"}
+{"word": ["fumble"], "author": "riffraff"}
+{"word": ["bumble"], "author": "acrobat62"}
+{"word": ["bee"], "author": "OnlyU2"}
+{"word": ["careful\u00a0"], "author": "riffraff"}
+{"word": ["cautious"], "author": "OnlyU2"}
+{"word": ["wary"], "author": "riffraff"}
+{"word": ["careful"], "author": "OnlyU2"}
+{"word": ["oops!"], "author": "riffraff"}
+{"word": ["mistake"], "author": "OnlyU2"}
+{"word": ["snafu"], "author": "riffraff"}
+{"word": ["chaos"], "author": "OnlyU2"}
+{"word": ["Mess"], "author": "poppyann"}
+{"word": ["disaster"], "author": "riffraff"}
+{"word": ["Movie"], "author": "poppyann"}
+{"word": ["flick"], "author": "riffraff"}
+{"word": ["Hair"], "author": "poppyann"}
+{"word": ["ball"], "author": "riffraff"}
+{"word": ["bounce"], "author": "OnlyU2"}
+{"word": ["ricochet"], "author": "riffraff"}
+{"word": ["bullet"], "author": "OnlyU2"}
+{"word": ["bang"], "author": "riffraff"}
+{"word": ["pop"], "author": "OnlyU2"}
+{"word": ["gun"], "author": "riffraff"}
+{"word": ["shoot"], "author": "OnlyU2"}
+{"word": ["me"], "author": "riffraff"}
+{"word": ["army"], "author": "Volcanogirl"}
+{"word": ["fight"], "author": "riffraff"}
+{"word": ["Scrap"], "author": "poppyann"}
+{"word": ["metal"], "author": "riffraff"}
+{"word": ["Heavy"], "author": "poppyann"}
+{"word": ["duty"], "author": "riffraff"}
+{"word": ["Calls"], "author": "poppyann"}
+{"word": ["phone"], "author": "riffraff"}
+{"word": ["cell"], "author": "OnlyU2"}
+{"word": ["app"], "author": "Volcanogirl"}
+{"word": ["User"], "author": "poppyann"}
+{"word": ["laptop"], "author": "riffraff"}
+{"word": ["computer"], "author": "OnlyU2"}
+{"word": ["Virus"], "author": "poppyann"}
+{"word": ["usb"], "author": "Volcanogirl"}
+{"word": ["network"], "author": "riffraff"}
+{"word": ["mouse"], "author": "Volcanogirl"}
+{"word": ["rat"], "author": "riffraff"}
+{"word": ["tail"], "author": "acrobat62"}
+{"word": ["nose"], "author": "Volcanogirl"}
+{"word": ["top"], "author": "acrobat62"}
+{"word": ["Spinning"], "author": "poppyann"}
+{"word": ["dizzy"], "author": "riffraff"}
+{"word": ["faint"], "author": "OnlyU2"}
+{"word": ["swoon"], "author": "riffraff"}
+{"word": ["collapse"], "author": "OnlyU2"}
+{"word": ["Topple"], "author": "poppyann"}
+{"word": ["spazzzzzzzzzz"], "author": "riffraff"}
+{"word": ["freak"], "author": "OnlyU2"}
+{"word": ["funky"], "author": "riffraff"}
+{"word": ["rhythm"], "author": "OnlyU2"}
+{"word": ["drums"], "author": "riffraff"}
+{"word": ["African"], "author": "poppyann"}
+{"word": ["savannah"], "author": "riffraff"}
+{"word": ["Tropical"], "author": "poppyann"}
+{"word": ["forest"], "author": "riffraff"}
+{"word": ["woods"], "author": "OnlyU2"}
+{"word": ["deer"], "author": "riffraff"}
+{"word": ["Antlers"], "author": "poppyann"}
+{"word": ["moose"], "author": "OnlyU2"}
+{"word": ["Bullwinkle"], "author": "riffraff"}
+{"word": ["Rocky"], "author": "OnlyU2"}
+{"word": ["Rambo"], "author": "poppyann"}
+{"word": ["Stallone"], "author": "OnlyU2"}
+{"word": ["Boxer"], "author": "poppyann"}
+{"word": ["punchbag"], "author": "Volcanogirl"}
+{"word": ["gloves"], "author": "riffraff"}
+{"word": ["Kid"], "author": "poppyann"}
+{"word": ["goat"], "author": "riffraff"}
+{"word": ["cheese"], "author": "OnlyU2"}
+{"word": ["puffs"], "author": "riffraff"}
+{"word": ["cream"], "author": "OnlyU2"}
+{"word": ["whipped"], "author": "riffraff"}
+{"word": ["controlled"], "author": "OnlyU2"}
+{"word": ["intimidated"], "author": "riffraff"}
+{"word": ["frighten"], "author": "OnlyU2"}
+{"word": ["escape"], "author": "riffraff"}
+{"word": ["prison"], "author": "OnlyU2"}
+{"word": ["criminal"], "author": "riffraff"}
+{"word": ["convict"], "author": "OnlyU2"}
+{"word": ["parole"], "author": "riffraff"}
+{"word": ["Release"], "author": "poppyann"}
+{"word": ["freedom"], "author": "riffraff"}
+{"word": ["divorce"], "author": "OnlyU2"}
+{"word": ["party!"], "author": "riffraff"}
+{"word": ["beer"], "author": "OnlyU2"}
+{"word": ["keg"], "author": "riffraff"}
+{"word": ["steakhouse"], "author": "OnlyU2"}
+{"word": ["t-bone"], "author": "riffraff"}
+{"word": ["Fish"], "author": "poppyann"}
+{"word": ["scales"], "author": "OnlyU2"}
+{"word": ["Weight"], "author": "poppyann"}
+{"word": ["height"], "author": "riffraff"}
+{"word": ["Skyscraper"], "author": "poppyann"}
+{"word": ["dizzy"], "author": "riffraff"}
+{"word": ["faint"], "author": "OnlyU2"}
+{"word": ["wuss"], "author": "riffraff"}
+{"word": ["wimp"], "author": "OnlyU2"}
+{"word": ["weakling"], "author": "riffraff"}
+{"word": ["Feeble"], "author": "poppyann"}
+{"word": ["fragile"], "author": "riffraff"}
+{"word": ["Doll"], "author": "poppyann"}
+{"word": ["baby"], "author": "riffraff"}
+{"word": ["achtung"], "author": "OnlyU2"}
+{"word": ["ultraviolet"], "author": "riffraff"}
+{"word": ["electromagnetic"], "author": "OnlyU2"}
+{"word": ["energy"], "author": "riffraff"}
+{"word": ["Zest"], "author": "poppyann"}
+{"word": ["zing"], "author": "riffraff"}
+{"word": ["vitality"], "author": "OnlyU2"}
+{"word": ["health"], "author": "riffraff"}
+{"word": ["Happiness"], "author": "poppyann"}
+{"word": ["love"], "author": "riffraff"}
+{"word": ["adore"], "author": "OnlyU2"}
+{"word": ["Idolize"], "author": "poppyann"}
+{"word": ["pedestal"], "author": "acrobat62"}
+{"word": ["statue"], "author": "OnlyU2"}
+{"word": ["bust"], "author": "riffraff"}
+{"word": ["breast"], "author": "OnlyU2"}
+{"word": ["feed"], "author": "riffraff"}
+{"word": ["nourish"], "author": "OnlyU2"}
+{"word": ["Nurture"], "author": "poppyann"}
+{"word": ["assist"], "author": "riffraff"}
+{"word": ["help"], "author": "OnlyU2"}
+{"word": ["Me !"], "author": "poppyann"}
+{"word": ["okay!"], "author": "riffraff"}
+{"word": ["Agreed !"], "author": "poppyann"}
+{"word": ["ten-four"], "author": "riffraff"}
+{"word": ["Okey"], "author": "Volcanogirl"}
+{"word": ["acceptable"], "author": "riffraff"}
+{"word": ["fine"], "author": "acrobat62"}
+{"word": ["Okally dokally"], "author": "riffraff"}
+{"word": ["simpsons"], "author": "acrobat62"}
+{"word": ["cowabunga"], "author": "riffraff"}
+{"word": ["Delight"], "author": "poppyann"}
+{"word": ["wheeeeeeeeeee"], "author": "riffraff"}
+{"word": ["woot woot"], "author": "acrobat62"}
+{"word": ["yippeeeeeeeeee"], "author": "riffraff"}
+{"word": ["hooray"], "author": "acrobat62"}
+{"word": ["yahoo!"], "author": "OnlyU2"}
+{"word": ["excellent"], "author": "riffraff"}
+{"word": ["fantastic"], "author": "OnlyU2"}
+{"word": ["super"], "author": "riffraff"}
+{"word": ["Wonderful"], "author": "poppyann"}
+{"word": ["Noice"], "author": "acrobat62"}
+{"word": ["pleasant"], "author": "riffraff"}
+{"word": ["enjoyable"], "author": "OnlyU2"}
+{"word": ["fun"], "author": "riffraff"}
+{"word": ["amusing"], "author": "OnlyU2"}
+{"word": ["clown"], "author": "acrobat62"}
+{"word": ["class"], "author": "riffraff"}
+{"word": ["school"], "author": "OnlyU2"}
+{"word": ["bus"], "author": "riffraff"}
+{"word": ["greyhound"], "author": "OnlyU2"}
+{"word": ["racing"], "author": "riffraff"}
+{"word": ["speeding"], "author": "OnlyU2"}
+{"word": ["ticket"], "author": "riffraff"}
+{"word": ["concert"], "author": "OnlyU2"}
+{"word": ["U2"], "author": "riffraff"}
+{"word": ["Fantastic !"], "author": "poppyann"}
+{"word": ["addiction"], "author": "riffraff"}
+{"word": ["powerful"], "author": "Volcanogirl"}
+{"word": ["strength"], "author": "riffraff"}
+{"word": ["40"], "author": "Volcanogirl"}
+{"word": ["Life"], "author": "poppyann"}
+{"word": ["long"], "author": "riffraff"}
+{"word": ["Day"], "author": "poppyann"}
+{"word": ["hot"], "author": "riffraff"}
+{"word": ["Adam"], "author": "Volcanogirl"}
+{"word": ["YES! oh, that's my reaction, but my next word is..."], "author": "riffraff"}
+{"word": ["Has to be..."], "author": "poppyann"}
+{"word": ["(can we forget..."], "author": "riffraff"}
+{"word": ["Dublin"], "author": "poppyann"}
+{"word": ["Dockers"], "author": "Volcanogirl"}
+{"word": ["longshoremen"], "author": "riffraff"}
+{"word": ["windmill lane"], "author": "Volcanogirl"}
+{"word": ["California windmills"], "author": "riffraff"}
+{"word": ["California raisins"], "author": "acrobat62"}
+{"word": ["scary raisins\u00a0 \u00a0(did you ever see Benny & Joon?)"], "author": "riffraff"}
+{"word": ["Sorry not a Depp fan"], "author": "acrobat62"}
+{"word": ["not sure we can be friends...lol"], "author": "riffraff"}
+{"word": ["been around"], "author": "acrobat62"}
+{"word": ["been down"], "author": "riffraff"}
+{"word": ["wrong game!"], "author": "OnlyU2"}
+{"word": ["Opps, start over!"], "author": "acrobat62"}
+{"word": ["apologize"], "author": "OnlyU2"}
+{"word": ["kneel"], "author": "acrobat62"}
+{"word": ["pray"], "author": "OnlyU2"}
+{"word": ["hope"], "author": "acrobat62"}
+{"word": ["Desire"], "author": "poppyann"}
+{"word": ["want"], "author": "acrobat62"}
+{"word": ["need"], "author": "riffraff"}
+{"word": ["feel"], "author": "acrobat62"}
+{"word": ["emotion"], "author": "riffraff"}
+{"word": ["Feeling"], "author": "poppyann"}
+{"word": ["blue"], "author": "riffraff"}
+{"word": ["navy"], "author": "OnlyU2"}
+{"word": ["Ship"], "author": "poppyann"}
+{"word": ["cruise"], "author": "OnlyU2"}
+{"word": ["Seasick"], "author": "poppyann"}
+{"word": ["upset"], "author": "Volcanogirl"}
+{"word": ["trauma"], "author": "riffraff"}
+{"word": ["bleeding"], "author": "acrobat62"}
+{"word": ["heart"], "author": "riffraff"}
+{"word": ["liberal\u00a0 \u00a0"], "author": "acrobat62"}
+{"word": ["good!"], "author": "riffraff"}
+{"word": ["Smashing"], "author": "poppyann"}
+{"word": ["pumpkins"], "author": "riffraff"}
+{"word": ["peanuts"], "author": "acrobat62"}
+{"word": ["beagles"], "author": "riffraff"}
+{"word": ["ears"], "author": "acrobat62"}
+{"word": ["cute!"], "author": "riffraff"}
+{"word": ["adorable"], "author": "OnlyU2"}
+{"word": ["sappy"], "author": "acrobat62"}
+{"word": ["cloying"], "author": "riffraff"}
+{"word": ["sickening"], "author": "acrobat62"}
+{"word": ["nauseating"], "author": "riffraff"}
+{"word": ["Bilious"], "author": "poppyann"}
+{"word": ["barf"], "author": "riffraff"}
+{"word": ["Vomit"], "author": "poppyann"}
+{"word": ["ugly"], "author": "riffraff"}
+{"word": ["duckling"], "author": "acrobat62"}
+{"word": ["a la orange"], "author": "riffraff"}
+{"word": ["eat"], "author": "acrobat62"}
+{"word": ["drink"], "author": "riffraff"}
+{"word": ["drunk"], "author": "acrobat62"}
+{"word": ["hangover"], "author": "riffraff"}
+{"word": ["headache"], "author": "OnlyU2"}
+{"word": ["sleep"], "author": "riffraff"}
+{"word": ["dream"], "author": "OnlyU2"}
+{"word": ["nightmare"], "author": "riffraff"}
+{"word": ["scary"], "author": "OnlyU2"}
+{"word": ["terrible"], "author": "riffraff"}
+{"word": ["awful"], "author": "OnlyU2"}
+{"word": ["Crude"], "author": "poppyann"}
+{"word": ["lusty"], "author": "riffraff"}
+{"word": ["Sexy"], "author": "poppyann"}
+{"word": ["fun"], "author": "riffraff"}
+{"word": ["enjoyable"], "author": "OnlyU2"}
+{"word": ["pleasant"], "author": "riffraff"}
+{"word": ["nice"], "author": "OnlyU2"}
+{"word": ["sweet (oh, this is getting icky)"], "author": "riffraff"}
+{"word": ["Very Icky..."], "author": "poppyann"}
+{"word": ["grapes"], "author": "riffraff"}
+{"word": ["purple"], "author": "OnlyU2"}
+{"word": ["rain"], "author": "riffraff"}
+{"word": ["drain"], "author": "acrobat62"}
+{"word": ["clog"], "author": "riffraff"}
+{"word": ["shoe"], "author": "acrobat62"}
+{"word": ["dance"], "author": "riffraff"}
+{"word": ["sing"], "author": "acrobat62"}
+{"word": ["play"], "author": "Volcanogirl"}
+{"word": ["games"], "author": "OnlyU2"}
+{"word": ["online"], "author": "Volcanogirl"}
+{"word": ["internet"], "author": "OnlyU2"}
+{"word": ["google"], "author": "riffraff"}
+{"word": ["yahoo"], "author": "OnlyU2"}
+{"word": ["wheeeeeeeee"], "author": "riffraff"}
+{"word": ["yippy"], "author": "OnlyU2"}
+{"word": ["yuppie"], "author": "riffraff"}
+{"word": ["geek"], "author": "OnlyU2"}
+{"word": ["nerd"], "author": "riffraff"}
+{"word": ["dweeb"], "author": "OnlyU2"}
+{"word": ["jerkbutt"], "author": "riffraff"}
+{"word": ["Nerd"], "author": "poppyann"}
+{"word": ["nitwit"], "author": "riffraff"}
+{"word": ["dingbatt"], "author": "Volcanogirl"}
+{"word": ["twit"], "author": "riffraff"}
+{"word": ["tweet"], "author": "Volcanogirl"}
+{"word": ["chirp"], "author": "riffraff"}
+{"word": ["bird"], "author": "OnlyU2"}
+{"word": ["poop"], "author": "riffraff"}
+{"word": ["Mess"], "author": "poppyann"}
+{"word": ["pickup"], "author": "riffraff"}
+{"word": ["Scoop"], "author": "poppyann"}
+{"word": ["bag"], "author": "riffraff"}
+{"word": ["Holdall"], "author": "poppyann"}
+{"word": ["smell"], "author": "Volcanogirl"}
+{"word": ["sniff"], "author": "riffraff"}
+{"word": ["Whiff"], "author": "poppyann"}
+{"word": ["breeze"], "author": "riffraff"}
+{"word": ["Wind"], "author": "poppyann"}
+{"word": ["springtime"], "author": "Volcanogirl"}
+{"word": ["ACHOO !!!"], "author": "riffraff"}
+{"word": ["Bless"], "author": "poppyann"}
+{"word": ["thanks"], "author": "riffraff"}
+{"word": ["appreciate"], "author": "OnlyU2"}
+{"word": ["Care"], "author": "poppyann"}
+{"word": ["nice"], "author": "riffraff"}
+{"word": ["Friendly"], "author": "poppyann"}
+{"word": ["sometimes"], "author": "riffraff"}
+{"word": ["buddie"], "author": "Volcanogirl"}
+{"word": ["Pal"], "author": "poppyann"}
+{"word": ["amiga"], "author": "riffraff"}
+{"word": ["dude"], "author": "acrobat62"}
+{"word": ["paisan"], "author": "riffraff"}
+{"word": ["Fellow"], "author": "poppyann"}
+{"word": ["gent"], "author": "riffraff"}
+{"word": ["Mannered"], "author": "poppyann"}
+{"word": ["suave"], "author": "riffraff"}
+{"word": ["debonair"], "author": "OnlyU2"}
+{"word": ["posh"], "author": "riffraff"}
+{"word": ["ritzy"], "author": "OnlyU2"}
+{"word": ["rich"], "author": "riffraff"}
+{"word": ["wealthy"], "author": "OnlyU2"}
+{"word": ["affluent"], "author": "riffraff"}
+{"word": ["prosperous"], "author": "OnlyU2"}
+{"word": ["thriving"], "author": "riffraff"}
+{"word": ["flourishing"], "author": "OnlyU2"}
+{"word": ["spending"], "author": "riffraff"}
+{"word": ["buying"], "author": "OnlyU2"}
+{"word": ["giving"], "author": "riffraff"}
+{"word": ["caring"], "author": "Volcanogirl"}
+{"word": ["sharing"], "author": "riffraff"}
+{"word": ["loving"], "author": "Volcanogirl"}
+{"word": ["Adoring"], "author": "poppyann"}
+{"word": ["cherishing...ok, enough mushy stuff...let's go somewhere else today...how about"], "author": "riffraff"}
+{"word": ["flowers\u00a0 \u00a0"], "author": "acrobat62"}
+{"word": ["daffodils"], "author": "riffraff"}
+{"word": ["daises"], "author": "acrobat62"}
+{"word": ["pansies"], "author": "OnlyU2"}
+{"word": ["dandelions! (Ok, they aren't flowers, but I like them!)"], "author": "riffraff"}
+{"word": ["weeds"], "author": "OnlyU2"}
+{"word": ["smoke"], "author": "riffraff"}
+{"word": ["blaze"], "author": "OnlyU2"}
+{"word": ["bonfire"], "author": "riffraff"}
+{"word": ["vanities"], "author": "acrobat62"}
+{"word": ["sins"], "author": "riffraff"}
+{"word": ["Confession"], "author": "poppyann"}
+{"word": ["guilt"], "author": "riffraff"}
+{"word": ["innocence"], "author": "OnlyU2"}
+{"word": ["proof"], "author": "riffraff"}
+{"word": ["roof"], "author": "trlica"}
+{"word": ["Mouth"], "author": "poppyann"}
+{"word": ["kisses"], "author": "Volcanogirl"}
+{"word": ["French"], "author": "poppyann"}
+{"word": ["fries"], "author": "riffraff"}
+{"word": ["potatoes"], "author": "acrobat62"}
+{"word": ["meat"], "author": "riffraff"}
+{"word": ["cook"], "author": "acrobat62"}
+{"word": ["chef"], "author": "OnlyU2"}
+{"word": ["burn"], "author": "riffraff"}
+{"word": ["Rubber"], "author": "poppyann"}
+{"word": ["prophylactic"], "author": "riffraff"}
+{"word": ["Wow, never heard of that word, had to google it !!"], "author": "poppyann"}
+{"word": ["\u00a0"], "author": "riffraff"}
+{"word": ["Helmet"], "author": "poppyann"}
+{"word": ["armor"], "author": "riffraff"}
+{"word": ["shining"], "author": "OnlyU2"}
+{"word": ["medieval"], "author": "Volcanogirl"}
+{"word": ["castle"], "author": "riffraff"}
+{"word": ["knight"], "author": "acrobat62"}
+{"word": ["hero"], "author": "riffraff"}
+{"word": ["worship"], "author": "acrobat62"}
+{"word": ["adore"], "author": "riffraff"}
+{"word": ["abhor"], "author": "acrobat62"}
+{"word": ["detest"], "author": "riffraff"}
+{"word": ["Hate"], "author": "poppyann"}
+{"word": ["Love"], "author": "acrobat62"}
+{"word": ["sex"], "author": "riffraff"}
+{"word": ["drugs"], "author": "acrobat62"}
+{"word": ["rock"], "author": "riffraff"}
+{"word": ["roll"], "author": "OnlyU2"}
+{"word": ["hoochie"], "author": "acrobat62"}
+{"word": ["kootchie"], "author": "riffraff"}
+{"word": ["gumdrop"], "author": "acrobat62"}
+{"word": ["toothache"], "author": "riffraff"}
+{"word": ["Ouch !!"], "author": "poppyann"}
+{"word": ["yowee"], "author": "riffraff"}
+{"word": ["dentist"], "author": "OnlyU2"}
+{"word": ["torture"], "author": "riffraff"}
+{"word": ["Chamber"], "author": "poppyann"}
+{"word": ["horrors"], "author": "riffraff"}
+{"word": ["movies"], "author": "OnlyU2"}
+{"word": ["King"], "author": "riffraff"}
+{"word": ["Queen"], "author": "OnlyU2"}
+{"word": ["Freddie !"], "author": "riffraff"}
+{"word": ["Prinze"], "author": "acrobat62"}
+{"word": ["Chico"], "author": "riffraff"}
+{"word": ["cat"], "author": "Volcanogirl"}
+{"word": ["nip"], "author": "acrobat62"}
+{"word": ["booze"], "author": "riffraff"}
+{"word": ["flask"], "author": "acrobat62"}
+{"word": ["shot"], "author": "riffraff"}
+{"word": ["buck"], "author": "acrobat62"}
+{"word": ["dollar"], "author": "OnlyU2"}
+{"word": ["cent"], "author": "riffraff"}
+{"word": ["Two"], "author": "acrobat62"}
+{"word": ["wrongs"], "author": "riffraff"}
+{"word": ["rights"], "author": "OnlyU2"}
+{"word": ["lefts"], "author": "riffraff"}
+{"word": ["handed"], "author": "OnlyU2"}
+{"word": ["ambidexterous"], "author": "riffraff"}
+{"word": ["tricky"], "author": "acrobat62"}
+{"word": ["Halloween"], "author": "riffraff"}
+{"word": ["ghost"], "author": "acrobat62"}
+{"word": ["spirit"], "author": "OnlyU2"}
+{"word": ["heaven"], "author": "riffraff"}
+{"word": ["hell"], "author": "OnlyU2"}
+{"word": ["Demon"], "author": "poppyann"}
+{"word": ["ex-husband"], "author": "riffraff"}
+{"word": ["turd"], "author": "acrobat62"}
+{"word": ["I'm laughing good at some of these posts !!"], "author": "poppyann"}
+{"word": ["and I repeat, ex-husband!"], "author": "riffraff"}
+{"word": ["a$$hole"], "author": "OnlyU2"}
+{"word": ["troubles"], "author": "riffraff"}
+{"word": ["problems"], "author": "OnlyU2"}
+{"word": ["survivor"], "author": "riffraff"}
+{"word": ["Fighter"], "author": "poppyann"}
+{"word": ["winner"], "author": "riffraff"}
+{"word": ["queen"], "author": "Volcanogirl"}
+{"word": ["princess"], "author": "riffraff"}
+{"word": ["Prince"], "author": "poppyann"}
+{"word": ["purple"], "author": "riffraff"}
+{"word": ["Haze"], "author": "poppyann"}
+{"word": ["fog"], "author": "riffraff"}
+{"word": ["grey"], "author": "Volcanogirl"}
+{"word": ["gloomy"], "author": "riffraff"}
+{"word": ["Sombre"], "author": "poppyann"}
+{"word": ["midnight"], "author": "riffraff"}
+{"word": ["moon"], "author": "Volcanogirl"}
+{"word": ["stars"], "author": "riffraff"}
+{"word": ["silver"], "author": "Volcanogirl"}
+{"word": ["gold"], "author": "OnlyU2"}
+{"word": ["Copper"], "author": "WookieeWarrior10"}
+{"word": ["Policeman"], "author": "poppyann"}
+{"word": ["hero"], "author": "riffraff"}
+{"word": ["Savior"], "author": "poppyann"}
+{"word": ["God"], "author": "riffraff"}
+{"word": ["jesus"], "author": "Volcanogirl"}
+{"word": ["believe"], "author": "riffraff"}
+{"word": ["faith"], "author": "acrobat62"}
+{"word": ["strong"], "author": "riffraff"}
+{"word": ["willed"], "author": "acrobat62"}
+{"word": ["stubborn"], "author": "riffraff"}
+{"word": ["mule"], "author": "acrobat62"}
+{"word": ["headstrong"], "author": "Volcanogirl"}
+{"word": ["bull-headed"], "author": "riffraff"}
+{"word": ["adamant"], "author": "OnlyU2"}
+{"word": ["stern"], "author": "acrobat62"}
+{"word": ["strict"], "author": "OnlyU2"}
+{"word": ["bossy"], "author": "riffraff"}
+{"word": ["pants"], "author": "acrobat62"}
+{"word": ["jeans"], "author": "OnlyU2"}
+{"word": ["blue"], "author": "riffraff"}
+{"word": ["Mood"], "author": "poppyann"}
+{"word": ["moon"], "author": "Volcanogirl"}
+{"word": ["pink (did you all know that on April 11th, there will be a pink moon?)"], "author": "riffraff"}
+{"word": ["Oh wow, can't wait to see it !!"], "author": "poppyann"}
+{"word": ["woman"], "author": "riffraff"}
+{"word": ["man"], "author": "acrobat62"}
+{"word": ["animal"], "author": "riffraff"}
+{"word": ["crocodile"], "author": "acrobat62"}
+{"word": ["alligator"], "author": "OnlyU2"}
+{"word": ["everglades"], "author": "riffraff"}
+{"word": ["bugs"], "author": "acrobat62"}
+{"word": ["Cockroach"], "author": "poppyann"}
+{"word": ["smack"], "author": "riffraff"}
+{"word": ["slap"], "author": "OnlyU2"}
+{"word": ["dance"], "author": "acrobat62"}
+{"word": ["jiggle"], "author": "riffraff"}
+{"word": ["juggle"], "author": "acrobat62"}
+{"word": ["wiggle"], "author": "riffraff"}
+{"word": ["bits"], "author": "acrobat62"}
+{"word": ["?"], "author": "riffraff"}
+{"word": ["In a former job many years ago, there was this English Manager that was trying to get everyone all energized and moving.\u00a0 She kept saying in her English accent, \"Wiggle Your Bits.\""], "author": "acrobat62"}
+{"word": ["that's funny!"], "author": "riffraff"}
+{"word": ["divisions"], "author": "OnlyU2"}
+{"word": ["split"], "author": "riffraff"}
+{"word": ["Banana"], "author": "poppyann"}
+{"word": ["ice cream"], "author": "riffraff"}
+{"word": ["sundae"], "author": "OnlyU2"}
+{"word": ["fudge"], "author": "riffraff"}
+{"word": ["Soft"], "author": "poppyann"}
+{"word": ["sticky"], "author": "Volcanogirl"}
+{"word": ["Gooey"], "author": "poppyann"}
+{"word": ["slimy"], "author": "riffraff"}
+{"word": ["worm"], "author": "acrobat62"}
+{"word": ["fishing"], "author": "riffraff"}
+{"word": ["Maggots"], "author": "poppyann"}
+{"word": ["flies"], "author": "acrobat62"}
+{"word": ["baseball"], "author": "riffraff"}
+{"word": ["Yay!"], "author": "acrobat62"}
+{"word": ["Phillies!"], "author": "riffraff"}
+{"word": ["Philadelphia"], "author": "OnlyU2"}
+{"word": ["Cheese"], "author": "poppyann"}
+{"word": ["smile"], "author": "riffraff"}
+{"word": ["teeth"], "author": "acrobat62"}
+{"word": ["ouch"], "author": "riffraff"}
+{"word": ["pain"], "author": "OnlyU2"}
+{"word": ["cave"], "author": "acrobat62"}
+{"word": ["dark"], "author": "riffraff"}
+{"word": ["foggy"], "author": "Volcanogirl"}
+{"word": ["gloomy"], "author": "riffraff"}
+{"word": ["Dull"], "author": "poppyann"}
+{"word": ["boring"], "author": "riffraff"}
+{"word": ["sad"], "author": "acrobat62"}
+{"word": ["blue"], "author": "riffraff"}
+{"word": ["navy"], "author": "OnlyU2"}
+{"word": ["air force"], "author": "riffraff"}
+{"word": ["army"], "author": "OnlyU2"}
+{"word": ["Ants"], "author": "poppyann"}
+{"word": ["carpenter"], "author": "OnlyU2"}
+{"word": ["Karen"], "author": "poppyann"}
+{"word": ["girl"], "author": "OnlyU2"}
+{"word": ["pretty"], "author": "riffraff"}
+{"word": ["woman"], "author": "OnlyU2"}
+{"word": ["mother"], "author": "riffraff"}
+{"word": ["fudgin'"], "author": "miryclay"}
+{"word": ["pottymouth"], "author": "riffraff"}
+{"word": ["Vile"], "author": "poppyann"}
+{"word": ["inevitable"], "author": "riffraff"}
+{"word": ["disdain"], "author": "miryclay"}
+{"word": ["sober"], "author": "Volcanogirl"}
+{"word": ["Clean"], "author": "poppyann"}
+{"word": ["sheets"], "author": "acrobat62"}
+{"word": ["soft"], "author": "riffraff"}
+{"word": ["kitty"], "author": "acrobat62"}
+{"word": ["litter"], "author": "OnlyU2"}
+{"word": ["box"], "author": "riffraff"}
+{"word": ["fight"], "author": "OnlyU2"}
+{"word": ["wrestle"], "author": "riffraff"}
+{"word": ["mania"], "author": "acrobat62"}
+{"word": ["craziness"], "author": "riffraff"}
+{"word": ["Madness"], "author": "poppyann"}
+{"word": ["Extreme"], "author": "Volcanogirl"}
+{"word": ["Violence"], "author": "poppyann"}
+{"word": ["Terrorism"], "author": "riffraff"}
+{"word": ["Chaos"], "author": "poppyann"}
+{"word": ["peace"], "author": "riffraff"}
+{"word": ["Tranquility"], "author": "poppyann"}
+{"word": ["serenity"], "author": "riffraff"}
+{"word": ["Calm"], "author": "poppyann"}
+{"word": ["serene"], "author": "Volcanogirl"}
+{"word": ["sleep"], "author": "riffraff"}
+{"word": ["Slumber"], "author": "poppyann"}
+{"word": ["dream"], "author": "riffraff"}
+{"word": ["wish"], "author": "acrobat62"}
+{"word": ["hope"], "author": "riffraff"}
+{"word": ["faith"], "author": "OnlyU2"}
+{"word": ["believe"], "author": "riffraff"}
+{"word": ["nothing"], "author": "acrobat62"}
+{"word": ["zilch"], "author": "OnlyU2"}
+{"word": ["nada"], "author": "riffraff"}
+{"word": ["zero"], "author": "OnlyU2"}
+{"word": ["none"], "author": "riffraff"}
+{"word": ["Nowt"], "author": "poppyann"}
+{"word": ["nought"], "author": "riffraff"}
+{"word": ["nice"], "author": "Volcanogirl"}
+{"word": ["day"], "author": "riffraff"}
+{"word": ["break"], "author": "acrobat62"}
+{"word": ["bones"], "author": "riffraff"}
+{"word": ["stones"], "author": "Volcanogirl"}
+{"word": ["sticks"], "author": "riffraff"}
+{"word": ["kicks"], "author": "Volcanogirl"}
+{"word": ["thrills"], "author": "riffraff"}
+{"word": ["party"], "author": "Volcanogirl"}
+{"word": ["fun"], "author": "riffraff"}
+{"word": ["smile"], "author": "acrobat62"}
+{"word": ["laugh"], "author": "riffraff"}
+{"word": ["teeth"], "author": "acrobat62"}
+{"word": ["crumbs"], "author": "riffraff"}
+{"word": ["toast"], "author": "acrobat62"}
+{"word": ["honey"], "author": "riffraff"}
+{"word": ["bee"], "author": "OnlyU2"}
+{"word": ["sting"], "author": "riffraff"}
+{"word": ["Wasp"], "author": "poppyann"}
+{"word": ["hornet"], "author": "riffraff"}
+{"word": ["Docile"], "author": "poppyann"}
+{"word": ["tame"], "author": "riffraff"}
+{"word": ["Domestic"], "author": "poppyann"}
+{"word": ["feral"], "author": "riffraff"}
+{"word": ["tiger"], "author": "trlica"}
+{"word": ["stripes"], "author": "riffraff"}
+{"word": ["stars"], "author": "OnlyU2"}
+{"word": ["patriotism"], "author": "riffraff"}
+{"word": ["supportive"], "author": "OnlyU2"}
+{"word": ["loyal"], "author": "riffraff"}
+{"word": ["true"], "author": "OnlyU2"}
+{"word": ["faithful"], "author": "riffraff"}
+{"word": ["Blue"], "author": "Volcanogirl"}
+{"word": ["Monday"], "author": "poppyann"}
+{"word": ["work"], "author": "riffraff"}
+{"word": ["out"], "author": "acrobat62"}
+{"word": ["yard"], "author": "Volcanogirl"}
+{"word": ["Broom"], "author": "poppyann"}
+{"word": ["witch"], "author": "riffraff"}
+{"word": ["wicked"], "author": "acrobat62"}
+{"word": ["ex-husband"], "author": "riffraff"}
+{"word": ["bye"], "author": "acrobat62"}
+{"word": ["yay!"], "author": "riffraff"}
+{"word": ["yippee!!"], "author": "OnlyU2"}
+{"word": ["whoooohooooo"], "author": "riffraff"}
+{"word": ["happy"], "author": "acrobat62"}
+{"word": ["free"], "author": "riffraff"}
+{"word": ["binkying"], "author": "Volcanogirl"}
+{"word": ["bunnies"], "author": "riffraff"}
+{"word": ["hopping"], "author": "acrobat62"}
+{"word": ["playing"], "author": "Volcanogirl"}
+{"word": ["mating!"], "author": "riffraff"}
+{"word": ["jumping"], "author": "Volcanogirl"}
+{"word": ["jacks"], "author": "OnlyU2"}
+{"word": ["cracker"], "author": "acrobat62"}
+{"word": ["Ritz"], "author": "OnlyU2"}
+{"word": ["fancy"], "author": "riffraff"}
+{"word": ["Crave"], "author": "poppyann"}
+{"word": ["need"], "author": "riffraff"}
+{"word": ["Yearn"], "author": "poppyann"}
+{"word": ["desire"], "author": "OnlyU2"}
+{"word": ["Adore"], "author": "poppyann"}
+{"word": ["covet"], "author": "riffraff"}
+{"word": ["crave"], "author": "OnlyU2"}
+{"word": ["hunger"], "author": "acrobat62"}
+{"word": ["starvation"], "author": "OnlyU2"}
+{"word": ["Poor"], "author": "poppyann"}
+{"word": ["needy"], "author": "riffraff"}
+{"word": ["underprivileged"], "author": "OnlyU2"}
+{"word": ["undernourished"], "author": "riffraff"}
+{"word": ["Skinny"], "author": "poppyann"}
+{"word": ["boney"], "author": "riffraff"}
+{"word": ["skeleton"], "author": "OnlyU2"}
+{"word": ["graveyard"], "author": "riffraff"}
+{"word": ["cemetery"], "author": "OnlyU2"}
+{"word": ["creepy"], "author": "riffraff"}
+{"word": ["spooky"], "author": "OnlyU2"}
+{"word": ["dark"], "author": "riffraff"}
+{"word": ["gravestone"], "author": "Volcanogirl"}
+{"word": ["grey"], "author": "trlica"}
+{"word": ["stormy"], "author": "riffraff"}
+{"word": ["weather"], "author": "acrobat62"}
+{"word": ["song"], "author": "riffraff"}
+{"word": ["sing"], "author": "acrobat62"}
+{"word": ["Yodel"], "author": "poppyann"}
+{"word": ["mountains"], "author": "riffraff"}
+{"word": ["snow"], "author": "acrobat62"}
+{"word": ["ice"], "author": "riffraff"}
+{"word": ["Skating"], "author": "poppyann"}
+{"word": ["sledding"], "author": "acrobat62"}
+{"word": ["mittens"], "author": "riffraff"}
+{"word": ["kittens"], "author": "OnlyU2"}
+{"word": ["fuzzy"], "author": "riffraff"}
+{"word": ["tail"], "author": "Volcanogirl"}
+{"word": ["ears"], "author": "riffraff"}
+{"word": ["Bunny"], "author": "poppyann"}
+{"word": ["peeps"], "author": "riffraff"}
+{"word": ["Spies"], "author": "poppyann"}
+{"word": ["agents"], "author": "riffraff"}
+{"word": ["talent"], "author": "OnlyU2"}
+{"word": ["scout"], "author": "riffraff"}
+{"word": ["Honor"], "author": "poppyann"}
+{"word": ["esteem"], "author": "riffraff"}
+{"word": ["learning"], "author": "Volcanogirl"}
+{"word": ["scholarly"], "author": "riffraff"}
+{"word": ["philosophy"], "author": "Volcanogirl"}
+{"word": ["knowledge"], "author": "riffraff"}
+{"word": ["wisdom"], "author": "Volcanogirl"}
+{"word": ["smarts"], "author": "riffraff"}
+{"word": ["writing"], "author": "Volcanogirl"}
+{"word": ["reading"], "author": "riffraff"}
+{"word": ["debating"], "author": "Volcanogirl"}
+{"word": ["arguing"], "author": "riffraff"}
+{"word": ["lecture"], "author": "acrobat62"}
+{"word": ["listening"], "author": "riffraff"}
+{"word": ["learning"], "author": "acrobat62"}
+{"word": ["yearning"], "author": "riffraff"}
+{"word": ["ache"], "author": "acrobat62"}
+{"word": ["pain"], "author": "riffraff"}
+{"word": ["itchy"], "author": "Volcanogirl"}
+{"word": ["scratchy"], "author": "acrobat62"}
+{"word": ["show"], "author": "riffraff"}
+{"word": ["boat"], "author": "acrobat62"}
+{"word": ["ramp"], "author": "riffraff"}
+{"word": ["bunny\u00a0 (Furby likes to run down the ramp hard, all the way to the"], "author": "Volcanogirl"}
+{"word": ["furry"], "author": "riffraff"}
+{"word": ["animal"], "author": "acrobat62"}
+{"word": ["vegetable"], "author": "riffraff"}
+{"word": ["carrot"], "author": "OnlyU2"}
+{"word": ["orange"], "author": "riffraff"}
+{"word": ["apple"], "author": "OnlyU2"}
+{"word": ["sin"], "author": "riffraff"}
+{"word": ["lie"], "author": "OnlyU2"}
+{"word": ["kill"], "author": "riffraff"}
+{"word": ["murder"], "author": "OnlyU2"}
+{"word": ["Execute"], "author": "poppyann"}
+{"word": ["euthanasia"], "author": "riffraff"}
+{"word": ["death"], "author": "OnlyU2"}
+{"word": ["rebirth"], "author": "riffraff"}
+{"word": ["life"], "author": "OnlyU2"}
+{"word": ["forever"], "author": "riffraff"}
+{"word": ["eternity"], "author": "OnlyU2"}
+{"word": ["believe"], "author": "riffraff"}
+{"word": ["coexist"], "author": "Volcanogirl"}
+{"word": ["compromise"], "author": "riffraff"}
+{"word": ["resilience"], "author": "acrobat62"}
+{"word": ["patience"], "author": "riffraff"}
+{"word": ["experience"], "author": "Volcanogirl"}
+{"word": ["bad"], "author": "riffraff"}
+{"word": ["beautiful"], "author": "Volcanogirl"}
+{"word": ["heartfelt"], "author": "riffraff"}
+{"word": ["sincere"], "author": "acrobat62"}
+{"word": ["liar"], "author": "riffraff"}
+{"word": ["cheat"], "author": "acrobat62"}
+{"word": ["steal"], "author": "riffraff"}
+{"word": ["rob"], "author": "OnlyU2"}
+{"word": ["thieves"], "author": "riffraff"}
+{"word": ["criminals"], "author": "OnlyU2"}
+{"word": ["mind"], "author": "acrobat62"}
+{"word": ["Simple"], "author": "poppyann"}
+{"word": ["easy"], "author": "OnlyU2"}
+{"word": ["effortless"], "author": "riffraff"}
+{"word": ["smooth"], "author": "OnlyU2"}
+{"word": ["Soft"], "author": "poppyann"}
+{"word": ["hard"], "author": "OnlyU2"}
+{"word": ["Solid"], "author": "poppyann"}
+{"word": ["strong"], "author": "OnlyU2"}
+{"word": ["Muscles"], "author": "poppyann"}
+{"word": ["biceps"], "author": "OnlyU2"}
+{"word": ["Bulge"], "author": "poppyann"}
+{"word": ["ironman"], "author": "riffraff"}
+{"word": ["Power"], "author": "poppyann"}
+{"word": ["beauty"], "author": "riffraff"}
+{"word": ["strong"], "author": "Volcanogirl"}
+{"word": ["Toned"], "author": "poppyann"}
+{"word": ["buff"], "author": "riffraff"}
+{"word": ["Nails"], "author": "poppyann"}
+{"word": ["scratch"], "author": "riffraff"}
+{"word": ["cat"], "author": "OnlyU2"}
+{"word": ["fever"], "author": "riffraff"}
+{"word": ["scarlet"], "author": "OnlyU2"}
+{"word": ["letter"], "author": "riffraff"}
+{"word": ["chain"], "author": "OnlyU2"}
+{"word": ["leather"], "author": "riffraff"}
+{"word": ["jacket"], "author": "OnlyU2"}
+{"word": ["fringe"], "author": "riffraff"}
+{"word": ["surrey"], "author": "acrobat62"}
+{"word": ["carriage"], "author": "riffraff"}
+{"word": ["Was wondering if anyone would get that reference."], "author": "acrobat62"}
+{"word": ["\u00a0"], "author": "riffraff"}
+{"word": ["Baby"], "author": "poppyann"}
+{"word": ["achtung"], "author": "OnlyU2"}
+{"word": ["naked"], "author": "riffraff"}
+{"word": ["nude"], "author": "OnlyU2"}
+{"word": ["Adam"], "author": "riffraff"}
+{"word": ["Eve"], "author": "OnlyU2"}
+{"word": ["figleaf"], "author": "riffraff"}
+{"word": ["apple"], "author": "Volcanogirl"}
+{"word": ["sin"], "author": "riffraff"}
+{"word": ["deadly"], "author": "OnlyU2"}
+{"word": ["lethal"], "author": "riffraff"}
+{"word": ["fatal"], "author": "OnlyU2"}
+{"word": ["attraction"], "author": "riffraff"}
+{"word": ["interest"], "author": "OnlyU2"}
+{"word": ["curiosity"], "author": "riffraff"}
+{"word": ["exploration"], "author": "OnlyU2"}
+{"word": ["imagination"], "author": "riffraff"}
+{"word": ["ideas"], "author": "OnlyU2"}
+{"word": ["dreams"], "author": "riffraff"}
+{"word": ["nightmares"], "author": "OnlyU2"}
+{"word": ["me\u00a0"], "author": "riffraff"}
+{"word": ["you"], "author": "OnlyU2"}
+{"word": ["U2"], "author": "riffraff"}
+{"word": ["Fab !"], "author": "poppyann"}
+{"word": ["four"], "author": "OnlyU2"}
+{"word": ["Legs"], "author": "poppyann"}
+{"word": ["long"], "author": "riffraff"}
+{"word": ["short"], "author": "OnlyU2"}
+{"word": ["temper"], "author": "riffraff"}
+{"word": ["angry"], "author": "OnlyU2"}
+{"word": ["ballistic"], "author": "riffraff"}
+{"word": ["crazy"], "author": "OnlyU2"}
+{"word": ["nutso"], "author": "riffraff"}
+{"word": ["whacko"], "author": "OnlyU2"}
+{"word": ["psychiatry"], "author": "riffraff"}
+{"word": ["therapy"], "author": "OnlyU2"}
+{"word": ["help"], "author": "riffraff"}
+{"word": ["assistance"], "author": "OnlyU2"}
+{"word": ["aide"], "author": "riffraff"}
+{"word": ["nurses"], "author": "OnlyU2"}
+{"word": ["needles"], "author": "riffraff"}
+{"word": ["knitting"], "author": "OnlyU2"}
+{"word": ["booties"], "author": "riffraff"}
+{"word": ["baby"], "author": "OnlyU2"}
+{"word": ["diaper"], "author": "riffraff"}
+{"word": ["poopy"], "author": "OnlyU2"}
+{"word": ["stink !"], "author": "riffraff"}
+{"word": ["reek"], "author": "OnlyU2"}
+{"word": ["gagging"], "author": "riffraff"}
+{"word": ["barfing"], "author": "OnlyU2"}
+{"word": ["gak !\u00a0 \u00a0 (the dog I'm watching this weekend just threw up on her tennis ball!)"], "author": "riffraff"}
+{"word": ["hahahah!"], "author": "OnlyU2"}
+{"word": ["cleanup"], "author": "riffraff"}
+{"word": ["Mess"], "author": "poppyann"}
+{"word": ["nasty"], "author": "riffraff"}
+{"word": ["towel"], "author": "Volcanogirl"}
+{"word": ["clean"], "author": "riffraff"}
+{"word": ["fresh"], "author": "Volcanogirl"}
+{"word": ["sassy"], "author": "riffraff"}
+{"word": ["Beyonce"], "author": "Volcanogirl"}
+{"word": ["eek!"], "author": "riffraff"}
+{"word": ["hahaha"], "author": "Volcanogirl"}
+{"word": ["shazam!"], "author": "riffraff"}
+{"word": ["Transformation"], "author": "poppyann"}
+{"word": ["change"], "author": "riffraff"}
+{"word": ["revolution"], "author": "Volcanogirl"}
+{"word": ["uprising"], "author": "riffraff"}
+{"word": ["Riot"], "author": "poppyann"}
+{"word": ["street"], "author": "trlica"}
+{"word": ["gathering"], "author": "Volcanogirl"}
+{"word": ["communion"], "author": "riffraff"}
+{"word": ["Church"], "author": "poppyann"}
+{"word": ["preacher"], "author": "riffraff"}
+{"word": ["Apostle"], "author": "poppyann"}
+{"word": ["choir"], "author": "Volcanogirl"}
+{"word": ["gospel"], "author": "riffraff"}
+{"word": ["voice"], "author": "Volcanogirl"}
+{"word": ["alto"], "author": "riffraff"}
+{"word": ["soprano"], "author": "acrobat62"}
+{"word": ["high"], "author": "riffraff"}
+{"word": ["Drugs"], "author": "poppyann"}
+{"word": ["surrender"], "author": "riffraff"}
+{"word": ["White"], "author": "poppyann"}
+{"word": ["wedding"], "author": "riffraff"}
+{"word": ["flowers"], "author": "Volcanogirl"}
+{"word": ["scent"], "author": "riffraff"}
+{"word": ["Aroma"], "author": "poppyann"}
+{"word": ["smelly"], "author": "riffraff"}
+{"word": ["gross"], "author": "acrobat62"}
+{"word": ["disgusting"], "author": "OnlyU2"}
+{"word": ["dirty"], "author": "Volcanogirl"}
+{"word": ["Dozen"], "author": "poppyann"}
+{"word": ["eggs"], "author": "Volcanogirl"}
+{"word": ["chickens"], "author": "OnlyU2"}
+{"word": ["Legs"], "author": "poppyann"}
+{"word": ["arms"], "author": "OnlyU2"}
+{"word": ["Limbs"], "author": "poppyann"}
+{"word": ["branches"], "author": "OnlyU2"}
+{"word": ["Blossom"], "author": "poppyann"}
+{"word": ["leaves"], "author": "Volcanogirl"}
+{"word": ["Strays"], "author": "poppyann"}
+{"word": ["runaways"], "author": "riffraff"}
+{"word": ["Terrors"], "author": "poppyann"}
+{"word": ["nightmares"], "author": "riffraff"}
+{"word": ["daydreams"], "author": "acrobat62"}
+{"word": ["sighing"], "author": "riffraff"}
+{"word": ["bored"], "author": "acrobat62"}
+{"word": ["thoughtful"], "author": "riffraff"}
+{"word": ["patient"], "author": "acrobat62"}
+{"word": ["IMpatient"], "author": "riffraff"}
+{"word": ["restless"], "author": "OnlyU2"}
+{"word": ["antsy"], "author": "riffraff"}
+{"word": ["anxious"], "author": "OnlyU2"}
+{"word": ["nervous"], "author": "riffraff"}
+{"word": ["tense"], "author": "OnlyU2"}
+{"word": ["wired"], "author": "riffraff"}
+{"word": ["hyper"], "author": "OnlyU2"}
+{"word": ["Active"], "author": "poppyann"}
+{"word": ["busy"], "author": "riffraff"}
+{"word": ["bee"], "author": "OnlyU2"}
+{"word": ["quilt"], "author": "riffraff"}
+{"word": ["blanket"], "author": "OnlyU2"}
+{"word": ["sleepy"], "author": "riffraff"}
+{"word": ["drowsy"], "author": "OnlyU2"}
+{"word": ["dreamy"], "author": "Volcanogirl"}
+{"word": ["illusions"], "author": "riffraff"}
+{"word": ["magic"], "author": "acrobat62"}
+{"word": ["show"], "author": "riffraff"}
+{"word": ["Man"], "author": "poppyann"}
+{"word": ["Bono"], "author": "riffraff"}
+{"word": ["song"], "author": "acrobat62"}
+{"word": ["lyric"], "author": "riffraff"}
+{"word": ["verse"], "author": "OnlyU2"}
+{"word": ["harmony"], "author": "riffraff"}
+{"word": ["dissonance"], "author": "acrobat62"}
+{"word": ["offkey"], "author": "riffraff"}
+{"word": ["pitchy"], "author": "OnlyU2"}
+{"word": ["rebelling"], "author": "Volcanogirl"}
+{"word": ["yelling"], "author": "acrobat62"}
+{"word": ["screaming"], "author": "riffraff"}
+{"word": ["Screeching"], "author": "poppyann"}
+{"word": ["owl"], "author": "acrobat62"}
+{"word": ["hoot"], "author": "riffraff"}
+{"word": ["Horn"], "author": "poppyann"}
+{"word": ["saxophone"], "author": "riffraff"}
+{"word": ["woodwind"], "author": "OnlyU2"}
+{"word": ["jazz"], "author": "riffraff"}
+{"word": ["dance"], "author": "OnlyU2"}
+{"word": ["music"], "author": "riffraff"}
+{"word": ["songs"], "author": "OnlyU2"}
+{"word": ["soothe"], "author": "riffraff"}
+{"word": ["calm"], "author": "OnlyU2"}
+{"word": ["collected"], "author": "acrobat62"}
+{"word": ["cool"], "author": "riffraff"}
+{"word": ["Suave"], "author": "poppyann"}
+{"word": ["debonair"], "author": "riffraff"}
+{"word": ["Charming"], "author": "poppyann"}
+{"word": ["fascinating"], "author": "riffraff"}
+{"word": ["alive"], "author": "Volcanogirl"}
+{"word": ["kicking"], "author": "riffraff"}
+{"word": ["running"], "author": "Volcanogirl"}
+{"word": ["escape"], "author": "riffraff"}
+{"word": ["Artist"], "author": "poppyann"}
+{"word": ["songwriter"], "author": "riffraff"}
+{"word": ["quitarplayer"], "author": "Volcanogirl"}
+{"word": ["rock!"], "author": "riffraff"}
+{"word": ["Roll !"], "author": "poppyann"}
+{"word": ["twist!"], "author": "riffraff"}
+{"word": ["twix"], "author": "trlica"}
+{"word": ["candy"], "author": "riffraff"}
+{"word": ["lemondrops"], "author": "Volcanogirl"}
+{"word": ["Suck"], "author": "poppyann"}
+{"word": ["mark"], "author": "riffraff"}
+{"word": ["Twain"], "author": "Volcanogirl"}
+{"word": ["river"], "author": "acrobat62"}
+{"word": ["Nearby"], "author": "Volcanogirl"}
+{"word": ["Close"], "author": "poppyann"}
+{"word": ["open"], "author": "riffraff"}
+{"word": ["shut"], "author": "OnlyU2"}
+{"word": ["eye"], "author": "riffraff"}
+{"word": ["lashes"], "author": "OnlyU2"}
+{"word": ["mascara"], "author": "riffraff"}
+{"word": ["Apply"], "author": "poppyann"}
+{"word": ["job"], "author": "OnlyU2"}
+{"word": ["dogsitting\u00a0"], "author": "riffraff"}
+{"word": ["kennel"], "author": "OnlyU2"}
+{"word": ["crate"], "author": "riffraff"}
+{"word": ["barrel"], "author": "acrobat62"}
+{"word": ["keg"], "author": "OnlyU2"}
+{"word": ["frat"], "author": "riffraff"}
+{"word": ["college"], "author": "OnlyU2"}
+{"word": ["mountains"], "author": "riffraff"}
+{"word": ["rocky"], "author": "OnlyU2"}
+{"word": ["Nittany"], "author": "riffraff"}
+{"word": ["Appalachians"], "author": "OnlyU2"}
+{"word": ["Blue Ridge"], "author": "riffraff"}
+{"word": ["range"], "author": "OnlyU2"}
+{"word": ["snow"], "author": "riffraff"}
+{"word": ["Flakes"], "author": "poppyann"}
+{"word": ["corn"], "author": "riffraff"}
+{"word": ["can"], "author": "Volcanogirl"}
+{"word": ["trash"], "author": "riffraff"}
+{"word": ["trampoline"], "author": "Volcanogirl"}
+{"word": ["jump"], "author": "OnlyU2"}
+{"word": ["high"], "author": "Volcanogirl"}
+{"word": ["kite"], "author": "riffraff"}
+{"word": ["song"], "author": "Volcanogirl"}
+{"word": ["sing"], "author": "OnlyU2"}
+{"word": ["rattle"], "author": "Volcanogirl"}
+{"word": ["hum"], "author": "OnlyU2"}
+{"word": ["desire"], "author": "Volcanogirl"}
+{"word": ["want"], "author": "OnlyU2"}
+{"word": ["friendship"], "author": "Volcanogirl"}
+{"word": ["forum"], "author": "riffraff"}
+{"word": ["Banter"], "author": "poppyann"}
+{"word": ["tease"], "author": "OnlyU2"}
+{"word": ["tickle"], "author": "Volcanogirl"}
+{"word": ["giggle"], "author": "riffraff"}
+{"word": ["smile"], "author": "Volcanogirl"}
+{"word": ["laugh"], "author": "riffraff"}
+{"word": ["funny"], "author": "OnlyU2"}
+{"word": ["hysterical"], "author": "riffraff"}
+{"word": ["hilarious"], "author": "OnlyU2"}
+{"word": ["goofy"], "author": "Volcanogirl"}
+{"word": ["silly"], "author": "riffraff"}
+{"word": ["cheeky"], "author": "Volcanogirl"}
+{"word": ["sassy"], "author": "riffraff"}
+{"word": ["Riffey"], "author": "Volcanogirl"}
+{"word": ["sometimes\u00a0"], "author": "riffraff"}
+{"word": ["always"], "author": "OnlyU2"}
+{"word": ["funloving"], "author": "riffraff"}
+{"word": ["Lovable"], "author": "poppyann"}
+{"word": ["heartmelting"], "author": "Volcanogirl"}
+{"word": ["warmth"], "author": "riffraff"}
+{"word": ["Snuggle"], "author": "poppyann"}
+{"word": ["quilt"], "author": "acrobat62"}
+{"word": ["comfort"], "author": "riffraff"}
+{"word": ["lazy"], "author": "acrobat62"}
+{"word": ["crazy"], "author": "riffraff"}
+{"word": ["train"], "author": "acrobat62"}
+{"word": ["railroad"], "author": "riffraff"}
+{"word": ["steam engine"], "author": "Volcanogirl"}
+{"word": ["spike"], "author": "acrobat62"}
+{"word": ["hair"], "author": "Volcanogirl"}
+{"word": ["brush"], "author": "OnlyU2"}
+{"word": ["fire"], "author": "riffraff"}
+{"word": ["unforgettable"], "author": "OnlyU2"}
+{"word": ["wire"], "author": "riffraff"}
+{"word": ["electric"], "author": "OnlyU2"}
+{"word": ["co"], "author": "riffraff"}
+{"word": ["operative"], "author": "acrobat62"}
+{"word": ["compromise"], "author": "riffraff"}
+{"word": ["settle"], "author": "OnlyU2"}
+{"word": ["dispute"], "author": "riffraff"}
+{"word": ["fight"], "author": "acrobat62"}
+{"word": ["battle"], "author": "OnlyU2"}
+{"word": ["Ships"], "author": "poppyann"}
+{"word": ["cruise"], "author": "OnlyU2"}
+{"word": ["tom"], "author": "riffraff"}
+{"word": ["cat"], "author": "OnlyU2"}
+{"word": ["scratch"], "author": "riffraff"}
+{"word": ["fever"], "author": "OnlyU2"}
+{"word": ["ted"], "author": "riffraff"}
+{"word": ["nugent"], "author": "OnlyU2"}
+{"word": ["tv"], "author": "Volcanogirl"}
+{"word": ["zoo"], "author": "OnlyU2"}
+{"word": ["beLIEve"], "author": "Volcanogirl"}
+{"word": ["(nice one!)"], "author": "riffraff"}
+{"word": ["Joshua screen !!!!"], "author": "Volcanogirl"}
+{"word": ["Joshua tree!"], "author": "riffraff"}
+{"word": ["tree beard"], "author": "Volcanogirl"}
+{"word": ["Edge beard"], "author": "riffraff"}
+{"word": ["awesome Edge!"], "author": "Volcanogirl"}
+{"word": ["awesome guitar"], "author": "riffraff"}
+{"word": ["quitar player"], "author": "Volcanogirl"}
+{"word": ["piano player"], "author": "riffraff"}
+{"word": ["Record Player"], "author": "poppyann"}
+{"word": ["cassette record"], "author": "Volcanogirl"}
+{"word": ["cassette tape"], "author": "riffraff"}
+{"word": ["master tape"], "author": "Volcanogirl"}
+{"word": ["master mind"], "author": "riffraff"}
+{"word": ["master blaster"], "author": "acrobat62"}
+{"word": ["ghetto blaster"], "author": "Volcanogirl"}
+{"word": ["water blaster"], "author": "acrobat62"}
+{"word": ["water sports"], "author": "riffraff"}
+{"word": ["Wong game again"], "author": "OnlyU2"}
+{"word": ["pony"], "author": "acrobat62"}
+{"word": ["Tail"], "author": "poppyann"}
+{"word": ["wagging"], "author": "Volcanogirl"}
+{"word": ["happy"], "author": "riffraff"}
+{"word": ["elated"], "author": "OnlyU2"}
+{"word": ["joyful"], "author": "riffraff"}
+{"word": ["jolly"], "author": "OnlyU2"}
+{"word": ["Santa"], "author": "riffraff"}
+{"word": ["Christmas"], "author": "OnlyU2"}
+{"word": ["Pudding"], "author": "poppyann"}
+{"word": ["dessert"], "author": "riffraff"}
+{"word": ["pie"], "author": "OnlyU2"}
+{"word": ["sherbet"], "author": "riffraff"}
+{"word": ["merang"], "author": "Volcanogirl"}
+{"word": ["lemon"], "author": "OnlyU2"}
+{"word": ["sour"], "author": "riffraff"}
+{"word": ["cream"], "author": "Volcanogirl"}
+{"word": ["Fattening"], "author": "poppyann"}
+{"word": ["lard"], "author": "riffraff"}
+{"word": ["fat"], "author": "Volcanogirl"}
+{"word": ["chubby"], "author": "riffraff"}
+{"word": ["cozy"], "author": "Volcanogirl"}
+{"word": ["snuggle"], "author": "riffraff"}
+{"word": ["warm"], "author": "Volcanogirl"}
+{"word": ["hot"], "author": "riffraff"}
+{"word": ["spring"], "author": "Volcanogirl"}
+{"word": ["soothing"], "author": "riffraff"}
+{"word": ["Calm"], "author": "poppyann"}
+{"word": ["stormy"], "author": "riffraff"}
+{"word": ["thunder"], "author": "OnlyU2"}
+{"word": ["lightning"], "author": "riffraff"}
+{"word": ["flashes"], "author": "Volcanogirl"}
+{"word": ["camera"], "author": "OnlyU2"}
+{"word": ["lens"], "author": "riffraff"}
+{"word": ["glasses"], "author": "OnlyU2"}
+{"word": ["drinks"], "author": "riffraff"}
+{"word": ["booze"], "author": "OnlyU2"}
+{"word": ["liquor"], "author": "riffraff"}
+{"word": ["rum"], "author": "OnlyU2"}
+{"word": ["coke"], "author": "riffraff"}
+{"word": ["cocaine"], "author": "OnlyU2"}
+{"word": ["quit"], "author": "riffraff"}
+{"word": ["end"], "author": "OnlyU2"}
+{"word": ["forever"], "author": "riffraff"}
+{"word": ["eternity"], "author": "OnlyU2"}
+{"word": ["timeless"], "author": "riffraff"}
+{"word": ["infinity"], "author": "OnlyU2"}
+{"word": ["automobile"], "author": "riffraff"}
+{"word": ["car"], "author": "OnlyU2"}
+{"word": ["ride"], "author": "riffraff"}
+{"word": ["Hitch"], "author": "poppyann"}
+{"word": ["engine"], "author": "Volcanogirl"}
+{"word": ["Revving"], "author": "poppyann"}
+{"word": ["speed"], "author": "riffraff"}
+{"word": ["haste"], "author": "OnlyU2"}
+{"word": ["waste"], "author": "riffraff"}
+{"word": ["trash"], "author": "OnlyU2"}
+{"word": ["trampoline"], "author": "Volcanogirl"}
+{"word": ["party"], "author": "riffraff"}
+{"word": ["Time !"], "author": "poppyann"}
+{"word": ["Vancouver"], "author": "Volcanogirl"}
+{"word": ["excitement"], "author": "riffraff"}
+{"word": ["Friday!"], "author": "OnlyU2"}
+{"word": ["jealous!"], "author": "riffraff"}
+{"word": ["envious"], "author": "OnlyU2"}
+{"word": ["sinful"], "author": "riffraff"}
+{"word": ["immoral"], "author": "OnlyU2"}
+{"word": ["fun"], "author": "riffraff"}
+{"word": ["amusement"], "author": "OnlyU2"}
+{"word": ["Funfair"], "author": "poppyann"}
+{"word": ["carnival"], "author": "riffraff"}
+{"word": ["rides"], "author": "OnlyU2"}
+{"word": ["cotton candy"], "author": "riffraff"}
+{"word": ["hotdogs"], "author": "OnlyU2"}
+{"word": ["mustard"], "author": "riffraff"}
+{"word": ["relish"], "author": "OnlyU2"}
+{"word": ["buns"], "author": "riffraff"}
+{"word": ["butts"], "author": "OnlyU2"}
+{"word": ["sweet"], "author": "riffraff"}
+{"word": ["sugar"], "author": "OnlyU2"}
+{"word": ["honey"], "author": "riffraff"}
+{"word": ["bee"], "author": "OnlyU2"}
+{"word": ["sting"], "author": "riffraff"}
+{"word": ["Police"], "author": "OnlyU2"}
+{"word": ["fun!"], "author": "riffraff"}
+{"word": ["exciting"], "author": "OnlyU2"}
+{"word": ["thrilling"], "author": "riffraff"}
+{"word": ["premiere"], "author": "Volcanogirl"}
+{"word": ["opener"], "author": "riffraff"}
+{"word": ["can"], "author": "OnlyU2"}
+{"word": ["beer"], "author": "riffraff"}
+{"word": ["Coors"], "author": "OnlyU2"}
+{"word": ["light"], "author": "riffraff"}
+{"word": ["heavy"], "author": "OnlyU2"}
+{"word": ["metal"], "author": "riffraff"}
+{"word": ["quitar"], "author": "Volcanogirl"}
+{"word": ["loud"], "author": "riffraff"}
+{"word": ["Brash"], "author": "poppyann"}
+{"word": ["funky"], "author": "riffraff"}
+{"word": ["cold"], "author": "acrobat62"}
+{"word": ["heart"], "author": "riffraff"}
+{"word": ["red"], "author": "Volcanogirl"}
+{"word": ["blood"], "author": "riffraff"}
+{"word": ["sky"], "author": "Volcanogirl"}
+{"word": ["Denver"], "author": "riffraff"}
+{"word": ["Airport"], "author": "poppyann"}
+{"word": ["\u00a0mountains"], "author": "riffraff"}
+{"word": ["sky"], "author": "Volcanogirl"}
+{"word": ["birds"], "author": "riffraff"}
+{"word": ["Gallagher"], "author": "73October"}
+{"word": ["rivalry"], "author": "OptimaX"}
+{"word": ["brother"], "author": "Volcanogirl"}
+{"word": ["sister"], "author": "riffraff"}
+{"word": ["family"], "author": "Volcanogirl"}
+{"word": ["separation"], "author": "riffraff"}
+{"word": ["sad"], "author": "Volcanogirl"}
+{"word": ["adjustment"], "author": "riffraff"}
+{"word": ["accepting"], "author": "Volcanogirl"}
+{"word": ["loving"], "author": "riffraff"}
+{"word": ["hating"], "author": "73October"}
+{"word": ["obsession"], "author": "riffraff"}
+{"word": ["addiction"], "author": "Volcanogirl"}
+{"word": ["rehab"], "author": "riffraff"}
+{"word": ["empowerment"], "author": "Volcanogirl"}
+{"word": ["cooperation"], "author": "riffraff"}
+{"word": ["teamwork"], "author": "OnlyU2"}
+{"word": ["allies"], "author": "riffraff"}
+{"word": ["War"], "author": "poppyann"}
+{"word": ["peace"], "author": "Volcanogirl"}
+{"word": ["need"], "author": "riffraff"}
+{"word": ["require"], "author": "OnlyU2"}
+{"word": ["desire"], "author": "riffraff"}
+{"word": ["want"], "author": "OnlyU2"}
+{"word": ["please"], "author": "riffraff"}
+{"word": ["thanks"], "author": "OnlyU2"}
+{"word": ["welcome"], "author": "riffraff"}
+{"word": ["mat"], "author": "OnlyU2"}
+{"word": ["bath"], "author": "riffraff"}
+{"word": ["tub"], "author": "OnlyU2"}
+{"word": ["scrub"], "author": "riffraff"}
+{"word": ["scour"], "author": "OnlyU2"}
+{"word": ["scum"], "author": "riffraff"}
+{"word": ["soap"], "author": "OnlyU2"}
+{"word": ["shampoo"], "author": "riffraff"}
+{"word": ["illness"], "author": "73October"}
+{"word": ["disease"], "author": "riffraff"}
+{"word": ["venereal"], "author": "OnlyU2"}
+{"word": ["sex"], "author": "riffraff"}
+{"word": ["Intercourse"], "author": "poppyann"}
+{"word": ["copulation"], "author": "riffraff"}
+{"word": ["baby"], "author": "acrobat62"}
+{"word": ["diapers"], "author": "riffraff"}
+{"word": ["babytoy"], "author": "Volcanogirl"}
+{"word": ["rattle"], "author": "acrobat62"}
+{"word": ["Vibrate"], "author": "poppyann"}
+{"word": ["hum"], "author": "riffraff"}
+{"word": ["bee"], "author": "acrobat62"}
+{"word": ["hornet"], "author": "OnlyU2"}
+{"word": ["airplane"], "author": "riffraff"}
+{"word": ["jet"], "author": "OnlyU2"}
+{"word": ["ski"], "author": "riffraff"}
+{"word": ["snow"], "author": "OnlyU2"}
+{"word": ["brrrrrrrrrrrrrrrrrr"], "author": "riffraff"}
+{"word": ["ice"], "author": "73October"}
+{"word": ["cubes"], "author": "OnlyU2"}
+{"word": ["dice"], "author": "riffraff"}
+{"word": ["clay"], "author": "acrobat62"}
+{"word": ["potter"], "author": "73October"}
+{"word": ["head"], "author": "riffraff"}
+{"word": ["hair"], "author": "73October"}
+{"word": ["shave"], "author": "acrobat62"}
+{"word": ["razor"], "author": "OnlyU2"}
+{"word": ["burn"], "author": "riffraff"}
+{"word": ["fire"], "author": "OnlyU2"}
+{"word": ["smoke"], "author": "Volcanogirl"}
+{"word": ["stack"], "author": "riffraff"}
+{"word": ["cards"], "author": "OnlyU2"}
+{"word": ["shuffle"], "author": "riffraff"}
+{"word": ["deal"], "author": "OnlyU2"}
+{"word": ["cheat"], "author": "riffraff"}
+{"word": ["lie"], "author": "OnlyU2"}
+{"word": ["atone"], "author": "riffraff"}
+{"word": ["amends"], "author": "OnlyU2"}
+{"word": ["forgive"], "author": "riffraff"}
+{"word": ["forget"], "author": "OnlyU2"}
+{"word": ["never!"], "author": "riffraff"}
+{"word": ["always"], "author": "OnlyU2"}
+{"word": ["no !"], "author": "riffraff"}
+{"word": ["yes !"], "author": "OnlyU2"}
+{"word": ["sweet"], "author": "Volcanogirl"}
+{"word": ["sugar"], "author": "riffraff"}
+{"word": ["spice"], "author": "Volcanogirl"}
+{"word": ["miss (spicey)"], "author": "riffraff"}
+{"word": ["mister"], "author": "OnlyU2"}
+{"word": ["sir"], "author": "riffraff"}
+{"word": ["madam"], "author": "OnlyU2"}
+{"word": ["etiquette"], "author": "riffraff"}
+{"word": ["manners"], "author": "OnlyU2"}
+{"word": ["nice"], "author": "riffraff"}
+{"word": ["kind"], "author": "OnlyU2"}
+{"word": ["caring"], "author": "riffraff"}
+{"word": ["thoughtful"], "author": "OnlyU2"}
+{"word": ["pensive"], "author": "riffraff"}
+{"word": ["thinking"], "author": "OnlyU2"}
+{"word": ["daydreaming"], "author": "riffraff"}
+{"word": ["Pondering"], "author": "poppyann"}
+{"word": ["wondering"], "author": "riffraff"}
+{"word": ["curious"], "author": "OnlyU2"}
+{"word": ["cat"], "author": "riffraff"}
+{"word": ["Persian"], "author": "OnlyU2"}
+{"word": ["rug"], "author": "riffraff"}
+{"word": ["Wig"], "author": "poppyann"}
+{"word": ["toupee"], "author": "riffraff"}
+{"word": ["Trump"], "author": "Volcanogirl"}
+{"word": ["fugly !"], "author": "riffraff"}
+{"word": ["crocs"], "author": "Volcanogirl"}
+{"word": ["gators"], "author": "riffraff"}
+{"word": ["swamp"], "author": "73October"}
+{"word": ["gas"], "author": "riffraff"}
+{"word": ["stink"], "author": "acrobat62"}
+{"word": ["deodrant"], "author": "73October"}
+{"word": ["hygiene"], "author": "riffraff"}
+{"word": ["clean"], "author": "73October"}
+{"word": ["hopefully!"], "author": "riffraff"}
+{"word": ["future"], "author": "73October"}
+{"word": ["bleak"], "author": "riffraff"}
+{"word": ["grim"], "author": "OnlyU2"}
+{"word": ["reaper"], "author": "riffraff"}
+{"word": ["harvester"], "author": "OnlyU2"}
+{"word": ["thresher"], "author": "riffraff"}
+{"word": ["grain"], "author": "OnlyU2"}
+{"word": ["mill"], "author": "riffraff"}
+{"word": ["pepper"], "author": "OnlyU2"}
+{"word": ["achoo"], "author": "riffraff"}
+{"word": ["sneeze"], "author": "OnlyU2"}
+{"word": ["germs"], "author": "riffraff"}
+{"word": ["Virus"], "author": "poppyann"}
+{"word": ["flu"], "author": "OnlyU2"}
+{"word": ["barf"], "author": "riffraff"}
+{"word": ["cat"], "author": "Volcanogirl"}
+{"word": ["friskies"], "author": "riffraff"}
+{"word": ["whiskers"], "author": "Volcanogirl"}
+{"word": ["tickle"], "author": "riffraff"}
+{"word": ["tummy"], "author": "73October"}
+{"word": ["Rumble"], "author": "poppyann"}
+{"word": ["hungry"], "author": "riffraff"}
+{"word": ["Ravenous"], "author": "poppyann"}
+{"word": ["starving"], "author": "riffraff"}
+{"word": ["Craving"], "author": "poppyann"}
+{"word": ["chocolate"], "author": "Volcanogirl"}
+{"word": ["mousse"], "author": "riffraff"}
+{"word": ["hairspray"], "author": "73October"}
+{"word": ["movie"], "author": "riffraff"}
+{"word": ["cinema"], "author": "73October"}
+{"word": ["popcorn"], "author": "riffraff"}
+{"word": ["candy"], "author": "73October"}
+{"word": ["cavity"], "author": "riffraff"}
+{"word": ["Novacain"], "author": "Kmama07"}
+{"word": ["needle"], "author": "riffraff"}
+{"word": ["Eye"], "author": "poppyann"}
+{"word": ["black"], "author": "riffraff"}
+{"word": ["Cat"], "author": "poppyann"}
+{"word": ["scratch"], "author": "riffraff"}
+{"word": ["mark"], "author": "73October"}
+{"word": ["Scar"], "author": "Kmama07"}
+{"word": ["fight"], "author": "riffraff"}
+{"word": ["bottles"], "author": "trlica"}
+{"word": ["beer\u00a0 \u00a0"], "author": "riffraff"}
+{"word": ["Homer"], "author": "acrobat62"}
+{"word": ["Duff"], "author": "riffraff"}
+{"word": ["Moe"], "author": "acrobat62"}
+{"word": ["flaming"], "author": "riffraff"}
+{"word": ["lips"], "author": "acrobat62"}
+{"word": ["Pout"], "author": "poppyann"}
+{"word": ["mope"], "author": "riffraff"}
+{"word": ["teenager"], "author": "73October"}
+{"word": ["angst"], "author": "riffraff"}
+{"word": ["emo"], "author": "acrobat62"}
+{"word": ["hide"], "author": "riffraff"}
+{"word": ["Camouflage"], "author": "poppyann"}
+{"word": ["jungle"], "author": "riffraff"}
+{"word": ["Book"], "author": "poppyann"}
+{"word": ["read"], "author": "riffraff"}
+{"word": ["write"], "author": "acrobat62"}
+{"word": ["scribble"], "author": "riffraff"}
+{"word": ["draw"], "author": "acrobat62"}
+{"word": ["Artist"], "author": "poppyann"}
+{"word": ["songwriter"], "author": "riffraff"}
+{"word": ["Poet"], "author": "Kmama07"}
+{"word": ["novelist"], "author": "riffraff"}
+{"word": ["creativemind"], "author": "Volcanogirl"}
+{"word": ["sculptor"], "author": "riffraff"}
+{"word": ["pottery"], "author": "OnlyU2"}
+{"word": ["Swazye"], "author": "riffraff"}
+{"word": ["Patrick"], "author": "OnlyU2"}
+{"word": ["dancing"], "author": "riffraff"}
+{"word": ["dirty"], "author": "OnlyU2"}
+{"word": ["wonderful"], "author": "riffraff"}
+{"word": ["fantastic"], "author": "OnlyU2"}
+{"word": ["sexy"], "author": "riffraff"}
+{"word": ["hot"], "author": "OnlyU2"}
+{"word": ["satisfying"], "author": "riffraff"}
+{"word": ["gratifying"], "author": "OnlyU2"}
+{"word": ["Content"], "author": "Kmama07"}
+{"word": ["sigh"], "author": "riffraff"}
+{"word": ["butterfly"], "author": "Volcanogirl"}
+{"word": ["freedom"], "author": "riffraff"}
+{"word": ["Run"], "author": "poppyann"}
+{"word": ["jog"], "author": "riffraff"}
+{"word": ["trot"], "author": "OnlyU2"}
+{"word": ["horse"], "author": "acrobat62"}
+{"word": ["stallion"], "author": "OnlyU2"}
+{"word": ["Edge"], "author": "riffraff"}
+{"word": ["Bono"], "author": "OnlyU2"}
+{"word": ["EDGE !!!\u00a0"], "author": "riffraff"}
+{"word": ["!!!!! BONO !!!!!\u00a0"], "author": "OnlyU2"}
+{"word": ["(I think we're having our 1st arguement!"], "author": "riffraff"}
+{"word": ["Stewart"], "author": "OnlyU2"}
+{"word": ["Jimmy"], "author": "riffraff"}
+{"word": ["Kimmel"], "author": "OnlyU2"}
+{"word": ["show"], "author": "riffraff"}
+{"word": ["tv"], "author": "OnlyU2"}
+{"word": ["cable"], "author": "riffraff"}
+{"word": ["wire"], "author": "OnlyU2"}
+{"word": ["Mesh"], "author": "poppyann"}
+{"word": ["gears"], "author": "riffraff"}
+{"word": ["transmission"], "author": "OnlyU2"}
+{"word": ["automatic"], "author": "riffraff"}
+{"word": ["standard"], "author": "OnlyU2"}
+{"word": ["normal"], "author": "riffraff"}
+{"word": ["average"], "author": "OnlyU2"}
+{"word": ["joe"], "author": "riffraff"}
+{"word": ["sloppy"], "author": "OnlyU2"}
+{"word": ["hungry"], "author": "riffraff"}
+{"word": ["starving"], "author": "OnlyU2"}
+{"word": ["eat"], "author": "riffraff"}
+{"word": ["dine"], "author": "OnlyU2"}
+{"word": ["feast"], "author": "riffraff"}
+{"word": ["overeat"], "author": "OnlyU2"}
+{"word": ["burp"], "author": "riffraff"}
+{"word": ["belch"], "author": "OnlyU2"}
+{"word": ["gas"], "author": "riffraff"}
+{"word": ["petroleum"], "author": "OnlyU2"}
+{"word": ["jelly"], "author": "riffraff"}
+{"word": ["jam"], "author": "OnlyU2"}
+{"word": ["toe"], "author": "riffraff"}
+{"word": ["nail"], "author": "OnlyU2"}
+{"word": ["Dirty"], "author": "poppyann"}
+{"word": ["day"], "author": "riffraff"}
+{"word": ["Dreamer"], "author": "poppyann"}
+{"word": ["believe"], "author": "riffraff"}
+{"word": ["Integrity"], "author": "Kmama07"}
+{"word": ["generousity"], "author": "riffraff"}
+{"word": ["kindness"], "author": "OnlyU2"}
+{"word": ["overwhelming"], "author": "riffraff"}
+{"word": ["Anxious"], "author": "poppyann"}
+{"word": ["edgy (!)"], "author": "riffraff"}
+{"word": ["bonoey"], "author": "OnlyU2"}
+{"word": ["(nice word!)"], "author": "riffraff"}
+{"word": ["Larryey?"], "author": "OnlyU2"}
+{"word": ["(off to the loo again, lmao!)"], "author": "riffraff"}
+{"word": ["percussion"], "author": "OnlyU2"}
+{"word": ["cymbals"], "author": "riffraff"}
+{"word": ["tambourine"], "author": "OnlyU2"}
+{"word": ["man"], "author": "riffraff"}
+{"word": ["dude"], "author": "OnlyU2"}
+{"word": ["ranch"], "author": "riffraff"}
+{"word": ["dressing"], "author": "OnlyU2"}
+{"word": ["Mirror"], "author": "Kmama07"}
+{"word": ["scary"], "author": "riffraff"}
+{"word": ["Nightmare"], "author": "Kmama07"}
+{"word": ["often"], "author": "riffraff"}
+{"word": ["Frequently"], "author": "poppyann"}
+{"word": ["Hotflashes"], "author": "Kmama07"}
+{"word": ["past"], "author": "riffraff"}
+{"word": ["Lament"], "author": "Kmama07"}
+{"word": ["sorrow"], "author": "riffraff"}
+{"word": ["sadness"], "author": "OnlyU2"}
+{"word": ["loss"], "author": "riffraff"}
+{"word": ["win"], "author": "OnlyU2"}
+{"word": ["triumph"], "author": "riffraff"}
+{"word": ["victory"], "author": "OnlyU2"}
+{"word": ["champion"], "author": "riffraff"}
+{"word": ["Spark plugs"], "author": "Kmama07"}
+{"word": ["power"], "author": "riffraff"}
+{"word": ["Might"], "author": "poppyann"}
+{"word": ["strength"], "author": "riffraff"}
+{"word": ["Numbers"], "author": "jabw10"}
+{"word": ["count"], "author": "riffraff"}
+{"word": ["abacus"], "author": "73October"}
+{"word": ["calculator"], "author": "riffraff"}
+{"word": ["cheating"], "author": "73October"}
+{"word": ["dishonest"], "author": "riffraff"}
+{"word": ["Liar"], "author": "poppyann"}
+{"word": ["sinner"], "author": "riffraff"}
+{"word": ["Grace"], "author": "Kmama07"}
+{"word": ["Jones"], "author": "poppyann"}
+{"word": ["Jamaica"], "author": "riffraff"}
+{"word": ["Reggae"], "author": "Kmama07"}
+{"word": ["sunny"], "author": "Volcanogirl"}
+{"word": ["ganja"], "author": "riffraff"}
+{"word": ["Weed"], "author": "poppyann"}
+{"word": ["smoke"], "author": "73October"}
+{"word": ["Joint"], "author": "poppyann"}
+{"word": ["number"], "author": "riffraff"}
+{"word": ["Song"], "author": "Kmama07"}
+{"word": ["listen"], "author": "riffraff"}
+{"word": ["Loud"], "author": "Kmama07"}
+{"word": ["quite"], "author": "riffraff"}
+{"word": ["Exactly"], "author": "Kmama07"}
+{"word": ["precisely"], "author": "riffraff"}
+{"word": ["Promptly"], "author": "Kmama07"}
+{"word": ["quick"], "author": "riffraff"}
+{"word": ["Delivery"], "author": "poppyann"}
+{"word": ["maternity"], "author": "73October"}
+{"word": ["mother"], "author": "riffraff"}
+{"word": ["child"], "author": "73October"}
+{"word": ["reunion"], "author": "riffraff"}
+{"word": ["highschool"], "author": "OnlyU2"}
+{"word": ["old"], "author": "riffraff"}
+{"word": ["elderly"], "author": "OnlyU2"}
+{"word": ["wrinkles"], "author": "riffraff"}
+{"word": ["iron"], "author": "OnlyU2"}
+{"word": ["metal"], "author": "73October"}
+{"word": ["heavy"], "author": "riffraff"}
+{"word": ["obese"], "author": "OnlyU2"}
+{"word": ["chubby"], "author": "riffraff"}
+{"word": ["face"], "author": "73October"}
+{"word": ["off"], "author": "riffraff"}
+{"word": ["on"], "author": "OnlyU2"}
+{"word": ["time"], "author": "riffraff"}
+{"word": ["clock"], "author": "OnlyU2"}
+{"word": ["cuckoo"], "author": "riffraff"}
+{"word": ["crazy"], "author": "OnlyU2"}
+{"word": ["insane"], "author": "riffraff"}
+{"word": ["wacko"], "author": "OnlyU2"}
+{"word": ["nutso"], "author": "riffraff"}
+{"word": ["disturbed"], "author": "OnlyU2"}
+{"word": ["deranged"], "author": "riffraff"}
+{"word": ["lost"], "author": "acrobat62"}
+{"word": ["found"], "author": "riffraff"}
+{"word": ["treasure"], "author": "73October"}
+{"word": ["chest"], "author": "OnlyU2"}
+{"word": ["boobs"], "author": "riffraff"}
+{"word": ["rack"], "author": "OnlyU2"}
+{"word": ["antlers"], "author": "riffraff"}
+{"word": ["moose"], "author": "OnlyU2"}
+{"word": ["mousse"], "author": "riffraff"}
+{"word": ["Hair"], "author": "poppyann"}
+{"word": ["brush"], "author": "riffraff"}
+{"word": ["sweep"], "author": "73October"}
+{"word": ["dirt"], "author": "riffraff"}
+{"word": ["soil"], "author": "73October"}
+{"word": ["sand"], "author": "riffraff"}
+{"word": ["beach"], "author": "OnlyU2"}
+{"word": ["shark"], "author": "riffraff"}
+{"word": ["jaws"], "author": "OnlyU2"}
+{"word": ["dog\u00a0 \u00a0 \u00a0(one of the dogs we're watching just bit my guy on the finger)"], "author": "riffraff"}
+{"word": ["Naughty doggie, what breed was it ?"], "author": "poppyann"}
+{"word": ["(Aussie cattle dog...she didn't mean it - she just got excited playing)"], "author": "riffraff"}
+{"word": ["Awww.. I know the feeling, I've been nipped by my dog before.. it's quite painful"], "author": "poppyann"}
+{"word": ["Bunyup\u00a0 \u00a0 (do you remember Bertie Bunyup?)"], "author": "riffraff"}
+{"word": ["No I don't remember... probably because it's from an American Show.."], "author": "poppyann"}
+{"word": ["Smith"], "author": "OnlyU2"}
+{"word": ["Robert"], "author": "riffraff"}
+{"word": ["plant"], "author": "OnlyU2"}
+{"word": ["seeds"], "author": "riffraff"}
+{"word": ["sesame"], "author": "OnlyU2"}
+{"word": ["open"], "author": "riffraff"}
+{"word": ["close"], "author": "OnlyU2"}
+{"word": ["slam"], "author": "riffraff"}
+{"word": ["shut"], "author": "Volcanogirl"}
+{"word": ["door"], "author": "riffraff"}
+{"word": ["knob"], "author": "OnlyU2"}
+{"word": ["job"], "author": "riffraff"}
+{"word": ["blow"], "author": "OnlyU2"}
+{"word": ["coke"], "author": "riffraff"}
+{"word": ["pepsi"], "author": "OnlyU2"}
+{"word": ["bubbles"], "author": "73October"}
+{"word": ["trailerpark"], "author": "OnlyU2"}
+{"word": ["outdoors"], "author": "73October"}
+{"word": ["camping"], "author": "riffraff"}
+{"word": ["tent"], "author": "OnlyU2"}
+{"word": ["spiders"], "author": "riffraff"}
+{"word": ["tarantulas"], "author": "OnlyU2"}
+{"word": ["furry"], "author": "riffraff"}
+{"word": ["Cat"], "author": "poppyann"}
+{"word": ["feral"], "author": "riffraff"}
+{"word": ["rabid"], "author": "OnlyU2"}
+{"word": ["foaming"], "author": "riffraff"}
+{"word": ["lather"], "author": "OnlyU2"}
+{"word": ["shaving"], "author": "riffraff"}
+{"word": ["beard"], "author": "OnlyU2"}
+{"word": ["burn"], "author": "riffraff"}
+{"word": ["scorch"], "author": "OnlyU2"}
+{"word": ["sun"], "author": "riffraff"}
+{"word": ["tan"], "author": "OnlyU2"}
+{"word": ["lotion"], "author": "riffraff"}
+{"word": ["baby"], "author": "OnlyU2"}
+{"word": ["crying"], "author": "riffraff"}
+{"word": ["Larry"], "author": "OnlyU2"}
+{"word": ["abs"], "author": "riffraff"}
+{"word": ["sixpack"], "author": "OnlyU2"}
+{"word": ["thirsty"], "author": "riffraff"}
+{"word": ["beer"], "author": "Volcanogirl"}
+{"word": ["relaxing"], "author": "riffraff"}
+{"word": ["garden"], "author": "Volcanogirl"}
+{"word": ["mountains"], "author": "riffraff"}
+{"word": ["hills"], "author": "Volcanogirl"}
+{"word": ["streams"], "author": "riffraff"}
+{"word": ["rivers"], "author": "73October"}
+{"word": ["bridge"], "author": "Volcanogirl"}
+{"word": ["jump"], "author": "riffraff"}
+{"word": ["suicide"], "author": "73October"}
+{"word": ["don't !"], "author": "riffraff"}
+{"word": ["exactly"], "author": "73October"}
+{"word": ["thankful"], "author": "riffraff"}
+{"word": ["relief"], "author": "73October"}
+{"word": ["kindness"], "author": "riffraff"}
+{"word": ["support"], "author": "73October"}
+{"word": ["ally"], "author": "riffraff"}
+{"word": ["buddy"], "author": "73October"}
+{"word": ["pal"], "author": "OnlyU2"}
+{"word": ["mate"], "author": "73October"}
+{"word": ["partner"], "author": "OnlyU2"}
+{"word": ["dance"], "author": "73October"}
+{"word": ["tango"], "author": "OnlyU2"}
+{"word": ["two"], "author": "riffraff"}
+{"word": ["U"], "author": "OnlyU2"}
+{"word": ["turn"], "author": "73October"}
+{"word": ["me"], "author": "riffraff"}
+{"word": ["round"], "author": "73October"}
+{"word": ["square"], "author": "riffraff"}
+{"word": ["trapeziod"], "author": "73October"}
+{"word": ["quadrilateral"], "author": "OnlyU2"}
+{"word": ["triangle"], "author": "73October"}
+{"word": ["rectangle"], "author": "OnlyU2"}
+{"word": ["oval"], "author": "73October"}
+{"word": ["racetrack"], "author": "riffraff"}
+{"word": ["horses"], "author": "OnlyU2"}
+{"word": ["Stallion"], "author": "poppyann"}
+{"word": ["Italian"], "author": "OnlyU2"}
+{"word": ["meatballs"], "author": "riffraff"}
+{"word": ["spaghetti"], "author": "OnlyU2"}
+{"word": ["hungry!"], "author": "riffraff"}
+{"word": ["full"], "author": "OnlyU2"}
+{"word": ["empty"], "author": "riffraff"}
+{"word": ["tank"], "author": "OnlyU2"}
+{"word": ["bazooka"], "author": "riffraff"}
+{"word": ["bazooka bubblegum"], "author": "OnlyU2"}
+{"word": ["bubblegum blows"], "author": "riffraff"}
+{"word": ["blows cocaine"], "author": "OnlyU2"}
+{"word": ["quit cocaine"], "author": "riffraff"}
+{"word": ["quit complaining"], "author": "OnlyU2"}
+{"word": ["always complaining"], "author": "riffraff"}
+{"word": ["(wrong game again - my fault)"], "author": "OnlyU2"}
+{"word": ["(oops! I didn't even notice!)"], "author": "riffraff"}
+{"word": ["album"], "author": "OnlyU2"}
+{"word": ["great"], "author": "riffraff"}
+{"word": ["fantastic"], "author": "OnlyU2"}
+{"word": ["superduper"], "author": "riffraff"}
+{"word": ["wonderful"], "author": "OnlyU2"}
+{"word": ["unreal"], "author": "riffraff"}
+{"word": ["fake"], "author": "OnlyU2"}
+{"word": ["sham"], "author": "riffraff"}
+{"word": ["scam"], "author": "OnlyU2"}
+{"word": ["con"], "author": "riffraff"}
+{"word": ["artist"], "author": "OnlyU2"}
+{"word": ["father\u00a0 \u00a0 \u00a0 (my Dad was an artist - not a con artist!)"], "author": "riffraff"}
+{"word": ["mother"], "author": "OnlyU2"}
+{"word": ["mean"], "author": "riffraff"}
+{"word": ["Nasty"], "author": "poppyann"}
+{"word": ["exhusband"], "author": "riffraff"}
+{"word": ["Divorce"], "author": "poppyann"}
+{"word": ["yesindeed"], "author": "riffraff"}
+{"word": ["Single !"], "author": "poppyann"}
+{"word": ["co-habitating"], "author": "riffraff"}
+{"word": ["Common-law"], "author": "poppyann"}
+{"word": ["sinning!\u00a0"], "author": "riffraff"}
+{"word": ["Correct !"], "author": "poppyann"}
+{"word": ["happy"], "author": "riffraff"}
+{"word": ["peppy"], "author": "acrobat62"}
+{"word": ["frisky"], "author": "riffraff"}
+{"word": ["Naughty"], "author": "poppyann"}
+{"word": ["fun"], "author": "riffraff"}
+{"word": ["sun"], "author": "acrobat62"}
+{"word": ["burn"], "author": "riffraff"}
+{"word": ["flame"], "author": "73October"}
+{"word": ["fire"], "author": "riffraff"}
+{"word": ["unforgettable"], "author": "OnlyU2"}
+{"word": ["wire"], "author": "riffraff"}
+{"word": ["cable"], "author": "OnlyU2"}
+{"word": ["television"], "author": "riffraff"}
+{"word": ["screen"], "author": "acrobat62"}
+{"word": ["movie"], "author": "riffraff"}
+{"word": ["silent"], "author": "acrobat62"}
+{"word": ["disco"], "author": "73October"}
+{"word": ["eeeek"], "author": "riffraff"}
+{"word": ["aaarggh"], "author": "73October"}
+{"word": ["pfffffffffftttttttttttttt"], "author": "riffraff"}
+{"word": ["heeeelllllppppp!"], "author": "73October"}
+{"word": ["DOH!"], "author": "acrobat62"}
+{"word": ["Duff"], "author": "riffraff"}
+{"word": ["Hilary"], "author": "OnlyU2"}
+{"word": ["bill"], "author": "riffraff"}
+{"word": ["invoice"], "author": "OnlyU2"}
+{"word": ["overdue"], "author": "riffraff"}
+{"word": ["late"], "author": "OnlyU2"}
+{"word": ["pregnant"], "author": "riffraff"}
+{"word": ["knockedup"], "author": "OnlyU2"}
+{"word": ["trouble"], "author": "riffraff"}
+{"word": ["difficulty"], "author": "OnlyU2"}
+{"word": ["painful"], "author": "riffraff"}
+{"word": ["childbirth"], "author": "OnlyU2"}
+{"word": ["messy"], "author": "riffraff"}
+{"word": ["sloppy"], "author": "OnlyU2"}
+{"word": ["joe"], "author": "riffraff"}
+{"word": ["blow"], "author": "OnlyU2"}
+{"word": ["cookies"], "author": "riffraff"}
+{"word": ["kids"], "author": "trlica"}
+{"word": ["school"], "author": "riffraff"}
+{"word": ["work"], "author": "acrobat62"}
+{"word": ["meetings"], "author": "73October"}
+{"word": ["notes"], "author": "Volcanogirl"}
+{"word": ["memos"], "author": "riffraff"}
+{"word": ["Pads"], "author": "poppyann"}
+{"word": ["blankets"], "author": "acrobat62"}
+{"word": ["comforters"], "author": "OnlyU2"}
+{"word": ["dogs (sorry, that's where I get most of my comfort from!)"], "author": "riffraff"}
+{"word": ["cats"], "author": "OnlyU2"}
+{"word": ["furballs"], "author": "riffraff"}
+{"word": ["hedgehog"], "author": "73October"}
+{"word": ["warthog"], "author": "riffraff"}
+{"word": ["armadillo"], "author": "73October"}
+{"word": ["Texas"], "author": "riffraff"}
+{"word": ["Rangers"], "author": "OnlyU2"}
+{"word": ["forest"], "author": "riffraff"}
+{"word": ["Gump"], "author": "OnlyU2"}
+{"word": ["chocolates"], "author": "riffraff"}
+{"word": ["candy"], "author": "OnlyU2"}
+{"word": ["sweets"], "author": "riffraff"}
+{"word": ["sugar"], "author": "OnlyU2"}
+{"word": ["calories"], "author": "riffraff"}
+{"word": ["fat"], "author": "OnlyU2"}
+{"word": ["Albert"], "author": "riffraff"}
+{"word": ["Einstein"], "author": "OnlyU2"}
+{"word": ["brilliant"], "author": "riffraff"}
+{"word": ["Brainy"], "author": "poppyann"}
+{"word": ["scientist"], "author": "riffraff"}
+{"word": ["Talented"], "author": "poppyann"}
+{"word": ["gifted"], "author": "riffraff"}
+{"word": ["smart"], "author": "acrobat62"}
+{"word": ["aleck"], "author": "riffraff"}
+{"word": ["baldwin"], "author": "OnlyU2"}
+{"word": ["stephen"], "author": "riffraff"}
+{"word": ["king"], "author": "OnlyU2"}
+{"word": ["horror"], "author": "riffraff"}
+{"word": ["show"], "author": "acrobat62"}
+{"word": ["concert"], "author": "OnlyU2"}
+{"word": ["arena"], "author": "riffraff"}
+{"word": ["Manchester"], "author": "73October"}
+{"word": ["Phoenix"], "author": "riffraff"}
+{"word": ["Arizona"], "author": "OnlyU2"}
+{"word": ["HOT"], "author": "riffraff"}
+{"word": ["trot"], "author": "acrobat62"}
+{"word": ["sulky"], "author": "riffraff"}
+{"word": ["Miserable"], "author": "poppyann"}
+{"word": ["depressed"], "author": "riffraff"}
+{"word": ["sad"], "author": "OnlyU2"}
+{"word": ["happy"], "author": "riffraff"}
+{"word": ["fan"], "author": "acrobat62"}
+{"word": ["forever"], "author": "riffraff"}
+{"word": ["neverending"], "author": "acrobat62"}
+{"word": ["eternal"], "author": "OnlyU2"}
+{"word": ["loyalty"], "author": "riffraff"}
+{"word": ["trust"], "author": "OnlyU2"}
+{"word": ["difficult"], "author": "riffraff"}
+{"word": ["challenging"], "author": "OnlyU2"}
+{"word": ["exasperating"], "author": "riffraff"}
+{"word": ["infuriating"], "author": "OnlyU2"}
+{"word": ["surrender"], "author": "riffraff"}
+{"word": ["stop"], "author": "acrobat62"}
+{"word": ["can't"], "author": "riffraff"}
+{"word": ["Why ?"], "author": "poppyann"}
+{"word": ["weak"], "author": "riffraff"}
+{"word": ["limp"], "author": "acrobat62"}
+{"word": ["almost went somewhere else, but no...."], "author": "riffraff"}
+{"word": ["biscuit"], "author": "acrobat62"}
+{"word": ["honey"], "author": "riffraff"}
+{"word": ["Pooh"], "author": "acrobat62"}
+{"word": ["Bear"], "author": "poppyann"}
+{"word": ["Teddy"], "author": "OnlyU2"}
+{"word": ["Boy"], "author": "poppyann"}
+{"word": ["album"], "author": "riffraff"}
+{"word": ["record"], "author": "OnlyU2"}
+{"word": ["SOE"], "author": "riffraff"}
+{"word": ["Enterprise"], "author": "poppyann"}
+{"word": ["spaceship"], "author": "riffraff"}
+{"word": ["UFO"], "author": "poppyann"}
+{"word": ["martian"], "author": "riffraff"}
+{"word": ["Mars"], "author": "OnlyU2"}
+{"word": ["candy"], "author": "riffraff"}
+{"word": ["Man"], "author": "poppyann"}
+{"word": ["beast"], "author": "riffraff"}
+{"word": ["burden"], "author": "acrobat62"}
+{"word": ["onus"], "author": "riffraff"}
+{"word": ["guilt"], "author": "acrobat62"}
+{"word": ["shame"], "author": "riffraff"}

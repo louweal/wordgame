@@ -1,1 +1,4 @@
-Spiders for crawling contents the popular "word association" forum game contents from various online forums. 
+
+Run: 
+
+scrapy crawl <name> -o <target data directoty>
