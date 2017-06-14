@@ -16,6 +16,7 @@ import matplotlib as plt
 sources = {
 	"aspiecentral":"../aspiecentral/data/data_p1-p1152.jl",
 	"atu2":"../atu2/data/atu2.jl",
+	"bleeping_computer":"../bleeping_computer/data/data5.jl",
 	"gog":"../gog/data/data_p1-p5054.jl",
 	"learn_english":"../learn-english/data/data_p1-p220.jl",
 	"pinkbike":"../pinkbike/data/data_p1-p2747.jl",

@@ -13,7 +13,7 @@ class WordsSpider(scrapy.Spider):
 	def start_requests(self):
 		urls5 = []
 		for i in range(1, 210): #209
-			urls5.append('https://www.bleepingcomputer.com/forums/t/414463/forum-game-word-association-take-5/page-'+str(i*15))
+			urls5.append('https://www.bleepingcomputer.com/forums/t/414463/forum-game-word-association-take-5/page-'+str(i))
 
 		urls2 = []
 		for i in range(0, 848): #848
