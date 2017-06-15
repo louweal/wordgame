@@ -6,22 +6,23 @@ Created on Sun Jun 11 12:45:50 2017
 This script parses all scraped data into a clean dataset
 """
 
-
 import json
 import pandas as pd
 import numpy as np
 import matplotlib as plt
 #from pprint import pprint
 
-sources = {
-	"aspiecentral":"../aspiecentral/data/data_p1-p1152.jl",
-	"atu2":"../atu2/data/atu2.jl",
-	"bleeping_computer":"../bleeping_computer/data/data5.jl",
-	"gog":"../gog/data/data_p1-p5054.jl",
-	"learn_english":"../learn-english/data/data_p1-p220.jl",
-	"pinkbike":"../pinkbike/data/data_p1-p2747.jl",
-	"sas":"../sas/data/sas.jl",
-	"wrongplanet":"../wrongplanet/data/data_p1-p3825.jl"
+sources = { #sources in alphabetical order 
+	"aspiecentral":"../../data/raw/aspiecentral.jl",
+	"atu2":"../../data/raw/atu2.jl",
+	"bleeping_computer":"../../data/raw/bleeping_computer5.jl",
+	"ecig":"../../data/raw/ecig.jl",
+	"gog":"../../data/raw/gog.jl",
+	"learn_english":"../../data/raw/learn-english.jl",
+	"pinkbike":"../../data/raw/pinkbike.jl",
+	"sas":"../../data/raw/sas.jl",
+	"the_fishy":"../../data/raw/the_fishy.jl",
+	"wrongplanet":"../../data/raw/wrongplanet.jl"
 }
 
 def preprocess(x):
@@ -45,6 +46,9 @@ def preprocess(x):
 	x = x.rstrip(' ')
 	x = x.lstrip(' ')
 	return x
+
+dropped = []
+droppednpp = [] #preprocesssing disabled
 
 def parse(name, file):
 	temp = {}
@@ -72,17 +76,25 @@ def parse(name, file):
 	#create pair with current word and previous word
 	datadf['word1'] = datadf['word'].shift(1)	
 	datadf['word2'] = datadf['word']
-	datadf = datadf.drop('word', 1)
+	
 
+	datadf = datadf.drop('word', 1)
 
 
 	
 	# drop empty posts '' (row ids remain) [better method?]
+	prev_entries = len(datadf)
 	datadf = datadf.replace('',np.NaN)
 	datadf = datadf.dropna(axis=0, how='any')
-	
+	cur_entries = len(datadf)
+	droppednpp.append(100-((100*cur_entries)/prev_entries)) 
 	
 	datadf["source"] = name	
+
+	for key, entry in datadf.word1.items():
+		#print(entry)
+		if(entry == "sunrise"):
+			print(str(datadf.source[key] + ": " + str(datadf.word2[key])))
 	
 	temp['data'] = datadf	
 	return temp
@@ -106,6 +118,7 @@ for key, value in iter(sorted(sources.items())):
 
 		out_data = out_data.append(data, ignore_index=True)
 		
+		#also shuffle!
 		
 		#posts
 		#posts = len(out['data'])
