@@ -118,6 +118,9 @@ for key, value in iter(sorted(sources.items())):
 
 		out_data = out_data.append(data, ignore_index=True)
 		
+		#u = set.intersection(*datadf.author.)
+		
+		
 		#also shuffle!
 		
 		#posts
