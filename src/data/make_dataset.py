@@ -15,20 +15,17 @@ import matplotlib as plt
 sources = { #sources in alphabetical order 
 	"aspiecentral":"../../data/raw/aspiecentral.jl",
 	"atu2":"../../data/raw/atu2.jl",
-	"bleeping_computer":"../../data/raw/bleeping_computer5.jl",
+	"bleeping_computer":"../../data/raw/bleeping_computer.jl",
 	"ecig":"../../data/raw/ecig.jl",
 	"gog":"../../data/raw/gog.jl",
 	"learn_english":"../../data/raw/learn-english.jl",
 	"pinkbike":"../../data/raw/pinkbike.jl",
-	"sas":"../../data/raw/sas.jl",
+	"sas":"../../data/raw/sas_v2.jl",
 	"the_fishy":"../../data/raw/the_fishy.jl",
 	"wrongplanet":"../../data/raw/wrongplanet.jl"
 }
 
 def preprocess(x):
-#	x = x.rstrip('!')
-#	x = x.rstrip('.')
-#	x = x.rstrip('?')
 	x = x.split("(")[0]
 	x = x.split(",")[0]
 	x = x.split("*")[0]
@@ -41,14 +38,16 @@ def preprocess(x):
 	x = x.split("=")[0]
 	x = x.split("[")[0]		
 	x = x.split(":")[0]		
-	x = x.split(";")[0]		
+	x = x.split(";")[0]
+	x = x.split("edited by")[0] # bleeping_computer: additional post info was scraped		
 	#x = x.split(" - ")[0]		
+	x = x.rstrip('\u00a0') # removes trailing non-breaking spaces 
 	x = x.rstrip(' ')
 	x = x.lstrip(' ')
 	return x
 
 dropped = []
-droppednpp = [] #preprocesssing disabled
+#droppednpp = [] #preprocesssing disabled
 
 def parse(name, file):
 	temp = {}
@@ -67,7 +66,8 @@ def parse(name, file):
 	#authors to ids!	
 	
 	#converts list ['word'] to string 'word' 
-	datadf['word'] = datadf['word'].apply(lambda x: ', '.join(x))
+	if(name != "bleeping_computer"):
+		datadf['word'] = datadf['word'].apply(lambda x: ', '.join(x))
 
 	#convert all to lowercase
 	datadf['word'] = datadf['word'].apply(lambda x: x.lower())
@@ -85,9 +85,9 @@ def parse(name, file):
 	# drop empty posts '' (row ids remain) [better method?]
 	prev_entries = len(datadf)
 	datadf = datadf.replace('',np.NaN)
-	datadf = datadf.dropna(axis=0, how='any')
+	datadf = datadf.dropna(axis=0, how='any').reset_index(drop=True)
 	cur_entries = len(datadf)
-	droppednpp.append(100-((100*cur_entries)/prev_entries)) 
+	dropped.append(100-((100*cur_entries)/prev_entries)) 
 	
 	datadf["source"] = name	
 
@@ -105,6 +105,7 @@ ppa = []
 maxdup = []
 meandup = []
 freqwords = []
+sample = []
 out = pd.DataFrame()
 
 #parse sources in alphabetical order
@@ -133,7 +134,8 @@ for key, value in iter(sorted(sources.items())):
 		ppa.append(round(data.groupby(['word2'])['author'].transform('count').mean(),2))
 		maxdup.append((data['word2'].value_counts()).max())
 		meandup.append((data['word2'].value_counts()).mean())
-		freqwords.append(data['word2'].value_counts().head(15))
+		freqwords.append(data['word2'].value_counts().head(30))
+		sample.append(data['word2'].sample(15))
 
 
 		

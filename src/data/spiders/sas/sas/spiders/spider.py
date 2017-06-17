@@ -7,7 +7,6 @@ class WordsSpider(scrapy.Spider):
 	custom_settings = {
 		'DOWNLOAD_DELAY': 2, 
 		'CONCURRENT_REQUESTS_PER_DOMAIN': 1,
-		'ROBOTSTXT_OBEY': False
 	}
 	
 
@@ -24,14 +23,17 @@ class WordsSpider(scrapy.Spider):
 			urls2.append('http://www.socialanxietysupport.com/forum/f31/word-association-2-a-494226/index'+str(i)+".html")
 		
 
-		urls = urls2 # select topic to scrape
+		urls = urls1 + urls2 # select topic to scrape
 		for url in urls:
 			yield scrapy.Request(url=url, callback=self.parse)
 
 	def parse(self, response):
 		for item in response.xpath('//section[contains(@id,"post")]'):
 			print(item)
-			word = item.xpath('normalize-space(div/div/div/div[contains(@id,"post_message_")]//text())').extract()
+			word = ''.join(item.xpath('div/div/div/div[contains(@id,"post_message_")]//text()').extract())
+			word = word.replace("\n", '')
+			word = word.replace("\t", '')
+			word = word.replace("\r", '')			
 			author = item.xpath('div/div/div/a[contains(@class,"bigusername")]/text()').extract_first() 
 			yield {
 			'word': word,
