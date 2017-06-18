@@ -14,18 +14,19 @@ import matplotlib as plt
 
 sources = { #sources in alphabetical order 
 	"aspiecentral":"../../data/raw/aspiecentral.jl",
-	"atu2":"../../data/raw/atu2.jl",
+	"atu":"../../data/raw/atu2.jl",
 	"bleeping_computer":"../../data/raw/bleeping_computer.jl",
 	"ecig":"../../data/raw/ecig.jl",
 	"gog":"../../data/raw/gog.jl",
 	"learn_english":"../../data/raw/learn-english.jl",
 	"pinkbike":"../../data/raw/pinkbike.jl",
-	"sas":"../../data/raw/sas_v2.jl",
+	"sas":"../../data/raw/sas.jl",
 	"the_fishy":"../../data/raw/the_fishy.jl",
 	"wrongplanet":"../../data/raw/wrongplanet.jl"
 }
 
 def preprocess(x):
+	x = x.split("Quote:")[0] # removes posts containing quotes from SAS
 	x = x.split("(")[0]
 	x = x.split(",")[0]
 	x = x.split("*")[0]
@@ -39,15 +40,15 @@ def preprocess(x):
 	x = x.split("[")[0]		
 	x = x.split(":")[0]		
 	x = x.split(";")[0]
-	x = x.split("edited by")[0] # bleeping_computer: additional post info was scraped		
+	x = x.split("Edited by")[0] # bleeping_computer: additional post info was scraped		
 	#x = x.split(" - ")[0]		
 	x = x.rstrip('\u00a0') # removes trailing non-breaking spaces 
 	x = x.rstrip(' ')
 	x = x.lstrip(' ')
+
 	return x
 
-dropped = []
-#droppednpp = [] #preprocesssing disabled
+nans = []
 
 def parse(name, file):
 	temp = {}
@@ -62,34 +63,40 @@ def parse(name, file):
 	
 	#remove first post in topic
 	datadf = datadf.ix[1:] 	
-	
-	#authors to ids!	
+
+	# add source name
+	datadf["source"] = name	
+	#convert usernames to IDs
+	datadf['author'] = datadf['author'].astype('category')
+	datadf['author'] = datadf['author'].cat.codes	
+	#combine id with source (e.g. wrongplanet10)
+	datadf['author'] = datadf["source"] + datadf["author"].map(str)
+	datadf['author'] = datadf['author']
 	
 	#converts list ['word'] to string 'word' 
-	if(name != "bleeping_computer"):
+	if(name != "bleeping_computer" and name != "sas"):
 		datadf['word'] = datadf['word'].apply(lambda x: ', '.join(x))
 
+	# ...
+	datadf['word'] = datadf['word'].apply(lambda x: preprocess(x))	
 	#convert all to lowercase
 	datadf['word'] = datadf['word'].apply(lambda x: x.lower())
-	datadf['word'] = datadf['word'].apply(lambda x: preprocess(x))	
 
 	#create pair with current word and previous word
 	datadf['word1'] = datadf['word'].shift(1)	
-	datadf['word2'] = datadf['word']
-	
+	# rename column 'word' to 'word2'
+	datadf.rename(columns={'word' : 'word2'}, inplace=True)
 
-	datadf = datadf.drop('word', 1)
-
-
-	
-	# drop empty posts '' (row ids remain) [better method?]
-	prev_entries = len(datadf)
+	#replace all empty words with NaN	
 	datadf = datadf.replace('',np.NaN)
+
+	# compute fraction NaN values
+	nans.append(100*(datadf['word2'].isnull().sum())/len(datadf)) 
+
+	# drop all pairs containing NaN	values
 	datadf = datadf.dropna(axis=0, how='any').reset_index(drop=True)
-	cur_entries = len(datadf)
-	dropped.append(100-((100*cur_entries)/prev_entries)) 
+
 	
-	datadf["source"] = name	
 
 	for key, entry in datadf.word1.items():
 		#print(entry)
@@ -113,25 +120,13 @@ for key, value in iter(sorted(sources.items())):
 	if(key == key):
 		print("Parsing " +str(key) + "...")
 		out = parse(key, value)
-		#alldata = pd.concat([alldata, pd.DataFrame(out)])
-		#combine datas		
 		data = out['data']
 
 		out_data = out_data.append(data, ignore_index=True)
 		
-		#u = set.intersection(*datadf.author.)
-		
-		
-		#also shuffle!
-		
-		#posts
-		#posts = len(out['data'])
-		#print(posts)		
-		
-		#print first 10 rows
-		#print(out['data'].head(10))
 
-		ppa.append(round(data.groupby(['word2'])['author'].transform('count').mean(),2))
+
+		ppa.append(round(data.groupby(['word2'])['author'].transform('count').median(),2))
 		maxdup.append((data['word2'].value_counts()).max())
 		meandup.append((data['word2'].value_counts()).mean())
 		freqwords.append(data['word2'].value_counts().head(30))
@@ -139,6 +134,8 @@ for key, value in iter(sorted(sources.items())):
 
 
 		
-
-	
+#convert author IDs (e.g. wrongplanet10) to unique integer IDs
+out_data['author'] = out_data['author'].astype('category')
+out_data['author'] = out_data['author'].cat.codes		
+print(out_data.sample(15))
 	
