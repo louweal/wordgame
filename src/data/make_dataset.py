@@ -14,7 +14,7 @@ import matplotlib as plt
 
 sources = { #sources in alphabetical order 
 	"aspiecentral":"../../data/raw/aspiecentral.jl",
-	"atu":"../../data/raw/atu2.jl",
+	"atu2":"../../data/raw/atu2.jl",
 	"bleeping_computer":"../../data/raw/bleeping_computer.jl",
 	"ecig":"../../data/raw/ecig.jl",
 	"gog":"../../data/raw/gog.jl",
@@ -26,13 +26,15 @@ sources = { #sources in alphabetical order
 }
 
 def preprocess(x):
+	x = x.lstrip('"') # todo
+	x = x.lstrip(' ')
 	x = x.split("Quote:")[0] # removes posts containing quotes from SAS
 	x = x.split("(")[0]
 	x = x.split(",")[0]
 	x = x.split("*")[0]
 	x = x.split("--")[0]	
 	x = x.split("*")[0]
-	x = x.split("\"")[0]	
+	x = x.split('"')[0]	
 	x = x.split(".")[0]		
 	x = x.split("!")[0]		
 	x = x.split("?")[0]
@@ -44,7 +46,6 @@ def preprocess(x):
 	#x = x.split(" - ")[0]		
 	x = x.rstrip('\u00a0') # removes trailing non-breaking spaces 
 	x = x.rstrip(' ')
-	x = x.lstrip(' ')
 
 	return x
 
@@ -80,7 +81,7 @@ def parse(name, file):
 	# ...
 	datadf['word'] = datadf['word'].apply(lambda x: preprocess(x))	
 	#convert all to lowercase
-	datadf['word'] = datadf['word'].apply(lambda x: x.lower())
+	#datadf['word'] = datadf['word'].apply(lambda x: x.lower())
 
 	#create pair with current word and previous word
 	datadf['word1'] = datadf['word'].shift(1)	
@@ -103,6 +104,9 @@ def parse(name, file):
 		if(entry == "sunrise"):
 			print(str(datadf.source[key] + ": " + str(datadf.word2[key])))
 	
+	#rearrange columns
+	cols = ['author','word1','word2','source']
+	datadf = datadf[cols]
 	temp['data'] = datadf	
 	return temp
 
@@ -137,5 +141,13 @@ for key, value in iter(sorted(sources.items())):
 #convert author IDs (e.g. wrongplanet10) to unique integer IDs
 out_data['author'] = out_data['author'].astype('category')
 out_data['author'] = out_data['author'].cat.codes		
+
+
+
 print(out_data.sample(15))
-	
+
+#shuffle all rows
+out_data = out_data.sample(frac=1).reset_index(drop=True)
+
+#write to csv
+out_data.to_csv('../../data/processed/wordgame.csv', sep=',')	
