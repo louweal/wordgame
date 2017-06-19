@@ -15,24 +15,35 @@ import matplotlib as plt
 sources = { #sources in alphabetical order 
 	"aspiecentral":"../../data/raw/aspiecentral.jl",
 	"atu2":"../../data/raw/atu2.jl",
+	"classic_comics":"../../data/raw/classic_comics.jl",
 	"bleeping_computer":"../../data/raw/bleeping_computer.jl",
 	"ecig":"../../data/raw/ecig.jl",
 	"gog":"../../data/raw/gog.jl",
 	"learn_english":"../../data/raw/learn-english.jl",
-	"pinkbike":"../../data/raw/pinkbike.jl",
+#	"pinkbike":"../../data/raw/pinkbike.jl", # extremely messy data! (e.g. mainly posts about boobs, sex, insults etc.)
 	"sas":"../../data/raw/sas.jl",
 	"the_fishy":"../../data/raw/the_fishy.jl",
 	"wrongplanet":"../../data/raw/wrongplanet.jl"
 }
 
+
+
+#pre-cond: x is not all lowercase 
 def preprocess(x):
-	x = x.lstrip('"') # todo
+	#replace..
+	x = x.replace('\n',' ') # (wrongplanet)
+	
+	#remove leading characters
 	x = x.lstrip(' ')
+
+	#remove everything following...
 	x = x.split("Quote:")[0] # removes posts containing quotes from SAS
+	x = x.split("Sent from my")[0] # removes mobile Tapatalk message (SAS)
+	x = x.split("Edited by")[0] # bleeping_computer: additional post info was scraped		
 	x = x.split("(")[0]
 	x = x.split(",")[0]
 	x = x.split("*")[0]
-	x = x.split("--")[0]	
+	x = x.split("--")[0]
 	x = x.split("*")[0]
 	x = x.split('"')[0]	
 	x = x.split(".")[0]		
@@ -42,11 +53,11 @@ def preprocess(x):
 	x = x.split("[")[0]		
 	x = x.split(":")[0]		
 	x = x.split(";")[0]
-	x = x.split("Edited by")[0] # bleeping_computer: additional post info was scraped		
-	#x = x.split(" - ")[0]		
+	x = x.split(" - ")[0]
+
+	#remove trailing characters		
 	x = x.rstrip('\u00a0') # removes trailing non-breaking spaces 
 	x = x.rstrip(' ')
-
 	return x
 
 nans = []
@@ -75,13 +86,14 @@ def parse(name, file):
 	datadf['author'] = datadf['author']
 	
 	#converts list ['word'] to string 'word' 
-	if(name != "bleeping_computer" and name != "sas"):
+	if((name != "bleeping_computer") and (name != "classic_comics") and (name != "sas")):
 		datadf['word'] = datadf['word'].apply(lambda x: ', '.join(x))
 
 	# ...
 	datadf['word'] = datadf['word'].apply(lambda x: preprocess(x))	
+
 	#convert all to lowercase
-	#datadf['word'] = datadf['word'].apply(lambda x: x.lower())
+	datadf['word'] = datadf['word'].apply(lambda x: x.lower())
 
 	#create pair with current word and previous word
 	datadf['word1'] = datadf['word'].shift(1)	
@@ -96,13 +108,6 @@ def parse(name, file):
 
 	# drop all pairs containing NaN	values
 	datadf = datadf.dropna(axis=0, how='any').reset_index(drop=True)
-
-	
-
-	for key, entry in datadf.word1.items():
-		#print(entry)
-		if(entry == "sunrise"):
-			print(str(datadf.source[key] + ": " + str(datadf.word2[key])))
 	
 	#rearrange columns
 	cols = ['author','word1','word2','source']
@@ -143,11 +148,21 @@ out_data['author'] = out_data['author'].astype('category')
 out_data['author'] = out_data['author'].cat.codes		
 
 
-
-print(out_data.sample(15))
+print(out_data['word2'].value_counts().head(3))
 
 #shuffle all rows
 out_data = out_data.sample(frac=1).reset_index(drop=True)
 
 #write to csv
-out_data.to_csv('../../data/processed/wordgame.csv', sep=',')	
+print("Writing data to /data/processed/wordgame.csv....")
+out_data.to_csv('../../data/processed/wordgame.csv', sep=',', index=False)	
+
+sunrise = []
+for key, entry in out_data.word1.items():
+	#print(entry)
+	if(entry == "music"):
+		sunrise.append(str(out_data.word1[key] + " " + str(out_data.word2[key])))
+
+sunrise = pd.DataFrame(sunrise)
+sunrise.to_csv('../../data/processed/music.csv', index=False)
+
