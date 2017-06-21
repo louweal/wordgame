@@ -10,6 +10,7 @@ import json
 import pandas as pd
 import numpy as np
 import matplotlib as plt
+import re
 #from pprint import pprint
 
 sources = { #sources in alphabetical order 
@@ -26,20 +27,24 @@ sources = { #sources in alphabetical order
 	"wrongplanet":"../../data/raw/wrongplanet.jl"
 }
 
-
-
-#pre-cond: x is not all lowercase 
 def preprocess(x):
 	#replace..
 	x = x.replace('\n',' ') # (wrongplanet)
+	x = x.replace('_','')
+	x = x.replace("`", "'")
+	x = x.replace("~", "")
+	x = x.replace("^", "")
+	x = re.sub("xd", "", x, flags=re.I) # removes xD/XD/xd etc.. 
 	
-	#remove leading characters
-	x = x.lstrip(' ')
 
 	#remove everything following...
 	x = x.split("Quote:")[0] # removes posts containing quotes from SAS
 	x = x.split("Sent from my")[0] # removes mobile Tapatalk message (SAS)
-	x = x.split("Edited by")[0] # bleeping_computer: additional post info was scraped		
+	x = x.split("Edited by")[0] # bleeping_computer: additional post info was scraped
+	x = x.split("Posted via")[0] #sas
+	if(x.find("said:") > 1): x = '' #classic comics: removes posts containing quotes
+	x = x.split("   ")[0] # 3 spaces
+	x = x.split("/")[0]		
 	x = x.split("(")[0]
 	x = x.split(",")[0]
 	x = x.split("*")[0]
@@ -51,118 +56,104 @@ def preprocess(x):
 	x = x.split("?")[0]
 	x = x.split("=")[0]
 	x = x.split("[")[0]		
+	x = x.split("{")[0]		
 	x = x.split(":")[0]		
 	x = x.split(";")[0]
 	x = x.split(" - ")[0]
+	x = x.split(">")[0]
+	x = x.split("<")[0] # deals with <comments> and <333 
+
+	#remove leading characters
+	x = x.lstrip(' ')
+	x = x.lstrip("'")
 
 	#remove trailing characters		
 	x = x.rstrip('\u00a0') # removes trailing non-breaking spaces 
+	x = x.rstrip('-M') # crazy 'signature' of a person with a lot of posts..
+	x = x.rstrip('-m')
+	x = x.rstrip("'")
 	x = x.rstrip(' ')
 	return x
 
 nans = []
+pps = [] #post/source
 
-def parse(name, file):
-	temp = {}
-
-	data = []
+def parse(source_name, file):
+	raw_data = []
 	for line in open(file, 'r'):
 		#print(line)
-		data.append(json.loads(line))
+		raw_data.append(json.loads(line))
 	
 	# convert data to pandas Dataframe
-	datadf = pd.DataFrame(data)
+	interm_data = pd.DataFrame(raw_data)
 	
 	#remove first post in topic
-	datadf = datadf.ix[1:] 	
+	interm_data = interm_data.ix[1:] 	
 
 	# add source name
-	datadf["source"] = name	
-	#convert usernames to IDs
-	datadf['author'] = datadf['author'].astype('category')
-	datadf['author'] = datadf['author'].cat.codes	
-	#combine id with source (e.g. wrongplanet10)
-	datadf['author'] = datadf["source"] + datadf["author"].map(str)
-	datadf['author'] = datadf['author']
+	interm_data["source"] = source_name	
 	
-	#converts list ['word'] to string 'word' 
-	if((name != "bleeping_computer") and (name != "classic_comics") and (name != "sas")):
-		datadf['word'] = datadf['word'].apply(lambda x: ', '.join(x))
+	#convert usernames to IDs
+	interm_data['author'] = interm_data['author'].astype('category')
+	interm_data['author'] = interm_data['author'].cat.codes	
+	#combine id with source (e.g. wrongplanet10)
+	interm_data['author'] = interm_data["source"] + interm_data["author"].map(str)
+	interm_data['author'] = interm_data['author']
+	
+	#if each post is scraped as a list of words
+	if((source_name != "bleeping_computer") and (source_name != "classic_comics") and (source_name != "sas")):
+		#converts lists ['word'] to string 'word'  
+		interm_data['word'] = interm_data['word'].apply(lambda x: ', '.join(x))
 
-	# ...
-	datadf['word'] = datadf['word'].apply(lambda x: preprocess(x))	
+	# clean data
+	interm_data['word'] = interm_data['word'].apply(lambda x: preprocess(x))	
 
 	#convert all to lowercase
-	datadf['word'] = datadf['word'].apply(lambda x: x.lower())
+	#interm_data['word'] = interm_data['word'].apply(lambda x: x.lower())
 
 	#create pair with current word and previous word
-	datadf['word1'] = datadf['word'].shift(1)	
+	interm_data['word1'] = interm_data['word'].shift(1)	
 	# rename column 'word' to 'word2'
-	datadf.rename(columns={'word' : 'word2'}, inplace=True)
+	interm_data.rename(columns={'word' : 'word2'}, inplace=True)
 
 	#replace all empty words with NaN	
-	datadf = datadf.replace('',np.NaN)
+	interm_data = interm_data.replace('',np.NaN)
 
 	# compute fraction NaN values
-	nans.append(100*(datadf['word2'].isnull().sum())/len(datadf)) 
+	nans = 100*(interm_data['word2'].isnull().sum())/len(interm_data)
 
 	# drop all pairs containing NaN	values
-	datadf = datadf.dropna(axis=0, how='any').reset_index(drop=True)
+	interm_data = interm_data.dropna(axis=0, how='any').reset_index(drop=True)
+	print("\tdropped pairs: " +str(round(nans,1)) + str("%"))	
 	
 	#rearrange columns
 	cols = ['author','word1','word2','source']
-	datadf = datadf[cols]
-	temp['data'] = datadf	
-	return temp
+	interm_data = interm_data[cols]
+
+	return interm_data
 
 
-out_data = pd.DataFrame()
-ppa = []
-maxdup = []
-meandup = []
-freqwords = []
-sample = []
-out = pd.DataFrame()
+processed_data = pd.DataFrame()
 
 #parse sources in alphabetical order
 for key, value in iter(sorted(sources.items())): 
-	if(key == key):
-		print("Parsing " +str(key) + "...")
-		out = parse(key, value)
-		data = out['data']
-
-		out_data = out_data.append(data, ignore_index=True)
+	print("Parsing " +str(key) + "...")
+	interm_data = parse(key, value)
+	processed_data = processed_data.append(interm_data, ignore_index=True)
 		
-
-
-		ppa.append(round(data.groupby(['word2'])['author'].transform('count').median(),2))
-		maxdup.append((data['word2'].value_counts()).max())
-		meandup.append((data['word2'].value_counts()).mean())
-		freqwords.append(data['word2'].value_counts().head(30))
-		sample.append(data['word2'].sample(15))
-
-
+print("Finished parsing all data...")
 		
 #convert author IDs (e.g. wrongplanet10) to unique integer IDs
-out_data['author'] = out_data['author'].astype('category')
-out_data['author'] = out_data['author'].cat.codes		
-
-
-print(out_data['word2'].value_counts().head(3))
+print("Creating anonymous user IDs...")
+processed_data['author'] = processed_data['author'].astype('category')
+processed_data['author'] = processed_data['author'].cat.codes		
 
 #shuffle all rows
-out_data = out_data.sample(frac=1).reset_index(drop=True)
+processed_data = processed_data.sample(frac=1).reset_index(drop=True)
+
 
 #write to csv
-print("Writing data to /data/processed/wordgame.csv....")
-out_data.to_csv('../../data/processed/wordgame.csv', sep=',', index=False)	
-
-sunrise = []
-for key, entry in out_data.word1.items():
-	#print(entry)
-	if(entry == "music"):
-		sunrise.append(str(out_data.word1[key] + " " + str(out_data.word2[key])))
-
-sunrise = pd.DataFrame(sunrise)
-sunrise.to_csv('../../data/processed/music.csv', index=False)
+outfile = "../../data/processed/wordgame_201706.csv"
+print("Writing data to " + str(outfile) + "...")
+processed_data.to_csv(outfile, sep=',', index=False)	
 
