@@ -43,7 +43,7 @@ def preprocess(x):
 	x = x.split("Edited by")[0] # bleeping_computer: additional post info was scraped
 	x = x.split("Posted via")[0] #sas
 	if(x.find("said:") > 1): x = '' #classic comics: removes posts containing quotes
-	x = x.split("   ")[0] # 3 spaces
+	x = x.split("\t")[0] 
 	x = x.split("/")[0]		
 	x = x.split("(")[0]
 	x = x.split(",")[0]
