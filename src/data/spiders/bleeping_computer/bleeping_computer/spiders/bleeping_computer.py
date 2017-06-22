@@ -52,7 +52,7 @@ class WordsSpider(scrapy.Spider):
 
 	def parse(self, response):
 		for item in response.xpath('//div[contains(@id,"post_id_")]'):
-			word = ''.join(item.xpath('div/div[@class="post_body"]/div[@itemprop="commentText"]//text()').extract())
+			word = ''.join(item.xpath('div/div[@class="post_body"]/div[@itemprop="commentText"]//text()[not(ancestor::blockquote)]').extract())
 			word = word.replace("\n", '')
 			word = word.replace("\t", '')
 			word = word.replace("\r", '')			

@@ -34,6 +34,7 @@ def preprocess(x):
 	x = x.replace("`", "'")
 	x = x.replace("~", "")
 	x = x.replace("^", "")
+	x = x.replace("$$", "$") #allows $-signs but not multiple
 	x = re.sub("xd", "", x, flags=re.I) # removes xD/XD/xd etc.. 
 	
 
@@ -43,11 +44,11 @@ def preprocess(x):
 	x = x.split("Edited by")[0] # bleeping_computer: additional post info was scraped
 	x = x.split("Posted via")[0] #sas
 	if(x.find("said:") > 1): x = '' #classic comics: removes posts containing quotes
-	x = x.split("\t")[0] 
 	x = x.split("/")[0]		
 	x = x.split("(")[0]
 	x = x.split(",")[0]
 	x = x.split("*")[0]
+	x = x.split("\u00a0")[0]
 	x = x.split("--")[0]
 	x = x.split("*")[0]
 	x = x.split('"')[0]	
@@ -56,33 +57,40 @@ def preprocess(x):
 	x = x.split("?")[0]
 	x = x.split("=")[0]
 	x = x.split("[")[0]		
-	x = x.split("{")[0]		
+	x = x.split("{")[0]
 	x = x.split(":")[0]		
 	x = x.split(";")[0]
-	x = x.split(" - ")[0]
+#	x = x.split(" - ")[0]
 	x = x.split(">")[0]
 	x = x.split("<")[0] # deals with <comments> and <333 
 
 	#remove leading characters
-	x = x.lstrip(' ')
+	x = x.lstrip("+")
+	x = x.lstrip("-")
+	x = x.lstrip("&")
 	x = x.lstrip("'")
+	x = x.lstrip(' ')
 
 	#remove trailing characters		
-	x = x.rstrip('\u00a0') # removes trailing non-breaking spaces 
 	x = x.rstrip('-M') # crazy 'signature' of a person with a lot of posts..
 	x = x.rstrip('-m')
 	x = x.rstrip("'")
 	x = x.rstrip(' ')
+	x = x.rstrip('\u00a0') # removes trailing non-breaking spaces (the fishy)
+	
 	return x
 
 nans = []
 pps = [] #post/source
 
+def toAscii(s):
+	return bytes(s, 'utf-8').decode('ascii','ignore')
+
 def parse(source_name, file):
 	raw_data = []
 	for line in open(file, 'r'):
 		#print(line)
-		raw_data.append(json.loads(line))
+		raw_data.append(json.loads(line, encoding="ascii"))
 	
 	# convert data to pandas Dataframe
 	interm_data = pd.DataFrame(raw_data)
@@ -100,10 +108,14 @@ def parse(source_name, file):
 	interm_data['author'] = interm_data["source"] + interm_data["author"].map(str)
 	interm_data['author'] = interm_data['author']
 	
+	
 	#if each post is scraped as a list of words
 	if((source_name != "bleeping_computer") and (source_name != "classic_comics") and (source_name != "sas")):
 		#converts lists ['word'] to string 'word'  
 		interm_data['word'] = interm_data['word'].apply(lambda x: ', '.join(x))
+
+
+	interm_data['word'] = interm_data['word'].apply(lambda x: toAscii(x))
 
 	# clean data
 	interm_data['word'] = interm_data['word'].apply(lambda x: preprocess(x))	
@@ -115,7 +127,9 @@ def parse(source_name, file):
 	interm_data['word1'] = interm_data['word'].shift(1)	
 	# rename column 'word' to 'word2'
 	interm_data.rename(columns={'word' : 'word2'}, inplace=True)
-
+	
+#	interm_data.apply(lambda x: True if x.word1.find(x.word2) > 0 else False)
+	
 	#replace all empty words with NaN	
 	interm_data = interm_data.replace('',np.NaN)
 
