@@ -130,7 +130,7 @@ def parse(source_name, file):
 	
 #	interm_data.apply(lambda x: True if x.word1.find(x.word2) > 0 else False)
 	
-	#replace all empty words with NaN	
+	#replace all empty words or authors with NaN	
 	interm_data = interm_data.replace('',np.NaN)
 
 	# compute fraction NaN values
