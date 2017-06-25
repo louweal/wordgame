@@ -16,7 +16,7 @@ import Levenshtein
 
 
 def levenshtein(r):
-	return 1
+#	return 1
 	return Levenshtein.distance(r.word1, r.word2)
 
 #
@@ -49,7 +49,7 @@ print("Mean word length: "+ str(df['len2'].mean()))
 
 
 df['edit'] = df.apply(levenshtein, axis=1)
-
+#save interm!
 
 print("Mean edit distance: "+ str(df['edit'].mean()))
 
@@ -85,7 +85,7 @@ df10 = df10.append(pd.DataFrame([0,1, 2,3,4,5,6,7,8,9]))
 #df10['len'] = df.apply()
 
 for i in range(0,10):
-	small = sdf[(sdf['sourceID'] == i)]
+	small = df[(df['sourceID'] == i)]
 	edit[i,0] = small['edit'].mean()
 		
 
