@@ -73,7 +73,7 @@ def preprocess(x):
 
 	#remove trailing characters		
 	x = x.rstrip('-M') # crazy 'signature' of a person with a lot of posts..
-	x = x.rstrip('-m')
+#	x = x.rstrip('\-m')
 	x = x.rstrip("'")
 	x = x.rstrip(' ')
 	x = x.rstrip('\u00a0') # removes trailing non-breaking spaces (the fishy)
@@ -167,7 +167,7 @@ processed_data = processed_data.sample(frac=1).reset_index(drop=True)
 
 
 #write to csv
-outfile = "../../data/processed/wordgame_201706.csv"
+outfile = "../../data/processed/wordgame_20170628.csv"
 print("Writing data to " + str(outfile) + "...")
 processed_data.to_csv(outfile, sep=',', index=False)	
 
