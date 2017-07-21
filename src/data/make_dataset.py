@@ -9,22 +9,20 @@ This script parses all scraped data into a clean dataset
 import json
 import pandas as pd
 import numpy as np
-import matplotlib as plt
 import re
-#from pprint import pprint
 
 sources = { #sources in alphabetical order 
-	"aspiecentral":"../../data/raw/aspiecentral.jl",
-	"atu2":"../../data/raw/atu2.jl",
-	"classic_comics":"../../data/raw/classic_comics.jl",
-	"bleeping_computer":"../../data/raw/bleeping_computer.jl",
-	"ecig":"../../data/raw/ecig.jl",
-	"gog":"../../data/raw/gog.jl",
-	"learn_english":"../../data/raw/learn-english.jl",
-#	"pinkbike":"../../data/raw/pinkbike.jl", # extremely messy data! (e.g. mainly posts about boobs, sex, insults etc.)
-	"sas":"../../data/raw/sas.jl",
-	"the_fishy":"../../data/raw/the_fishy.jl",
-	"wrongplanet":"../../data/raw/wrongplanet.jl"
+	"AC":"../../data/raw/aspiecentral.jl",
+	"U2":"../../data/raw/atu2.jl",
+	"CC":"../../data/raw/classic_comics.jl",
+	"BC":"../../data/raw/bleeping_computer.jl",
+	"ECF":"../../data/raw/ecig.jl",
+	"GOG":"../../data/raw/gog.jl",
+	"LEF":"../../data/raw/learn-english.jl",
+#	"pinkbike":"../../data/raw/pinkbike.jl", # useless for serious purposes
+	"SAS":"../../data/raw/sas.jl",
+	"TF":"../../data/raw/the_fishy.jl",
+	"WP":"../../data/raw/wrongplanet.jl"
 }
 
 def preprocess(x):
@@ -81,7 +79,6 @@ def preprocess(x):
 	return x
 
 nans = []
-pps = [] #post/source
 
 def toAscii(s):
 	return bytes(s, 'utf-8').decode('ascii','ignore')
@@ -100,7 +97,7 @@ def parse(source_name, file):
 
 	# add source name
 	interm_data["source"] = source_name	
-	
+		
 	#convert usernames to IDs
 	interm_data['author'] = interm_data['author'].astype('category')
 	interm_data['author'] = interm_data['author'].cat.codes	
@@ -110,26 +107,24 @@ def parse(source_name, file):
 	
 	
 	#if each post is scraped as a list of words
-	if((source_name != "bleeping_computer") and (source_name != "classic_comics") and (source_name != "sas")):
+	if((source_name != "BC") and (source_name != "CC") and (source_name != "SAS")):
 		#converts lists ['word'] to string 'word'  
 		interm_data['word'] = interm_data['word'].apply(lambda x: ', '.join(x))
 
-
+	# delete all words containing non-ascii characters
 	interm_data['word'] = interm_data['word'].apply(lambda x: toAscii(x))
 
 	# clean data
 	interm_data['word'] = interm_data['word'].apply(lambda x: preprocess(x))	
 
 	#convert all to lowercase
-	#interm_data['word'] = interm_data['word'].apply(lambda x: x.lower())
+	interm_data['word'] = interm_data['word'].apply(lambda x: x.lower())
 
 	#create pair with current word and previous word
 	interm_data['word1'] = interm_data['word'].shift(1)	
 	# rename column 'word' to 'word2'
 	interm_data.rename(columns={'word' : 'word2'}, inplace=True)
-	
-#	interm_data.apply(lambda x: True if x.word1.find(x.word2) > 0 else False)
-	
+		
 	#replace all empty words or authors with NaN	
 	interm_data = interm_data.replace('',np.NaN)
 
@@ -156,18 +151,19 @@ for key, value in iter(sorted(sources.items())):
 	processed_data = processed_data.append(interm_data, ignore_index=True)
 		
 print("Finished parsing all data...")
+
+# create source IDs 
+processed_data['sourceID'] = processed_data['source'].astype('category').cat.codes
 		
 #convert author IDs (e.g. wrongplanet10) to unique integer IDs
 print("Creating anonymous user IDs...")
-processed_data['author'] = processed_data['author'].astype('category')
-processed_data['author'] = processed_data['author'].cat.codes		
+processed_data['author'] = processed_data['author'].astype('category').cat.codes
 
 #shuffle all rows
 processed_data = processed_data.sample(frac=1).reset_index(drop=True)
 
-
 #write to csv
-outfile = "../../data/processed/wordgame_20170628.csv"
+outfile = "../../data/processed/wordgame_20170721.csv"
 print("Writing data to " + str(outfile) + "...")
 processed_data.to_csv(outfile, sep=',', index=False)	
 
