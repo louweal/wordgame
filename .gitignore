@@ -1,4 +1,6 @@
 *.ods
 *.bin
 .hdf5
-*/.ipynb_checkpoints/*
+/notebooks/.ipynb_checkpoints/
+/notebooks/old_notebooks/
+
